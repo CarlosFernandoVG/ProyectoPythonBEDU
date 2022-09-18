@@ -1,0 +1,1218 @@
+Job_title,Company,State,City,Min_Salary,Max_Salary,unitText,SalaryCurrency,Job_Desc,Industry,Rating,Date_Posted,Valid_until,Job_Type
+Senior Google Analytics Engineer (Contract),Bounteous,,,-1,-1,,CAD,"The team is looking for a Senior Google Analytics Engineer who understands the digital analytics space and has the ability to build and customize analytics and tag manager implementations. The ideal candidate can successfully deploy and maintain data collection across many different types of sites and mobile apps for our clients, and be one of our analytics implementation experts.
+Role and Responsibilities
+Develop domain expertise in client’s business space to drive results
+Demonstrate a grasp of the fundamental importance of clean data to empower successful digital marketing initiatives, in support of larger business objectives
+Implement Google Analytics through Google Tag Manager, configuring and customizing the tools appropriately
+Identify gaps in existing implementations and recommend solutions to enhance data collection, promote scalability, and drive best practices
+Seek opportunities to clarify what solution is needed (not just what was requested), and develop and propose alternative technical approaches where appropriate
+Articulate complex ideas in a clear and concise manner, both in speech and writing; understand the audience and tailor messages accordingly
+Exemplify good technical skills, stay up-to-date with industry changes, and share expertise freely; mentor junior team members
+Adapt to a fast-paced work environment and have the ability to overcome technical and business challenges
+Demonstrate high intellectual bandwidth, as well an ability to prioritize and work on the right things at the right time
+Volunteer suggestions for team improvement with regard to developing technical expertise, and help drive these efforts
+Actively contribute to the greater community by participating in meet-ups, conferences, blogs, open forums, or open source initiatives
+Preferred Qualifications
+College degree (required) plus at least 4 years of relevant work experience in marketing, consulting, and/or media
+Experienced with Google Analytics and has implemented, configured, and customized the tool
+Has deployed Google Analytics through Google Tag Manager
+Has focused in one or more of the following areas: digital analytics, optimization, statistical modeling, consumer insights, and/or marketing analytics
+Experience integrating Google Analytics with other Google products (such as BigQuery, DV360, or Google Optimize) and 3rd party tools (such as Salesforce, Eloqua, Optimizely, etc.)
+Understand how to read and interpret reports
+Experience writing JavaScript
+Experience using browser developer tools and extensions for debugging and validating analytics tracking
+Experience with mobile app tracking, experience with Firebase is a plus
+#LI-Remote
+We invite you to subscribe to our monthly and quarterly newsletters to stay up to date with the latest job openings as well as resources and tips for job seekers here.
+Research shows that women and other underrepresented groups apply only if they meet 100% of the criteria of a job posting. If you have passion and intelligence, and possess a technical knack (even if you’re missing some of the above), we encourage you to apply.
+Bounteous is focused on promoting an inclusive environment and is proud to be an equal opportunity employer. We celebrate the different viewpoints and experiences our diverse group of team members bring to Bounteous. Bounteous does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, national origin, veteran status, or any other status protected under federal, state, or local law.
+
+Bounteous is willing to sponsor eligible candidates for employment visas.
+For employment opportunities based in Canada:
+Bounteous is an equal opportunity employer. We embrace diversity and are committed to creating an inclusive workplace. In accordance with the Ontario Human Rights Code and Accessibility for Ontarians with Disabilities Act, 2005, accommodation will be provided at any point throughout the hiring process, provided the candidate makes their accommodation needs known to Bounteous. We welcome applications from all qualified candidates.
+**Must be legally eligible to work in Canada.",Tecnologías de la información,,2022-09-12T00:00:00,2022-10-16,OTHER
+Analytics Engineer,Tucows,Ontario,Toronto,-1,-1,,CAD,"Tucows (NASDAQ:TCX, TSX:TC) is possibly the biggest Internet company you've never heard of. We started as a simple shareware site in 1993 and have grown into a stable of businesses; mobile, internet and domains.
+
+We embrace a people-first philosophy that is rooted in respect, trust, and flexibility. We believe that whatever works for our employees is what works best for us. It's also why the majority of our roles are remote-first, meaning you can work from anywhere you can connect to the internet!
+
+Today, close to a thousand people work in over 16 countries to help us make the Internet better. If this sounds exciting to you, join the herd!
+
+This is a completely remote opportunity within Canada and USA.
+
+Tucows is looking to add an Analytics Engineer to our data engineering team which is part of the wider Analytics, Insights and Reporting (AIR) team. Together, we're responsible for all of the reporting, analytics, data flows, visualization, and related business intelligence operations within our quickly growing company. We've got a lot of data, and we're looking for someone to help us get the most out of it.
+
+You and the data analysts will work with business, product, and engineering stakeholders to understand their needs and priorities, as well as to collaborate and ensure that their reporting requirements are captured in the development process. You'll then work with data engineers to build data pipelines, acquiring data from source systems and moving it through our data hierarchy, from messy and raw to clean, aggregated and documented. You'll train analysts and business stakeholders on how to use the data sets you create.
+
+Responsibilities include but are not limited to:
+
+Use DBT to deliver and maintain clean, transformed data models ready for analytics
+Understand business needs and technical requirements to meet those needs
+Troubleshoot variances in reports, and strive to eliminate them at the source
+Document your data models and provide training as needed
+Incorporate engineering best practices on version control, testing, CI/CD
+
+Key Skills and Experience:
+
+Solid experience with DBT for data transformation, testing and maintainable lineage
+Top-notch communication (verbal and written) and interpersonal skills
+Excellent problem solving skills
+3+ years experience handling, manipulating, and documenting data
+Strong expertise in SQL, data warehouse design and data lake architectures
+Basic python programming
+Familiarity with linux commands and version control tools
+
+Nice to Have:
+
+Experience with Airflow
+Experience with Docker
+Experience with Looker
+
+Education:
+
+Post-secondary education in a technical field, or B.S./M.S.
+
+Want to know more about what we stand for? At Tucows we care about protecting the open Internet, narrowing the digital divide, and supporting fairness and equality.
+
+We also know that diversity drives innovation. We are committed to inclusion across race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status or disability status. We celebrate multiple approaches and diverse points of view.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.
+
+Learn more about Tucows, our culture and employee benefits on our site here.",Tecnologías de la información,,2022-08-28T00:00:00,2022-10-16,OTHER
+"Senior Business Intelligence Engineer, AWS People Experience and Technology (PXT)","Amazon Web Services Canada, In",,,-1,-1,,CAD,"Bachelor’s Degree in Statistics, Information Systems, Data Analytics, or related technical/engineering field
+5+ Years of experience working with data in an analytical sense
+5+ Years of SQL experience
+5+ Years of data visualization building experience
+Excellent writing and communication skills
+
+Job summary
+The AWS People Experience and Technology (PXT) team is looking for a Senior Business Intelligence Engineer who will help reshape how the business thinks about its people metrics holistically. You will come in and establish relationships across the business and HR to pinpoint specific metrics and insights that are actionable and provide business impact, and then build self-service dashboards and tools to put the right data and insights into the hands of HR and business leaders at the right time.
+
+Key job responsibilities
+
+Work backwards from the key AWS business problems to build data visualizations of people metrics
+Partner with product managers to design the ideal user experience from question to data discovery to insight to action. Help us move from merely reporting the news to automating the action plan
+Eliminate the need for data pull requests by developing datasets, dashboards and reports using AWS technology
+A day in the life
+Are you someone who likes to work at the intersection of business and tech? Are you the type to roll up your sleeves and dive headfirst into data? Do you like challenging the status quo and breaking convention? If so, come join the AWS People Experience and Technology (PXT) team
+
+
+About the team
+AWS is powered by our people, and the AWS Human Resources team takes the lead in identifying, hiring, and supporting the industry’s best workforce. Our ongoing innovation across verticals and geographies is driving unprecedented growth, so we’re seeking best-in-class Human Resources and Talent Acquisition professionals to accelerate the development and sustainability of our organization.
+
+As competition for best-in-field talent intensifies, the AWS Human Resources team plays an essential role in continually raising the bar for our workforce. Whatever your specialty, the common thread across every role on the team is an innovative mindset and a commitment to creating a positive employee experience. Join our team and help us achieve our mission to become Earth’s Best Employer.
+
+Master’s Degree in technical or engineering field
+Expert-level knowledge of SQL
+Working knowledge of AWS tech stack. Glue, Redshift, S3, Quicksight, and Sagemaker will be used regularly in this role
+Experience as a leader/mentor of data analytics resources
+Experience influencing business leaders and executives to think differently
+Experience working directly with business owners to field requirements and interpret results
+Experience testing causal arguments against historical datasets
+Experience documenting technical/data systems for technical and business leaders
+Amazon s’engage à créer un milieu de travail diversifié et inclusif. Amazon est un employeur qui offre à tous les mêmes opportunités et ne fait pas de discrimination fondée sur la race, l’origine nationale, le sexe, l’identité sexuelle, l’orientation sexuelle, le statut d’ancien combattant protégé, le handicap, l’âge ou autres statuts protégés par la loi. Les personnes handicapées qui souhaitent présenter une demande d’accommodement, sont invitées à aviser leur recruteur.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-09-11T00:00:00,2022-10-16,FULL_TIME
+Analytics Engineer,Align,,,-1,-1,,CAD,"Our client is looking to hire an engineering-minded analyst to join its analytics team.
+You will help us grow our burgeoning data stack into a robust and scalable single source of truth for teams across the company. You would serve as one of the early members of the analytics team, and be involved in influencing the direction of our analytics platform. This is a key role, in which you’ll have a direct impact on our performance marketing, game monetization and live-ops, with the clear focus of empowering both our marketing and game teams to make data-driven decisions and ensure their long-term success.
+Yyou’ll have the opportunity to work within a fun and flexible environment and contribute code and ideas to a diverse set of highly rated games downloaded by millions of players.
+About the Job
+Our client is a fast-growing and remote-first (since 2012) company, so you'll get experience on many different projects to support our stakeholders. Here are some areas where our team would look for your guidance:
+Lead data quality by identifying potentially problematic data, and designing data tests to guarantee the quality of data model results.
+Create and maintain dbt models to support reporting and diverse data operations.
+Drive proactive and actionable analyses into high-potential insights across game design, monetization, live-ops and marketing strategies.
+Design, develop and maintain high value dashboards and analytic tools that ensure all teams have insight to data and can answer their own first-order questions.
+Tools you’ll use include AWS Redshift, SQL, Amplitude, dbt, Redash, Superset, and Python or R. We strive to build our data stack based on leading-edge open-source tools and pipelines.
+About You
+You are a skilled communicator. We are a 100% remote team and writing is our primary means of communication. You can explain your findings clearly and in an approachable way to a non-technical audience.
+You have hands-on experience, preferably in the game or ad tech industry, surfacing valuable insights from large datasets based on loosely defined problems.
+You are a team player but also self-driven. You’re excited by helping the team develop self-serve tools. We believe in empowering our stakeholders to explore data, with the analytics team guidance.
+You’re technically proficient with relevant analytics tools, including python or R, SQL. Experience with dbt is a strong plus.
+You have deep expertise in designing quantitative analyses and presenting the results visually.
+You have a strong bias towards quickly delivering and iterating instead of waiting for perfection",ONG y Organizaciones sin fines de lucro,,2022-09-13T00:00:00,2022-10-16,FULL_TIME
+"Senior Manager, Analytics Implementation & Engineering",Staples Canada,Ontario,Richmond Hill,-1,-1,,CAD,": 1217791
+Who we are
+As the Working and Learning Company, we at Staples Canada, are dynamic, inspiring partners to our customers and the communities in which we live. At Staples, we inspire people to work smarter, learn more and grow every day. We look for people who are curious, approachable, and passionate, and who enjoy finding solutions.
+If that’s you, let’s work, learn, and grow together.
+We are building an inclusive and diverse team
+Staples Canada is creating an inclusive and diverse work environment. We welcome, value and thrive on perspectives and contributions from backgrounds that vary by race, gender, sexual orientation, gender identity or expression, lifestyle, age, educational background, national origin, religion or physical ability. If you have a disability or special need that requires accommodation, please let us know.
+Some of what you will do
+You will drive analytical leadership within the company and enable data-based decision making to help Staples Canada become a leading data-driven organization. You will lead the development and operations of our cloud-based data platform tools being used by analysts, data scientists and data consumers across the company. Our multi-tenant cloud platforms power our analytics and ML/AI capabilities and we’re looking for an active hands-on contributor to play a central role, helping the team build and manage data pipelines, lead the platform strategy, and stand-up our MLOPS practice. Additionally, you will be responsible for web analytics implementation and enhancements to our CDP to empower our businesses with valuable insights that help them make better, more informed decisions. We believe strongly in automation over manual processes and bias towards action. The candidate will collaborate with a highly talented team of data engineers, data scientists, data architects, data analysts, and cloud engineers, and have the ability to demonstrate their strong depth of knowledge related to big data engineering and cloud-based architecture. All while working closely with partners to ingest, store, analyze/process data to deliver business value to the organization. You represent an ideal role for a highly motivated and highly analytical individual. We are a highly collaborative, agile work environment, so the ideal candidate would demonstrate excellent interpersonal skills and excellent technical depth. The successful candidate will be passionate about data and have a strong foundation of data management concepts and engineering methodologies, with a passion for new ideas.
+Specifically, You Will
+
+Own and lead the web analytics measurement strategy across all digital properties; partner with Product and Engineering teams to design and implement tracking, perform site-wide audits of existing implementation, working to align and build standardized views across all digital properties
+Responsible for ongoing development of our cloud analytics platform, including maintaining the ETL / ELT processes from a wide variety of data sources and enhancements to the semantic layers
+Manage and continuously enhance the large, complex data sets to ensure they meet functional / non-functional business requirements
+Create and maintain optimal data pipeline architecture while supporting a holistic monitoring strategy to ensure data quality and validity that encompasses cloud platforms and integrations across third-party sources
+Manage Cloud/Data Engineers focused on developing and stabilizing a best-in-class analytics platform
+Own, conceptualize and implement new processes to allow business teams to fully leverage our CDP, contributing directly to enhancing and activating on our Unified View of the Customer
+Work in a team to maintain and optimize machine learning models
+Partner with Product and Marketing teams to help formulate the long-term roadmap and enablement of MarTech
+Act as a steward for standards around data model, data dictionary and implementation of business rules and definitions
+Ensure a world class tool set and data environment is available to the organization and that users enabled to use this data in their day-to-day roles.
+Engage broadly within the Staples Canada organization to communicate wins and to identify potential opportunities to consider
+Some of what you need
+BS / BA, preferably in Mathematics or Computer sciences or any other quantitative discipline
+5-7 years in a highly analytical, results-driven environment
+3+ years of experience specifically in retail data management and analytics
+Demonstrated experience with managing Cloud analytics platforms and CDPs
+Proven experience in digital analytics tools such as Google Analytics or Adobe Analytics
+Hands on experience implementing digital marketing, analytics and other tags through Tag Management Systems
+Previous experience with using Customer Data Platforms (CDP) such as Segment, focusing on designing and capturing event-driven data layer, cross-system data integration and development
+Experience in Data Modeling, ETL Development, Data Warehousing and Data Storage, along with coding and automating processes using Python
+Hands-on experiences with Google Cloud Platform or other cloud-based data platforms
+Proficiency in SQL and Python
+Experience with Looker, PowerBI, or any Business Intelligence tools an asset
+Exceptional oral and written communication skills; ability to communicate to the senior executive level and identify the strategic opportunities and roadmap
+Ability to prioritize projects and manage multiple priorities across the team effectively; Collaborate with internal and external technical & business teams
+
+Additional information
+Hybrid work environment
+
+Vaccine Requirement
+
+Staples is committed to taking every reasonable precaution to protect our associates, our customers, and the communities we operate in. To support the health and safety of our associates, COVID-19 vaccination is an essential requirement of this position. As such, all offers of employment will be conditional upon either (i) proof of full COVID-19 vaccination or (ii) proof of need for accommodation under relevant human rights legislation, and Staples’s determination that the requested accommodation can be provided without undue hardship. You will be required to submit proof of full vaccination or proof of need for accommodation during our background screening process.
+
+Job eCommerce
+Location(s) CA-ON-Richmond Hill
+Schedule Full-time
+:
+:
+:
+
+Employment Statement
+Staples Canada is an equal opportunity employer committed to diversity and inclusion and we encourage applications from all qualified candidates, including those with disabilities.",Ventas al mayoreo y al menudeo,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+Optical Algorithm & Analytics Engineer (Junior-Intermediate),Lumentum Operations LLC,Ontario,Ottawa,-1,-1,,CAD,"It's fun to work in a company where people truly BELIEVE in what they're doing!
+We're committed to bringing passion and customer focus to the business.
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+Lumentum Canada was awarded the 2022 National Capital Region’s Top Employers for the 6th consecutive year and the 2022 Career Directory Canada’s Best Employers for Recent Graduates for the 5th consecutive year.
+Do you have a thirst for data and enjoy using that data to guide your decision making?
+Do you like solving puzzles and complex problems?
+Do you have a passion for physics, math, engineering and programming?
+Do you see the world as one big optimization opportunity?
+Then we have the job for you!
+We currently have an opening for a Optical Algorithm & Analytics Engineer.
+This position will join the Algorithms and Analytics team. We are a team that develop algorithms, models and methods that optimize the performance of our next generation of photonic modules. You will carry out data analysis to guide design decisions and to enhance the performance and yield of our products. You will experiment, you will code, you will measure, you will test and you will innovate.
+You will become part of an industry leading, hard-working, collaborative and inclusive team that is continually learning and working together to understand how to improve our products. Working in this team, you will work with several state-of-the-art technologies including LCoS (Liquid Crystal on Silicon), MEMS (Micro-Electro-Mechanical Systems), phase modulators, lasers and free-space optical assemblies. You will collaborate with the firmware, electrical, optical design and verification teams.
+This position does come with some optical testing and measurement requirements. Hence, you need to have a willingness and ability to run experiments in the lab during the proof of concept and development phases of a new product development.
+This is position has a hybrid workplace designation but will require a certain amount of on-site work (lab experimentation).
+In this role, you will be responsible for the following:
+Software development & test engineering
+Algorithm development
+Build and operate test and measurement set-ups for proof of concept experimentation
+Data collection, data processing, data analysis
+What experience will allow you the greatest success in this role?
+Degree in Engineering Physics, Physics, Applied Math, Mathematical-Physics, Electrical Engineering or a related field. Advanced degrees are beneficial
+Strong software development skills; experience in Python, MATLAB, C/C++, and/or .NET an asset
+An ability to communicate well both verbally and in writing
+A willingness and ability to run experiments in the lab using optical test equipment
+In the office:
+Our building has a small gym and showers that are free to use
+There is a cafeteria on site, which also provides free coffee & tea
+There is a billiards table with a convertible ping-pong table top in our LumenLounge and available for all employees;
+Plenty of free parking, if you drive; we also have EV charging stations
+#LI-MH1",Manufactura,,2022-09-08T00:00:00,2022-10-16,FULL_TIME
+Business Analyst & Process Engineer,York University,Ontario,Toronto,-1,-1,,CAD,"Purpose:
+Accountable to the Manager, Operational Excellence, the Business Analyst and Process Engineer (BAPE) is responsible for supporting the PMO in servicing the customers, clients and stakeholders of York University. The BAPE provides subject matter and execution expertise in Lean, Six Sigma (or Lean Six Sigma) and business analysis disciplines. The BAPE provides counsel to University leadership on various topics ranging from business plans, policy and processes to staff levels and their roles. The BAPE is an agent of change leveraging best practices to affect them.Exposure to, and use of, sensitive and confidential financial and HR data for process development and re-engineering activities requires that the BAPE exercise strong judgement and discretion when disclosing information to a wider audience.
+
+Education:
+University degree preferably in business, engineering or computing. Green Belt Certification or higher in Lean Six Sigma or Six Sigma.Business Analyst Training/Certification. CCBA or CBAP certification an asset.Proficient in the use MS Project, MS Visio, MS Office (Word, Excel, Power Point, Access).Change Management certification (e.g. ProSci/ADKAR methodology) an assetKnowledge of collaborative systems such as Confluence and Basecamp an asset.
+
+Experience:
+4+ years of progressive experience in Business Analysis and/or Process (Re-)Engineering roles with project responsibilities, and a good understanding of project management methodologies, work-flow/process design and re-engineering. cost/benefit analysis for medium, large or complex systems.Thorough knowledge of system and process analysis with demonstrated experience and expertise in requirements management, process development/re-engineering and testing skills including information gathering, problem solving, and test plan creation and execution.Proven experience in process and system analysis, documentation/validation of business requirements from business users and functional specification requirements using interviews, documented analysis, tasks and workflow analysis.Experience in the development and execution of project plans, detailed task lists (project Gantt) and time estimating.Demonstrated analytical and decision making ability.Strong written, verbal and presentation skills.Proven accuracy and attention to detail.Strong interpersonal skills and the ability to work effectively in a team environment.Good knowledge of system development lifecycle, methodologies, standards, tools and techniques. Ability to identify opportunities to use technology to add value and recognize and present opportunities for adoption of process efficiencies through automation to replace existing manual work (i.e. process re-engineering). Experience in project management and system implementation processes. Experience in a Higher Education is an asset.
+
+Skills:
+Research and Analytical skills: Superior data gathering, elicitation, analytical and problem solving skills. highly skilled in evaluation of information gathered from multiple sources (including internal and external leading practices). Ability to reconcile conflicts, decompose high-level information into details, abstract up from low-level information to a general understanding, and distinguish user requests from the underlying true needs.Problem Solving: Demonstrated ability to identify optimal solutions based on the analysis of causes.Process Re-engineering: Thorough knowledge of process development and re-engineering best practices in a business to business environment to lead, cross-functional teams to analyze, develop, re-engineer and implement business workflow processes to support business products and services.Process Mapping and Design: Ability to gather input from diverse user groups and develop current/future state process maps.Conceptual Thinking: Ability to make the complex simple or link together things not obviously related.Written communication: Strong writing skills to support business recommendations and proposals. Communicating details such as the business requirements, requested changes, issues with impact assessment and recommendations.Strong oral presentation skills: Excellent verbal communication skills and the ability to interact professionally with a diverse group, executives, managers, and subject matter experts. Ability to clearly convey complex concepts and constructs in a straightforward manner.Results oriented: Demonstrated initiative. delivers results. continuously improves. displays a dynamic approach, energy and enthusiasm. Flexible: Adaptable to different circumstances. receptive to change. willing to learn. takes on additional responsibility as required. able to change priorities. Effective planning and organizational skills with the ability to adapt to change and perform effectively under pressure.Judgment: Considers context. weighs options. understands priorities, consequences. makes appropriate decisions. Conscious of audience and disclosing of confidential information when discussing process re-engineering and introduction of technological change and automation that will impact staff and work assignments.Creativity: Ability to present new ideas. looks at things in a new way and shares ideas. novel approach to existing processes or problems. Initiative: Self-starter: perceives a need and fulfills it in a relevant way. Set high personal performance standards with a demonstrated ability to plan, organize and implement activity with little to no direct supervision.Manages change: Plans for and is proactive about change. encourages new approaches. Ability to work effectively in an environment of conflicting priorities, shifting management structures, scope changes and to adjust priorities as required. Tact and diplomacy: Ability to work within a complex organizational framework. comfortable tabling difficult conversations to further positive outcomes, including recommending changes in business methods and processes that will impact staffing levels and resource allocation.
+
+Additional Notes:
+This position requires the candidate to produce a verification of degree(s), credentials(s), or equivalencies from accredited institutions and/or international equivalents at the time of interview.
+Compensation:
+York implemented a revised CPM Compensation Framework in 2019. The Framework is a salary grid consisting of 6 or 8 steps (depending on job grade) which is reviewed annually with possible adjustments, and a lump sum Performance Based Recognition Award. Employees will receive the grid adjustment and depending on performance, eligible permanent employees may move to the next step of the grid and may receive a lump sum Performance Based Recognition Award.Visit the CPM Compensation page on the HR Website to find out more about York's CPM Compensation Program.
+
+
+The University welcomes applications from all qualified individuals, including, but not limited to women, persons with disabilities, visible minorities (racialized), Indigenous Peoples and persons of any gender identity and sexual orientation. York University is committed to a positive, supportive and inclusive environment.
+
+
+York University offers accommodation for applicants with disabilities in its recruitment processes. If you are contacted by York University regarding a job opportunity or testing, please advise if you require accommodation.
+
+
+We are committed to enhancing our environmentally and socially responsible practices for the benefit of all members of the York community. Our long term perspective recognizes our responsibility to be innovators and to continually work as a community to reduce our ecological impact.
+
+
+York University employees must apply to jobs through the Employee Career Portal - YU Hire. If you are a current York University employee and/or are using your rights under a collective agreement to view and/or apply to jobs, you MUST log into YU Hire to access the York University Employee Career Portal.
+
+
+PLEASE NOTE: Applications must be received by 11:55 pm EST on the posted deadline date, if applicable.",Educación,,2022-08-24T00:00:00,2022-10-16,OTHER
+Analytics Engineer,Napkyn Analytics,,,-1,-1,,CAD,"Location: Remote – USA or Canada
+Position: Full time
+
+The Company
+Napkyn Analytics is a digital analytics consultancy that works with some of the top brands on the web – to collect, integrate and analyze data to support executives making critical business decisions. We are the secret weapon that enables the data-driven executive and enterprise. The work we do for our customers translates into decisions that result in intentional business outcomes and value.
+As an 11-year-old company we have grown – three consecutive years on the Profit 500 – through retention and referrals from delivering consistently great work, and a deep strategic partnership as a global Premier Google Marketing Platform Solution Partner . Our industry reputation and visibility are much greater than you would expect from a team of 20.
+Napkyn is embarking on the next stage of growth. Combining our expertise, reputation and increasing market need for data analytics to expand the team and services we offer. To support this next stage of growth we are making an investment in our Customer & Partner Success team to facilitate that growth.
+The Role
+Napkyn Analytics is looking for an experienced developer with analytics experience to work directly with our enterprise and scale-up customers. Priority given to candidates with knowledge of the Google Marketing Platform.
+As part of the Customer & Partner Success team, you will provide guidance and support for deploying world-class implementations of web measurement tools for our customers. Additionally you will perform site-wide audits of existing analytics implementations and align with business requirements as part of a cross-functional team. You will assist in improving the usability and overall effectiveness of our clients’ web analytics tool deployments. You will be able to create test cases and QA complex work.
+
+We are looking for a strong and inquisitive developer that enjoys using their skills to deliver solutions to help our clients in their analytics journey. This role is less about hands-on development and more about supporting our clients with strong written and presentation skills, business acumen, an inherent curiosity and desire to know the truth, and strong time management skills. What makes you competitive is your ability to communicate your technical expertise, including an understanding of analytics implementation and tag management solutions like Google Tag Manager.
+The Details
+RESPONSIBILITIES
+Actively participate in an account service role
+Stay up to date with industry trends (tooling and strategic)
+Perform client-facing tasks such as presenting insights or providing training
+Work with internal and external teams to identify areas of opportunity to grow, increase profitability, and optimize program effectiveness
+Collaborate with a cross-functional team to foster data-driven strategy and execution
+Deploy web measurement tools such as Google Analytics
+Provide support on analytics and implementation for Napkyn analysts with root-cause analysis of issues and interruptions in measurement for our clients
+Provide recommendations on adoption of new tools and features as appropriate to client needs
+Serve as a resource for the latest trends and technologies within the web analytics space
+Assist in improving the usability, efficiency, and overall effectiveness of our clients’ web analytics tooling deployments
+Assist in evaluating the size and scope of customer problems as well as helping to determine a successful resolution
+Lead the team with site-wide audits of existing analytics implementations against web measurement best practices and create implementation recommendations for improvement
+Develop web measurement best practices and on-site technology requirements to generate high quality, easily-understood implementation guides for on-site deployments of Google Analytics
+Engage business and technical team stakeholders for feedback and validation
+Actively focus on the future-proofing, scalability, and ease of maintenance in all solutions
+Provide recommendations on adoption of new tools and features as appropriate to the client’s needs
+REQUIRED SKILLS AND EXPERIENCE:
+Familiarity with deploying and testing analytics tools in mobile apps for iOS and Android devices, especially using the Firebase SDK
+Experience with development environments, tools and processes for building iOS or Android apps, including Xcode and Android Studio.
+Experience with Swift, Objective-C, Kotlin or Java programming languages in the context of mobile applications
+Proficient in reading and writing JavaScript, know how to leverage that knowledge to enhance analytics deployments
+Experience with tagging technologies such as Google Tag Manager, Tealium, Ensighten
+Quality Assurance
+Ability to connect with developers in other organizations
+PREFERRED SKILLS:
+Google Analytics certification
+Server-side implementation, enhanced e-commerce implementation for Google Analytics
+Previous experience with direct site deployments of Google Analytics via gtag.js or analytics.js tracking libraries an asset
+Comfort with or interest in presenting and speaking in front of groups
+Ability to prioritize projects and handle multiple tasks efficiently
+Collaborate with internal and external technical teams
+Work independently and learn technical information quickly
+Meticulous attention to detail and accuracy
+App development experience, or analytics experience with app development
+Strong critical thinking and problem-solving skills with an attention to detail
+Team player, supportive of a collaborative team environment and culture
+
+Napkyn Analytics welcomes and encourages applications from people with disabilities. Accommodations are available upon request for applicants in all aspects of the selection process.",,,2022-08-30T00:00:00,2022-10-16,FULL_TIME
+Senior Analytics Engineer,RVezy,Ontario,Ottawa,-1,-1,,CAD,"Senior Analytics Engineer
+About RVezy
+
+RVezy is an innovative travel experience company that brings aspiring vacationers and RV owners together. Founded in 2016, we provide a platform for RV rentals available across most of Canada and the United States.
+RVezy serves thousands of renters and owners across North America, and you will be helping ensure they have a safe, secure, and enjoyable experience throughout each RV rental. We have a tight-knit team that has meaningful relationships with one another. Check out our reviews on Glassdoor and Indeed.
+We have grown exponentially, and our three-year revenue increased 2768% (2018-2021), as mentioned in the Globe and Mail’s: Canada's Top Growing Companies 2021.
+Want to see more? Check us out online.
+
+Dragons’ Den — http://www.cbc.ca/dragonsden/pitches/rvezy
+
+On TV — https://youtu.be/WFbmhxU1ScM
+
+Instagram — @lifeatrvezy
+
+LinkedIn — https://www.linkedin.com/company/rvezy.com/
+
+Website — https://www.rvezy.com
+
+iOS app — https://apps.apple.com/ca/app/rvezy-rv-trailer-rental/id1419681521
+
+Android app — https://play.google.com/store/apps/details?id=com.rvezy&hl=en_CA&gl=US
+About the role
+
+The Data Team at RVezy works with many teams to get the most out of their data. As an analytics engineer, you will work with analysts to build data models the right way and serve as a thought leader around data governance best practices and our data infrastructure. RVezy is looking for a talented individual to join the team to build and maintain foundational data infrastructure essential to gaining insights.
+Your daily impact
+
+This role will be instrumental in shaping the team’s technical direction and growth. There is a significant opportunity for growth for the right candidate.
+
+Build and maintain internal and external ELT & ETL pipelines
+Architect and develop performant, accurate, intuitive, timely, intuitive, and scalable data models using DBT and Tableau using DRY (don’t repeat yourself) principles.
+Understand the business context and support analysts/business partners in creating and standardizing source-of-truth Tableau Reports and Dashboards.
+Document work, prioritize data governance, and evangelize best practices.
+Act as a champion for self-service analytics across the organization by working to enable individuals to leverage our data models, reports, and tools.
+Collaborate with engineers, product managers, and data scientists to understand how data is generated and used to make decisions.
+
+
+At RVezy, we’ve invested significantly in a modern data tech stack (BigQuery, Fivetran/Stitch, Prefect, Segment, Tableau, Metabase, Indicative) and a world-class data function. If you’re excited about using the best technology out there to make the biggest impact, while being part of a growing team that values collaboration, proactivity, disciplined decision making, and knowledge sharing, we want to hear from you.
+Who you are:
+
+3-5 years of experience in an analytics engineer, data engineering, business intelligence, or technical data analytics role supporting an ecommerce business or marketplace.
+Expertise in SQL and data modeling, especially using cloud-based data warehouses like BigQuery, as well as version control software (git). Plus: Knowledge of GCP data ecosystem and data ingestion tools (E.g. Fivetran/Stitch). Existing experience with DBT is highly desirable.
+Excellent interpersonal skills, particularly when explaining technical or complex matters to less technical co-workers.
+Ability to leverage tools, business intuition, and attention to detail when developing models and in data validation and QA.
+Experience designing and implementing transformations on top of transactional, event, and SAAS data sources to produce simple to understand data models usable by analysts and business users.
+Bonus points:
+
+Light development experience with Python, Javascript, and/or C# for dealing with more complex data transformation, ingestion, generation (internal or external).
+
+
+RVezy perks
+
+RVezy stock options (we believe every colleague should be an owner).
+Fifteen paid vacation days with extra time off over the winter holidays.
+Health and dental benefits from day one.
+One paid weeklong RV rental trip every year.
+Opportunities to attend festivals, concerts, and RV shows across Canada and the U.S.
+Employee recognition platform to reward employees’ hard work.
+Frequent social events and a steady supply of coffee and snacks in the office.
+Dog-friendly work environment in the Ottawa office.
+Flexible work hours and a relaxed dress code.
+Company laptop and equipment provided.
+Paid sick days.",Servicios personales al consumidor,,2022-09-05T00:00:00,2022-10-16,FULL_TIME
+Analytics Implementation Engineer,Lululemon,,,-1,-1,,CAD,"who we are
+
+lululemon is an innovative performance apparel company for yoga, running, training, and other athletic pursuits. Setting the bar in technical fabrics and functional design, we create transformational products and experiences that support people in moving, growing, connecting, and being well. We owe our success to our innovative product, emphasis on stores, commitment to our people, and the incredible connections we make in every community we're in. As a company, we focus on creating positive change to build a healthier, thriving future. In particular, that includes creating an equitable, inclusive and growth-focused environment for our people.
+
+about this team
+
+The Digital Analytics + Optimization team is responsible for Data Collection, Digital Analytics, A/B Testing and Personalization on lululemon digital properties.
+
+The Manager, Product Management provides coaching and mentorship to product managers and the team, high-level direction, guidance and prioritization on the Data Collection and Protection team roadmap.
+
+a day in the life: what you’ll do
+
+
+Work with agile development teams to ensure tracking of feature builds following business objectives
+Develop processes and documentation for data collection and QA
+Work with engineering and legal teams to ensure our properties are compliant with legislations such as CCPA and GDPR
+Support an ongoing roadmap of analytics improvements
+Partner with quality assurance to ensure data collection integrity
+Implement tagging across a variety of digital properties to ensure proper data collection
+Maintain data collection implementation
+Maintain and build data collection across digital properties leveraging the lululemon Analytics Module, data layers, data attributes and other CSS selectors
+Enable and support A/B testing and optimization
+Work with the digital marketing team to ensure end-to-end tracking of campaigns
+Advise on processes and documentation for A/B Tests and reporting
+Technical advise on team processes, tools and roadmap
+
+Qualifications
+
+
+In-depth knowledge of analytics implementations for web
+Knowledge of Adobe Analytics and Adobe Launch (or similar tagging system)
+Passion for building, keeping and evangelizing best-practices for data collection
+Ability to work collaboratively with cross-functional partners such as product managers, business analysts, developers and marketers
+Front-end development skills: JavaScript, HTML, CSS
+Problem-solving skills: using tools such as Charles Proxy, ObservePoint and developer console to diagnose and solve issues
+Ability to independently deliver analytics projects with a high degree of accuracy and attention to detail
+Ability to work collaboratively with cross-functional partners such as product managers, business analysts, developers and marketers.
+
+must haves
+
+
+Acknowledge the presence of choice in every moment and take personal responsibility for your life.
+Possess an entrepreneurial spirit and continuously innovate to achieve great results.
+Communicate with honesty and kindness and create the space for others to do the same.
+Lead with courage, knowing the possibility of greatness is bigger than the fear of failure.
+Foster connection by putting people first and building trusting relationships.
+Integrate fun and joy as a way of being and working, aka doesn’t take yourself too seriously.
+
+#LI-SE1",Ventas al mayoreo y al menudeo,,2022-09-01T00:00:00,2022-10-16,OTHER
+Asset Investment Analyst,Toronto Hydro,Ontario,Toronto,-1,-1,,CAD,"WORK ILLUSTRATION:
+
+Reporting to the Manager, Engineering, the Asset Investment Analyst (Data Analyst) will provide a wide range of engineering support services that will ensure technical soundness, reliability, safety and cost effectiveness of the utility and its Electrical Distribution Power System. The Asset Investment Analyst will support a number of initiatives in relation to data governance, analytics used to address various engineering initiatives, as well as the strategy to continue to evolve analytical capabilities within the division.
+
+The incumbent is expected to behave ethically and follow the established code of business conduct, policies and internal control procedures, laws and regulations governing Toronto Hydro.
+
+Toronto Hydro has implemented a mandatory vaccination requirement for all its employees. Proof of full vaccination will be required upon receiving a conditional offer of employment. Toronto Hydro will provide reasonable accommodation to individuals who cannot be vaccinated due to disability or any other ground protected by the Ontario Human Rights Code.
+
+KEY RESPONSIBILITIES:
+
+Supports Asset Management analytics across Engineering
+Works on standardizing data usage and analytics across Engineering
+Maintains the engineering data dictionary and entity relationship diagrams
+Participates in the strategic development of the analytics portfolio within the division and drives implementation activities
+Communicates with a wide range of cross-departmental stakeholders to advance the role of analytics in day to day activities
+Works with stakeholders to identify and provide access to data sources via the Engineering Data Warehouse for various analytics initiatives
+Supports the development of descriptive, predictive and prescriptive models to enhance AM decision making and analytics
+Works with stakeholders to develop, deploy and enhance existing models to support AM decision making and analytics
+Evaluates use cases for applicability for advanced analytical implementation (i.e. Machine Learning applications)
+Collaborates with stakeholders to support data analytics related with short and long-range planning processes
+Prepares engineering, technical or business reports and studies; performs analysis, testing and evaluations
+Participates in implementing corporate goals/objectives
+
+REQUIREMENTS:
+
+Undergraduate degree in Engineering, Electrical Engineering preferred
+Four (4) - Five (5) years of analytics experience with Python/R, Alteryx, SQL and Tableau (preferably in a utility environment)
+Four (4) - Five (5) years of experience with data preparation and wrangling with SQL, Alteryx or Python is required
+1-2 years of experience with Supervised and Unsupervised Machine Learning models with demonstrated project or prior work experience is required
+Experience in Operations Research (Engineering Asset Management, Survival Analysis, Mathematical Programming/Optimization) is desired
+Experience with data analysis and data mining techniques to address and resolve gaps in data
+Fully proficient with Microsoft Excel including Data Solver and VBA
+Effective skills in project management operations, budgeting, business process and productivity improvements
+Strong verbal and written communication skills
+Knowledge/training in asset management practices is an asset
+Specific Knowledge in power systems, electrical distribution, and computer applications is an asset
+Demonstrated versatile leadership; encourage organizational teamwork, collaboration and educated risk taking to develop innovative solutions and support the corporate goal
+Self-motivated, operates with a high degree of independence and can visualize opportunities for change in support of continuous process improvement
+Aptitude and experience in adapting to, managing, and facilitating change, willing to challenge the status quo
+Strong negotiating/relationship building ability
+Proven effective problem-solving and analytical ability
+Customer focused
+Demonstrated knowledge of relevant safety and environmental legislation and regulations
+
+Toronto Hydro has introduced a Hybrid Work Arrangement. This position allows for remote work up to three days per week, based on business needs. Employees will be required to come onsite on those days when they are involved in activities that they or their leader feel are better conducted in person. You are expected to live in Ontario and within reasonable commuting distance of the office.
+
+
+Job Segment: Power Systems, Investment, Data Analyst, Data Mining, Data Warehouse, Energy, Finance, Data, Technology","Energía, minería e infraestructura pública",,2022-08-22T00:00:00,2022-10-16,OTHER
+Sr. BI Engineer,Circle K,Ontario,Toronto,-1,-1,,CAD,"JOIN OUR TEAMOur mission is simple: we make journeys easier and more enjoyable for our customers. We want to lift their spirits by delivering little boosts along the way.  We care about our people and our communities, and we look for ways to uplift people first. Wherever your journey’s going, we can help you get there. Sr. BI EngineerMaybe you’ve stopped by for a coffee, fueled up your car, or grabbed something to eat on the go. Then you know what Circle K is all about. Making everyday life easier for people all over the world. We’ve grown into a successful global company with over 15,000 stores in 26 countries, serving more than 6 million customers each day. In all, we have more than 120,000 people working at our stores and support offices.Circle K has started an exciting transformation, building up our new global IT organization to match our business needs and follow the newest trends in fast-changing technologies and markets. Our ambition is to deliver modern and efficient solutions with the use of cutting-edge technologies, and we are looking for an experienced BI Engineer to join our Data and Analytics Engineering Team responsible for managing the Circle K Data Platform in Azure.WHAT YOU’LL DO Here are just a few ways that you’ll help make journeys better:  Responsible for administering, supporting, monitoring, and tuning the Power BI reporting environmentDesign, extend and enhance Power BI data models and development of new cubesDevelop, test and deploy DAX based scripts, queries, and functions in Power BIDesign and develop Power BI dashboards and reports.Works closely with Power BI report users to tune and optimize Power BI reports and dashboards.Serves as Best Practices resource for Power BI initiatives in the organization.Conducts training and user-group sessions on Power BI.Acts as the escalation point for Power BI-related issues.WHAT YOU’LL NEED We want you to join our team! Here’s what we’re looking for:5+ years of Power BI development experience (Power BI Desktop, Service, Security)5+ overall industry experience in the area of Data Analytics & Dashboarding/ReportingMost have strong experience with SSAS/AAS tabular modelingMust have strong experience with SQLMust have strong experience with DAXMust have strong Dashboarding Experience with an understanding of User Experience principlesExperience with Azure platform including Azure SQL, Azure Synapse, Data Factory, Blob Storages & Data Lakes.WHY WORK WITH US Our store and office employment opportunities offer you quick career growth with an international company, plus a dynamic work environment that puts people first. Wherever you are in your journey, we have a place for you. Here’s some of the exciting perks we offer:Complete benefits packages (medical, dental, etc.);Possibility of enrolling in a pension plan with employer contributions or a stock purchase plan;Employee discounts in stores and with multiple of our partners;Paid time off plan including vacation, sick days and personal days;Work in a collaborative, dynamic and high performing team;Learning opportunities to develop new skills and to evolve professionally in a fast-growing company;Hybrid work.INTERESTED?Send us your resume by applying to the position on our career site: https://workwithus.circlek.com/global/en/job/R273986/Sr-BI-EngineerCouche-Tard/Circle K places great importance on diversity in the workplace and is committed to the principle of employment equity by encouraging applications from designated groups, i.e.: women, Aboriginal people, people with disabilities and visible minorities.We thank all applicants for their interest in this position; only those selected will be contacted.Job Types: Full-time, PermanentSchedule:8 hour shiftMonday to Friday",Ventas al mayoreo y al menudeo,,2022-09-12T00:00:00,2022-10-16,FULL_TIME
+"Manager Business Intelligence Engineer, NACF Central Fiance",Amazon Dev Centre Canada ULC,British Columbia,Vancouver,-1,-1,,CAD,"5+ years of relevant professional experience as a Business Intelligence Engineer, Business Analyst, Industrial Engineer, Data Analyst, or related Continues Improvement roles (including but not limited to Program Management)
+3+ years of recent Quicksight and/or Tableau or other visualization tools experience
+2+ years of experience in creating descriptive, prescriptive, and/or predictive reporting and KPI content. Strong operational business understanding that impacted the business decisions of internal/external stakeholders
+Bachelor's degree in Engineering, Operations Research, Mathematics, Statistics, Finance, Economics or other business/analytical disciplines or equivalent
+Must have Strong proficiency in advanced SQL, DML, Data Modeling, Microsoft Excel, and statistical analysis tools to perform deep dive analysis
+Strong communication and interpersonal skills to convey key insights from complex analysis and ability to effectively communicate with both technical and non-technical teams
+Self-motivated and able to own workload in a fast-paced environment to deliver results on self-driven deadlines
+Proficiency with at least one modern scripting language (e.g. Python)
+
+Job summary
+Do you want to create the next generation data systems that can handle billions of dollars in transactions? Interested to build highly scalable next generation systems that could utilize Amazon Cloud services?
+
+Massive data volume + complex business rules in a highly distributed and service oriented architecture = a world class information collection and delivery challenge. Our challenge is to deliver the software systems which accurately capture, process, and report on the huge volume of financial and operational transactions that are generated each day as millions of customers make purchases, as inventory moves in and out of warehouses, as our associates receive, pick, pack and ship to our customers worldwide
+
+Amazon’s North American Customer Fulfillment (NACF) organization fulfills customer orders throughout Canada, the United States and Mexico leveraging the hard work of thousands of our associates and our robotics technologies. As a Manager Business Intelligence Engineer with NACF Fulfillment, you will help identify opportunities and implement solutions to improve Operations and Finance facing systems and tools. You will be responsible for modeling complex/abstract problems and discovering insights through the use of statistical, data mining and visualization techniques. Further, you will help automate processes by developing deep-dive tools, UIs, metrics, and dashboards to communicate these insights in real time to the business teams. Successful members of this team collaborate effectively with internal end-users, cross-functional software development teams, and technical support/sustaining engineering teams to solve problems, and implement new solutions.
+
+The complexity of research and skills for this role is well beyond basic data entry and research. It involves complex analysis and diving deep into key metrics based on requests, building and maintaining multiple databases, knowledge of software applications to create tools, and understanding of multiple programming languages.
+
+
+This role is location flexible and can sit out of any of our nationwide corporate or fulfillment centers.
+
+The following provides some detail of the job duties and responsibilities.
+
+Use analytical and statistical rigor to solve complex problems and drive business decisions.
+Manipulate/mine data from database tables (ex. Amazon Redshift, MySQL) using SQL.
+Manipulate/mine data from log files by writing scripts (ex. Ruby, Python, UNIX)
+Develop analytical tools: deep-dive tools and dashboards
+Perform deep-dives and root cause analysis to answer business questions
+Effectively communicate (written and verbal) solutions and methodologies to senior leadership
+Work with engineering teams to enable the appropriate capture and storage of data.
+Mentor and develop other analytics team members.
+
+Graduate degree in Engineering, Statistics or another quantitative field preferred.
+Proven ability to solve complex quantitative business challenges.
+Basic proficiency with statistical modeling, research methods, and machine learning applications
+Familiarity with supply chain management concepts - forecasting, planning, optimization, and logistics - gained through work experience or graduate level education.
+Excellent written and verbal communication skills. The role requires effective communication with senior management as well as with colleagues from operations and business backgrounds.
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, visit https://www.amazon.jobs/en/disability/us.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Business Intelligence Engineer,ecobee,Ontario,Toronto,-1,-1,,CAD,"Hi, we are ecobee.
+
+ecobee introduced the world's first smart Wi-Fi thermostat to help millions of consumers save money, conserve energy, and bring home automation into their lives. That was just the beginning. We continue our pursuit to create technology that brings peace of mind into the home and allows people to focus on the moments that matter most. We take pride in making a meaningful difference to the environment, all while being part of the exciting, connected home revolution.
+
+In 2021, ecobee became a subsidiary of Generac Power Systems. Generac introduced the first affordable backup generator and later created the category of automatic home standby generator. The company is committed to sustainable, cleaner energy products poised to revolutionize the 21st century electrical grid. Together, we take pride in making a meaningful difference to the environment, all while being part of the exciting, connected home revolution.
+
+Why we love to do what we do:
+
+We're helping build the world of tomorrow with solutions that improve everyday life while making a positive impact on the planet. Our products and services work in harmony to provide comfort, efficiency, and peace of mind for millions of homes and businesses. While we're proud of what we've done so far, there's still a lot we can do—and you can be part of it.
+
+Join our extraordinary team.
+
+We're a rapidly growing global tech company headquartered in the heart of downtown Toronto with offices in Toronto, Canada and Leeds, UK (and remote ecopeeps in the US). We get to work with some of North America and UK's leading professionals. Our colleagues are proud to bring their authentic selves to work, confident that what we do is grounded in a greater purpose. We're always looking for curious, talented, and passionate people to join our team.
+Who'll You Be Joining:
+
+We are the ecobee Business Intelligence team, a small but mighty group of data professionals who are passionate about data, and how it can be leveraged by the business to make data-driven decisions. In collaboration with our business partners, we will deliver and support reliable and trusted reports and dashboards that provide visibility to key metrics and insights through our data platform and BI tools. This role will be central to our strategy of designing, building, deploying and supporting these BI assets, as well as building self-serviceable semantic models that would enable our business users to interact with the data through a no-code/low code, user-friendly, and business-semantic friendly mechanism.
+
+How You'll Make an Impact:
+
+Your substantial experience and skills in Business Intelligence will allow the ecobee organization to derive insights from the variety of data sources at its disposal, in a way that is governed, sustainable, and scalable, so that it can be leveraged for strategic decision-making that drives the business. You are passionate about data, and not only do you understand how to access, move and manipulate data, but you also understand the meaning of data and how it can be effectively visualized to derive actionable insights. Although you are technically strong, you are also adept at consulting with non-technical business users to understand the root of their requirements, develop BI solutions that truly meet their needs, and help them effectively use those solutions.
+
+Design and create datamarts, views, and BI semantic layers for governed reporting and self-service data discovery and analytics
+Design and build dashboards and reports that goes beyond stated requirements and serve the core business needs
+Contribute to datawarehouse architecture using industry best practices that serves as the foundation of BI
+Participate in requirement workshops with various business stakeholders to understand the root business needs for new reporting and analytics use cases
+Build experimental data models to create prototypes of reports and dashboards from a variety of data sources, including temporary sources such as flatfiles
+Administers the Business Intelligence platforms to ensure the environment is secure, up to date, and accessible by the user base
+Provide training and support to non-technical users on accessing reports and dashboards, and self-servicing using the semantic model
+
+What you'll bring to the table:
+
+An experienced Business Intelligence professional with hands-on experience architecting, developing and administering front-end BI tools such as SiSense and Tableau
+Hands-on experience with datawarehouse technologies, preferably with cloud based platforms such as Google BigQuery and Snowflake
+Progressive experience with querying data using SQL, Python or other means
+Knowledgeable in datawarehouse architecture and concepts such as star schema
+Knowledge and experience in data transformation using SQL/Python/Java a strong asset
+Well-versed in dashboard UX principles and can leverage it to build visually impactful, organized, and effective dashboards, using the appropriate visualizations
+Excellent communication skills; can effectively convey highly technical concepts to a non-technical audience
+Excellent problem solving skills, able to systematically analyze, hypothesize, and solution problems and issues in the BI platform
+Energized by working on a small team with the ability to make an immediate impact on the business
+Experience working in an Agile environment (developing stories, prioritizing tasks, grooming etc.)
+Our hired candidate will be required to provide consent to complete a criminal background check
+
+PS: We've built the following list as a guideline for some of the skills and interests of our development team - but we strive to build our team with members from a diverse background and skill set, so if any combination of these apply to you we'd love to chat!
+
+What happens after you apply:
+
+Application review. It will happen. By an actual person in Talent Acquisition. We get upwards of 100+ applications for some roles, it can take a few days, but every applicant can expect a note regarding their application status.
+
+Interview Process:
+
+A 30-minute phone call with a member in Talent Acquisition
+A first round virtual interview with a cross-functional group of ecopeeps – expect technical, behavioural and situational questions
+If your first round interview goes well, you can expect a take home case study, which you get a week to work on – you'll then come in virtually to present your solution to the team
+The interview itself! A 1.5 hour virtual interview is the next and last step. The first part will be a technical discussion focused on the case study followed by a Q&A session
+
+With ecobee, you'll have the opportunity to:
+
+Be part of something big: Get to work in a fresh, dynamic, and ever-growing industry.
+Make an environmental difference: Make a sustainable impact while on your daily job, and after it through programs like ecobee acts.
+Expand your career: Learn with our in-house learning enablement team, grow with our quarterly hackathons, and enjoy our generous professional learning budget.
+Put people first: Benefit from competitive salaries, health benefits, and a progressive Parental Top-Up Program (75% top-up or five bonus days off).
+Play a part on an exceptional culture: Enjoy a fun and casual workplace with an open concept office, located at Corus Quay. ecobee Leeds is based at our riverside office on the Calls.
+Celebrate diversity: Be part of a truly welcoming workplace. We offer a mentorship program and bias training.
+
+Are you interested? Let's make it work.
+
+Our people are empowered to take ownership of their schedules with workflows that allow for flexible hours. Based on your job, you have an option of office, hybrid or fully remote work. It is our top priority to keep employees safe. As we continue to take measures to keep employees safe in our offices, we have adopted a mandatory vaccine policy to be present in the physical Toronto office or other ecobee sponsored events in Ontario as of November 1, 2021. As such, to be in our office, it is required to acknowledge a formal attestation and submit accompanying proof of vaccination status. For the foreseeable future, we will be conducting our interviews and onboarding sessions through video. New team members will also be starting remotely, with all necessary equipment provided and shipped to them.
+
+We're committed to inclusion and accommodation.
+
+ecobee believes that openness and diversity make us better. We welcome applicants from all backgrounds to apply regardless of race, gender, age, religion, identity, or any other aspect which makes them unique. Accommodations can be made upon request for candidates taking part in all aspects of the selection process. Our recruitment team is happy to answer any questions candidates may have about virtual interviewing, onboarding, and future work locations.
+
+We're up to incredible things. Come and be part of them.
+
+Discover our products and services and learn more about who we are.
+
+Ready to join ecobee? View current openings.
+
+Please note, ecobee does not accept unsolicited resumes.",Ventas al mayoreo y al menudeo,,2022-08-20T00:00:00,2022-10-16,OTHER
+Business Intelligence Engineer,Perpetua Labs,Ontario,Toronto,-1,-1,,CAD,"Perpetua provides growth optimization and reporting technology for the world’s smartest eCommerce businesses. Through the platform, brands and sellers create goals based on strategy and rely on Perpetua’s best-in-class, always-on optimization to execute tactically. Perpetua’s intelligent reporting tools will also surface the most important metrics you need in order to easily quantify and examine the investment of your advertising dollars into your business. Integrations with Amazon, Instacart, Walmart and more ensure brands achieve full-funnel engagement and maximum visibility.
+BI at Perpetua
+Perpetua has a large amount of data that is waiting to be analyzed and transformed into actionable insights to drive business decisions.
+What You’ll Do:
+Setting up data integrations for our clients
+Hit new reporting APIs on E-Commerce Platforms
+Implement best practices when extracting data from the E-Commerce Platforms into the database
+Create aggregated, production quality tables to query from on a cloud warehouse
+Transforming data to ensure Perpetua's data usage is efficient and clean
+Who You Are:
+Comfortable and experienced with hitting APIs and extracting data into a database
+Intermediate to Advanced SQL & Python knowledge
+Knowledge with creating aggregated tables using data pipeline tools such as Airflow
+2-4 years of experience working, analyzing and transforming large data sets
+Can learn quickly
+Thrive in a fast-paced environment
+Have a passion for data and creating impactful analysis + visualizations
+Can take on projects without much guidance/oversight
+Are solution-oriented
+Are able to prioritize work
+Can write efficient and clean SQL queries
+Are detail-oriented
+Bonus Points If...:
+Worked with Snowflake, BigQuery or Redshift
+Experience in a marketing or advertising space
+Working at Perpetua:
+Perpetua is operating in an incredible market with nearly unlimited growth potential. Our team in Toronto has grown from 40 to over 200 in the last year. We have recently opened offices in London, Berlin, Tokyo and Shanghai.
+Perpetua’s Revenue Share Units allow employees to partake in the success and growth of our company
+Benefits and Health Spending Account on day one
+Flexible time off policy
+Generous parental leave program
+Flexible work arrangements - remote, hybrid or in office
+Top-of-the-line technology to help you build your own workspace including a one-time work from home stipend when you join
+When in the office: daily catered lunches from Toronto’s best restaurants, unlimited snacks and drinks, Perpetua Library
+Learn more about us here: Life at Perpetua
+At Perpetua, we are dedicated to pursuing and hiring a diverse workforce with varied experiences, perspectives and opinions. We believe diversity helps our team perform better and enables us to build an outstanding product for our customers. We are an equal opportunity employer and are committed to working with applicants requesting accommodation at any stage of the hiring process.",Tecnologías de la información,,2022-09-10T00:00:00,2022-10-16,FULL_TIME
+BI Solution Engineer - Customer Success,Dundas Data Visualization,,,-1,-1,,CAD,"Join Our Team. Grow with Us.
+BI SOLUTION ENGINEER - CUSTOMER SUCCESS
+About Us
+
+Dundas Data Visualization is a global leader in the development of advanced data visualization, dashboard and business intelligence solutions. Our outstanding success is reflected in our numerous industry awards and in the rapid adoption of Dundas technologies by Fortune 500 companies around the world. Discover the opportunity to join a dynamic company that fosters the development of its people.
+What’s in it for you?
+A collaborative and creative environment where experimentation, learning and stepping beyond your comfort zone is not only encouraged, but rewarded
+Complete autonomy – micro-management is not in our vocabulary
+A healthy work-life balance and desirable benefits including an onsite gym membership, free parking, full dental coverage, flexible working hours and professional improvement perks (think conferences and classes, etc.)
+Learn and grow with the best in the business -> become the best in the business. We provide the support you need to achieve success in your career
+A culture that values diversity, authenticity, inclusivity and above all else, fulfilment
+We thrive on the uniqueness and individual talents of our teams and want to work with people who aren’t afraid to let their personalities shine! If you’re enthusiastic, ambitious, a little bit weird, and passionate about the future of Business Intelligence, then we want to read your resume! Submit your application and we’ll take it a look at it right away. Thanks so much for expressing an interest in joining us on this journey.
+
+About the Job
+As a BI Solution Engineer, Customer Success, you will work with Clients and Dundas teams, to drive productivity and help our customers grow their business. We are looking for a highly energetic individual with a technical background and business/sales smarts to make Dundas customers successful with our product.
+
+This position will give you the opportunity to work with customers around the globe and across all industries. You will get the chance to learn not only diverse technical skills but also about business intelligence, business analysis, project management, and will give you the possibility to learn how companies work as well as measure their performance.
+
+In this role, you will be the bridge and key coordinator between Dundas and Client, developing and maintaining long-term relationships by engaging customers and providing excellent consultative support. You will be responsible for understanding requirements and challenges faced by our customers which hinders their BI system/product from going live to market. You will be advising customers during their development using our product, services and/or solutions. You will be driving growth within existing customer base by promoting and delivering user engagement activities such as forums responses, lunch and learns and much more
+
+About You
+Degree (or college certificate) in information technology combined with business courses or any other related field or must have 2+ years practical experience
+Ideally have 2+ years of customer facing experience working with external clients in a position such as business systems analyst, consultant, sales engineer, or pre-sales solutions architect in the software industry
+Practical experience with any other reporting tools or any other BI tools such as Reporting Services, Crystal Reports, Excel, etc.
+2+ year experience with databases and SQL scripting
+Familiar with any programing languages such as C#, JavaScript, HTML
+Familiar with cloud technologies
+Your Soft Skills:
+You enjoy interacting with people and have great listening skills
+Very strong communication, interpersonal and comprehension skills, both verbal and written
+Strong organizational skills with the ability to multi-task
+Strong problem solving/troubleshooting skills
+Willing to learn new skills on a regular basis, both on and off the job
+Able to work well within a team, yet be able to work autonomously
+Able to work in a company with an open and casual work environment
+
+
+Apply Now
+Please send your resume via email to careers@dundas.com and reference “BI Solution Engineer” in the subject line. If you have any questions about this position or our company, please feel free to ask we will be more than glad to ensure you have the information you need.",Tecnologías de la información,,2022-09-10T00:00:00,2022-10-16,OTHER
+Associate Vice President/Sr. Director-Marketing & Applications Engineering (DCS),Microchip Technology,British Columbia,Burnaby,-1,-1,,CAD,"At Microchip, we work every day to innovate and develop products that solve our customers’ technology challenges. Our team of more than 20,000 people worldwide is dedicated to delivering on the promise of working together to improve lives.
+Learn about our guiding values that are the building blocks and foundation of our culture and discover how we make a positive impact in the communities in which we operate. We believe our culture fosters trust, collaboration and belonging.
+Our people serve the industrial, computing, automotive, communications, aerospace and defense, and consumer market segments. As part of our global team, you can build technology solutions in our six growth areas – 5G, data centers, autonomous driving, the Internet of Things, electric vehicles, and artificial intelligence and machine learning.
+Around the world, we are committed every day to recruiting, retaining and promoting people in our diverse workforce. Your perspective, passion and ingenuity will contribute to achieving more as we fulfill our mission as a leading provider of smart, connected and secure embedded control solutions.
+Join our community of exceptional people doing incredible things.
+Job Description:
+This role reports to the VP of Data Center Solutions (DCS) within Microchip and has responsibility for all functions related to marketing and applications engineering for DCS.
+
+Microchip’s Data Center Solutions (DCS) group is a fast-growing business, in excess of $500M annual review, with a vision to connect, manage and secure the world’s information by being the preferred partner for storage, memory and compute connectively as well as end-point solutions for the world’s data centers. DCS provides a broad portfolio of innovative silicon, board and software solutions. DCS product lines include Smart Storage Solutions comprised of RAID and I/O Controllers with SAS/SATA/NVMe interfaces, Flashtec NVMe SSD controllers, Switchtec PCIe Switches and Smart Memory Controllers with CXL interfaces. DCS products provide an anchor for Total System Solutions for the Data Center market based on the broad Microchip product portfolio.
+
+This position leads a world-wide organization of ~100 employees to set strategic direction, define products, win new customer designs, establish business agreements with customers and ecosystem partners, execute go-to-market plans, deliver technical training and customer support and manage customer and industry relationships. The organization includes Strategic Account Management, Product Line Management, Channel Marketing, Strategic Ecosystem Management and Applications Engineering. This leadership role works closely with Engineering R&D leaders, Business Operations, Sales, Finance and HR partners to achieve the business goals.
+Requirements/Qualifications:
+The successful candidate will have a technical background in silicon-based solutions with extensive business and marketing experience. A track record of growing businesses and successfully managing the complexities of bringing multiple product lines to market across multiple market segments within the Data Center market. The successful candidate should have experience managing large originations across multiple sites. Depending on the level of experience of the candidate this position may be established as Senior Director or Associate Vice President of the Business Unit.
+Travel Time:
+0% - 25%",Manufactura,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Marketing Analytics Engineer - Remote - Canada,Mattermost,,,-1,-1,,CAD,"Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. Hundreds of thousands of developers around the globe trust Mattermost to increase their productivity by bringing together team communication, task and project management, and workflow orchestration into a unified platform for agile software development.
+Founded in 2016, Mattermost’s open source platform powers over 800,000 workspaces worldwide with the support of over 4,000 contributors from across the developer community. The company serves over 800 customers, including European Parliament, NASA, Nasdaq, Samsung, SAP, United States Air Force and Wealthfront, and is backed by world-class investors including Battery Ventures, Redpoint, S28 Capital, YC Continuity. To learn more, visit www.mattermost.com.
+We value high impact work, ownership, self-awareness and being focused on customer success. If these values match who you are, we hope you'll learn more about working at Mattermost and apply!
+Mattermost is seeking a passionate data enthusiast to lead our Marketing data analytics. As a data-driven organization, Mattermost relies on our data team to drive marketing insights, ensure accurate data across systems, iterate on current key business metrics, and dive into complex datasets to answer business-critical questions.
+In this role, you will work closely with the marketing, sales, product, and engineering organizations to deeply understand customer trends, analyze marketing activities, product adoption, and sales results in order to surface insights that impact the health of the overall business. If you are data-obsessed, love connecting the dots, thrive in an iterative environment, and aren’t afraid to get your hands dirty, this is the role for you.
+About Our Tools
+Tool Stack: Marketo, Salesforce, Wordpress, Google Analytics, Google Tag Manager, Google Optimize, Snowflake, dbt, Stitch, Hightouch, Looker, Google Sheets/Excel, etc.Coding Languages: SQL, Python, LookML
+Responsibilities:
+Own the entire development process for our marketing analytics reporting. This includes meeting with internal customers to understand their needs, partnering with data engineering to centralize dispersed data, understanding the core data models, writing code to enrich and manipulate data, and designing and editing reports and dashboards.
+Build and tune models that will help the Marketing team predict results and report on performance.
+Provide guidance to functional leaders on KPI's, metrics, and business decisions including accurate analysis of user and business data.
+Lead strategic cross-functional data initiatives to stitch together the Mattermost customer journey data for internal analytics consumption.
+Partner with the Data Engineering team to ensure relevant data is centralized into our data warehouse and modeled for performant analytics, while meeting our high data-quality standards.
+Required Background/Skills:
+5+ years experience in a fast-paced analytics focused role.
+Experience solving ambiguous business problems with hard data.
+A passion for systems that generate and present clear and relevant data. Strong communication skills across stakeholders with varying business goals and levels of technical knowledge - you’re as comfortable talking to our API team about how they record events as you are brainstorming a new campaign with our Marketing team.
+Firm grasp of statistics and statistical inference. Comfort juggling and prioritizing competing workstreams.
+A background working with Marketing systems, and processes.
+A firm understanding of ETL and Reverse ETL setups. Strong SQL skills; experience with dbt; experience with statistical packages.
+Mattermost is a remote-first company with staff living and working across the globe. We are currently hiring staff in these countries/regions:
+Australia - Bangladesh - Brazil - Bulgaria - Canada - Chile - Colombia - Finland - Georgia - Germany - Greece - India - Ireland - Mauritius - Mexico - Norway - Pakistan - Philippines - Poland - Portugal - Spain - South Korea - Suriname - Turkey - Uganda - Ukraine - Uruguay - United Kingdom - United States
+We are constantly working towards adding more countries/regions to this list, but first we need to make sure we are compliant with local laws and regulations, which takes time.
+Mattermost is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people from all walks of life. We don't discriminate against staff or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!",Tecnologías de la información,,2022-09-13T00:00:00,2022-10-16,FULL_TIME
+Term Analytics Engineer,Birchcliff Energy Ltd.,Alberta,Calgary,-1,-1,,CAD,"About us: Birchcliff Energy Ltd. was founded in 2004 and is a Calgary, Alberta-based intermediate oil and natural gas company that explores for, develops and produces natural gas, light oil and natural gas liquids. We are a pure-play Montney producer and our operations are focused in the Peace River Arch area of Alberta. We believe our people are our most valuable asset and have an open and transparent communication policy between our staff, managers and executive team.Birchcliff strives to be a leader in analytics. We have an extensive and growing digital infrastructure including data pipelines, data resources, dashboards, analytics apps, and data science/machine learning processes. We heavily use Spotfire, Virtualization and R-Script to create fit-for-purpose tools that make our people more efficient and better decision makers.Birchcliff is seeking a savvy and enthusiastic Analytics Engineer to join the Strategic Planning & Business Intelligence team. The group is a centralized team that supports corporate data management, analytics, data science and reporting across a variety of disciplines (geoscience, operations, production, development, reservoir, strategic planning, etc.). We are responsible for building and managing the technical data and analytical tools our asset teams leverage for analytics. The ideal candidate will come with a rich industry background and a passion for analytics, technology, software and developing novel solutions for challenging problems. They are creative, innovative and thrive in creating best-in-class solutions.The term of the position is for 16 months, with an anticipated start date of November 1, 2022. This position has the potential to turn into a full-time term position. We thank all applicants, however, only those meeting the minimum academic and experience requirements will be considered for the position.Key Responsibilities: Design, develop, and maintain scaled, automated, user-friendly systems, reports, dashboards, etc. that will support business needsAct as key owner of internal machine learning workflows and processesChampion the use of Spotfire and scripting languages and provide peer training and supportBe an adaptive problem solver who can provide insights into a variety of energy-focused disciplines and technical situations by working closely with subject matter expertsAssist in maintaining high data quality and completeness for our technical data setsAct as a resource for technical team members when it comes to data availability, Spotfire support, analytic requests, workflow development, etc.Perform detailed data/product QC before delivering high-quality solutionsSupport our Spotfire environment by creating, modifying, and troubleshooting views in our virtualization software (Tibco Data Virtualization)Develop clear, concise documentation and presentations when appropriateTechnical Requirements: Expert in visualization/BI tools such as Spotfire, Microsoft PowerBI, TableauProficient in using R scripting language with a proven track record in using code to solve industry problems (packages including: data.table, caret, DBI, sf, ggplot and more)Proficient with SQL, ETL, and databases in a business environment with large-scale, complex datasetsExperience with APIs is considered to be an asseEducation, Skills and Abilities: Bachelor’s degree in Engineering, Geology, or equivalent required5-10 years of energy industry experience in a technical role where you leveraged analytics and data science to provide insights into oil & gas challengesExperience and comfort navigating Oil and Gas unconventional data sets and familiarity with key concepts and fundamentals like drilling & completions design, production forecasting, economic evaluation and development optimizationA genuine passion and curiosity in all-things analyticsAbility, willingness, and desire to learn new analytical skills to fit a dynamic environmentAbility to thrive within multi-disciplinary teamsClear communication skills and willingness to ask questions to fully understand stakeholder requestsAbility to oversee project execution from stakeholder engagement right through to fully realized solutionAttention to detail when delivering data and insightsA keen eye for clear, concise, and insightful visuals/dashboards/interfacesJob Type: Fixed term contractContract length: 16 monthsSchedule:8 hour shiftMonday to FridayAbility to commute/relocate:Calgary, AB: reliably commute or plan to relocate before starting work (required)Application deadline: 2022-09-30Expected start date: 2022-11-01",,,2022-09-06T00:00:00,2022-10-16,FULL_TIME
+Lead Analytics Solutions Engineer,Fidelity International,,,-1,-1,,CAD,"About the opportunity
+Department Description
+FIL General Counsel Technology is responsible for providing IT solutions to the Risk, Compliance, Legal, Audit and Tax functions. These are global functions comprised of approximately 400 employees based in 26 countries. General Counsel Technology partners with its business stakeholders to identify their requirements and develop/implement technology solutions. This includes on-premise, SaaS and AWS solutions, both in-house built and vendor provided. There is a strong focus on data analytics, workflow and automation tools to bring greater efficiencies to these functions. Together with this there is continued move towards greater use of Agile and DevOps practices. The GC Technology team itself consists of approximately 40 people based in both the UK and India.
+Purpose of the Role
+As a Lead Analytics Solutions Engineer you will be responsible for architecting, implementing and deploying multi-scale data analytics platform solutions as well as building and mentoring high-performing analytics engineering teams. You will work with cloud technologies, developing and overseeing analytics systems and processes.
+Key Responsibilities
+Lead, facilitate and coordinate execution of the analytics teams technical vision, collaborating with other areas and centralised governance where appropriate
+Define, create and provide oversight and governance of analytics and machine learning solutions with a focus on innovation, resilience, performance, scalability and simplicity
+Develop and champion advanced analytics and machine learning principles and processes at domain and enterprise levels, identifying opportunities for transformational improvement
+Hands-on design and technical implementation ofanalytics solutions across a number of concurrent technical implementations
+Experience and Qualifications Required
+Experience
+Sound understanding of risk and risk mitigation design in relevant areas, including (but not limited to) fraud, financial crime, anti-money laundering, transaction monitoring and suspicious activity reporting.
+Significant experience leading platform analytics / team with orchestrated multiple analytics components.
+Experience in business rules engine (BRE) / layer design and implementation
+Experience in real time analytics design and implementation.
+Deep understanding of both real-time processing and asynchronous analytics systems
+Experience in statistical sequence mining and analysis methods
+Experience in distributed machine learning systems design and deployment
+Understanding of distributed domain driven architecture and product thinking
+Technical Skills
+Architecture & Design
+Enterprise Architecture and good knowledge of object-oriented programming and design patterns
+AWS services: API gateway, Lambda, SNS, SQS, DynamoDB, Kinesis, EC2, Athena, Elastic Beanstalk
+REST API Desiand specification using Swagger / OpenAPI
+Programming
+Experience of both functional programming and object orientated programming
+Excellent programming skills in R and Python
+Experience designing and building R / Python based REST APIs, and API specification using Swagger / OpenAP
+Behavioural
+Strong team player
+Ability to foster, develop & maintain working relationships with business stakeholders and technology teams
+Self-motivation and management are essential
+Flexibility and an open attitude to change
+About you
+About Fidelity International
+We’ve been helping our clients plan and save for the futures they want for over 50 years. From more than 25 locations around the world, we provide investment services and retirement expertise to 2.5 million clients – everyone from central banks and financial institutions to wealth managers and private individuals. We think generationally and look to the long term. And today, building on the security of private ownership and our strong sense of purpose, we’re growing our business like never before.
+What it’s like to work here.
+In our welcoming, caring culture, you’ll feel valued, trusted and free to express yourself. We recognise the value of inclusion and diversity in culture, in thought and in experience. With this in mind, please let us know if you feel you might benefit from any reasonable adjustments to perform to the best of your ability during the recruitment process and beyond.
+As well as a clear commitment to inclusion, we offer real flexibility about where, when and how you work. It’s an approach we call ‘dynamic working’, and you’ll find it brings the very best out in you.
+Getting started
+For more about who we are, how we work and the part you could play in both our progress and our future, visit careers.fidelityinternational.com.
+Or, if you’re feeling inspired, start your journey with us right now.
+APPLY
+Applying to this Job Role: Please note you are only required to upload your CV/Resume to the application screen.",Finanzas,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+CIVIL ASSETS RELIABILITY ANALYTICS ENGINEER,Manitoba Hydro,Manitoba,Winnipeg,-1,-1,,CAD,"CIVIL ASSETS RELIABILITY ANALYTICS ENGINEER
+
+Winnipeg, MB
+
+Manitoba Hydro is consistently recognized as one of Manitoba's Top Employers!
+
+Great Benefits
+Competitive salary and benefits package.Defined-benefit pension plan.Nine-day work cycle which normally results in every other Monday off, providing for a balanced approach to work, family life
+
+and community.
+Flex-time and partially remote work schedule, depending on nature of work, operational requirements and work location.
+
+Manitoba Hydro is a leader among energy companies in North America, recognized for providing highly reliable service and
+exceptional customer satisfaction. Join our team of Manitoba's best as we continue to build a company that supports innovation,
+commitment and customer service.
+
+We are seeking a Civil Assets Reliability Analytics Engineer to join our Asset Lifecycle Management Department. You will
+be responsible for evidence-based reliability analysis of lifecycle processes for corporate civil and linear assets, and to ensure these
+assets lifecycle policies are developed with optimal lifecycle management principles, ensuring cost/performance/risk profiles are
+optimized across the asset(s) lifecycle(s).
+
+Responsibilities:
+Responsible for evidence-based analysis, to develop the long-term plan for assessment and management of the reliability of
+civil and linear assets. Develop and maintain a long-term plan, based on key stakeholder input, which details the ultimate
+requirements for the Corporation's civil and linear assets assessment and lifecycle management, the current gaps and action
+plans to address the gaps.
+Ensure Asset Management asset decisions are quantitative, and evidence based by creating and maintaining processes and
+systems for asset centric data collection and reliability analysis of cost performance and risk.
+Develop reports for evaluating the repair, refurbish, replace decisions.Documenting, prioritizing, planning, delivering and evaluating civil plant operations, and minimize the risk and impact of failure
+
+in civil assets and processes.
+Identify and report on potential failures within a process or system or civil assets. Seek, recommend and develop innovative
+
+concepts applicable to the civil and linear assets to optimize lifecycle decision making.
+
+Lead development and documentation of processes involved and perform detailed reliability analysis of the corporation's civil
+
+and linear assets to develop optimal asset strategies, balancing cost performance and risk.
+Perform Failure mode and effects analysis (FMEA), Reliability hazard analysis, and root cause analysis on civil and linear
+
+assets.
+Assess the risks of failure of all civil and linear assets considering asset condition assessments, indexing, supporting
+
+development and maintenance degradation and probability of failure curves; working closely with Asset Information & Risk
+Management Department Risk assessment methodology for civil and linear assets.
+Make recommendations based on analysis and civil engineering knowledge for Preventative and Planned Maintenance
+Optimization.
+Provide analysis and assist to make recommendations with regards to Lifecycle Value optimization of civil assets, input into
+development of business processes and tools and to whole lifecycle cost models of civil and linear assets.
+Determine maintenance or capital investment based on functional analysis of civil assets, by using lifecycle value
+identification.
+Act as an SME to develop capital project alternatives for civil assets within the Corporate Value Framework, working with the
+Civil Asset Advisor.
+Build and maintain relations with design, operations, maintenance, project management, resource planning, plant, finance,
+property, and other groups within and outside of the division for the purposes of information sharing and team alignment.
+Collaborate with other utilities and external organizations to establish reliability benchmarks for civil and linear assets to
+
+MANITOBA HYDRO IS COMMITTED TO DIVERSITY AND EMPLOYMENT EQUITY
+ Reference Code: CO56601739-01
+
+optimize lifecycle delivery.
+Provide civil engineering expertise and reliability engineering services to other parts of Manitoba Hydro related to civil and
+
+linear assets, emerging trends and technologies, and the application of reliability analysis, including directing or conducting
+meetings, seminars or presentation and training.
+
+Qualifications:
+Graduate in a related Engineering discipline from a university of recognized standing with a minimum of seven years of related
+experience having obtained three years of this experience in design, construction, maintenance or project management of civil
+assets.
+Professional member in good standing with Engineers Geoscientists Manitoba.
+Advanced knowledge of Civil & Linear type assets including the design, operation, reliability, compliance requirements,
+maintenance practices, and modes of failure.
+Basic knowledge of other asset types including but not limited to Mechanical, Electrical, Gas type assets.Knowledge of RCM theory, root cause analysis work management cycleKnowledge of Asset Management best practices.Advanced knowledge in maintenance applications and condition assessment processes related to asset management.Must have a good working knowledge of Safety and Environmental Regulations.Must have proven ability to co-ordinate the activities of others providing engineering services as required. Must be able to
+
+work effectively with various levels in the organization and externally including consultants, contractors and suppliers.
+Must have good inter-disciplinary organizational skills, ability to train others, make presentations and delegate authority.Must have a demonstrated ability to analyze and prepare engineering reports and standards, and to develop processes.Possess practical experience and working knowledge of CMMS, SAP, GIS applications, and Microsoft Office.May be required to visit various stations across the province.Required to travel by all modes of transportation i.e. air, land and water.
+Possess and maintain a valid Province of Manitoba driver's licence.
+
+NOTE: May be required to work at other locations within the province, and where transportation between these sites may
+be by small aircraft.
+
+Salary Range
+
+Starting salary will be commensurate with qualifications and experience. The range for the classification is $47.09 -$64.51 Hourly,
+$90,229.10-$123,616.48 Annually.
+
+Apply Now!
+
+Visit www.hydro.mb.ca/careers to learn more about this position and to apply online. The deadline for applications is SEPTEMBER
+20, 2022.
+
+We thank you for your interest and will contact you if you are selected for an interview.
+
+This document is available in accessible formats upon request. Please let us know if you require any accommodations
+during the recruitment process.","Energía, minería e infraestructura pública",,2022-09-07T00:00:00,2022-10-16,OTHER
+Product Analytics Engineer,StackAdapt,,,-1,-1,,CAD,"On StackAdapt's Product team, you will be building products that help our customers thrive.
+
+As a Product Analytics Engineer, you hold a high-leverage position that influences every product team's decisions with data. Every day will have its own interesting set of challenges as you work to empower your team with actionable insights and recommendations. You'll collaborate with Product Managers, Designers, Engineers, and other stakeholders to help ensure that we're building the right thing for the right reasons.
+
+You've worked in Product Analytics before, and can speak to times when your insights have led to informed product decisions and successes.
+What you'll be doing:
+Provide product teams with useful, actionable insights and data-informed recommendations
+Work with Product Managers to research, understand, and validate user needs & market opportunities to inform your analysis
+Proactively identify areas of improvement in our products, and help objectively prioritize the opportunities
+Add telemetry, instrumentation, and analytics tools as needed to track user events and engagement
+Tactfully implement A/B (split) testing to provide useful insights, with careful attention not to over-analyze
+Impeccable communication skills, to convey the impact of our shipped products to all stakeholders
+Become an expert in ad-tech and programmatic media buying, understanding the competitive landscape, the evolving market needs, and how those things relate to StackAdapt's mission and vision
+Requirements - We'll only be reaching out to applicants that have:
+At least 3+ years of experience in Data Analytics or Business Intelligence in a tech company; where your primary function was to inform and empower Product teams
+Strong proficiency in SQL as well as scripting in R or Python - and how to use it to acquire relevant product usage data
+Excellent quantitative & analytical abilities - and you can speak to your successes directly influencing & empowering product decisions
+Experience communicating the impact of shipped products to all stakeholders
+Experience building visual dashboards (Tableau, Looker, etc.) to empower others with data
+Experience with product analytics tools (Pendo, FullStory, Mixpanel, Amplitude, etc.) and how to best leverage their information
+Your communication is crisp, clear, and effective whether written or verbal - and you always know your audience
+Empathy for all stakeholders - you have no problem being ""in their shoes"", and have strong diplomacy skills that encourage cross-team collaboration
+An understanding of Lean, Agile, and modern Product Management & development best practices
+You lead by influence, not formal authority
+StackAdapters Enjoy:
+Competitive salary with RRSP matching
+Full benefits from League on day one of employment
+Work from home reimbursements
+Coverage and support of personal development initiatives (conferences, courses, etc)
+An awesome parental leave policy
+A weekly $15 lunch credit via Ritual
+A friendly, welcoming, and supportive culture
+Our social and team events (virtually!)
+#LI-KR1
+StackAdapt is a diverse and inclusive team of collaborative, hardworking individuals trying to make a dent in the universe. No matter who you are, where you are from, who you love, follow in faith, disability (or superpower) status, ethnicity, or the gender you identify with (if you’re comfortable, let us know your pronouns), you are welcome at StackAdapt. If you have any requests or requirements to support you throughout any part of the interview process, please let our Talent team know.
+About StackAdapt
+StackAdapt is a self-serve programmatic advertising platform used by the most exceptional digital marketers. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. Ad buyers plan, execute, and manage data-driven digital advertising campaigns across all devices, inventory, and publisher partners. StackAdapt is a Top 100 Software Product on G2, being the only DSP on the Best Software Products and Highest Satisfaction lists.
+We've been recognized for our high performing campaign conversion rates, award-winning customer service, and innovation by numerous industry publications including:
+#1 DSP on G2 and leader in the Video and Cross-Channel Advertising Categories
+Top 5 on Ad Age's 2022 Best Places to Work
+Great Place to Work® named StackAdapt as one of Canada’s Best Workplaces for Start-ups in 2021
+A Top Growing Company in Canada based on the Globe and Mail's 2020 Business Report
+Named a Technology Fast 50™ Program Winner for 2021
+#LI-Remote",Audiovisual y medios de comunicación,,2022-09-07T00:00:00,2022-10-16,FULL_TIME
+Engineering Systems / PLM Business Analyst,Accenture,Quebec,Montreal,-1,-1,,CAD,"We are Industry X: We embed innovation, intelligence and sustainability in the way the world makes things and the things it makes. Industry X enables leaders to act quickly and confidently as they pivot to the future. We define Industry X as digital reinvention of manufacturing / engineering and believe that smart, sustainable, connected digital products and assets are about to create hyper-personalized industrial experiences, completely new levels of operational efficiency, transparency and traceability, tangible impact on sustainability and brand-new sources of revenue growth. Known for our ability to execute at speed, we help clients determine clear, actionable paths to competitive agility by bringing them new thinking on business and technology.
+Responsibilities of the PLM Business Analyst may include: Participate in requirements gathering and specifications creation Participate in the solution design, helping the solution architect Participate in specification workshops Develop functional specifications Participate in the Business process design Participate in industry /corporate process implementation across all related applications Successfully supporting the management team in different project area Deployment: Troubleshoot complex configuration and system issues. Document and follow up with customer issues to complete resolution Implementation: Prepare and support the organizational change management activities. Prepare training plan, training documentation and provide end users training. Documentation: Document the configuration and architecture Validation Tests: Conduct functional and integration testing, including preparation of test cases/scenarios and test data Reporting: Progress status and issues Maintenance: Analyze, design and produce solution enhancements Meet travel requirements, up to 80% Perform feasibility studies and process design reviews
+
+Basic Qualifications: Bachelor’s Degree in Mechanical Engineering, Industrial Engineering, or related degree Product Lifecycle Management (PLM) concepts and solutions
+Preferred Qualifications: Business Process Design Experience Tests management / execution experience Aerospace & Defense experience Mechanical and/or Electrical Engineering concepts and solutions Ability to understand business needs, articulate trade-offs, and discuss solutions with business and development teams Able to comfortably manage multiple tasks, communicate status, escalate issues and juggle competing priorities Strong team player with a “can do” attitude, and the flexibility to jump in wherever needed Self-starter with a bias toward action and the ability to produce results Excellent communication (written and oral) and interpersonal skills Collaboration skills",Administración y consultoría,,2022-08-19T00:00:00,2022-10-16,FULL_TIME
+Ingénieur en Intelligence Économique | Business Intelligence Engineer,Sonder,Quebec,Montreal,-1,-1,,CAD,"[English description to follow]
+
+Sonder révolutionne l'hospitalité grâce à un service innovant alimenté par la technologie et à des hébergements inspirants et conçus de manière réfléchie, combinés en une seule expérience gérée de manière transparente. Lancé officiellement en 2014 et basé à San Francisco, Sonder rend un monde de meilleurs séjours ouvert à tous avec une variété d'options d'hébergement - des chambres aux suites et appartements - que l'on trouve dans plus de 30 villes réparties dans huit pays et sur trois continents. L'application innovante de Sonder permet aux clients d'accéder à des fonctions en libre-service et à une assistance sur le terrain 24 heures sur 24 et 7 jours sur 7. Qu'il s'agisse d'un simple enregistrement en libre-service ou d'articles de toilette haut de gamme, nous offrons le meilleur d'un hôtel sans aucune formalité.
+
+L'équipe d'ingénierie BI se concentre sur la création et l'exploitation de transformations SQL sur les entrepôts de données, les données et les pipelines ETL, ainsi que sur la modélisation des données à des fins analytiques. L'équipe travaille également en partenariat avec les parties prenantes de l'analyse et fournit des tableaux de bord exécutifs à l'entreprise.
+
+CHEZ SONDER, VOUS :
+Utiliser vos compétences d'expert en SQL et en modélisation de données pour construire les modèles de données de la couche de base de l'entrepôt de données qui alimenteront les tableaux de bord de reporting de Sonder.
+Interagir avec les parties prenantes, comprendre les besoins, construire des marts de données, identifier les opportunités d'automatisation des flux de données et optimiser les requêtes.
+Créer et gérer le profilage et la qualité des données
+Ingérer des données de tiers et des données internes à l'aide d'outils.
+Comprendre intimement l'activité de Sonder et modéliser les données qui seront la source de vérité pour les indicateurs clés de performance et les mesures de l'activité de Sonder.
+Transformer les données à l'aide de SQL et d'outils, si nécessaire
+Établir et maintenir la stratégie de lac de données/d'entrepôt de données de l'entreprise, définir l'architecture de données appropriée, mettre en œuvre la meilleure solution technique et continuer à répondre aux besoins croissants de l'entreprise.
+Extraire les données de l'entrepôt de données et les envoyer à des fournisseurs tiers.
+Travailler avec les équipes d'analyse de produits et d'affaires pour assurer la disponibilité et l'accessibilité des données d'affaires pertinentes et des mesures d'affaires pour l'analyse de produits et les rapports de performance d'affaires.
+Prendre en charge les pipelines de données critiques, surveiller la santé des pipelines de données fonctionnant dans l'environnement de production.
+CE QUE NOUS RECHERCHONS:
+Minimum 5 ans d'expérience en tant qu'Ingénieur BI/Analytique dans une société en pleine expansion.
+Expert en SQL, compétences en modélisation de données et optimisation des requêtes.
+Connaissance des principes et des méthodologies des entrepôts de données
+Expérience dans l'écriture de tâches ETL, en utilisant des outils d'orchestration comme Airflow.
+Expérience souhaitée dans l'ingestion de données à l'aide d'outils tels que FiveTran, Adverity, Insider, Ortto, etc.
+Compétences en codage Python souhaitées
+Expérience de la transformation de données à l'aide d'outils tels que dbt, Databricks, Informatica Powercenter, etc.
+Solides compétences en communication et capacité à recueillir les besoins et à les traduire en spécifications et en conception.
+Expérience avec les services cloud AWS/GCP/Azure et les magasins d'entrepôts de données comme Redshift ou Snowflake.
+Expérience des outils de Dash-boarding (Tableau, Looker, Periscope, etc.)
+Maîtrise des outils de collaboration (github, jira, asana, google doc etc.)
+Une expérience dans le secteur de l'immobilier ou de l'hôtellerie est souhaitable.
+Vous êtes autonome, très motivé et capable d'apprendre rapidement.
+Attitude positive, volonté d'apprendre et capacité à changer de direction.
+
+Nous offrons également d'excellents avantages sociaux pour vous faciliter la vie et vous permettre de vous concentrer sur ce que vous savez faire le mieux :
+
+Une rémunération compétitive
+Plan d'options sur actions généreux
+Assurance médicale, dentaire et visuelle
+Les membres de l'équipe exonérés bénéficient de congés payés. Les membres de l'équipe non exemptés accumulent des congés payés.
+Crédits annuels gratuits et remises pour rester à Sonders
+Une entreprise avec une grande vision, un environnement de travail dynamique et une équipe de collègues intelligents, ambitieux et avec lesquels il est agréable de travailler !
+
+Nous sommes un employeur qui respecte l'égalité des chances et nous valorisons la diversité au sein de notre entreprise. Nous ne pratiquons aucune discrimination fondée sur la race, la religion, la couleur, l'origine nationale, le sexe, l'orientation sexuelle, l'âge, l'état civil, le statut de vétéran ou le statut de handicapé ou d'autres classes protégées.
+
+ Sonder is revolutionizing hospitality through innovative, tech-powered service and inspiring, thoughtfully designed accommodations combined into one seamlessly managed experience. Officially launched in 2014 and headquartered in San Francisco, Sonder is making a world of better stays open to all with a variety of accommodation options — from rooms to suites and apartments — found in more than 30 cities spanning eight countries and three continents. Sonder's innovative app empowers guests by making self-service features and 24/7 on-the-ground support just a tap away. From simple self check-in to boutique bathroom amenities, we bring the best of a hotel without any of the formality.
+
+AT SONDER YOU WILL:
+
+Use your expert SQL and data modeling skills to build the data warehouse base layer data models that will power Sonder's reporting dashboards
+Interact with Stakeholders, understand the needs, build data marts, identify opportunities to automate data flows, and optimize queries
+Build and own data profiling and data quality
+Ingest 3rd party data and in house data using tools
+Understand Sonder's business intimately and model data that will be the source of truth for Sonder's business KPIs and metrics
+Transform data using SQL and tools, if needed
+Establish and maintain the company's data lake/data warehousing strategy, define the appropriate data architecture, implement the best technical solution, and continue to meet the growing needs of the business
+Extract data from Data warehouse and send it to 3rd party vendors
+Work with product and business analytics teams to ensure availability and accessibility of relevant business data and business metrics for product analytics and business performance reporting.
+Support critical data pipelines, monitor the health of data pipelines running in production environment
+
+WHAT WE LOOK FOR:
+
+Minimum 5 years of experience working as a BI Engineer/Analytics Engineer at a progressive company
+Expert in SQL, data modeling skills and query optimization
+Knowledge of data warehouse principles and methodologies
+Experience in writing ETL jobs, using orchestration tools like Airflow
+Preferred Experience in Data ingestion using tools - FiveTran, Adverity, Insider, Ortto etc
+Preferred Python coding skills
+Experience in Data Transformation using tools - dbt, Databricks, Informatica Powercenter etc
+Strong communication skills and ability to gather requirements and translate them to specs and design
+Experience with AWS/GCP/Azure cloud services and data warehouse stores like Redshift or Snowflake
+Experience in Dash-boarding tools (Tableau, Looker, Periscope etc)
+Proficiency in collaboration tools (github, jira, asana, google doc etc)
+Background in real estate or hotel industry is desirable
+Self-driven, highly motivated and able to learn quickly
+Positive attitude, willing to learn and ability to change direction
+
+We also have great benefits to make your life easier so you can focus on what you're best at:
+
+Competitive compensation
+
+Generous stock plan
+
+Medical, dental and vision insurance (where applicable)
+
+Flexible vacation
+
+Annual free credits and discounts to stay in Sonders
+
+A company with a huge vision, a dynamic work environment, and a team of smart, ambitious and fun to work-with colleagues!
+
+Workplace flexibility for remote positions #ABetterWaytoWork
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status or other protected classes.",Hoteles y complejos turísticos,,2022-08-30T00:00:00,2022-10-16,OTHER
+"Insights & Analytics Engineer, AWS Kumo Analytics","Amazon Web Services Canada, In",British Columbia,Vancouver,-1,-1,,CAD,"Basic Qualifications:
+
+Bachelor’s Degree or equivalent
+5 + years of hands-on experience in insights / analytics or related areas (e.g. SQL, Python, Tableau, etc.)
+3+ years of experience with data mining, analytics, and advanced modeling techniques
+Excellent verbal and written communication skills to articulate complex analytical requirements and findings to a broader audience
+
+Job summary
+We are powering an automation and self service driven customer journey for AWS customers leveraging a range of Analytics tools to generate business shaping insights.
+
+About AWS: For more than 11 years, Amazon Web Services (“AWS”) has been the world’s most comprehensive and broadly adopted cloud platform. AWS offers over 100 fully featured services to millions of active customers around the world - including the fastest-growing startups, largest enterprises, and leading government agencies - to power their infrastructure.
+
+About the Analytics Team: The Analytics team is a small, central group in the AWS Support organization. The team comprises members from a range of skill-sets such as strategy & planning, Machine Learning / predictive analytics and Business Intelligence. The Analytics team is responsible for pushing our Product, Process and Customer understanding and insight beyond the here and now to create value for the long-term. The team is responsible for coming up with hypotheses, uncovering key insights and developing a point of view on actions across the portfolio of our products and services.
+
+About the Role: If you love driving critical thinking and insight into challenging, unstructured problems and working with leaders in the organization to bring those insights into action, this role is for you. This is a hands-on role, however, being a part of a small team gives opportunity to take ownership of the customer / business problem across the spectrum from ideation to setting it up for implementation in partnership with stakeholder teams.
+
+Analytics topics include, but not limited to:
+1. Product / Value Proposition design
+2. Customer / Go-to-market
+3. Customer Experience
+4. Business Planning & Forecasting
+
+Inclusive Team Culture
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences.
+
+Work/Life Balance
+Our team puts a high value on work-life balance. It isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings energy to both parts of your life. We believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. We offer flexibility in working hours and encourage you to find your own balance between your work and personal lives.
+
+Mentorship & Career Growth
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future.
+
+Preferred Qualifications:
+
+Master’s degree in a quantitative field (engineering, economics, math, or statistics), business, etc or equivalent experience
+Hands-on experience in Machine Learning / Predictive Analytics
+Must be a self-starter, able to manage multiple tasks and projects simultaneously
+Experience owning problem-solving end to end
+Work well under pressure to meet ongoing and overlapping deadlines within short time constraints
+
+Must be flexible, detail-oriented, and comfortable in a fast paced environment
+
+At Amazon, we pioneer. And here, it’s always Day 1.
+
+We work hard. Have fun. Make history.
+
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-09-11T00:00:00,2022-10-16,FULL_TIME
+BI Operations Engineer- Admin,Rogers Communications,Ontario,Brampton,-1,-1,,CAD,"Our Digital & Technology team wakes up every day with one goal in mind – to connect Canadians to the people and things that matter most. Collectively, we’re proud to support 30 million Canadians each month.
+We manage a robust portfolio that champions the leading edge of technology and media. We drive projects that expand connectivity to underserved communities from coast-to-coast-to-coast; build and enhance our fixed broadband network to provide high-speed Internet, TV and Smart Home Monitoring; and support our world class wireless network, offering our customers Canada’s largest and most reliable 5G network. As the Digital & Technology team, we are building our tomorrow, today.
+Come play a key role in building the future of innovation in Canada, Let’s make your possible.
+Do you enjoy working on high-scale, complex, and high visibility projects and programs? If yes, consider the following opportunity:
+What You’ll be doing:
+Performing data warehouse admin production support activities for Informatica / Tableau / SAS / Business Objects / Power BI
+Perform SQL, UNIX, Shell Scripting, Data Relationships, Data extraction Validations
+Work with delivery teams and prepare operational readiness well in advance to production launch.
+Perform Monitoring, Trouble shooting, debugging and tuning SQL queries
+Responding to production incidents 24/7 in incident resolution and manage and communicate the impact to business teams proactively
+Perform ETL Process development, deployment and operations including build data migration packages/scripts
+Coordinate on-site / remote teams, prepare effort estimates and provide technical specifications.
+Responsible for the Extraction, Transformation and Loading of data from multiple sources.
+Create and manage users, user groups and roles
+Should be able to take care of housekeeping activities like application/server maintenance, restarts
+Develop necessary automation, optimization and maintains operation documentation
+Ability to work collaboratively with a group of professionals, internal and vendor staff
+What you need to have:
+2 years of Administrator experience with Data Warehouse applications Informatica / Tableau / SAS / Business Objects / Power BI
+Should have good experience in application upgrades, patching, managing users and user groups
+Minimum of 3 year of IT Operations \ Production Support.
+Experience in scheduling and executing jobs for daily\weekly data refresh
+Proficient with SQL queries, query optimization and table design.
+Good experience Linux / Unix commands
+Ability to multi-task on multiple high priority projects \ deliverables.
+Proven passion for driving process improvements
+Strong communication skills (Oral & Written)
+Demonstrated on keeping current with data warehousing related technologies
+Schedule: Full time
+Shift: Day
+Length of Contract: Not Applicable (Regular Position)
+Work Location: 8200 Dixie Road (101), Brampton, ON
+Travel Requirements: None
+Posting Category/Function: Technology & Information Technology
+Requisition ID: 254001
+
+At Rogers Digital, our team doesn’t shy away from big ideas – we bring them to life. We work tirelessly to deliver the best user experiences (period) and build amazing self-serve experiences that our customers want to use. We are customer-obsessed agents of change and are committed to innovation and creating effortless experiences for customers and frontline employees. We use cutting-edge tools and technologies to solve critical and complex problems with award-winning solutions. Our work impacts millions of customers everyday. At Rogers Digital, we’re looking for people who embrace change, take risks, and push boundaries. Learn more about our team and our work @ https://digital.rogers.com/
+
+Together, we'll make more possible, and these six shared values guide and define our work:
+
+Our people are at the heart of our success
+Our customers come first. They inspire everything we do
+We do what’s right, each and every day
+We believe in the power of new ideas
+We work as one team, with one vision
+We give back to our communities and protect our environment
+
+Posting Notes: Digital & Technology",Telecomunicaciones,,2022-09-08T00:00:00,2022-10-16,FULL_TIME
+Optical Algorithm & Analytics Engineer (Senior),Lumentum Operations LLC,Ontario,Ottawa,-1,-1,,CAD,"It's fun to work in a company where people truly BELIEVE in what they're doing!
+We're committed to bringing passion and customer focus to the business.
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+Lumentum Canada was awarded the 2022 National Capital Region’s Top Employers for the 6th consecutive year and the 2022 Career Directory Canada’s Best Employers for Recent Graduates for the 5th consecutive year.
+Do you have a passion for physics, math, engineering and programming?
+Do you like solving puzzles and complex problems?
+Do you like to experiment and are you at home in the lab tinkering and figuring things out?
+Are you interested in making stuff work, then making it work even better?
+Then we have the job for you!
+We currently have an opening for a Sr. Optical Algorithm & Analytics Engineer. This position will join the Algorithms and Analytics team. We are a team that develop algorithms, models and methods that optimize the performance of our next generation of photonic modules. You will experiment, you will code, you will measure, you will iterate and you will innovate. You will carry out data analysis to enhance the performance and yield of our products.
+You will become part of an industry leading, hard-working, collaborative and inclusive team that is continually learning and working together to understand how to improve our products. Working in this team, you will work with several state-of-the-art technologies including LCoS (Liquid Crystal on Silicon), MEMS (Micro-Electro-Mechanical Systems), phase modulators, lasers and free-space optical assemblies. You will collaborate with the firmware, electrical, optical design and verification teams.
+This position does come with a lab requirement and requires both a willingness and ability to run complex experiments in the lab during the proof of concept phase of a new product development. It will lead to further experimentation, optimization, calibration and testing, as the product progresses through the product development process.
+This is position has a hybrid workplace designation but will require a significant of on-site work (lab experimentation).
+In this role, you will be responsible for the following:
+Software development & test engineering
+Algorithm development
+Build and operate test and measurement set-ups for proof of concept experimentation
+Validation of design expectations, design of experiment, data collection, prototyping and data analysis
+What experience will allow you the greatest success in this role?
+Degree in Engineering Physics, Physics, Applied Math, Mathematical-Physics, Electrical Engineering or a related field. Advanced degrees are beneficial
+Strong software development skills; experience in Python, MatLab, C/C++, and/or .NET an asset
+An ability to communicate well both verbally and in writing
+Comfort in a lab environment, using optical test equipment to run experiments and collect data (lab experience in optics and opto-electronics is advantageous)
+In the office:
+Our building has a small gym and showers that are free to use
+There is a cafeteria on site, which also provides free coffee & tea
+There is a billiards table with a convertible ping-pong table top in our LumenLounge and available for all employees;
+Plenty of free parking, if you drive; we also have EV charging stations
+#LI-MH1",Manufactura,,2022-09-08T00:00:00,2022-10-16,FULL_TIME
+"Business Intelligence Engineer II, Procurement",Amazon Dev Centre Canada ULC,,,-1,-1,,CAD,"Experience with data visualization using Tableau, Quicksight, or similar tools
+3+ years analyzing and interpreting data and experience with Redshift, Oracle, NoSQL etc.
+Experience in writing complex SQL queries
+Experience with data modeling, data warehousing, and building ETL pipelines
+Strong written and verbal communication skills are essential
+
+Job summary
+At Amazon, we work hard to make the products our customers want and love available for purchase on our website. Last year, we ordered more than 10 billion items from hundreds of thousands of vendors. More impressive than the numbers are the people behind the services. Procurement is a diverse, 2-pizza team which owns the software systems that create and process the purchase orders for all Amazon retail items. It's important that we reliably generate and convey purchase orders to thousands of vendors and then listen and act when vendors send back signals regarding their ability to fulfill those orders.
+In your role as a Business Intelligence Engineer II (BIE II) on the Procurement team, you will collaborate with product and technical teams to develop and track key metrics, automate reporting and data processing solutions, and manage data pipelines and infrastructure. Your data-driven insights will help us recognize business opportunities, influence our product roadmap, diagnose system issues and defects, and make the best possible decisions regarding how we collaborate with vendors and suppliers.
+To accomplish these tasks, you will need to be able to analyze and extract relevant information from large, complicated data sets of structured and unstructured data. You must be proficient at producing and maintaining scaled, automated, user-friendly reporting systems and dashboards. You will need to be confident presenting metrics to senior business leaders, providing valuable insights and making call-outs, tracking progress on team goals, and owning the management and prioritization of data deep-dives.
+If this describes you, apply today to the Procurement team at Earth's most customer-centric company!
+
+Quantitative modeling and statistical analysis skills
+Experience leading large-scale data warehousing and analytics projects, including using AWS technologies – Redshift, S3, data-pipeline and other big-data technologies
+Query performance tuning skills
+Coding proficiency in at least one modern programming language (Python, Java, Ruby, etc.)
+Experience with Jupyter Notebooks
+Experience providing technical leadership and mentoring others on best practices in the data engineering space
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-09-13T00:00:00,2022-10-16,FULL_TIME
+Capital & Maintenance Program Analyst,Toronto Hydro,Ontario,Toronto,-1,-1,,CAD,"WORK ILLUSTRATION:
+The Capital and Maintenance Program Analyst is responsible for the effective business operations associated with Toronto Hydro-Electric Systems Limited (THESL) Capital and Maintenance programs and operating expenses. Responsibilities include: data gathering, data analysis, identifying gaps and trends as well as producing reports related to the THESL Capital and Maintenance Work Programs. The incumbent will develop processes, procedures and tools to ensure governance and compliance in the delivery of the THESL Capital and Maintenance Execution Work Program. The Analyst will also develop databases and automated reports to assist leaders and external stakeholders in the efficient and effective management of the capital work programs and provide support to the ongoing responsibilities.
+
+The incumbent is expected to behave ethically and follow the established code of business conduct, policies and internal control procedures, laws and regulations governing Toronto Hydro.
+
+Toronto Hydro has implemented a mandatory vaccination requirement for all its employees. Proof of full vaccination will be required upon receiving a conditional offer of employment. Toronto Hydro will provide reasonable accommodation to individuals who cannot be vaccinated due to disability or any other ground protected by the Ontario Human Rights Code.
+
+
+KEY RESPONSIBILITIES:
+Analysis of gaps and trends for various projects/ programs.
+Prepares reports pertaining to project/program status and outcomes.
+Manage performance of contractors
+Identifies gaps and trends and performs analyses to determine root causes and develops recommended solutions.
+Gathers data, performs data analysis and creates reports ensuring accuracy of data.
+Leads and participates in process improvement initiatives as well as process mapping activities in support of departmental continuous improvement programs.
+Liaises with internal and external stakeholders to assist in the successful coordination and delivery of project/ execution.
+Creates and maintains reporting applications, forms and customized databases.
+Performs periodic analysis and monitoring of operations data for the purposes of quality assurance.
+Participates in corporate wide initiatives to support overall business strategy.
+Supports the development of rate applications to the regulator including, preparation of narratives, assisting with responses to interrogatories and supporting witness preparation needs related to THESL Capital/Maintenance Execution Work Programs.
+COMPETENCIES:
+Bachelor degree in Engineering (Electrical Engineering preferred).
+Three (3) - Five (5) plus years’ of experience in data analysis, gap analysis and reporting results.
+Three (3) - Five (5) plus years' of experience in business process redesign, analysis for business projects, identification areas for improvement and development of new initiatives.
+Two (2) or more years of experience in construction project environment.
+Class G license strongly preferred.
+Familiarity with SAP enterprise modules is an asset.
+Project/program management experience preferred.
+Certified Business Analyst Professional (CBAP) designation is an asset.
+Project Management Professional (PMP) designation is an asset.
+Excellent verbal and written communication skills.
+Excellent analytical and business solution development skills, including the proven ability to function effectively in a dynamic environment.
+Fully proficient in the use of Microsoft Office applications including advanced working knowledge in MS Excel, MS Project, MS Access and MS Word.
+Able to proactively flag At-Risk areas of business based on analysis of data and KPIs.
+Ability to develop statistical tracking methodologies to track performance and measurement against set standards of quality.
+Ability to develop dependable feedback systems and tracking.
+Experience with process mapping and procedure writing.
+Knowledge of Microsoft programming languages (such as VBA or SQL) to support data analytics is an asset.
+Business and strategic thinking acumen.
+
+Job Segment: QA, Data Analyst, Electrical Engineering, Quality Assurance, Programmer, Quality, Data, Engineering, Technology","Energía, minería e infraestructura pública",,2022-09-15T00:00:00,2022-10-16,OTHER
+"Budget Analyst, Engineering",Bombardier,Quebec,Dorval,-1,-1,,CAD,"Budget Analyst, Engineering -MON19795
+Description
+
+BOMBARDIER
+Bombardier is a global leader, creating innovative and game-changing planes. Our products and services provide world-class transportation experiences that set new standards in passenger comfort, energy, efficiency, reliability and safety. We are a global organization focused on working together with a team spirit.
+The role of Budget Analyst, Engineering is to control, plan and manage the various budgetary aspect for the Aircraft Design and Development group. This include supporting the yearly budget planification and quarterly forecast phases, updating & tracking on weekly / monthly basis budget actual spend, reviewing & analyzing budget actual data and supporting and / or developing the required reporting tools / reports for the budget planning and tracking. You will be reporting to the Project management group of Aircraft Design & Development.
+If you enjoy working in a flexible environment as part of a dynamic and autonomous team with visibility and interaction with senior management, this job is for you!
+In your role, you will:
+Lead weekly financial governance for Project, Engineering group;
+Manage weekly/monthly budget tracking and reporting for various budget categories (Cloking hours, capitalize budget, indirect hours, other direct cost, major department expenses…);
+Participate in annual budget planification and quarterly reforecast exercises;
+Validate data reported in weekly/monthly Finance team reports to ensure data accuracy and to identify/resolve any discrepancies;
+Analyze budget spend and give visibility to management on the risks and opportunities;
+Lead and/or participate in review meeting with engineering, programs office and finance group to ensure that the budget is aligned and respected with the allocated envelopes;
+Maintain, develop and/or improved Power BI reports / dashboard to provide budget status visibility to all Aircraft Design and Development groups;
+Lead or participate in tools and report development to facilitate data analysis and reporting.
+
+Qualifications
+
+As our ideal candidate,
+You have a minimum of 5 years of experience in Finances, Project Management or Business Administration;
+You hold a bachelor’s degree in Finances, Engineering, Business Administration or equivalent;
+You have strong financial skills with an analytical mind;
+You are very rigorous with attention to details;
+You demonstrate a professional attitude and superior communication skills;
+You have excellent organizational and leadership skills, able to work with a minimum of supervision;
+You are self-motivated, enthusiastic and results oriented;
+You have very good computer skills (MS Office; Excel advanced, Power BI, SQL);
+You have strong bilingual oral & written skills.
+Bombardier is an equal opportunity employer and encourages persons of any race, religion, ethnicity, gender identity, sexual orientation, age immigration status, disability or other applicable legally protected Characteristics to apply.
+We thank all applicants for their interest, however, only those under consideration will be contacted. Please continue to monitor our website and apply for additional positions for which you are qualified and may be of interest to you.
+Join us at https://bombardier.com/en/careers/career-opportunities
+Your ideas move people.
+
+
+Job Project Development
+Primary Location CA-QC-Montreal Dorval
+Organization Aerospace
+Schedule Full-time
+Employee Status Regular
+Job Posting 09.09.2022, 11:58:53 AM
+Unposting Date Ongoing",Aeroespacial y defensa,,2022-09-09T00:00:00,2022-10-16,FULL_TIME
+"Business Intelligence Engineer, AWS Well-Architected",Amazon Dev Centre Canada ULC,,,-1,-1,,CAD,"Imagine if you could help shape the future of architecture, and go on a journey where few have tread before. AWS Well-Architected aims to help our customers develop technical expertise in AWS services, learn how to architect their cloud applications, and provide a great experience for customers and partners.
+AWS is one of Amazon’s fastest growing businesses. More than a million active customers, from Airbnb to SAP, use AWS Cloud solutions to deliver flexibility, scalability, and reliability. As a Business Intelligence Engineer at Amazon, your Primary responsibilities will be to analyze data and create a model to share insights with other AWS service teams, create automated processes and mechanisms to generate reports for the internal leadership to view and analyze, work with large datasets to pull additional data and aggregate that information into meaningful insights, run ad hoc reports on a need basis for various stakeholders. You will also be part of a team that is responsible for engineering data requirements for all new features and enhancements.
+
+Job summary
+Imagine if you could help shape the future of architecture, and go on a journey where few have tread before. AWS Well-Architected aims to help our customers develop technical expertise in AWS services, learn how to architect their cloud applications, and provide a great experience for customers and partners.
+AWS is one of Amazon’s fastest growing businesses. More than a million active customers, from Airbnb to SAP, use AWS Cloud solutions to deliver flexibility, scalability, and reliability. As a Business Intelligence Engineer at Amazon, your Primary responsibilities will be to analyze data and create a model to share insights with other AWS service teams, create automated processes and mechanisms to generate reports for the internal leadership to view and analyze, work with large datasets to pull additional data and aggregate that information into meaningful insights, run ad hoc reports on a need basis for various stakeholders. You will also be part of a team that is responsible for engineering data requirements for all new features and enhancements.
+
+Advanced analytical skills.
+Experience with Tableau or QuickSight.
+Experience with AWS storage and compute services.
+Strong SQL Skills and strong understanding Data Modeling
+Experience developing custom ETL solutions using Python and SQL
+Meets/exceeds Amazon’s leadership principles requirements for this role
+Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+Amazon s’engage à créer un milieu de travail diversifié et inclusif. Amazon est un employeur qui offre à tous les mêmes opportunités et ne fait pas de discrimination fondée sur la race, l’origine nationale, le sexe, l’identité sexuelle, l’orientation sexuelle, le statut d’ancien combattant protégé, le handicap, l’âge ou autres statuts protégés par la loi. Les personnes handicapées qui souhaitent présenter une demande d’accommodement, sont invitées à aviser leur recruteur.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-09-12T00:00:00,2022-10-16,FULL_TIME

@@ -1,0 +1,745 @@
+Job_title,Company,State,City,Min_Salary,Max_Salary,unitText,SalaryCurrency,Job_Desc,Industry,Rating,Date_Posted,Valid_until,Job_Type
+Junior Data Scientist - Data Science & Advanced Analytics (Perm FT),St. Michael's Hospital,Ontario,Toronto,-1,-1,,CAD,"The Data Science and Advanced Analytics (DSAA) team at Unity Health Toronto houses a team of Data Scientists devoted to applying data science to advance patient care and health system efficiency at Unity Health Toronto. DSAA is looking for a Data Scientist who will focus on machine learning applications in healthcare.
+DSAA works closely with physicians and administrators at St. Michael’s Hospital and researchers at the University of Toronto in a team-based environment. The Data Scientist will use the Enterprise Data Warehouse at St. Michael’s Hospital as the primary data source to provide data-driven insights into key drivers of patient outcomes and hospital performance. The Enterprise Data Warehouse at St. Michael’s Hospital is one of the most comprehensive inpatient databases in Canada.
+As part of the data science team, the successful candidate will support Sr. Data Scientists in all stages of DSAA projects. Responsibilities will include importing, manipulating and cleaning raw data, exploring and creating data summaries including data visualization and tabular reports. Additionally, the candidate will contribute to building, validating, and deploying models using a variety of techniques that span classification and regression problems. Other responsibilities will include contributing to manuscripts and ethics applications, ad hoc report generation and support of data management activities, which may involve helping build data and analysis platforms, database validation, data review, and quality control. Data Scientists at the DSAA have areas of specialization within machine learning, simulation modeling, statistics/biostatistics, and/or medical imaging. The possible areas of specialization for this Data Scientist position are high frequency time series (waveforms, signals), graphical methods, and/or medical imaging.
+DUTIES & RESPONSIBILITIES:
+Extract and process data from multiple possible source systems in St. Michael’s Hospital (e.g., Enterprise Data Warehouse (EDW), Picture Archiving and Communications Systems (PACS))
+Use specialized software for large and complex data sets including tools for preprocessing, registering, and viewing imaging or waveform data.
+Curate, validate, and preprocess large and complex data sets This includes cleaning and merging data from multiple sources (e.g., PACS and the EDW), as well as understanding overall data quality.
+Create pipelines to feed real time imaging and/or waveform data to models
+Conducting analysis with basic supervised and unsupervised machine learning methods is an asset, including: Linear regression, logistic regression, GLM, penalized regression, SVM, random forest, xgboost, and neural networks
+Perform descriptive and inferential statistical analysis in R, Python, and/or Julia. Write HTML/PDF/Microsoft Word reports summarizing the analysis with RMarkdown, Quarto, or other notebooks
+Validate output tables, listings or figures generated to ensure accuracy and reliability of analyses
+Produce high quality ad hoc and standardized reports customized per project, using R/Python/Julia procedures, tailored to different end-users (e.g. clinicians, researchers, senior management, and hospital executives)
+Develop efficient programs, algorithms, or systems to reduce programming time of standardized data analyses and reports
+Assist with writing project protocols, including: data extraction, cleaning, predictive modelling, and validation plans
+QUALIFICATIONS:
+A Master's degree quantitative, health/clinical, or informatics disciplines, with at least 1 year of relevant work experience
+Expert level programming with either R (preferred) or Python is required. Experience in Julia is a plus.
+Experience working with and manipulating large datasets
+Familiarity with databases such as: Netezza, SQL, Oracle, etc.
+Familiarity with version control (git, Github, GitLab).
+Experience writing reproducible reports using R Markdown and/or Jupyter Notebooks
+A deep understanding and experience with regression and classification tasks using generalized linear models, penalized regression, decision tree learning, random forest, support vector machines
+Experience with time series modeling and waveform/signal processing and modelling is an asset.
+Experience with graphical methods would be an asset
+Experience with Bayesian methods would be an asset
+Experience with ML/ModelOps would be an asset
+Experience with medical imaging would be an asset
+Experience with specialized platforms (e.g., XNAT, MONAI, MDai) would be an asset
+Familiarity with pretrained models for imaging or waveform data would be an asset
+Experience in healthcare is an asset
+Demonstrated ability to manage statistical programming activities
+Proficient with MS Office software (Word, Excel, PowerPoint, Outlook, etc.)
+In order to be considered for this position, please include links to any public-facing code and tools you have created (e.g., personal or institutional Github repositories, your website).
+We will also consider other degrees and disciplines in conjunction with applied experience
+“As a condition of employment, all external hires will be required to submit proof of COVID-19 vaccination or documentation unless a valid accommodation under the Ontario Human Rights Code exists. All internal candidates must be in compliance with Unity Health Toronto's COVID-19 Vaccination Policy.”",Salud,,2022-08-30T00:00:00,2022-10-16,FULL_TIME
+Jr. and Sr. Analytics Consultant,Advanced Analytics and Research Lab,Ontario,Toronto,-1,-1,,CAD,"Advanced Analytics and Research Lab www.aaarl.caRole Description:AAARL is looking for a self-motivated individual with entrepreneurial spirit for this full-time analytics consulting position. The primary role of this position is to perform analytical business analysis on client projects, including, but not limited to business intelligence, business strategy, measurement strategy, predictive modelling and optimization. The secondary tasks of the role would be to perform business development and sales. The consultant will be involved in the full spectrum of consulting tasks, including, but not limited to, sales, proposal writing, execution on the project and presentations. The work will be challenging on an intellectual and organizational level.Company Description:Advanced Analytics and Research Lab (AAARL) provides affordable, user-friendly and high impact analytical consultation, tools and education for people and organizations. The company aspires to grow into a global analytics firm and is heading towards its 7th year of operation. There is a focus on socially conscious projects such as those in the clean technology, clean energy, non-profit and government sector, but not limited to them. It is a company with a small team, so each employee in the company will have significant responsibilities.Candidate must:Have at minimum, an undergraduate in related fields: business, analytics, economics, statistics, mathematics, or computer scienceBe able to perform statistical programming in R or PythonUnderstand the fundamentals of data types, analytics, and have the passion to learn deeper into the subjectBe interested in consulting, operationalizing analytics, and technologyBe proficient at presentation skills and conducting meetingsBe a team player, be organized, be punctualIdeal candidateHave Master’s level education in relevant fieldsHas experiences in data visualization, such as Tableau or QlikHave sales and business development experienceHave a coding backgroundBenefits:Sales Bonus + Year End Profit Bonus + Employee Stock OptionsAdmitted into a customized education program that will focus on personal and professional growth of the individualWorking in a very challenging and fast paced environment that will require you to push yourself intellectuallyWorking with the founder directly in downtown Toronto office.Attend analytics, data science, AI and industry conferences and workshops, developing your own networkFlexible working arrangementsJob Types: Full-time, PermanentSchedule:Day shift",,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+"Junior Associate Data Analytics, Class of 2023",Publicis Sapient,Ontario,Toronto,-1,-1,,CAD,"Company Description
+Publicis Sapient is a digital transformation partner helping established organizations get to their future, digitally-enabled state, both in the way they work and the way they serve their customers. We help unlock value through a start-up mindset and modern methods, fusing strategy, consulting and customer experience with agile engineering and problem-solving creativity. United by our core values and our purpose of helping people thrive in the brave pursuit of next, our 20,000+ people in 53 offices around the world combine experience across technology, data sciences, consulting and customer obsession to accelerate our clients’ businesses through designing the products and services their customers truly value.
+
+Job Description
+As a Junior Associate in our Data Science & Analytics practice, you will develop a deep understanding of how customers engage with our client brands and digital experiences. You will leverage data and your analytics skills to make recommendations that will drive incremental revenue, reduce cost and optimize the customer experience.
+You will develop new technical skills as you begin working with digital analytics platforms to collect and analyze customer data. Then you will harness data platforms to deliver personalized experiences to customers and report on their performance. After developing a thorough understanding of the performance of our clients’ business you will develop and test hypotheses for driving incremental value from personalized marketing initiatives. Through your exposure to project work, you will familiarize yourself with many areas of our practice, developing expertise and a specialization.
+
+As part of our new graduate program, you will be on-boarded into a variety of digital analytics tools and will be working with clients by month 2. You’ll also receive on-going structured learning during your first three years that is tailored to you, and you will also be supported with your growth & progression.
+
+Your Impact:
+Discover opportunities for driving impact to our client’s business
+Measure the impact of digital transformation initiatives, campaigns and new capabilities/tactics
+Perform hands-on advanced analysis of large volumes of financial, transactional, marketing, web analytics, and customer data
+Uncover the hidden stories about our clients’ customers discovered through data and crafted into a compelling presentations
+Become proficient in tools that deliver personalized digital experiences
+
+Qualifications
+We recognize that you might not meet 100% of the requirements listed below and that’s okay! We’d love to hear from you anyways.
+Required Qualifications
+Experience conducting data analysis through coursework, coop, and/or volunteer organizations
+Fluency in a data programming language such as SQL, Python, R, SAS
+Able to quickly clean, join, transform, and analyze vast datasets into a compelling narrative for presentation to senior audiences
+Strong presentation and communication skills clearly developing client communications using tools such as PowerPoint, Excel and email
+A demonstrated leader from community organizations or prior employment
+A demonstrated willingness to learn (a successful candidate will be supported through the certification process of relevant tools for their accounts)
+BS/BA degree in Business and Mathematics, Economics, Statistics, Physics, Engineering, Bioinformatics, Computer Science, or other areas where analytics and business are applied
+Graduating between August 2022 and July 2023
+Willingness to learn digital analytics tools (Adobe Analytics, Google Analytics, etc.)
+Interest in A/B & multivariate experimentation tools
+SQL, Excel, R, Python, SAS, and PowerPoint
+Willingness to travel up to 80-100% of the time
+Desired Qualifications
+Prior experience in digital analytics
+Direct experience working with digital analytics tools including: Tag Managers, Digital Analytics, Customer Data Platforms (CDP) , Data Management Platforms (DMP), Business Intelligence (BI) platforms, Marketing Automation platforms
+Additional Information
+Benefits of Working Here
+Generous paid vacation and 15 paid holidays
+Flexible work/life balance
+Awesome benefits – health, dental, vision, and life
+Company discounts and tuition reimbursement
+Support and tools to be coached and mentored; hands-on experience to sharpen your skills and learn from industry experts
+Participation in our 3 year Early Career Development Program that encompasses growing your skills with clear promotion path opportunities
+
+Application Tips
+Applications will be accepted until September 30th, 2022.
+
+In order for your application to be considered complete, you must upload both your resume and unofficial transcript. A cover letter is optional but recommended.
+
+Once you submit your application, you will hear back from us within 5 business days on next steps.
+As part of our dedication to an inclusive and diverse workforce, Publicis Sapient is committed to Equal Employment Opportunity without regard for race, color, national origin, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity, or religion. We are also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at hiring@publicissapient.com or you may call us at +1-617-621-0200.",Administración y consultoría,,2022-08-26T00:00:00,2022-10-16,FULL_TIME
+Junior Data Scientist,HonestDoor,Alberta,Edmonton,-1,-1,,CAD,"HonestDoor is looking for a junior data scientist to support our data team. The ideal candidate has knowledge of Python and is interested in working in a start-up environment. They learn quickly and, when they don't understand something, they ask questions. They are able to follow directions/instructions and are keen on learning the intricacies of the models and how they work.In this role, you will:- Develop new and improve existing ML models- Analyze, interpret and use machine learning and data mining algorithms on the enormous amount of data- Write code to implement your experiments- Perform analysis for a wide range of requests using data from various platforms.- Support business operations in providing advice stemming from data and process analysis taken from internal and external sources.If you are based in Edmonton, this role would be a hybrid remote/in-person, however, we are open to making sure that any work arrangements fit your needs. We guarantee that you'll learn a lot about both machine learning and working in a start-up.Skills & Qualifications: Proficient in Python (preferably with a focus on ML)significant database querying (SQL) data analysis and visualization experience.Comfortable jumping into an existing ML modelling code baseGood intuition for applying ML/AI theory to make business-oriented productsJob Types: Full-time, PermanentSalary: $40,000.00-$60,000.00 per yearSchedule:8 hour shiftMonday to FridayApplication deadline: 2022-09-30",,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Junior Data Analyst - Work from Home + Office (Ville St-Laurent) Permanent,MPI MATCO,Quebec,Saint-Laurent,-1,-1,,CAD,"Working alongside and supporting the Senior Business Analyst, the Junior Data Analyst will be responsible to help assist and collaborate on projects. The Junior Data Analyst will be responsible to create and automate reports that deal with all types of datasets, ranging from financial to sales pipeline management of our 30-year-old Montreal based company located in Ville Saint-Laurent that is among the leaders that specializes in industrial pressure sensitive tapes and adhesives. The Junior Data Analyst will assist and collaborate with the Senior Business Analyst on projects related to automation and process improvement. This is a full time Monday to Friday, daytime, permanent hybrid role, that is in part working from home/remote and in part working from our Ville Saint-Laurent office.This role is for you if you are passionate about all things databases, manipulation of data, creation of reports, fine tuning reports, and you are motivated by the impact of automation, with most importantly a willingness to learn and to work with the Senior Business Analyst who is known for being a ninja with all things systems and databases! This is a great learning experience where you can learn all about the business and help make a difference by helping us create triggers and alerts to help the business with decision making. You are open minded, a continuous learner and a continuous improvement geek that is motivated by creating efficiencies and loves finding solutions? Troubleshooting is your middle name? Debugging is also your favourite pastime? If so, we MUST meet!This Junior Data Analyst role is a job creation as we are growing and need more horsepower to help with our strategic initiative of automation that will help with our continuous improvement projects. If you are not afraid of the unknown and open minded to help create the path of automation, then this opportunity might be the right one for you!Responsibilities: - Assist and collaborate with the Senior Business Analyst on specific projects and strategies- Build reporting and analytics to support all departments activity that will assist with process improvement and decision making- Review and clean up data to ensure consistency and accuracy- Respond to inquiries and ad-hoc requests for information from staff in a timely manner- Build strong and influential internal relationships to help ensure business objectives are being met- Identify opportunities for continuous improvement- Any other task that may be delegated to youRequirements: - 1 to 3 years of experience in a junior data analyst role- College level diploma or other relevant education in data science, analytics, programming, or a related field- Strong analytical skills with the ability to collect, organize and analyze significant amounts of information- Ability to work independently and cross functionally- Ability to organize, prioritize and follow through with important projects and tasks- Strong attention to detail- Ability to problem-solve with a track record of producing results- Strong time management skills- Exceptional written and spoken English communication skillsProgramming language requirements: · You are proficient with the scripting language SQL and have experience working with SQL on a daily basis? SQL proficiency is a must in this role.· You have an understanding of Visual Basic? This is an asset.· You have some experience with Python? While it’s not a must to be proficient in Python, it would be an asset!What we offer: · Group RRSP· Group Health Insurance· Hybrid work schedule (at home and at our Ville Saint-Laurent office)· Ability to make a difference and have an impact· Working and learning with a team of committed and dedicated professionalsApply by sending your CV !https://www.mpi-solutions.com/https://www.facebook.com/matcoinchttps://www.linkedin.com/company/matco-packaging-inc.?trk=biz-companies-cymAt MPI Matco, we strive to provide an environment where everyone feels valued by respecting individual differences and welcoming diverse life and work styles. We are an equal opportunity employer and do not discriminate or make employment decisions on the basis of race, color, religion, sex, disability, or any other protected characteristic.---------------------------------------------------------------------------------------------------------------------Travaillant aux côtés et en soutien de l'analyste d'affaires principal, l'analyste de données junior sera chargé d'aider et de collaborer sur les projets. L'analyste de données junior sera responsable de créer et d'automatiser des rapports qui traitent de tous les types d'ensembles de données, allant de la gestion financière à la gestion du pipeline de ventes de notre entreprise montréalaise de 30 ans située à Ville Saint-Laurent qui est parmi les leaders qui se spécialise dans les rubans et adhésifs industriels. L'analyste de données junior assistera et collaborera avec l'analyste d'affaires principal sur des projets liés à l'automatisation et à l'amélioration des processus. Il s'agit d'un poste hybride permanent à temps plein du lundi au vendredi, de jour, en partie en télétravail et en partie à notre bureau à Ville Saint-Laurent.Ce rôle est pour vous si vous êtes passionné par tout ce qui concerne les bases de données, la manipulation de données, la création de rapports, la mise au point de rapports, et si vous êtes motivé par l'impact de l'automatisation, avec surtout une volonté d'apprendre et de travailler avec l’analyste d'affaires principal, qui est connu pour être un ninja avec tout ce qui concerne les systèmes et les bases de données ! Il s'agit d'une excellente expérience d'apprentissage où vous pouvez apprendre beaucoup sur nos opérations et aider à faire la différence en nous aidant à créer des déclencheurs et des alertes pour aider l'entreprise à prendre des décisions. Vous êtes ouvert d'esprit, un apprenant continu et un « geek » de l'amélioration continue qui est motivé par la création d'efficacités et qui aime trouver des solutions ? Agent dépannage est votre deuxième prénom ? Le « débogage » est aussi votre passe-temps favori ? Si oui, nous DEVONS nous rencontrer !Ce rôle d'analyste de données junior est une création d'emploi car nous grandissons et avons besoin de plus de puissance pour nous aider dans notre initiative stratégique d'automatisation qui nous aidera dans nos projets d'amélioration continue. Si vous n'avez pas peur de l'inconnu et que vous êtes ouvert d'esprit pour aider à ouvrir la voie de l'automatisation, alors cette opportunité pourrait être la bonne pour vous !Responsabilités: - Assister et collaborer avec l'analyste d'affaires principal sur des projets et des stratégies spécifiques- Créer des rapports et des analyses pour soutenir toutes les activités des départements qui aideront à l'amélioration des processus et à la prise de décision- Examiner et nettoyer les données pour assurer la cohérence et l'exactitude- Répondre aux demandes de renseignements et aux demandes ponctuelles d'information du personnel en temps opportun- Établir des relations internes solides et influentes pour s'assurer que les objectifs commerciaux sont atteints- Identifier les opportunités d'amélioration continue- Toute autre tâche qui pourrait vous être déléguéeExigences : - 1 à 3 ans d'expérience dans un rôle d'analyste de données junior- Diplôme d'études collégiales ou autre formation pertinente en science des données, en analyse, en programmation ou dans un domaine connexe- Solides compétences analytiques avec la capacité de collecter, d'organiser et d'analyser des quantités importantes d'informations- Capacité à travailler de manière autonome et interfonctionnelle- Capacité à organiser, hiérarchiser et suivre les projets et tâches importants- Grand souci du détail- Capacité à résoudre des problèmes avec un historique de production de résultats- Solides compétences en gestion du temps- Compétences exceptionnelles en communication écrite et orale en anglaisExigences en matière de langage de programmation :Vous maîtrisez le langage de script SQL et avez une expérience de travail avec SQL au quotidien ? La maîtrise de SQL est indispensable dans ce rôle.Vous maîtrisez Visual Basic ? C'est un atout.Vous avez de l'expérience avec Python ? Même s'il n'est pas indispensable de maîtriser Python, ce serait un atout !Ce que nous offrons: REER collectifAssurance maladie collectiveHoraire de travail hybride (à domicile et à nos bureaux de Ville Saint-Laurent)Capacité de faire une différence et d'avoir un impactTravailler et apprendre avec une équipe de professionnels engagés et dévouésPostulez en envoyant votre CV !https://www.mpi-solutions.com/https://www.facebook.com/matcoinchttps://www.linkedin.com/company/matco-packaging-inc.?trk=biz-companies-cymChez MPI Matco, nous nous efforçons de fournir un environnement où chacun se sente valorisé en respectant les différences individuelles et en accueillant divers styles de vie et de travail. Nous sommes un employeur garantissant l'égalité des chances et ne discriminons ni ne prenons de décisions en matière d'emploi sur la base de la race, de la couleur, de la religion, du sexe, du handicap ou de toute autre caractéristique protégée.Job Types: Full-time, PermanentBenefits:Dental careExtended health careRRSP matchFlexible Language Requirement:French not requiredSchedule:Day shiftMonday to Friday",,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Junior Data Analyst,Nestle,Quebec,Montreal,-1,-1,,CAD,"A little bit about us
+
+Our story began 30 years ago with a simple but revolutionary idea- to create the perfect cup of coffee. Nestlé Nespresso has become an international reference for the highest quality coffee and an iconic symbol of refined elegance. We are now in more than 60 countries and our team has grown well beyond 10500 employees. Nespresso Canada continues to drive momentum and innovation in our market segment, and in
+
+North America, we are just getting started.
+
+Position Snapshot
+
+Business areas: Nespresso
+
+Job title: Junior Data Analyst
+
+Location: Montreal, Quebec
+
+Grade Level: 13
+
+Position Summary
+
+We are looking for a Data Analyst based at our Montreal location. This role will be responsible for working on Dashboards and BI Tools design/creation as well as the processing and integration of data in order to support the Lead Marketing Analytics, the Marketing Analytics Team and our internal customers.
+A day in the life of a Data Analyst…
+Dashboards & BI Tools creation
+
+Help to define business needs
+Participate to build the data model
+Create all the measures using DAX and Power Query in Power BI
+Design the dashboards (visualizations, sheets, etc.)
+Identify opportunities to enhance processes and reporting
+Advise supervisor of issues related to data
+Refresh, publish (on Power BI Services) and maintain existing dashboards
+Create related documentation (procedures, user-guide)
+AD-Hoc reporting
+
+Assist in other data related ad hoc projects
+What will make you successful?
+
+A degree in Business, Data Science/Engineering, Marketing or an equivalent combination of education and experience
+Relevant training/background related to the position
+Minimum 2 years of related experience
+Advanced knowledge of Excel
+Good knowledge of Power BI
+Rigor and great attention to details
+Understanding the relationships between data and the data modelization experience
+Experience with SQL (asset)
+Experience with Microsoft Access (asset)
+Experience with SAP BO and/or SPSS Modeler and/or a BI visualization Tool (asset)
+Experience with Databases and queries (asset)
+French (spoken and written), English (asset)
+We have a friendly, supportive team with a coaching and mentoring environment. There are real opportunities for future development and progression – this really could be a move towards the exciting Data Analytics career you’ve always wanted.
+
+What you need to know
+What can we offer in return? Great benefits you’d expect from a business the size of Nestle including a comprehensive total rewards benefits package including Health and Dental benefits that start on day one as well as a Company matched retirement savings plan, Excellent training and development programs as well as opportunities to grow within the company. We will be considering applicants as they apply, so please don’t delay in submitting your application.
+
+
+Nestlé is an equal opportunity employer committed to diversity and inclusion. If you are selected to participate in the recruitment process, please inform Human Resources of any accommodations you may require. Nestlé will work with you in an effort to ensure that you are able to fully participate in the process.",Manufactura,,2022-09-15T00:00:00,2022-10-16,OTHER
+Software Engineer in Algorithms & Optimization - Junior,RideCo,Ontario,Waterloo,-1,-1,,CAD,"Role Summary:
+
+This is an opportunity in the exciting and fast-growing transportation technology industry. Public transit is being transformed from a system of static, scheduled fixed-routes, to a dynamic on-demand network, and you will be one of the pioneers shaping this transformation.
+
+As the newest member of our Algorithms & Optimization team, you will contribute to the complex suite of algorithms that power RideCo’s core ridesharing platform. The ideal candidate must possess a sound grasp of Algorithms and Data Structures, strong critical thinking and reasoning skills, and the ability to produce readable, maintainable, and working software programs from abstract concepts and ideas. You will thrive in a small-team environment with fast-paced agile iterations, where every developer contributes code that delivers a meaningful impact to our customers and the company.
+
+Responsibilities:
+
+At RideCo, you will be switching hats between Software Engineer, and Data Scientist depending on the problem at hand.
+
+ As a Software Engineer, you will:
+
+Contribute to a distributed platform architecture design for smart partitioning of the problem space, caching mechanisms, and microservices.
+Build systems to intelligently automate manual bottlenecks in service rollouts.
+Expand the system’s capabilities to new features and use-cases while maintaining a high level of performance.
+Work with the team to convert prototypes for novel optimization algorithms into a production-ready and deployable product.
+Build tools to gain greater visibility into the performance of our optimization engine.
+
+As a Data Scientist, you will
+
+Enhance the accuracy of the ETAs in RideCo’s real-time traffic forecasting system.
+Analyze ridership data to develop models to predict ride-demand, which will be used to reposition RideCo’s fleet of vehicles.
+Fine-tune the hyperparameters in RideCo’s Optimization algorithms to extract greater value from the system.
+
+Your playground / what you’ll learn:
+
+At RideCo you’ll get a chance to play, learn and build with the following tools and technologies, and as part of a cross-functional team that is the world’s foremost innovator in on-demand transit software.
+
+Languages: Python, JavaScript / Angular
+Web Stack: Django, Flask, Gunicorn, Nginx
+Mobile: Ionic, hybrid apps for Android and iOS
+Logistics Engine: algorithms for real-time vehicle routing, Optimization
+Mapping/Routing: OpenStreetMap, Open Source Routing Machine, Traffic forecasting algorithms
+Infrastructure: AWS, Terraform, Redis, PostgreSQL, Celery, RabbitMQ
+Health/Monitoring: AWS CloudWatch, Prometheus, Grafana, Elasticsearch, Logstash, Kibana
+Development Processes: Agile, continuous integration, Jenkins, zero-downtime software updates
+
+Qualifications and Experience:
+
+Required:
+
+A deep and intuitive understanding of Algorithms and Data Structures.
+Ability to process, assimilate, and explain complex and abstract concepts from research publications.
+
+Preferred:
+
+Specialized knowledge. Seeking candidates with expertise in two or more of the following:
+
+Combinatorics and Discrete Optimization
+Online Algorithms
+Data Science / Machine Learning
+Open Street Maps or Open Source Routing Machine
+Distributed computing / Web Scale architectures.
+
+Education:
+
+A Bachelor’s degree in Computer Science, Software Engineering, or related technical discipline.
+
+Compensation and Benefits:
+
+Base Salary: $90K- $110K + performance-based bonus or stock options.
+Work-Life Balance & Additional Perks: Flex-time work schedules, vacation time, weekly catered lunches, social events, casual dress code
+Benefits Plan: Medical, dental, prescription, life/health spending accounts and more
+Work Environment: Located in KW's most desirable work space in the heart of Uptown Waterloo
+Commuter Program: Complimentary rides to and from work
+
+Who we are:
+
+http://www.rideco.com
+
+RideCo powers on-demand transit. Public transit agencies use RideCo's cloud-based software platform to provide on-demand shared rides in dynamically routed buses and vans. Our clients include some of the world’s largest transportation operators such as Los Angeles Metro, Houston Metro, San Antonio Metro, and Calgary Transit.
+
+Have you experienced getting frustrated with transfers and waiting while taking a public bus? Have you seen buses drive around in low-density areas with very few passengers on-board and wondered how inefficient that seems to be? You are likely aware of the first & last mile access challenges faced by transit hubs. We are solving these problems by re-imagining shared mobility. Imagine a world where vehicles have dynamic routes responsive to real-time trip demand. This 'dynamic shuttle' (or van /sedan) would pick you up, on-demand, at or near your doorstep, and take you to your destination or transit hub. Along the way, it may pick up other passengers going in your direction. Your experience will be seamless: less waiting, less walking, fewer transfers, shorter travel time, and timely pickups and drop-offs. RideCo's 'dynamic shuttle' platform enables this seamless experience and low-cost shared rides for vehicle fleet operators and their passengers. By seamlessly moving more people in fewer vehicles we are catalyzing a generational shift in how people get around cities and towns. This means commuters spend less time in transit and more time doing what they enjoy.
+
+RideCo powers a diverse range of use cases, including residential/ suburban travel; first-mile-last-mile connections for transit hubs; and corporate employee transportation. We are investing to scale up and capture the growing demand for on-demand shared rides solutions.
+
+
+RideCo is proud to be an equal opportunity employer, we are committed to building and supporting a culture of diversity, inclusion, and accessibility. We hire the best talent regardless of race, color, creed, national origin, ancestry, disability, marital status, age, veteran status, sex, sexual orientation, gender identity, and expression. Building a team that represents a variety of backgrounds, perspectives, and skills benefits our employees, our customers, our products, and our community.
+
+In accordance with the Accessibility for Ontarians with Disabilities Act, accommodations are available upon request for candidates taking part in all aspects of the selection process. If you require special accommodation to complete any portion of the application or interview process, please contact people@rideco.com.",Tecnologías de la información,,2022-09-14T00:00:00,2022-10-16,OTHER
+Data Scientist I,TD Bank,Ontario,Toronto,-1,-1,,CAD,"TD Description
+Tell us your story. Don't go unnoticed. Explain why you're a winning candidate. Think ""TD"" if you crave meaningful work and embrace change like we do. We are a trusted North American leader that cares about people and inspires them to grow and move forward.
+Stay current and competitive. Carve out a career for yourself. Grow with us.
+Department Overview
+What does TD stand for? For starters, we believe in visionary leadership and insights. We believe in using every resource at our disposal to better serve our clients, and for almost every department, that begins with data.
+As part of our Data and Analytics team, you'll be a fundamental part of crafting business processes enterprise-wide by analyzing vast amounts of past and present data.
+TD's vision for the future? Tailored, customized banking products, services and experiences for every single customer. If you've been in business as long as we have, you know there's no such thing as one size fits all, and a diverse, inclusive Data Analytics team is a massive part of that future achievement.
+Job Description
+About this Role
+You are eager to provide your burgeoning technical expertise as part of a team that takes on consistently complex projects across a wide range of business units. You are familiar with data functions including data modelling, visualization, data profiling, data origin and lineage, report design and more. You will employ these disciplines to help create data related solutions to drive business results. You thrive on positive feedback and use your specialized knowledge to implement feedback systems that evaluate your team's progress and create innovative new ways improve your overall performance.
+We are looking for someone to work as part of a trailblazing team of data scientists who create groundbreaking analytical solutions that improve our core work enterprise wide.
+As a Data Scientist I, these are the essential qualifications of this role:
+Guide on mathematical concepts for the broader applied analytics team and inspire the adoption of advanced analytics and data science across the organization
+Interpret the meaning of new strategic directions and set objectives and measurements
+Implement monitoring and feedback systems to evaluate progress and identify ways of making continuous improvements
+Capture and analyze information or data on current and future trends
+Seek information on issues impacting the progress of organizational and process issues
+Educate the organization on approaches, such as testing hypotheses and statistical validation of result
+Help the organization understand the principles and the math behind the scientist process to drive organizational alignment
+Translate up to date information into continuous improvement activities that enhance performance
+Research organizational and professional trends, evaluate information sources, and collate and compare findings for bias, omission and accuracy, conduct objective analysis
+Establish positive working relationships across multiple business and technology partners, program and project managers
+Participate in knowledge transfer within the team and business units
+Job Requirements
+What can you bring to TD? Tell us about your most relevant experience, credentials and knowledge for this role, as well as these essential requirements and attributes:
+Undergraduate degree or technical certificate
+Five (5) or more years of relevant experience
+Inclusiveness
+At TD, we are committed to fostering an inclusive, accessible environment, where all employees and customers feel valued, respected and supported. We are dedicated to building a workforce that reflects the diversity of our customers and communities in which we live and serve. If you require an accommodation for the recruitment/interview process (including alternate formats of materials, or accessible meeting rooms or other accommodation), please let us know and we will work with you to meet your needs.
+Job Family
+Advanced Analytics & Modelling
+Job Category - Primary
+Enterprise Data & Analytics
+Job Category(s)
+Enterprise Data & Analytics
+Hours
+37.5
+Business Line
+Corporate
+Time Type
+Full Time
+Employment Type
+Regular
+Country
+Canada
+**Province/State (Primary)
+Ontario
+City (Primary)
+Toronto
+Work Location
+3500 Steeles Avenue East Building 1, TD Centre - North - 77 King Street West
+ProvState 2
+Ontario
+City(s) 2
+Markham
+Job Expires
+22-Sep-2022",Finanzas,,2022-08-22T00:00:00,2022-10-16,FULL_TIME
+Junior Business Analyst - Food Security,United Way British Columbia,British Columbia,Burnaby,-1,-1,,CAD,"JOB PURPOSE:
+Working closely with the Food Security Team, the Junior Business Analyst – Food Security, is responsible for data stewardship, reporting, analytics and back-end integration of the United Way BC Food Security Data Hub. The position is responsible for developing and preparing effective reporting tools, conducting analysis, developing models and corresponding strategic goals and Key Performance Indicators (KPI’s). This position is responsible for leading and/or participating in organizational initiatives related to research, reporting and analytics as well as identifying trends and informing strategy.
+This is a Temporary Full-Time position, and currently budgeted until September 2023.
+DUTIES & RESPONSIBILITIES:
+Data Coordination
+Maintains standardized accountability and reporting systems for the Data Hub
+Verifies the quality and integrity of data and information collected via the Data Hub
+Supports and manages dashboards for monitoring key metrics including community impact
+Creates and maintains manuals, guidelines and departmental protocols
+Supports program sites to meet the data and reporting requirements
+Liaises with the Food Security team; Business Intelligence team; and Community partners to provide requirements for current and future data needs
+Liaises with external stakeholders to ensure data integration on the back end
+Reporting and Analytics
+Generates accurate and effective reports through narratives, statistical information, and graphic/visual descriptors of data
+Conducts comprehensive analysis; highlighting key insights and recommendations to inform UWBC’s Food Security strategy
+Identifies trends and patterns through the synthesis of program data
+Produces local community-level and province-wide dashboards through data mining operations
+Leads and/or participates in organizational initiatives related to research, reporting and analytics
+Supports the department, organization, government, and various community stakeholders with data analysis and reports as requested
+Strategic Planning and Goal Setting
+Contributes to the development of food security strategies including measurement, tracking, trends analysis, benchmarking and goal setting where applicable
+Provides insights and recommendations for the food security strategy
+Monitors external data to identify trends and opportunities
+Supports the Business Intelligence team in translating food security goals into KPIs and integrating Food Security data into the organizational data models
+QUALIFICATIONS & REQUIREMENTS:
+Education:
+Undergraduate degree in Data Science, Computer Science, Mathematics or equivalent education/experience.
+Experience:
+Two to three (2-3) years' experience as a data, business or technical specialist/analyst or a related role with experience in data systems management including collection, reporting, modeling and analysis
+Project Management education or experience is an asset
+Knowledge of and experience with the non-profit sector in British Columbia is an asset
+Skills:
+Proficiency in the use of databases, spreadsheets and project management tools at a moderately to highly complex level
+Ability to accurately complete intermediate data querying/information mining (SQL), analysis activities and use associated BI Tools (PowerBI, Tableau, etc.)
+Experience with digital product development life cycles
+Outstanding customer service skills and excellent telephone manner
+Demonstrated ability to work with volunteers, including community groups, onsite volunteers, skill based and professional staff
+Proficiency in Microsoft Office suite and computer applications
+Ability to work on multiple projects and responsibilities concurrently
+Ability to create and maintain good working relationships across the organization
+Attention to detail; excellent organizational and time management skills
+Proven presentation and training skills
+Ability to exercise a high level of tact and discretion in both internal and external interactions
+WORKING CONDITIONS:
+Require a driver's license and access to a vehicle
+Some hours outside of business hours to attend meetings and events
+CHARACTERISTICS:
+For success at UWBC and in this role, certain demonstrable characteristics will be required:
+A commitment to building healthy, caring and inclusive communities, internally and externally
+Embodying the organization's core values to be collaborative, compassionate, strategic, responsive, accountable, and inspiring
+Ability to navigate ambiguity and comfortably operate in it
+Drive to succeed as an individual and as a team member
+At UWBC, we don’t just accept difference – we celebrate it, we support it, and we thrive on it for the benefit of our employees, programs, donors, and the communities we live and work in. At UWBC, we encourage all applicants regardless of age, sex, gender identity, colour, religion, sexual orientation, or any other basis to apply.
+Don’t meet every single requirement? Studies have shown that women, people of colour and indigenous people are less likely to apply to roles unless they meet every qualification. At UWBC, we are dedicated to Justice, Equity, Diversity, and Inclusion, so if you are excited about this role, but your experience and qualifications are not perfectly aligned, we still encourage you to apply. You may be just the right candidate for this or other roles.
+This is a bargaining unit role with CUPE Local 1760. This position is a pay grade 34 which is $69,941.02 for the Lower Mainland/Fraser Valley regions or $63,173.74 for other BC regions outside the Lower Mainland.
+This posting is scheduled to close on October 4th. Interested candidates are invited to apply by submitting a cover letter and resume to job competition C-2022-87
+We kindly ask for no phone calls please. Due to a high number of applicants UWBC receives, only candidates selected for an interview will be contacted. We thank all applicants for their interest in UWBC",,,2022-09-13T00:00:00,2022-10-16,FULL_TIME
+Jr. Data Scientist,SimpTek Technologies,New Brunswick,Fredericton,-1,-1,,CAD,"SimpTek Technologies - Fredericton, NB:
+SimpTek is seeking a Jr. Data Scientist to join our growing team. You will play a crucial role in helping SimpTek make smarter decisions to deliver even better products. Your primary focus will be on applying data mining techniques, doing statistical analysis, and building high-quality prediction systems integrated with our products to improve and extend the features used by our existing platform.
+
+We are looking for someone that thrives on the urgency of startups and can leverage data analytics while being creative and is eager to learn and evolve as the job demands. You will be part of a dynamic team that is passionate about building better ways to provide energy insights for buildings. We’re looking for someone who can take ownership, and if you think you have those qualifications, you might be a good fit to join our team!
+
+Responsibilities:
+
+Selecting features, building and optimizing classifiers using machine learning techniques
+Enhancing data collection procedures to include information that is relevant for building analysis
+Processing, cleansing, and verifying the integrity of data used for analysis
+Doing ad-hoc analysis and presenting results in a clear manner
+Integration with 3rd party API’s for data collection and analysis, including weather data, time-series data, and event-based data sets
+
+Skills and Qualifications:
+
+1-2 years experience in similar roles
+Excellent understanding of machine learning techniques and algorithms, such as k-NN,
+Naive Bayes, SVM, Decision Forests, etc.
+Experience with common data science toolkits.
+Great verbal and written communication skills
+Experience with data visualization tools, such as D3.js, Highcharts.js etc.
+Proficiency in using query languages like SQL.
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills
+Data-oriented personality
+
+About SimpTek Technologies:
+We are creating a platform that changes the way utilities, building owners and energy service providers collaborate. By using energy data analytics, SimpTek is building a new way of connecting consumers with personalized products and services to drive towards a zero-carbon world, We call this the Gride Edge Economy
+
+We can offer you::
+
+Competitive salary
+Benefits
+The opportunity to work with passionate and driven individuals
+Flexible schedule
+
+Question::
+If you were given a set of resumes with the goal to choose the most qualified candidate for the
+Data Scientist position at SimpTek, how would you determine the best candidate?",,,2022-08-21T00:00:00,2022-10-16,OTHER
+"Cloud Support Engineer I - Analytics, Support Engineering","Amazon Web Services Canada, In",,,-1,-1,,CAD,"Exposure to Database Fundamentals and General Troubleshooting (tuning and optimization, deadlocks, keys, normalization) in any Relational Database Engines (MySQL, PostgreSQL, Oracle, SQLServer)
+Experience in Business Analytics application, support, and troubleshooting concepts
+Experience with System Administration and troubleshooting with Linux (Ubuntu, CentOS, RedHat) and/or Microsoft Windows Server and associated technologies (Active Directory)
+Experience with Networking and troubleshooting (TCP/IP, DNS, OSI model, routing, switching, firewalls, LAN/WAN, traceroute, iperf, dig, cURL or related)
+Bachelor’s degree in Information Science / Information Technology, Data Science, Computer Science, Engineering, Mathematics, Physics, or a related field OR equivalent experience in a technical position OR equivalent military experience
+1+ years of professional experience
+
+Job summary
+ABOUT US
+
+Amazon Web Services is the market leader and technology forerunner in the Cloud business. As a member of the AWS Support team you will be at the forefront of this transformational technology, assisting a global list of companies and developers that are taking advantage of a growing set of services and features to run their mission-critical applications. As a Cloud Support Engineer, you will act as the ‘Cloud Ambassador’ across all the cloud products, arming our customers with required tools & tactics to get the most out of their Product and Support investment.
+
+Would you like to use the latest cloud computing technologies? Do you have an interest in helping customers understand application architectures and integration approaches? Are you familiar with best practices for applications, servers and networks? Do you want to be part of a customer facing technology team helping to ensure the success of Amazon Web Services (AWS) as a leading technology organization?
+
+
+If you fit the description, you might be the person we are looking for! We are a group of smart people, passionate about cloud computing, and believe that world class support is critical to customer success.
+
+WHAT CAN YOU EXPECT FROM A LIFE AT AWS?
+
+
+Every day will bring new and exciting challenges on the job while you:
+
+Learn and use groundbreaking technologies.Apply advanced troubleshooting techniques to provide unique solutions to our customers' individual needs.Interact with leading engineers around the world.Partner with Amazon Web Services teams to help reproduce and resolve customer issues.Leverage your extensive customer support experience to provide feedback to internal AWS teams on how to improve our services.Drive customer communication during critical events.Drive projects that improve support-related processes and our customers’ technical support experience.Write tutorials, how-to videos, and other technical articles for the developer community.Work on critical, highly complex customer problems that may span multiple AWS services.
+
+WHY AWS SUPPORT?
+
+First and foremost this is a customer support role – in The Cloud.On a typical day, a Support Engineer will be primarily responsible for solving customer’s cases through a variety of customer contact channels which include telephone, email, and web/live chat. You will apply advanced troubleshooting techniques to provide tailored solutions for our customers and drive customer interactions by thoughtfully working with customers to dive deep into the root cause of an issue.Apart from working on a broad spectrum of technical issues, an AWS Support Engineer may also coach/mentor new hires, develop & present training, partner with development teams on complex issues or contact deflection initiatives, participate in new hiring, write tools/script to help the team, or work with leadership on process improvement and strategic initiatives.Career development: We promote advancement opportunities across the organization to help you meet your career goals.Training: We have training programs to help you develop the skills required to be successful in your role.
+We hire smart people who are keen to build a career with AWS, so we are more interested in the areas that you do know instead of those you haven’t been exposed to yet.
+Support engineers interested in travel have presented training or participated in focused summits across our sites or at specific AWS events.As we operate on a follow-the-sun model, with Premium Support sites located globally, working hours and days are based on customer demand and may include weekends (on a rotational basis).
+
+
+This Analytics role supports our services that focus on Analytic technologies, including Kinesis, Elasticsearch, Cloudsearch, and Redshift.
+
+Experience in a customer support environment
+Experience analyzing, troubleshooting, and providing solutions to technical issues
+Familiar with data warehousing and ETL process
+Understanding of Cloud Computing concepts
+Experience scripting or developing in at least one of the following languages:Python, R,Ruby ,GO,Java,.NET (C#), JavaScript
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-08-17T00:00:00,2022-10-16,FULL_TIME
+Junior Data Scientist Work Experience Student,City of Edmonton,Alberta,Edmonton,-1,-1,,CAD,"Junior Data Scientist Work Experience Student 8 months
+Job Number : 44640
+1 temporary full-time position for 8 months intended specifically for students currently enrolled in a computer science, data science, business technology management or related co-op or equivalent post-secondary work experience degree program, commencing in January 2023
+The Financial and Corporate Services Department’s role is to lead the organization in becoming a modern municipal corporation with a special focus on competency, leadership and culture. The business model drives integration, modernization and innovation across all branches to create an aligned and employee focused system.
+We are currently looking to add a Junior Data Scientist Work Experience Student to the Data Science and Research team.
+Responsibilities include:
+Support with the development of analytical solutions; apply mathematical and statistical modelling approaches to various problems that lead to actionable decisions affecting operations
+Assist team with corporate level consultation service that supports business stakeholders in the conception, planning and implementation of data-driven analytical solutions to City service delivery issues.
+Work directly with business areas throughout the Corporation to translate data science insights to action
+Use analytics to support evidence based decision-making and collaboration particularly in emerging fields that address the needs of multiple City business areas
+Support the Data Science and Research Team at stakeholder meetings and presentations
+Assist in producing reports, presentations and data visualizations using a variety of communication materials for diverse audiences
+Assist in team members with the review and evaluation of processes and procedures, and providing recommendations
+Other related duties as required
+Note: This position will be a combination of working from home and on-site working conditions.
+Qualifications :
+Currently enrolled in a computer science, data science, business technology management or related co-op or equivalent post-secondary work experience degree program
+Access to reliable internet while working from home
+Demonstrated ability using Google Workspace applications
+Experience with programming languages and relational databases such as SQL
+Ability to analyze and visualize data using R or Python
+Experience with multivariate regression/classification, time series models, cluster analysis, anomaly detection, optimization and both supervised and unsupervised machine learning techniques
+Project management experience and skills
+Ability to work independently and make decisions in the absence of a supervisor
+Excellent verbal and written communication skills and ability to maintain strong working relationships
+Demonstrated ability to manage multiple tasks with multiple elements, with attention to detail
+Demonstrate service excellence, embracing diversity and promoting inclusiveness
+Demonstrate alignment with the Cultural Commitments of Safe; Helpful; Accountable; Integrated; and Excellent, fostering an environment for others to do the same. For more information on the City’s Cultural Commitments, please visit (http://bit.ly/3bH2Ztv)
+Demonstrate the foundational competencies, key behaviours and attributes of the City’s six leadership competencies: Courage, Inclusivity, Values-Based Influencer, Collaborative Networker, Systems Thinker and Creative Innovator. For more information on the City’s leadership competencies, please visit (http://bit.ly/2PLbz1w)
+Additional assets include experience in or knowledge of:
+Using the R package “Shiny”
+Working with big data in real time/near real time and with big data platforms
+Please note, as part of your application, we ask that attach an unofficial transcript, and an enrollment verification letter (indicating you are enrolled in a co-op or related post-secondary work experience degree program). Talent sourced through this process may be considered for similar opportunities within the City.
+The City of Edmonton is committed to inclusive, respectful and equitable workplaces that represent the communities we serve. We continuously improve our systems, policies and practices to remove barriers and ensure our employees, in all their diversity, can succeed. We value applicants with a diverse range of skills, experiences and competencies, and encourage you to apply. To learn more, see the Art of Inclusion: Our Diversity and Inclusion Framework here: https://bit.ly/3ye6wb5
+The City of Edmonton strives to provide reasonable access and accommodations throughout the application and selection process. If you would like to request an accommodation at any stage of the process, please contact Employment@edmonton.ca.
+COVID-19 Notice: The City of Edmonton has implemented a COVID 19-Vaccination Policy. Employees must be fully vaccinated against COVID-19 and provide proof of vaccination. Employees who cannot be fully vaccinated on the basis of a protected legal ground (e.g. medical, religious) may request an exemption. Please note that this policy applies to all employees, including new hires, and volunteers. If your application is successful, you will be asked to provide proof of vaccination or request an exemption.
+For more information, please refer to our COVID-19 Vaccination Policy (bit.ly/3lKwb6j) and COVID-19 Vaccination Procedure (bit.ly/39BICMt).
+Hours of Work: 33.75 hours per week, Monday - Friday. The weekly hours of work for this position are currently under review and may change at a future time. Any changes will be made in accordance with the City of Edmonton/Civic Service Union 52 collective agreement and the incumbent will be notified in advance.
+Salary: $22.799 - $26.599 (Hourly)
+Talent Diversity Consultant: JY/MJB
+Classification Title : Student Work Exp 4YR Post Secondary
+Posting Date : Sep 15, 2022
+Closing Date : Sept 29, 2022 11:59:00 PM (MDT)
+Number of Openings (up to) : 1 - Student Position Full-time
+Union : CSU 52
+Department : Service Innovation and Performance
+Work Location(s) :
+Century Place, 17th Floor, 9803 - 102A Avenue
+
+ Edmonton T5J 3A3",Gobierno y administración pública,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Junior Data Scientist,Lululemon,British Columbia,Vancouver,-1,-1,,CAD,"Who we are
+
+lululemon is a yoga-inspired technical apparel company up to big things. The practice and philosophy of yoga informs our overall purpose to elevate the world through the power of practice. We are proud to be a growing global company with locations all around the world, from Vancouver to London, and places in between. We owe our success to our innovative product, our emphasis on our stores, our commitment to our people, and the incredible connections we get to make in every community we are in.
+
+About this team
+
+We are looking for someone who is passionate about applying machine learning and statistical modeling techniques to support product strategy at lululemon. This individual will be working closely with cross-functional partners to research data science models and oversee end-to-end implementation into production systems. Working with teams of diverse skillsets and backgrounds, the Data Scientist leads research projects to solve the most difficult problems facing our Product organization while mentoring junior team members.
+
+A day in the life:
+
+Work with a senior data scientist to define data science projects from start to finish, identifying opportunities, defining the problem, building a proof of concept, and deploying a data product
+Conduct data mining on guest, product, sales, assortment data sources for insights; generate hypotheses to test for opportunities in improving the merchandising and planning process
+Apply a wide range of statistical and quantitative analysis in practical and valuable ways
+Perform data pre-processing, data integrity, feature selection, model selection analysis
+Participate in design workshops and document business requirements and constraints
+Program and write maintainable and well-documented scripts/applications for process automation; produce reusable machine learning pipelines while model building
+Connect with business partners to understand the go-to-market process, product lifecycle, and product strategy
+Collaborate with data engineering teams to improve data quality and availability
+Visualize and communicate results to senior leadership in Product
+Create rich interactive visualizations through data interpretation and analysis integrating various reporting components from multiple data sources
+Learn and work with subject matter experts
+
+Qualifications:
+
+Excellent academics in Comp. Science, Engineering, Math, Statistics, Research, or a related field
+Strong problem solving and analytical skills including mining, evaluation, analysis, and visualization;
+Must have experience with Python (Jupyter, NumPy, Pandas, PySpark)
+Must have experience in at least one of the common data science toolkits, such as scikit learn, Tensorflow, Keras, PyTorch, etc..
+Strong SQL or Excel skills with the ability to learn other analytic tools;
+Ability to take on responsibilities and work with minimal supervision;
+Ability to create and maintain outstanding partner relationships;
+Strong technical aptitude;
+Excellent written and verbal communication skills including reports and presentations;
+A drive to learn and master new technologies and techniques
+1+ years of work experience in data science, preferably in the retail or apparel industries, including internships
+Demonstrated experience applying machine learning and data mining techniques
+Excellent communication skills to both technical and non-technical audiences
+Able to turn business problems into analytical solutions
+
+Must haves:
+
+Possesses an entrepreneurial spirit and continuously innovates to achieve great results.
+Communicates with honesty and kindness, and creates the space for others to do the same.
+Leads with courage, knowing the possibility of greatness is bigger than the fear of failure.
+Fosters connection by putting people first and building trusting relationships.
+Integrates fun and joy as a way of being and working, aka doesn’t take themselves too seriously.
+
+NOTE: Only those applicants under consideration will be contacted. Please accept our utmost appreciation for your interest. lululemon is an Equal Employment Opportunity employer. Employment decisions are based on merit and business needs, and not on race, color, creed, age, sex, gender, sexual orientation, national origin, religion, marital status, medical condition, physical or mental disability, military service, pregnancy, childbirth and related medical conditions or any other classification protected by federal, state or provincial and local laws and ordinances. Reasonable accommodation is available for qualified individuals with disabilities, upon request. This Equal Employment Opportunity policy applies to all practices relating to recruitment and hiring, compensation, benefits, discipline, transfer, termination and all other terms and conditions of employment. While management is primarily responsible for seeing that lululemon equal employment opportunity policies are implemented, you share in the responsibility for assuring that, by your personal actions, the policies are effective.",Ventas al mayoreo y al menudeo,,2022-08-29T00:00:00,2022-10-16,OTHER
+Junior Analytics Implementation Prime | TELUS Digital,TELUS,British Columbia,Vancouver,-1,-1,,CAD,"Location:
+Vancouver, British Columbia, CA Edmonton, AB, CA Toronto, ON, CA Kelowna, British Columbia, CA Winnipeg, MB, CA Ottawa, ON, CA Halifax, Nova Scotia, CA Calgary, AB, CA
+Req ID: 28964
+Jobs by Category: Digital
+Job Function: Engineering & Development
+Status: Full Time
+Schedule: Regular
+Description
+Join our team
+
+We’re a customer-driven and product-minded team within TELUS, responsible for our company’s digital evolution. We simplify the path to production so teams can focus on what matters most.
+
+TELUS Digital’s mission is to make life easier for millions of customers – and for our team. We build smart, customer-centric and data-driven experiences for telus.com, TELUS.com/business and the My TELUS app.
+
+Our team includes a passionate group of strategists, UX and visual designers, full stack developers, content managers, scrum masters, testers, product owners, people experience specialists, and other digital experts.
+
+Our team members are leaders in local and global technology communities, we value and support communities such as: Tech Masters, NodeSchool, Ladies Learning Code, Women Who Code TO and many more!
+
+Learn more about our team at telus.com/digital
+
+This is a full-time permanent position. Remote work is available anywhere in Canada.
+Here’s the impact you’ll make and what we’ll accomplish together
+
+Individuals with web development experience including knowledge of JavaScript (or any of its flavors) with an interest for analytics may apply for a position within TELUS Digital. The program is designed specifically for those who are passionate about analytics, curious about new technologies and interested in using data to shape the strategy of a large organization. This is a great entry path into the digital analytics and data science team at TELUS.
+
+In this role, you will be responsible to work with various stakeholders with the Digital Review Board and advise, support and work through all implementation criteria to ensure that we are able to measure what is required for the business prime to know if they are achieving their business outcomes.
+
+In this role, you will gain experience setting up analytics tools for our digital properties in order to collect user interactional data from multiple sources including web, app, voice assistants and wearables. Some of the tools you will use include Adobe Marketing Cloud (Launch, Adobe Analytics, Target, Audience Manager, Campaign), DOMO, Qualtrics and Decibel.
+
+Reporting into the Manager of the Digital Review Board, this position is accountable for implementation, continued integration and knowledge transfer of the Adobe product suite, specifically Adobe Analytics, across multiple TELUS Digital properties.
+Here’s how
+
+Ensuring that data flows smoothly from the website and app into our analytics report suite
+Support the development of internal processes and documentation governing all aspects of analytics tagging, implementation, QA and reporting, including continuous improvement of these processes
+Conduct regular audits of digital analytics implementation identifying recommendations to improve data structure and reporting
+Work collaboratively with product teams to create valuable data that drives our insights and reporting. Communicate findings and recommendations in a professional, clear, and actionable manner, articulating next steps and recommendations to various audiences including executive level
+Manage quality assurance of all analytics implementations and provide recommendations to provide insightful, best-in-class digital channels reports and dashboards, and adherence to service level agreements with lines of business, partners and the overall Digital team
+
+Qualifications
+You're the missing piece of the puzzle
+
+A strong passion for analytics
+Relevant education in fields such as computer science, engineering or information management
+Web development experience including knowledge of JavaScript (or any of its flavors)
+Ability to work independently and as a contributing member of the team
+
+Great-to-haves
+
+Experience with agile, iterative, lean product life cycles
+Understanding of database structures, tables & basic SQL statements
+
+About TELUS Digital:
+
+We want to work with people who:
+
+Share our passion for all things digital
+Thrive in an agile, lean and fast-paced environment
+Clearly see things from the perspective of our customers
+Are curious, experiment and never stop learning
+View collaboration as essential to your work
+Utilize the power of data to inform decisions
+Embrace diversity and new ideas
+
+What you can expect from us:
+
+Opportunity to show your stuff and be recognized and rewarded for excelling
+A fun dynamic team that works together to find new innovative ways to drive the digital transformation of TELUS
+An environment where you’re encouraged to share and act on your ideas, while learning new things and building your career
+Able to work flexible hours and connect remotely with team members across Canada #LI-remote
+A culture committed to giving back to our communities; every year we donate time and resources in our communities
+Access to well-being resources as well as ongoing support and focus on overall team member physical and mental well-being
+
+Bonus points
+
+Check out http://telus.com/digital/blog to see how we solve challenging problems for millions of customers with innovative tools.",Telecomunicaciones,,2022-08-19T00:00:00,2022-10-16,FULL_TIME
+Junior Data Scientist,"VassuTech Services Inc.,",Ontario,Midtown Toronto,-1,-1,,CAD,"Looking for an extremely bright and budding Data Scientist who can work closely with a solid Engineering core teamKEY RESPONSIBILITIESProvide data-based solutions of core problems with the help of AI and Machine Learning tools.Take ownership of building data modelling pipelines for scalable and continuous systems.Closely monitor and provide expertise on creating industry best Data Science curriculum and creating exciting project problem statementsKEY SKILLSSharp problem-solving skills with urgency to deliver best quality products along with an alignment with long-term vision of the companyVery good hands-on with python and SQL (postgresql)Good working knowledge of backend development in REST Frameworks (Django)Good knowledge and hands-on with different Machine Learning tools and modelling frameworks (Pandas, Keras/Tensorflow, scikit learn, NLP)Excellent inter-personal skills to communicate and present ideas to different verticals and stakeholders. Good written and communication skills.Working knowledge of Data pipeline and data-science model deploymentBonus Points:  * Ability to write great documentationsAbility to make data driven decisions for any small thingOur Way Of Working*An opportunity to work on something that really matters.A fast-paced environment to learn and grow.High transparency in decision making.High autonomy; freedom to take risks, to experiment, and to fail.We promise a meaningful journey with smart people, with opportunities to learn & grow. Plus, you can sleep peacefully knowing you are impacting lives in a big way, every day!Job Types: Full-time, Permanent, Fixed term contractContract length: 6 monthsSalary: $30,000.00-$60,000.00 per yearSchedule:8 hour shiftExperience:Junior Data Scientist: 2 years (required)Licence/Certification:Canadian PR/Citizenship (required)Expected start date: 2022-07-04",,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+"Junior Associate Data Science, Class of 2023",Publicis Sapient,Ontario,Toronto,-1,-1,,CAD,"Company Description
+Publicis Sapient is a digital transformation partner helping established organizations get to their future, digitally-enabled state, both in the way they work and the way they serve their customers. We help unlock value through a start-up mindset and modern methods, fusing strategy, consulting and customer experience with agile engineering and problem-solving creativity. United by our core values and our purpose of helping people thrive in the brave pursuit of next, our 20,000+ people in 53 offices around the world combine experience across technology, data sciences, consulting and customer obsession to accelerate our clients’ businesses through designing the products and services their customers truly value.
+
+Job Description
+As a Junior Associate in our Data Science practice, you will develop a deep understanding of how customers engage with our client brands and digital experiences. You will leverage data and your analytics/data science skills to make recommendations that will drive incremental revenue, reduce cost and optimize the customer experience.
+You will develop new technical data science and machine learning skills as you build models, begin working with digital analytics platforms to collect and analyze customer data. Then you will harness data to deliver personalized experiences to customers and report on their performance. After developing a thorough understanding of the performance of our clients’ business you will develop and testing hypotheses for driving incremental value from personalized marketing initiatives.
+Through your exposure to project work, you will familiarize yourself with many areas of our practice, developing expertise and a specialization.
+As part of our new graduate program, you will be on-boarded into a variety of digital analytics tools and will be working with clients by month 2. You’ll also receive on-going structured learning during your first three years that is tailored to you, and you will also be supported with your growth & progression.
+Your Impact:
+You will function as part of a world class Data Science team to support various AI and machine learning initiatives
+Contribute to solving complex marketing and business challenges by accessing, integrating, manipulating, mining and modeling a variety of data sources
+Use distributed computing systems to ingest, access and integrate various big data sources
+Perform exploratory data analysis, data cleansing and imputation, feature generation in preparation to the modeling process
+Apply various quantitative techniques to build predictive models and uncover patterns in data
+Build scalable data pipelines and models for real-time modeling frameworks
+Document and visualize your work and outputs for technical and non-technical audiences
+Contribute to the Data Science capability through presenting work, mentoring talent, helping form best practices and point of views on various AI-related topics
+
+Qualifications
+We recognize that you might not meet 100% of the requirements listed below and that’s okay! We’d love to hear from you anyways.
+Required Qualifications
+Experience conducting data analysis through coursework, coop, and/or volunteer organizations
+Fluency in a data programming language such as SQL, Python, R, SAS
+Ability to integrate multiple methods to accomplish specific objective/project and apply techniques and learnings from past projects to new projects
+Great written and verbal communication and the ability to work closely with senior stakeholders
+Broad awareness of data science concepts including, linear regression, logistic regression, correlation variance, standard dev, dimensionality reduction, unsupervised learning, parameter tuning, cross-validation, boot strapping, forecasting and imputation
+Hands on evaluation experience with understanding of data exploration, visualization, model comparison, model evaluation, insights/interference, and data Interpretation / insight analysis.
+Broad understanding of digital landscape and martech principles
+Strong presentation and communication skills clearly developing client communications using tools such as PowerPoint, Excel and email
+A demonstrated willingness to learn (a successful candidate will be supported through the certification process of relevant tools for their accounts)
+BS/BA degree in Business and Mathematics, Economics, Statistics, Physics, Engineering, Bioinformatics, Computer Science, or other areas where analytics and business are applied
+Graduating between August 2022 and July 2023
+Willingness to travel up to 80-100% of the time
+Desired Qualifications
+Prior experience in data science
+Direct experience working with cloud platforms
+Additional Information
+As part of our dedication to an inclusive and diverse workforce, Publicis Sapient is committed to Equal Employment Opportunity without regard for race, color, national origin, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity, or religion. We are also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at hiring@publicissapient.com or you may call us at +1-617-621-0200.",Administración y consultoría,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+Neuroimaging Data Scientist/Programmer Junior,University of British Columbia,British Columbia,Vancouver,-1,-1,,CAD,"Staff - Non Union
+Job Category
+M&P - AAPS
+Job Profile
+AAPS Salaried - Information Systems and Technology, Level A
+Job Title
+Neuroimaging Data Scientist/Programmer Junior
+Department
+McKeown Laboratory Pacific Parkinson's Research Centre Division of Neurology | Department of Medicine | Faculty of Medicine
+Compensation Range
+$4,688.67 - $6,754.00 CAD Monthly
+Posting End Date
+September 20, 2022
+Note: Applications will be accepted until 11:59 PM on the day prior to the Posting End Date above.
+Job End Date
+Sep 30, 2023
+This position is located within a health-care facility, therefore, the successful candidate will be required to provide verification of full vaccination against Covid-19 provided prior to the start date, as required by a provincial health mandate.
+Job Summary
+Pacific Parkinson’s Research Centre at UBC is seeking a data scientist/programmer. This position is an excellent fit for graduating seniors (or recent graduates) with interest in the field of neuroscience and neuroimaging. We conduct projects associating MRI imaging data (structural, functional, diffusion) with behavioral data in patients with Parkinson’s disease and evaluate how non-invasive brain stimulation interventions change symptom-relevant brain circuits.
+A qualified candidate will assist and work closely with the PI and senior-level researchers to set up experiments and analysis pipelines for various neuroimaging, behaviour, and clinical data.
+Organizational Status
+The data scientist/programmer will report to the Research Manager and Principal Investigator of the study, and will work closely with graduate students, fellows and research staff from different departments on campus.
+
+Work Performed
+Developing codes (bash shell scripting, Python, MATLAB, R) to run experiments and preprocess MRI and behavioral data
+Conducting data-driven and theory-driven analyses using combinations of supervised and unsupervised learning approaches
+Managing project databases
+Other duties and responsibilities as assigned
+Consequence of Error/Judgement
+Errors made could influence the ability of the PI to meet critical deadlines, as well as compromise the results of research projects and affect funding applications, thereby impacting the credibility of the Investigator. Poor decisions may be damaging to the reputation of and cause financial loss to the Principal Investigator, The Centre, the Research Institute and the University.
+
+Supervision Received
+The data scientist/programmer will work closely with researchers, graduate students and clinical fellows. Direct supervision will be provided by the Research Manager and Principal investigator of the study.
+
+Supervision Given
+None
+
+Minimum Qualifications
+Undergraduate degree in a relevant discipline. Minimum of one year of related experience, or the equivalent combination of education and experience.
+
+Preferred Qualifications
+Experience with neuroimaging tools (FSL, Freesurfer, AFNI, SPM, ANTs) and neuroimaging data preprocessing
+Excellent programming knowledge (Python, MATLAB, R, and linux/bash)
+A deep understanding of a variety of statistical concepts, machine learning approaches, clustering and classification techniques, and optimization algorithms.
+Experience with popular machine learning frameworks and libraries (xgboost/lightGBM, Keras, Tensorflow, Pytorch, pandas, numpy, etc).
+Experience with version control using Git and Code Collaboration practices.
+Strong analytical and problem-solving skills and attention to details are desirable
+Knowledge in basics of digital image processing is a plus",Educación,,2022-09-08T00:00:00,2022-10-16,FULL_TIME
+"Despins - SDE I - Toronto 22, Measurement Ad Tech Data Science",Amazon Dev Centre Canada ULC,Ontario,Toronto,-1,-1,,CAD,"Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+Bachelor's degree in computer science related fields OR 1+ years equivalent experience in software development
+12+ months of professional experience in software development
+Computer Science fundamentals in object-oriented design
+Computer Science fundamentals in data structures
+Computer Science fundamentals in algorithm design, problem solving, and complexity analysis
+Proficiency in, at least, one modern programming language such as C, C++, Java, or Perl
+
+Job summary
+Amazon is building a world class advertising business and we are responsible for defining and delivering a collection of self-service performance advertising products that drive discovery and sales. Our products are strategically important to our Retail and Marketplace businesses driving long term growth. We deliver billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class products. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.
+Our team's mandate is to launch and accelerate the advertising business in categories that require a differentiated customer and advertiser experience. We own end-to-end the advertising experience including placements, creative, ad serving, advertiser experience, and marketing.
+We're looking for entrepreneurial, innovative individuals who thrive on solving tough problems. We are investing in a deep technical team to pursue a transformation opportunity. The successful candidate will build upon core program management successes and develop breadth across a range of problem domains.
+
+Bachelor’s Degree in Computer Science or related field
+Strong sense of ownership, urgency, and drive
+Strong knowledge of data structures, algorithms, and designing for performance, scalability, and availability
+Experience with UI frameworks such as Spring MVC, GWT, jQuery, Swing, etc.
+Experience with Amazon Web Services
+Coding skills in Java and/or C++ coupled with strong base in object-oriented design and development
+Experience in software development and full product life-cycles
+Amazon is committed to providing employment accommodation in accordance with the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act. If contacted for an employment opportunity, please advise Human Resources if you require accommodation.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-09-09T00:00:00,2022-10-16,FULL_TIME
+"Data Specialist/Junior Data Scientist, Personal Insurance - Modelling & Analytics",Definity,British Columbia,Vancouver,-1,-1,,CAD,"Data Specialist/Junior Data Scientist, Personal Insurance - Modelling & Analytics
+Job ID : 6092
+Category : Personal Insurance
+Brand : Definity
+Regular/Temporary : Regular
+Fulltime/Parttime : Full Time
+Location : Vancouver, Canada
+Definity includes some of Canada’s most long-standing and innovative insurance brands, including Economical Insurance, Sonnet Insurance, Family Insurance Solutions, and Petline Insurance. With strong roots that date back to 1871, we’ve grown to become a digital leader in the insurance industry. We’re proud to help our clients and communities adapt and thrive in a world of constant change.
+
+Our promise to you: It’s better here. Why? Because we CARE, and we provide an employee experience that’s collaborative, ambitious, rewarding, and empowering.
+
+Our ambition is to be one of Canada’s leading and most innovative P&C insurers. Come be a part of our journey, and love what you do.
+
+Starting in September, Definity employees move to a hybrid work model so we can collaborate, build mentoring relationships, and solve complex or cross-functional business opportunities together. Our teams work in whichever environment best supports what they're working on and who they're working with. We're actively reinventing our offices as welcoming workspaces that optimize collaboration and empower leaders to use our space to strengthen team dynamics. Our tools and processes seamlessly connect employees from multiple locations, and our culture encourages respectful engagement and flexibility. Leaders work with their teams to determine the right balance of on-site and remote work that best meets the needs of their team, cross-functional engagement, responsibilities and timelines, plus those of our customers, our broker partners, and the company culture.
+What can you expect in this role?
+Reporting to a leader on the Modelling & Pricing Analytics team, you will be responsible for developing machine learning pipelines, developing data pipelines or supporting research and development initiatives. Working closely with analytics colleagues, technology teams and business stakeholders, this role will expose you to multiple aspects of the Model and Data Lifecyle management process.
+Develop machine learning models and support the management of models throughout the model lifecycle.
+Develop, monitor, and enhance analytical solutions in collaboration with business stakeholders and IT professionals.
+Effectively plan and manage analytics projects, leading team members through technical work.
+Develop a strong understanding of the insurance business through independent learning and working closely with business stakeholders.
+Continually focus on innovation and process improvement to promote leading practices and efficiency across the organization.
+What do you bring to this role?
+University degree in Computer Science, Software Engineering, Mathematics, or a related discipline.
+2+ years of experience with statistical programming languages like Python, and database query languages like SQL, Hive or Pig. Familiarity with Scala, Java, or C++ is an asset.
+Significant experience with machine learning techniques like GLM, GAM, XGBoost, Neural Networks, k-NN and SVM, etc.
+Advanced Big Data experience especially with Cloud, Spark Scala/OOP
+Experience with cloud computing platforms such as GCP or AWS is highly desired.
+Experiencing with CI/CD pipelines for deploying data and machine learning models is highly desired.
+Knowledge of Git for version control and collaboration is an asset.
+Experience with developing and implementing analytics solutions.
+Excellent communication and organizational skills.
+Ability to develop creative solutions to complex problems.
+#LI-JG1
+We also take potential into consideration. If you don’t have this exact experience, but you know you have what it takes, be sure to give us more insight through your application and cover letter.
+Go ahead and expect a lot — you deserve it, and we’ve got it:
+Hybrid work schedule for most roles
+Company share ownership program
+Pension and savings programs, with company-matched RRSP contributions
+Paid volunteer days and company matching on charitable donations
+Educational resources, tuition assistance, and paid time off to study for exams
+Focus on inclusion with employee groups, support for gender affirmation surgery, access to BIPOC counsellors, access to programs for working parents
+Wellness and recognition programs
+Discounts on products and services
+Our inclusive work environment welcomes diversity and supports accessibility. If you require accommodation at any time during the recruitment process, please let us know by contacting: [email protected]
+Background checks
+This role requires successful clearance of a background check (including criminal checks and leadership references).
+#LI-Hybrid",Seguros,,2022-08-30T00:00:00,2022-10-16,FULL_TIME

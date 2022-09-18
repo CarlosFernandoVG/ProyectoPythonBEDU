@@ -1,0 +1,1181 @@
+Job_title,Company,State,City,Min_Salary,Max_Salary,unitText,SalaryCurrency,Job_Desc,Industry,Rating,Date_Posted,Valid_until,Job_Type
+Machine Learning Engineer,Moonshot Brands,,,-1,-1,,CAD,"About Moonshot Brands
+We are Moonshot Brands, a Y-combinator-backed company (W21) with $160M in debt and equity funding from leading Silicon Valley VC firms, including Victory Park Capital, Liquid 2 Ventures (Joe Montana), and Garage Capital. Among our founding team of MIT Sloan and Wharton graduates, we have operated and sold five businesses and have come together as Moonshot Brands to acquire, operate, and grow profitable e-commerce brands.
+From our experience, we want to build the acquisition process that we wish we could have had and to provide the post-acquisition resources to grow your business to its fullest potential. As entrepreneurs ourselves, we believe in empowering our founders, giving them a stake in Moonshot’s continued success, and collaborating with an all-star team to change the e-commerce landscape. We connect our portfolio to growth capital, data, and expertise in operations, marketing, supply chain management, and product development to provide owner-operators with infrastructure to grow and compete at scale. Moonshot is building a technology-centric ecosystem to provide our portfolio with cutting-edge tools and data-driven insights to succeed in global marketplaces. From inventory forecasting to performance marketing and automation, we are building the technology that allows brands to achieve peak performance and win in their markets.
+If you’d like to be part of this Moonshot which will be a fun fast-paced rocketship that will drive the future of e-commerce brands and you think you add significant value to our mission we’d love to hear from you.
+About The Role
+Moonshot Brands is seeking a high-performing Machine Learning Engineer to support both our internal and portfolio company operations. In this role you will work to uncover patterns and generate insights by building and deploying predictive machine learning models that assist with our sourcing and optimization of portfolio company sales, marketing and operations. The candidate will have exposure across all of Moonshot’s portfolio companies and create broad top-down strategies as well as brand specific solutions based on analytical rigor. The Data Scientist will also provide perspective on Moonshot’s collection of data that will be analyzed to inform future business decisions. This role requires a high level of autonomy.
+As Machine Learning Engineer, you will:
+Solution architecture and design for services that use machine learning and AI algorithms to predict and optimize e-commerce outcomes
+Development of tools to facilitate data science and AI model research and testing
+Work with business owners to gather requirements, and propose solutions
+Build data pipeline to integrate data sources in various formats, warehouse them for downstream applications
+Additional responsibilities as requested
+Who we looking for:
+6+ years of experience working as a professional software developer, at least 2 years of which includes experience in data science or AI solution development
+Experience with system design
+Strong Python with experience using some subset of the Python ML ecosystem (numpy/scipy/pandas, Tensorflow/PyTorch, etc.)
+Strong SQL
+Experience choosing and writing machine-learning models for deployment at scale.
+Desire to work in a collaborative environment focusing on continuous learning; participating in code review and pair programming
+Experience in financial modelling, or advertising is a plus
+Experience deploying containerized machine learning services
+Experience designing workflow automation
+Experience with data integration from external data sources
+Experience with Google Cloud Platform
+Moonshot Brands welcomes all and is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or other applicable legally protected characteristics.",Ventas al mayoreo y al menudeo,,2022-08-16T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Scientist,DarkVision,British Columbia,Ciudad de North Vancouver,-1,-1,,CAD,"DarkVision's ultrasound imaging system collects huge datasets on the order of hundreds of gigabytes that are several kilometers long where a defect may be on the order of a few mm. It is essential that we develop algorithms for automated processing, measuring, classification and visualization of this data since manual processing is both time consuming and inconsistent.
+
+As a Machine Learning Scientist, you will be involved in researching, designing and implementing deep learning architectures that learn efficient generalizable representations for several tasks including classification, regression, segmentation and object detection. You will report to our Director of Machine Learning and be responsible for developing machine learning pipelines for continuous training, evaluation and deployment of deep learning models.
+
+Our management process is light and generally milestone driven, using pseudo-agile sprints derived from our quarterly and yearly goals. All goals are internally generated with plenty of room for feedback.
+
+Responsibilities: (included, but not limited to)
+
+Data Analysis: Work closely with experts of our Data team to explore & organize data, write required preprocessing code.
+Research: Research & develop new deep learning architectures and responsible for end-to-end training of our AI models such as CNNs, Autoencoders, and Transformer models etc. targeting object detection, instance segmentation, semantic segmentation and many more.
+Development: Develop cloud-based iterative pipelines for image pre-processing, data-augmentation, training, post-processing and inference.
+Deploy: Deploy ML algorithms in conjunction with other members of the Software Team for our Data Team to use and implement tools to monitor the performance.
+Monitor: Continuously monitor success matrices of the assigned ML project and make continuous improvements for increasing model robustness & efficiency.
+
+Expectations:
+
+Master's degree in computer science, Electrical Engineering or equivalent, PhD preferred.
+Strong analytical skills in linear algebra, geometry, and statistics.
+Experience developing Image Processing and conventional Computer Vision algorithms (OpenCV).
+Experience developing Deep Learning Models for Computer Vision tasks.
+Good working knowledge of one or more Machine Learning Frameworks (TensorFlow, Keras, PyTorch etc.)
+Experience with Python beyond basic Machine Learning scripting (i.e., Numpy and Pandas).
+Strong communication and data presentation skills.
+
+Opportunities to learn:
+
+AWS services like Sagemaker, Batch, Lambda.
+Training models with imbalanced datasets.
+Training semantic and/or instance segmentation models.
+Latest advancements in Computer Vision.
+Developing with C++.
+
+What's in it for you?
+
+Competitive salary or higher (Top $ for top talent)
+Full benefits package.
+Competitive vacation allotment
+Flexible work environment.
+
+About DarkVision
+
+DarkVision Technologies Inc. is a BC-based tech company that has been disrupting the industrial imaging market since 2013. We have created the world's most advanced acoustic-based imaging platform and are packaging it into multiple new product lines, revolutionizing how our clients quantify and visualize the integrity of their critical assets.
+
+Backed by Koch Industries, the largest privately held company in North America, DarkVision's team of Mechanical, Skunkworks, Electrical, Software, and Machine Learning Engineers is rapidly expanding to meet the demand for the company's current and upcoming products.
+
+We provide employees the opportunity to work on cutting-edge technologies that blend science with real-world applications and invite you to join our team for the exciting journey ahead as we become the global leader in industrial imaging.
+
+Why DarkVision:
+
+Here are 4 reason's you'll like working at DarkVision:
+
+Well-Funded: We are backed by Koch Industries - North America's largest privately held company and are actively working with top-tier operators across North America.
+'A' Players: Our team is made up of talented, intelligent, and hardworking people. If you're an 'A' player, you'll enjoy the intellectually stimulating, challenging and respectfully competitive atmosphere.
+Growing Quickly: We are in the process of launching several new product lines and as a result have more than doubled our headcount over the last year.
+Lots of Opportunities: We are transitioning into a much larger organization and will soon be expanding into a 52,000 sq ft facility in Vancouver. We have recently opened a larger Calgary office and have expanded into the US with offices in Houston and Midland, TX.","Energía, minería e infraestructura pública",,2022-08-28T00:00:00,2022-10-16,OTHER
+Machine Learning Engineer,Motion Metrics International Corp.,British Columbia,Vancouver,-1,-1,,CAD,"Machine Learning Engineer
+Vancouver, BC, Canada
+ Motion Metrics International is a technology development and commercialization company with the vision to inspire the next generation of safe, sustainable, and intelligent resource mining. Our products leverage machine learning, computer vision, and sensors to address tough mining challenges.
+We are looking for a Machine Learning Engineer who is passionate about applying machine learning techniques to solve real-world computer vision and big data problems. The successful candidate will work alongside other data scientists and software developers to research and deploy new algorithms into our products.
+ What you will do:
+Review the literature for the state-of-the-art computer vision and machine learning methodologies.
+Design and implement proprietary machine learning algorithms and optimize them based on runtime system requirements and constraints.
+Propose, implement, and monitor validation and performance metrics for the proprietary algorithms.
+Conduct code reviews and work closely with the software/hardware teams to transfer the prototyped models to the production environment.
+Must have:
+Master’s Degree or higher in Computer Science or a related technology/engineering field.
+3+ years of hands-on experience in developing and implementing and evaluating machine learning models/algorithms.
+Solid understanding of statistical learning algorithms, including (self, semi) supervised, unsupervised and transfer learning and computer vision algorithms.
+Proficiency in Python and version control.
+Solid Experience with TensorFlow, PyTorch and OpenCV.
+Basic familiarity with object- and service-oriented design, API development, containerization, and complexity analysis.
+Familiarity with image processing algorithms.
+Strong analytical, communication and presentation skills.
+Nice to have:
+Published papers in top conferences or journals such as CVPR/ICCV/NeurIPS/IEEE Transactions
+Experience with cloud architecture design and deployment
+Experience with web API design and development
+Familiarity with software design patterns
+Hands on C++ programming
+Motion Metrics offers an excellent, diverse, and knowledge-sharing workplace and a generous performance-based compensation package with extended benefits.",Tecnologías de la información,,2022-08-20T00:00:00,2022-10-16,OTHER
+Machine Learning Scientist/Engineer,MetaOptima,British Columbia,Vancouver,-1,-1,,CAD,"What do you envision your next career to look like? Join MetaOptima to make a difference in the lives of millions as we revolutionize the dermatology industry with artificial intelligence-powered software solutions for faster, more effective, and affordable care. MetaOptima is full of passionate, innovative people who thrive on working together as a team to build smart, life-saving technologies for medical professionals and their patients. We have customers all over the world with staff situated to support them from Canada to the US, to Australia and New Zealand, you will have the chance to have an impact on the lives of medical professionals and their patients all around the globe!
+Join our fast-growing startup to add your voice to our vision while working with a cool group of people set on making their mark on the world. We take pride in what we’ve accomplished together, and can’t wait to see how you’ll help us grow.
+A team who works together, wins together. We’re excited to share some of our accomplishments with you:
+A BCIC New Ventures Competition Winner
+Plug and Play Startup Showdown Winner
+BCIP Innovation Challenge Award Winner
+Coast Capital Savings Venture Prize Winner
+A Ready To Rocket Winner 2018 & 2019
+Winner of ISIC Disease Classification AI Competition 2018
+Member of Canada’s Digital Technology Supercluster
+Winner of ITAC Ingenious of the Year Awards, 2019
+Requirements
+Master’s or PhD degree in Computer Science, or equivalent experience
+Proficient in Python and visualization libraries (matplotlib, plotly, seaborn)
+Experience using a deep learning framework (PyTorch, Keras, Tensorflow, Caffe) and machine learning/scientific computing libraries (scikit-learn, scipy, numpy)
+Able to determine the correct evaluation metric for a given problem and evaluate various models against it to determine performance
+Able to work in a fast-paced environment
+Self-starter and self-motivated worker
+Strong communication, documentation and presentation skills
+Comfortable looking at medical images
+Computer Vision experience is a strong plus
+Enjoying reading academic papers is a plus
+Responsibilities:
+Understanding business problems and brainstorming ideas as a team to come up with AI solutions.
+Able to work on all stages of a problem from data cleaning and acquisition all the way to implementation and deployment.
+Fast prototyping of research ideas and estimation of the effort required to develop an MVP.
+Develop any tools required to clean and label data.
+Able to take an MVP and analyse the performance to determine how to scale it up for a full-scale cloud deployment.
+Working closely with our Tech team and cloud engineers to deploy systems into production.
+Compiling and presenting research efforts in a clear and understandable way for the rest of the team and other non-technical staff members.
+Benefits
+We offer a competitive salary, vacation, stock options, and a comprehensive benefits package (including extended health, vision, and dental). If you are interested and passionate about doing things that really matter send us your resume and join us on this amazing journey.",Tecnologías de la información,,2022-09-11T00:00:00,2022-10-16,FULL_TIME
+"Staff Data Engineer, Machine Learning Systems",Course Hero,British Columbia,Vancouver,-1,-1,,CAD,"Course Hero is scaling! We are looking for a Staff Data Engineer, ML Systems to work alongside our Machine Learning engineers to develop machine learning models and deploy them to production to enhance the Course Hero service. You will build pipelines, scale machine learning training jobs, and enhance the platform used by the Machine Learning team.
+
+Here are some ways you'll make an impact:
+
+Help our Machine Learning team develop, test, and deploy advanced ML models to our high traffic application.
+Develop tools that make ML development more efficient, allowing ML Engineers to focus on modeling rather than technology platforms.
+Collaborate across teams including Product Management, Machine Learning, Data Analytics and Engineering to plan projects that enhance the Course Hero user experience.
+
+Requirements:
+
+Experienced with Spark on AWS EMR and/or Databricks
+Abie to optimize execution of large scale distributed data jobs.
+Experienced with typical ML workflows and MLOps
+Fluent in Python and SQL
+
+Bonus Points:
+
+Systems design and thinking
+Experience with Kubernetes and Docker
+Experience with Airflow
+Knowledgeable on the various AWS ML services, including Sagemaker and friends.
+Operational experience in areas such as permissions, secret management, observability, etc
+
+Benefits & Perks:
+
+Competitive salary, annual bonus, and RSUs
+Medical coverage, including full dental and vision
+Life and disability benefits
+401(k) program (US) / retirement savings plan (Canada) with company match
+One month paid sabbatical after 5 years at the company
+Education reimbursement
+Professional development workshops & industry conferences
+Paid parental leave
+Flexible work schedule
+Social responsibility program (volunteer time off and donation matching)
+Annual wellness stipend
+Monthly tech stipend
+Annual family planning stipend
+Monthly snack boxes delivered to your door
+Cell phone allowance
+Research shows that candidates from underrepresented backgrounds often don't apply for roles if they don't meet all the criteria. We strongly encourage you to apply if you're interested: we'd love to learn how you can amplify our team with your unique experience!
+
+#USCanada #LI-Hybrid
+Equal Employment Opportunity Statement (EEO)
+
+We are an equal opportunity employer and value diversity and inclusion within our company. We will consider all qualified applicants without regard to race, religion, color, national origin, sex, gender identity, gender expression, sexual orientation, age, marital status, veteran status, or ability status. We will ensure that individuals who are differently abled are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment as provided to other applicants or employees. Please contact us to request accommodation.
+
+
+About Course Hero:
+
+Course Hero is on a mission to help students graduate, confident and prepared. The online learning platform offers over 60 million course-specific study resources created by and for students and educators, as well as 24/7 tutor help. More than 65,000 verified college educators use Course Hero to collaborate with other faculty and share resources to hone new strategies for instruction. Everyday, students, educators and tutors help more than 20 million students make every study hour count.
+
+
+We have an awesome team and a truly engaging culture. We are customer-focused, collaborative, responsible, gritty, and we love to learn. Our bold mission is to help students graduate confident and prepared!
+
+
+We are not the only ones that think we're onto something big. Course Hero has been recognized as one of the 2021 Top 100 Best Places to Work in the Bay Area, Top 50 Best Paying Companies in the Bay Area, Top 100 Most Transparent Companies, and in the Top 50 Most Transformational Companies in Education Technology. Read up on some of our recent news coverage, blog, and learn more about us to see what it is like to work with our team.
+
+
+Join us on our mission!",Tecnologías de la información,,2022-08-24T00:00:00,2022-10-16,OTHER
+Machine Learning Geoscientist,DATACLOUD,British Columbia,Vancouver,-1,-1,,CAD,"The Role
+MinePortal from DataCloud is the groundbreaking cloud-based intelligent platform that powers geotechnical knowhow of the rock in the mining industry for operational intelligence. Our mission is to push the envelope in Artificial Intelligence (AI), Geophysical IoT sensors, Machine Learning (ML), Data Management, Signal Processing, and Grade Engineering, in order to provide the best-possible blast outcomes for our customers. We are looking for a Geology, Statistics, and ML Specialist to help build industry-leading modeling technologies that the world’s largest mines will adopt.
+Key Responsibilities
+Reporting to the VP Software, the Machine Learning Geoscientist role will include following broad responsibilities and any other assigned work from time to time
+
+Apply domain expertise in the development and implementation of machine learning models within the hard rock and coal mining industry
+
+Teach internal and client teams how to integrate machine learning software into existing workflows to optimize blast design, blasthole spacing, and other engineering applications
+
+Study and transform data science prototypes for the geoscience specific data streams
+
+Feature extraction and identification over large data sets to feed automated algorithm development
+
+Apply knowledge in geology, geosciences, applied mathematics, and quantitative analysis to sensor solutions for challenges facing our sponsors.
+
+Explore promising research and maintain/gain the technical edge required for projects. Share and develop new approaches and methods.
+
+Design machine learning systems that can automatically recognize features, extract features, and create volume models out int and sparse data
+
+Research and implement appropriate ML algorithms and tools for mining domain specific applications
+
+Select appropriate datasets and data representation methods
+
+Run machine learning tests and experiments
+
+Perform statistical analysis and fine-tuning using test results
+
+Train and retrain systems when necessary
+
+Extend existing ML libraries and frameworks
+
+Keep abreast of developments in the field
+
+Contribute to analysis of algorithmic computational complexity and memory requirements.
+
+Work with Hardware Engineers to specify and optimize sensor and IoT device design and configuration for multiple sensing use cases.
+
+Interface closely with Application and UX Engineers to develop compelling analytical use cases to utilize ML outputs and insights.
+Key Qualifications
+
+
+Master’s degree in Geosciences, statistics, mathematics, applied physics, or a related field.
+
+Comprehensive expert level knowledge of programming and experience in C, C++, Python, R, Golang, or similar language used in geo-stat, ML, and computer vision sciences.
+
+Proficient verbal and written communication skills necessary to effectively collaborate in a team environment and present and explain technical information.
+
+Experience in working in distributed teams in the research, development, and implementation of machine learning, spatial modeling, and geo-stat algorithms.
+
+Takes initiative, independent worker
+
+Ability to manage multiple concurrent major projects with different tactical and strategic objectives
+
+Can effectively assume an array of roles as appropriate in various kinds of organizations. These may entail different responsibilities, forms of leadership, team work, and project management.
+
+Experience leading in environments that are highly volatile, cross-functional, and cross-organizational
+
+Work Hours & Location
+
+
+Full time, Flexible working hours, 15 days/year vacation
+
+Work from home office and DataCloud’s office in Vancouver
+
+Some travel to Seattle, Palo Alto, and Client offices world wide
+DataCloud is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, disability, military status, or national origin or any other characteristic protected under applicable local law. The Candidate must be authorized to work in Canada.
+About DataCloud
+Founded in 2016, DataCloud delivers high-resolution rock mass characterization data to our clients in real-time. Our innovative measurement and analysis platform provides invaluable orebody insights during drill and blast operations. Our technologies help mine planning teams to dramatically improve their extraction efficiencies.
+With our unique combination of skills in both mining and technology, DataCloud is helping to solve many of the problems that have challenged the mining industry for decades. Our founders come from institutions such as Stanford, UC-Berkeley and Cambridge, who have expertise in geosciences and cloud architecture.
+
+
+Our portfolio of products and services span the latest in Geo-Statistics, Geo-Physics, and advanced digital and artificial intelligence technologies, including cloud computing, machine learning, advanced visualization, and new sensor technology enabled by IoT systems.",,,2022-08-18T00:00:00,2022-10-16,FULL_TIME
+Biosignal Experimental Researcher,Interaxon,Ontario,Toronto,-1,-1,,CAD,"At Interaxon, we develop engaging experiences using brain-sensing technology. We are a passionate team of researchers, technical experts and scientists building the world’s leading science-based brain platform to empower personal transformation through human-centred innovation. Our Muse headbands are designed to make meditation easier and provide real-time audio and visual feedback on your meditative state through the Muse companion app. www.choosemuse.comAs a Biosignal Experimental Researcher at Interaxon, you’ll help us carry out studies to extract insights from brain and biosignal data at large scale and build meaningful experiences based on these insights. You are a skilled engineer/scientist, passionate about neurotechnology, eager to have a positive impact on people's lives through technology, and who has experience with signal processing, machine learning and biosignal analysis.This role is remote-friendly, with a preference for candidates based in Canada.*What you’ll do: *Coordinate and support research activities with clinical and academic partners.Manage prospective and retrospective in-house research studies.Run cloud studies on our large-scale EEG database.Perform statistical analysis, modeling, and visualization of data collected from retrospective and ongoing research projects.Develop offline and real-time algorithms for processing EEG, PPG and other biosignals.Contribute to the development of internal research tools.Your skills and experience: Masters and/or PhD. in Biomedical Engineering or any related field including computer science, engineering, mathematics or neuroscience.Strong experience with Python for time series analysis, time frequency analysis, algorithm development and machine learning.Practical experience and theoretical understanding of statistics.Experience creating algorithms and tools for EEG, PPG or other biosignal analysis.Detail-oriented and enthusiastic with good communication skills and a great work ethic.Creative problem solver and solution developer when presented with conflicting requirements, business demands and technical risks.Additional Qualifications (assets, but not required): Knowledge of neuroscience.Familiarity with cloud computing platforms such as GCP.Comfortable with Git and software development tools.Experience with SQL.What we offer: Our collaborative culture is an extension of our vision to empower personal transformation to improve lives and change the world. We have a flexible working environment, on-going work from home options, a great benefits package, weekly team meditations, and a commitment to keeping connected while working apart. Join a team passionate about making a difference.Interaxon is a company fueled on innovation and inclusion. We believe that diversity is an essential part of our workplace culture, and we continue to grow our team through equal opportunity and barrier-free recruitment. Additionally, if you require any accommodations during the selection process, please let us know!Note: We suggest adding ""apps.bamboohr.com"" to your contact list so you don't miss any emails from us regarding your application.Job Type: Full-timeSalary: $75,000.00-$95,000.00 per year",Ventas al mayoreo y al menudeo,,2022-09-13T00:00:00,2022-10-16,FULL_TIME
+Token Economic Researcher,weybridge,Alberta,Calgary,-1,-1,,CAD,"Company SnapshotWeybridge is a team of quantitative traders, researchers, economists, and engineers working in traditional financial markets, cryptocurrency markets, and blockchain technology. We develop sophisticated blockchain systems, analytics, signals, trading strategies, and economic models that drive our business. Our team applies the latest, most advanced concepts to analyse financial crypto markets and blockchain systems’ economies using data science analytics, machine learning, and modeling methods to help solve very complex challenges in investment, technology, economics, and venture capital.Weybridge is looking for a Token Economics Researcher for our Venture Capital’s Accelerator division. Through its venture arm and accelerator, Weybridge makes strategic investments in companies applying blockchain technology in unique and novel ways to disrupt existing industries in gaming, music, fashion, sport, and others. The Accelerator division helps incubate and accelerate these companies, grow and optimise their execution by leveraging the Weybridge team’s unique set of skills, experience, deep-rooted technology knowledge, industry connections, and expertise.If you want access to the forefront of Web3 powered virtual words, and the new blockchain economy financial rails that power them, this is the place for you. We invite you to come and explore the opportunity.How We WorkWe have team members working worldwide, from Europe, North America, to the Middle East and Asia. We leverage agile methodologies to move quickly and stay focused. Communication is vital to us, and we rely heavily on various digital communication technologies and platforms to help us stay in sync and coordinate all activities.This role is a full-time remote position offering the flexibility to work from anywhere. You have the option to work in one of our office locations if it is local to you.Role OverviewIn your role as our Token Economics Researcher in our Venture Capital accelerator program, you will join our team and focus on helping us design, optimise, or evolve virtual platform economic systems of a diverse set of companies and projects that Weybridge partners with. You will develop economic designs that align optimal market operations and liquidity targets along with optimal platform evolution and network growth targets, taking into consideration unique factors and constraints that are associated with each clients’s geography, industry, market position, goals, and other unique parameters.What We’ll Offer YouAn unparalleled opportunity to apply your economic expertise in an area on the leading edge of economic innovation. You will create – systems, models, relationships, strategy and culture. An environment where your voice will be heard and your impact deeply felt. A sense of belonging where your work is appreciated and rewarded.You’ll get exposure to a variety of inspiring and disruptive applications in blockchain technology and digital assets across numerous markets and industries. You will be a part of an expert team of talented scientists, engineers, financial professionals, creators, supporters, advocates, strategists with diverse backgrounds - all of whom are eager to collaborate and grow alongside you.Key ResponsibilitiesDesign, optimisation, and analysis of virtual economies in the gaming, music, financial, media, sport, and other verticalsAnalyse all relevant economic data, economic agents interaction details, mechanics, and other features of of the platform economy, taking into consideration the initiative’s goals, unique parameters and constraints, and apply them to economic model considerationsConduct research for key economic topics in the blockchain and cryptocurrency industry in alignment with key company economic projectsPerform fundamental and applied economic research, identify applications of classic macro economic models and concepts, optimise, evolve and apply them to create or measure existing virtual blockchain-based platform economies to facilitate balanced, stable, and sustainable economiesApply econometric analysis using various statistical packages, running simulations, testing, and stress-testing the overall design as well as various components, iterating and optimizing the designProduce rigorous academic economic analyses reflecting models developed, results produced and optimizations implemented, providing data, observations and computational simulations backed analyses, and recommendations about specific economic design elementsDevelop statistical economic models to analyse, monitor, and track virtual economy metrics, indicators, and mechanismsWhat You’ll Bring To The TeamWe’re looking for a highly analytical individual who is able to think creatively and apply rigorous economic analysis, theories, mechanisms, and policies to the analysis, design, and optimisation of virtual economies based on novel blockchain technology applications, fine-tuning classic models to the unique factor and constraints that are associated with each target economy’s unique parameters.The candidate should combine in-depth knowledge of economic theories and their application, a good understanding of blockchain technology and its various applications to be able to modify and advance economic concepts to account for unique factors associated with companies in the blockchain industry, as well as advanced programming skills to apply analytical methods, such as statistical analysis, complex systems modeling, and simulation to develop and extensively test virtual economy models with complex and dynamic economic systemsAt Weybridge, we value all the dimensions of diversity, including diversity of experience. We recognise that candidates applying for this role will be most successful if they bring the following with them:A PhD/master’s degree in Economics or in a quantitative science field with an economics concentration or experience. Quant fields Mathematics, Applied Mathematics, Operations Research, Physics, Computer Science, Software/Computer/Electrical Engineering, or other similar science fieldsPostgraduate research in economics an advanced degree in economics, published works, and research in scientific journals and repositories is a preferredExperience in applying analytical methods, such as statistical analysis, modeling, forecasting, and simulationProficiency in econometric and statistical packages, including but not limited to STATA, Eviews, Matlab, SPSS, AMPL, etc., and programming languages like Python, R, etc.Applied knowledge of behavioral economicsUnderstanding of game economies, mechanisms and simulation of users behaviour a plusExperience applying stochastic methods to modeling economic concepts and systems preferredKnowledge of smooth and non-smooth optimization methods, exact and approximation algorithms, as well as heuristic methods for optimization problemsGood understanding of Web3, blockchain technology, digital assets, smart contracts, Defi, Metaverse, game theory, and other related concepts a plusExcellent understanding/ experience developing monetization mechanisms in the metaverseExcellent critical thinking and analytical skillsAbility to work well independently and within a teamThe tenacity to push past obstacles on the path to deliveryIf this sounds like the kind of environment you thrive in, we would love to hear from you!The Fine PrintWeybridge celebrates the diversity of thought, race, national origin and culture, age, experience, religion, economic and social status, gender identity and expression, sexual orientation, marital status, veteran status, or disability status. Building a culture of inclusion allows us to create and share experiences with each other, and with our virtual communities. We always seek to maintain a diverse and welcoming workplace, and candidates from all backgrounds are encouraged to apply.Weybridge does not accept unsolicited resumes from headhunters and recruitment agencies through our website, job posting, or directly to our talent team. We will not pay fees to any third-party agency, headhunter, or company that does not have a signed agreement for this position in place.The statements herein are intended to describe the general nature and level of work being performed by employees in this job. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.Job Type: Full-timeSchedule:8 hour shiftEducation:Bachelor's Degree (preferred)",,,2022-08-16T00:00:00,2022-10-16,FULL_TIME
+Computational Biologist,SBX BioSciences Inc.,British Columbia,Vancouver,-1,-1,,CAD,"COMPUTATIONAL BIOLOGISThttps://www.sbx-biosci.com/Position Available - Full-time/Part-time, Remote - OKWe are looking for a Computational Biologist to create our data analytic engine in biological and healthcare and to develop a valuable solution in science and business. The role’s main goal would be to drive scientific discovery in the field of biology, healthcare and more alongside our multidisciplinary colleagues, associates and clients. Critical thinking and problem-solving skills are essential for interpreting data.Fluency in speaking, reading and writing English is a required skill as you are expected to communicate information in a clear and professional manner. Fluency with Japanese is an additional preferred asset. This role will require you to be highly analytical while being proficient in standard and cutting-edge analytic techniques of biological data such as omics data. You should also be knowledgeable and passionate about the application related to machine-learning, computational simulation, and the integration of these two.*ResponsibilitiesDeveloping AI and/or simulation models to generate hypothesis in biology and beyondPropose strategy to solve scientific and business problem based on our bio-inspired and AI/ML engineExpand our research engine by deep research on valuable data sources, cutting-edge and state-of-the-art research and technologiesCollaborate with engineering and product development teamsCommunicating with teams and reporting progressPresent information using data visualization techniquesRequirementsOutstanding experience of machine-learning and computational mathematical modelingExperience with R and Python; familiarity with Java or C++ is an assetAnalytical mind, business acumen and problem-solving aptitudePh.D. in Computational Biology, Computer Science, Bioinformatics, Bioengineering or relevant field; graduate degree in Data Science or outstanding experience in the related field will be considered*Job Types: Full-time, Part-timePart-time hours: 15 per weekSalary: $40,000.00-$85,000.00 per yearBenefits:Dental careExtended health careVision careFlexible Language Requirement:French not requiredSchedule:Monday to FridayEducation:Bachelor's Degree (required)Language:Japanese (preferred)",,,2022-09-08T00:00:00,2022-10-16,FULL_TIME
+Data Scientist (remote),Ample Insight Inc.,Ontario,Toronto,-1,-1,,CAD,"Company Description
+You will join a world-class team of engineers and data scientists from Facebook, Uber, Amazon and Google. We are a fast growing consulting firm based in Toronto with clients ranging from leading startups building impactful technologies to Fortune 500 companies looking to scale their engineering and data capabilities.
+
+Job Description
+We are looking for Data Scientists who are passionate about Machine Learning, and have deep knowledge in Statistics and Computer Science. You enjoy doing data science projects with structured and/or unstructured data and are motivated to productize scalable machine learning models. We will also rely on you to build data products to extract valuable business insights. Critical thinking and problem-solving skills are essential for this role.
+
+Qualifications
+
+BS (or higher, e.g., MS, or PhD) in Computer Science or related engineering field involving coding
+Experienced implementing and scaling machine learning models in production environments
+Strong understanding of machine learning theory
+Hands on experience with Statistics
+Capable of quickly implementing prototypes of cutting-edge research papers
+Proficient in Python (i.e. Pandas, Numpy, scikit-learn, etc), R, TensorFlow, amongst other data science related tools and libraries
+Analytical mind and strong business acumen
+If you're passionate about data science and is hungry to learn, please apply!
+
+Additional Information
+We have very competitive compensation.
+Work on cool projects based on your interests and skills. We believe in accountability and NOT micro-management.",,,2022-09-12T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer,Parallel Domain,British Columbia,Vancouver,-1,-1,,CAD,"At Parallel Domain, we believe that autonomous systems – from self-driving cars to contactless delivery drones – have the opportunity to drastically improve the quality of life for billions of people. That is why we love what we do: enabling our customers to develop their technology safely using the Parallel Domain data generation platform. Our platform revolutionizes the way our customers generate sensor data for AI development. We're looking for people like you to join us in pushing the boundaries of artificial intelligence and synthetic data.
+
+Parallel Domain envisions a future where every life on the planet is improved by the transition to safer and more equitable AI. To enable that future, we are on a mission to accelerate the development of machine perception with synthetic data.
+We don't define ourselves by the boxes we check, we define ourselves by how we can develop and face challenges that elevate our true potential. We expect you to apply to an opportunity that aligns with your skills, professional goals and core values. Due to the high number of applicants, only those selected to move forward with an interview will be contacted.
+What You'll Do:
+You’ll be part of the ML research team tasked with establishing best practises on creating and using synthetic data for perception
+You’ll develop perception algorithms, data pipelines, introspection tools, domain gap measures and domain adaptation approaches
+You’ll summarize your findings to help guide our team as well as our customers
+You’ll sync with your team on a daily basis to discuss progress, ideas and problems
+You’ll work with veterans from the gaming, movie and automotive industry
+What You'll Own:
+Creating specific datasets for your experiments
+Adapting/implementing cutting-edge models and data pipelines
+Maintaining and optimizing our code base to enable fast experimentation
+Writing tools to inspect and measure the impact of synthetic data on training
+Summarizing and sharing your findings
+Supporting our customers
+Staying up to date with the latest research on synthetic data
+About You:
+You are eager to learn and to add value to the team
+You are a team-player and understand the importance of clear communication
+You thrive in ambiguous environments
+You are not afraid to approach new challenges
+What You Bring:
+Master’s or PhD in computer science or a related field
+Well-versed with developing machine learning models for computer vision tasks in either an industry or research environment
+Extensive experience in python
+Ability to write clean/maintainable code
+Working knowledge of Pytorch or Tensorflow
+You are fluent in english
+Bonus Points:
+Experience with developing, deploying and improving perception stacks on AVs
+Experience with domain adaptation approaches or custom domain gap measures
+Experience at a fast-growing, young company
+Experience with workflow management systems such as Argo, Kubeflow, Airflow, Ray.io
+Remote Information: This opportunity is open to candidates based out of the West Coast in the United States or Vancouver, Canada.
+
+Why join Parallel Domain?
+We are assembling a team of talented visionaries crafting a new technology that will change the world. You will be able to learn, build, and scale in a collaborative, creative culture that values every team member.
+Parallel Domain celebrates diversity and is committed to creating a safe and inclusive environment for all our people. We are committed to providing employees with an environment free of discrimination, bullying and harassment. All employment decisions at Parallel Domain are based on business needs, job requirements and individual qualifications. We will maintain our commitment to and support of equal employment opportunity for all individuals without regard to race, national/ethnic origin, colour, religion, age, sex (including pregnancy), sexual orientation, gender identity/expression, marital status, family status, genetic characteristics or physical/mental disability. Our commitment extends to any other protected classes which may exist under applicable law.
+We offer:Flexibility to work from our office in Yaletown, Vancouver or your home officeCompetitive compensationEmployer-paid supplemental medical, mental health, dental, and vision benefitsPaid vacation and sick time, winter shutdown, and 11 stat holidays each yearPaid parental leaveNew hire equipment + accessories budget to optimize your setup$2,000 CAD annual learning and development allowance",Tecnologías de la información,,2022-08-25T00:00:00,2022-10-16,FULL_TIME
+Associate Data Scientist (Entry Level): Toronto/Calgary,IBM,Ontario,Toronto,-1,-1,,CAD,"Introduction
+As a Data Scientist at IBM, you will help transform our clients’ data into tangible business value by analyzing information, communicating outcomes and collaborating on product development. Work with Best in Class open source and visual tools, along with the most flexible and scalable deployment options. Whether it’s investigating patient trends or weather patterns, you will work to solve real world problems for the industries transforming how we live.
+
+Your Role and Responsibilities
+ASSOCIATES PROGRAM
+
+We’re looking for passionate, original thinkers who want to drive progress, grow their network, and further their careers. If you see yourself as someone who never stops learning, who believes no problem is too big to solve, and who wants to unleash their potential, the entry level Associates Program is for you.
+
+To learn more about the Associates Program, check out our Applicant Info Package.
+
+You:
+Graduated (or will be graduating) between 2021 and September 2023
+Have an Associate’s Degree, College Diploma, Bachelor’s Degree, or Master’s Degree (Exception: The Associates Program does not accept MBA or PhD candidates/graduates)
+Have maximum 2 years of full-time, professional work experience
+Are within commuting distance of Toronto/Calgary, with flexibility to travel 80-100% of the time
+Are eligible to work in Canada without current or future need for visa sponsorship
+
+APPLICATION INSTRUCTIONS
+
+At the very top of your resume, indicate which of the following cities you are willing to remain in and/or relocate to. Kindly note that our incoming Associates are responsible for all costs associated with relocation.
+Toronto
+Calgary
+
+Application Deadline: September 19, 2022 @ 11:59 PM ET
+
+ASSOCIATE DATA SCIENTIST
+
+As an Associate Data Scientist, you’ll use tools to analyze data and predict trends to make meaningful recommendations to clients. Armed with data, modeling expertise, and analytic results, you’ll formulate conclusions and recommendations to client stakeholders, leveraging strong consulting, communication, visualization, and storytelling skills.
+
+Individuals with an interest in specializing in machine learning operations are also highly encouraged to apply.
+
+Communicate with technical and non-technical stakeholders to understand and define business needs and translate them to a data science context
+Work in a collaborative environment, partnering with other scientists, engineers, consultants, and database administrators to integrate the latest predictive analytics with enterprise-level application development
+Write programs to cleanse and integrate data sources in an efficient and reusable manner, resulting in high-quality, clean datasets
+Incorporate a variety of statistical and machine learning techniques on big data, using leading edge tools such as Python (scikit-learn, tensorflow, matplotlib, pandas), R, and combined with AI application suites. Exposure to big data tools such as include pyspark or sparkR.
+Implement and validate predictive models with the end user, comfortable with iterative solution development to arrive at the most usable models for the specific use case
+Deploy and maintain machine learning models using established best practices, allowing the client to consistently gain high value from advanced analytics projects.
+Understanding of model monitoring and tools such as Prometheus, Grafana, Azure Monitor etc.
+
+REQUIRED PROFESSIONAL AND TECHNICAL EXPERTISE
+Strong fundamentals in applied Mathematics and Computer Science algorithms
+Proficiency in least one or more statistical programming languages (e.g. R, Python, SQL, Scala, SAS, SPSS, MATLAB)
+Basic understanding of or experience with predictive/prescriptive modeling
+Ability to translate business requirements into technical solutions
+Ability to thrive in an ever-changing, technology-based consulting environment, using agile development techniques
+
+Required Technical and Professional Expertise
+Please see Job Description
+
+Preferred Technical and Professional Expertise
+Exposure to Cloud (e.g. AWS, Azure, Google Cloud, IBM Cloud) is an asset
+Knowledge of end-to-end ML application development in hybrid cloud environments (Azure/AWS/GCP/IBM Cloud)
+Familiarity with clusters and containers, writing docker files, defining architectures for distributed computing (Kubernetes/ docker).
+Exposure to MLOps pipelines and script development for pipeline automation. (e.g. Jenkins, ArgoCD)
+About Business Unit
+IBM Consulting is IBM’s consulting and global professional services business, with market leading capabilities in business and technology transformation. With deep expertise in many industries, we offer strategy, experience, technology, and operations services to many of the most innovative and valuable companies in the world. Our people are focused on accelerating our clients’ businesses through the power of collaboration. We believe in the power of technology responsibly used to help people, partners and the planet.
+
+Your Life @ IBM
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+Must have the ability to work in Canada without sponsorship.
+
+This role will involve working with technology that is covered by Export Regulations sanctions. If you are a Foreign National from any of the following US sanctioned countries (Cuba, Iran, North Korea, Syria, and the Crimea, Luhansk and Donetsk regions of Ukraine) on a work permit, you are not eligible for employment in this position.
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.",Tecnologías de la información,,2022-08-31T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Compiler & Performance,Qcom,Ontario,Markham,-1,-1,,CAD,"Company:
+Qualcomm Canada ULC
+Job Area:
+Engineering Group, Engineering Group > Machine Learning Engineering
+General Summary:
+Preferred Qualifications:
+Master's degree in Computer Science, Engineering, Information Systems, or related field.5+ years of experience with Machine Learning frameworks (e.g., Tensor Flow, Caffe, Caffe 2, Pytorch, Keras).5+ years of experience with low level interactions between operating systems (e.g., Linux, Android, QNX) and Hardware.5+ years of experience in embedded system development and optimization with application to a specific problem domain in ML (e.g., NLP, multi-media).5+ years of experience with one or more programming language suitable for machine learning (e.g., Python, R, C, C++)5+ years of experience using statistics and probability (e.g., conditional probability, Bayes rule).3+ years experience working in a large matrixed organization.2+ years of work experience in a role requiring interaction with senior leadership (e.g., Director and above).1+ years in a technical leadership role with or without direct reports (only applies to positions with direct reports).Developed 1+ novel Machine Learning architecture(s).
+Principal Duties and Responsibilities:
+Leads technical conversation in design or project reviews and project meetings across multiple domains to monitor the effectiveness of machine learning solutions in meeting customer needs.Plans and manages team activities on complex projects according to timelines and major project milestones to deliver solutions; monitors collaboration with cross-functional teams to accomplish tasks.Coordinates team within a specific domain and oversees the engineering and management of complex or novel machine learning data.Develops, adapts, or prototypes novel machine learning solutions aligned with and motivated by proposals or roadmaps for complex products and system-level features; advises and supervises small groups of less experienced engineers working together on common tasks.Oversees and provides technical expertise to others conducting experiments within a domain to train and evaluate machine learning solutions.Oversees efforts of a small team of less experienced engineers to optimize new or existing machine learning algorithms or models; solves complex system-level features with ambiguous requirements, including kernels and frameworks; creates and documents solutions to novel issues and shares lessons learned within domain.Leads the integration of machine learning architecture into platforms and products for production; provides technical expertise to resolve systems-level issues during implementation.Displays deep knowledge within a machine learning domain; acquires advanced knowledge of industry trends, competitors' products, and advances within domain from publicly available information and research; shares knowledge within the team and across teams working on similar products.Stays abreast of current and future machine learning trends to make suggestions in strategic discussions within a domain about the product/technology roadmap.
+Level of Responsibility:
+Working independently with little supervision.May provide supervision to direct reports.Making decisions that are moderate in impact; errors may have relatively minor financial impact or affect on projects, operations, or customer relationships; errors may require involvement beyond immediate work group to correct.Using verbal and written communication skills to convey information that may be somewhat complex to others who may have limited knowledge of the subject in question. May require basic negotiation and influence, cooperation, tact, and diplomacy, etc.Some financial accountability (e.g., manages a small budget, has input into P&L).Having a moderate amount of influence over key organizational decisions (e.g., is consulted by senior leadership to provide input on key decisions).Completing tasks that do not have defined steps; simultaneous use of multiple mental abilities is generally required to determine the best approach; mistakes may result in significant rework.Exercising exceptional creativity to innovate new ideas and develop innovative products/processes without established objectives or known parameters.Working on abstract problems in variable situations that typically require complex analysis, interpretation, or evaluation of intangible factors; directing the resolution of complex problems that have impact beyond own area; participating in corporate development of methods, techniques, and evaluation criteria for projects, programs, and people.Participating in the organization's planning process, interpreting business strategies, establishing strategic plans and objectives for multiple areas and functions. Decisions may affect entire organization.
+Qualcomm is committed to hiring and supporting individuals with disabilities. Although this role has some expected physical activity, an inability to perform one or more of the listed physical requirements should not deter otherwise qualified applicants from applying. We will work with you throughout the application and onboarding process to provide reasonable accommodations. Examples of expected physical activity include: frequently transporting between offices, buildings, and campuses up to ½ mile; frequently transporting and installing equipment up to 5 lbs.; performing tasks at various heights (e.g., standing or sitting); monitoring and utilizing computers and test equipment for more than 6 hours a day; and continuous communication which includes the comprehension of information with colleagues, customers, and vendors both in person and remotely.
+Minimum Qualifications:
+Creates advanced machine learning techniques that enable a broad set of technology verticals or designs and extends training or runtime frameworks or model efficiency software tools with new features and optimizations. Models, architects, and develops advanced machine learning hardware (co-designed with machine learning software) for inference or training solutions. These enable the discovery and improvement of state-of-the-art machine learning solutions that has general applicability at functional platform level towards audio, camera, graphics, video, sensors, wireless, and other functionality over various operating systems running on ARM processors and other embedded hardware like DSP/NSP processors, GPU processors that are embedded into mobile, edge, auto, and IOT products, or on data center based systems such as GPUs or dedicated AI hardware. Develops optimized software to enable AI models efficiently deployed on hardware, such as machine learning kernels, compiler tools, or model efficiency tools, to make sure of specific hardware features, and/or working closely with hardware teams for joint design and development. Works with and/or optimize machine learning software frameworks like TensorFlow or PyTorch to efficiently run machine learning algorithms on hardware.
+Preferred Qualifications:Master's degree in Computer Science, Engineering, Information Systems, or related field.5+ years of experience with Machine Learning frameworks (e.g., Tensor Flow, Caffe, Caffe 2, Pytorch, Keras).5+ years of experience in embedded system development and optimization with application to a specific problem domain in ML (e.g., NLP, multi-media).5+ years of experience with one or more programming language suitable for machine learning (e.g., Python, R, C, C++)5+ years of experience using statistics and probability (e.g., conditional probability, Bayes rule).2+ years of experience with low level interactions between operating systems (e.g., Linux, Android, QNX) and Hardware.3+ years experience working in a large matrixed organization.1+ years in a technical leadership role with or without direct reports (only applies to positions with direct reports).1+ years of work experience in a role requiring interaction with senior leadership (e.g., Director and above).
+Principal Duties and Responsibilities:
+Leads technical conversation in design reviews, project reviews, and project meetings within a particular domain to monitor the effectiveness of machine learning solutions in meeting customer needs.Owns work within a specific area and solves complex issues according to project timelines and requirements; manages small teams to accomplish work and provides guidance on specific issues; collaborates with cross-functional teams when needed.Manages project team to complete complex tasks and troubleshoot issues related to the engineering and management of machine learning data.Develops, adapts, or prototypes novel machine learning solutions aligned with and motivated by proposals or roadmaps for complex products and working features; advises team members and less experienced engineers working together on common tasks.Oversees and conducts experiments across several areas to train and evaluate machine learning models and/or software and assists other team members to do the same.Supports team's efforts to optimize new or existing machine learning algorithms models, and owns the design of machine learning kernels and execution frameworks; finds and documents solutions to novel issues and shares lessons learned with team.Executes the integration of machine learning architecture into platforms and products for production; provides technical expertise to resolve moderately complex issues during implementation.Displays deep knowledge in a specific area of machine learning; acquires advanced knowledge of industry trends, competitors' products, and advances within and outside of area of expertise from publicly available information and research; shares knowledge with others on the team and helps less experienced engineers understand and apply advanced concepts.Stays abreast of current and future machine learning trends to make suggestions in strategic discussions within a domain about the product/technology roadmap.
+Level of Responsibility:
+Working independently with little supervision.Providing some supervision/guidance to others.Making decisions that are moderate in impact; errors may have relatively minor financial impact or affect on projects, operations, or customer relationships; errors may require involvement beyond immediate work group to correct.Using verbal and written communication skills to convey information that may be somewhat complex to others who may have limited knowledge of the subject in question. May require basic negotiation and influence, cooperation, tact, and diplomacy, etc.Having a moderate amount of influence over key organizational decisions (e.g., is consulted by senior leadership to provide input on key decisions).Completing tasks that do not have defined steps; simultaneous use of multiple mental abilities is generally required to determine the best approach; mistakes may result in significant rework.Exercising substantial creativity to innovate new processes, procedures, or work products within guidelines or to achieve established objectives.Using deductive and inductive problem solving; multiple approaches may be taken/necessary to solve the problem; often information is missing or conflicting; advanced data analysis and interpretation skills are required.Occasionally participating in strategic planning within own area affecting immediate operations.
+The responsibilities of this role do not include:
+Financial accountability (e.g., does not involve budgeting responsibility).
+Qualcomm is committed to hiring and supporting individuals with disabilities. Although this role has some expected physical activity, an inability to perform one or more of the listed physical requirements should not deter otherwise qualified applicants from applying. We will work with you throughout the application and onboarding process to provide reasonable accommodations. Examples of expected physical activity include: frequently transporting between offices, buildings, and campuses up to ½ mile; frequently transporting and installing equipment up to 5 lbs.; performing tasks at various heights (e.g., standing or sitting); monitoring and utilizing computers and test equipment for more than 6 hours a day; and continuous communication which includes the comprehension of information with colleagues, customers, and vendors both in person and remotely.
+Applicants: If you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport
+Although this role has some expected minor physical activity, this should not deter otherwise qualified applicants from applying. If you are an individual with a physical or mental disability and need an accommodation during the application/hiring process, please call Qualcomm’s toll-free number found here for assistance. Qualcomm will provide reasonable accommodations, upon request, to support individuals with disabilities as part of our ongoing efforts to create an accessible workplace.
+Qualcomm is an equal opportunity employer and supports workforce diversity.
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+If you would like more information about this role, please contact Qualcomm Careers.",Tecnologías de la información,,2022-09-13T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer,Granify,Alberta,Edmonton,-1,-1,,CAD,"Machine Learning Engineer
+Granify is a rapidly growing technology company at the intersection of e-commerce, machine intelligence, and psychology. We’ve received investment from top investors, built a world-class team and a world-class product, and in the last year alone we generated over $650 million in incremental sales for many of the world's largest retailers!
+We’re searching for an experienced Machine Learning Engineer who values mastery, authenticity, and positivity to help build and grow our product. As an engineer, your strong foundation in productionizing machine learning models will be essential in making long lasting improvements to our product. If you are a highly technical, hands-on, and mission-driven engineer, who has a passion for solving problems in the area of recommendation, search and e-commerce optimization then this is the role for you.
+This is a full-time position. We are centrally located in Edmonton, but remote applications will also be considered.
+RESPONSIBILITIES:
+
+Research, design and prototype intelligent systems with the aim of enhancing online shopper experience.
+Oversee research prototypes and develop them into fully-fledged AI software that are ready to be delivered to our clients.
+Participate in active maintenance and code reviews in a large codebase, suggesting and implementing changes as appropriate.
+Keep up-to-date with the latest papers in artificial intelligence and machine learning to propose solutions for real problems in e-commerce.
+Build infrastructure to support the evolution of our shopper interaction toolset.
+Mentor other engineers, participate in code reviews, and share knowledge.
+Troubleshoot, test, and debug to your heart’s content.
+ABOUT YOU:
+
+At least 2 years of real-world experience implementing Machine Learning software.
+Proficient in Python and/or C/C++, with an interest in learning new languages
+BSc (MSc or PhD preferred) in Computer Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Engineering, Physics, or a related discipline, with (at minimum) graduate-level courses in machine learning, or equivalent practical experience.
+Strong research experience in machine learning, preferably in one or more of the following (in no particular order): reinforcement learning, natural language processing, recommendation and/or ranking systems, deep generative models, representation learning, AI interpretability, domain generalization, meta-learning, computer vision, deep neural network architectures.
+Proficient in deep learning frameworks like Tensorflow, PyTorch, etc. and scientific computing packages like NumPy. Able to implement an algorithm as described in an academic paper using these frameworks in quality code.
+Strong computer science background, with experience in object-oriented programming, systems design, data structures and algorithms.
+
+Familiarity with source control (Git) and Unix systems, including shell scripting.
+Good intuition for applying AI theory to make business-oriented products with minimal guidance.
+Communicate to introduce honesty and clarity (avoiding buzzwords and jargon) to experts in multiple disciplines. Demonstrate a mature understanding of the current possibilities and limitations of AI research.
+Curious, constantly looking for better ways to build things and excited to learn about emerging technologies.
+BONUS EXPERIENCE:
+
+Online advertising and/or marketing analytics, behavioural targeting and/or web analytics.
+Working in an Agile software development environment.
+Using cloud solutions, preferably AWS.
+Distributed and/or parallel programming.
+An active GitHub repository.
+ABOUT GRANIFY:
+
+You’ll work closely with an incredible group of the smartest, most interesting, genuinely good people around. You’ll work hard, learn quickly, and have plenty of excitement. You’ll also get a first hand view into the rapidly evolving, exciting intersection of e-commerce, machine intelligence and psychology.
+With our continued growth as a company, you’ll find limitless opportunities for growth, development, and career progression.
+Did you know? Granify is backed by early investors in Facebook, Uber, Twitter, Airbnb, Paypal, Pinterest, Palantir and Yelp. Wouldn’t it have been great to get in at one of those companies as they were taking off...",Tecnologías de la información,,2022-09-06T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Scientist - Computer Vision,AbCellera,British Columbia,Vancouver,-1,-1,,CAD,"AbCellera is a young, energetic, and rapidly growing tech company with an amazing team that searches, decodes, and analyzes natural immune systems to find antibodies that its partners can develop into drugs to prevent and treat disease.
+
+We are seeking a Machine Learning Scientist - Computer Vision to join our rapidly growing Machine Learning team. We are a group of motivated people who work in collaboration with life scientists to constantly improve our discovery pipeline. We have a multi-faceted antibody discovery and characterization pipeline that is able to rapidly discover next-generation antibody therapies. Our pipeline generates an immense amount of valuable data which can be used to further develop our pipeline through state-of-the-art machine learning techniques. Ultimately, we are all working towards a common goal which we strongly believe will make the world a better place, and bring new therapeutics to patients around the world.
+
+How you might spend your days:
+
+Developing computer vision models to automate and improve our drug discovery pipeline
+Investigating data in creative ways to pull out exciting trends and discover useful features
+Working on novel research and development projects to expand our capabilities
+Optimizing machine learning and data science pipelines with a focus on scalability
+Working collaboratively with life scientists, engineers, and software engineers
+Shepherding machine learning projects from inception all the way through to in-house production use
+
+We'd love to hear from you if:
+
+Bachelor's Degree +5 years of work experience in machine learning and/or data science, or Master's Degree +2 years of work experience in machine learning and/or data science, or PhD in a relevant field
+Experience developing production grade machine learning models
+Experience dealing with big data
+Expert in computer vision, OpenCV, tensorflow/keras/pytorch etc.
+Python expertise
+Strong ability to present work and communicate ideas to technical and non-technical coworkers
+A strong desire to work in a collaborative, multidisciplinary environment
+No previous biology experience required, but a desire to learn more about the field is!
+
+In addition, the ideal candidate will have:
+
+Experience in the life sciences, including imaging and bioinformatics
+Experience with other components of our opinionated ML stack, including PyTorch, Jupyter, Plotly / Dash, Parquet, DVC, and Dask
+Experience with our infrastructure stack, including AWS (S3, IAM, CloudWatch, Route53, RedShift), Terraform, Kubernetes, Docker, bazel
+
+Offers & benefits:
+
+The opportunity to work with an inspired team on challenging problems that matter
+An attractive compensation package, including health and lifestyle benefits
+A minimum of 3 weeks' vacation
+Opportunities for personal and professional development
+
+About AbCellera:
+
+At AbCellera, we're solving tough problems and creating innovative solutions from the ground up - custom immunizations, microfluidics, high-throughput imaging, genomics, computation, machine learning and laboratory automation. We're revolutionizing how our scientists can explore antibodies and the scale at which they can do so. This is life-changing research and you could be a part of it.
+
+You'll join a diverse and multi-disciplinary team of biologists, biochemists, engineers, bioinformaticians, computer scientists and physicists - all working together to bring better therapies to patients. We're a growing company with a high-throughput pipeline and the drive to be the best in the industry. This isn't just about having the best technology. We know we need a world-class team of visionaries and innovators. We look for people with drive and energy. Idealists. People we love and people we trust. This may be unconventional, but it is the key to our success. We're looking for someone like you to help us get there.
+
+To apply:
+
+Please send us your application through our website and refer to Job ID 20245 in your cover letter. We apologize in advance, but we receive a large volume of applications, and will only contact those who are selected for an interview.
+
+#LI-MS",,,2022-08-16T00:00:00,2022-10-16,OTHER
+Software & Machine Learning Engineer (PEY 2023),Cerebras Systems,Ontario,Toronto,-1,-1,,CAD,"Cerebras is developing a radically new chip and system to dramatically accelerate deep learning applications. Our system runs training and inference workloads orders of magnitude faster than contemporary machines, fundamentally changing the way ML researchers work and pursue AI innovation.
+
+We are innovating at every level of the stack – from chip, to microcode, to power delivery and cooling, to new algorithms and network architectures at the cutting edge of ML research. Our fully-integrated system delivers unprecedented performance because it is built from the ground up for the deep learning workload.
+
+Cerebras is building a team of exceptional people to work together on big problems. Join us!
+Cerebras has developed a radically new chip, system, and software stack to dramatically accelerate deep learning applications. Our system runs training and inference workloads orders of magnitude faster than contemporary machines, fundamentally changing the way ML researchers work and pursue AI innovation. Our latest system, the CS-2, has 850,000 linear algebra processors and can train brain-scale neural networks with up to 120 trillion parameters.
+
+Cerebras Toronto
+
+Cerebras is based in Sunnyvale, California, with its second engineering hub – the AI Centre of Excellence – located in Downtown Toronto. Toronto houses our Machine Learning and Software organization and has some of the most talented ML, optimization, and high-performance computing talent in the world. We have already built out an experienced team of over 50 engineers and computer scientists that are driving forward the next generation of our machine learning stack. Join us!
+
+About the Role
+
+Our products are now being used to solve some of the most pressing issues in society, including cancer research, drug development, fusion simulation, and the invention of new materials. We are looking for talented individuals to help us invent new ways of utilizing our platform for machine learning within our Machine Learning and Software organizations.
+
+Requirements
+
+Bachelor's degree and enrollment within the PEY program at University of Toronto
+Strong Python and C++ programming skills
+Strong fundamental knowledge of OOP, data structures & algorithms, computer architecture and/or machine learning
+
+Preferred
+
+Familiarity with TensorFlow, PyTorch or Caffe
+Familiarity with GPU, CPU, or parallel architectures
+Experience in vertical such as computer vision, language modeling, or speech recognition
+
+Location
+
+Toronto
+
+Cerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.
+
+This website or its third-party tools process personal data. For more details, click here to review our CCPA disclosure notice.",Tecnologías de la información,,2022-09-03T00:00:00,2022-10-16,OTHER
+Machine Learning Specialist (AI),RankWorks,Quebec,Pointe-Claire,-1,-1,,CAD,"RankWorks is a technology company that specializes in the development of ad tech platforms and web services. The company also offers agency level digital marketing services to the small and medium size business community.Our exceptional team consists of experts in every functional area of business and they are the key to our position as leaders in digital marketing and platform development. We strive to innovate on a daily basis to ensure we continue to grow and create new revenue opportunities and cutting edge technology.If you are passionate about taking your career to the next level, then join the RankWorks team and be a part of something big.Job Title:  Machine Learning & AI SpecialistResponsibilities:We are looking for a Machine Learning (ML) specialist to help us create artificial intelligence products.Machine Learning Specialist responsibilities include creating machine learning models and retraining systems. To do this job successfully, you need exceptional skills in statistics and programming. If you also have interest and knowledge in human behaviour analysis, we’d like to meet you.Your ultimate goal will be to shape and build efficient self-learning applications.Study and transform data science prototypes.Design machine learning systems.Research and implement appropriate ML algorithms and tools.Develop machine learning applications according to requirements.Select appropriate datasets and data representation methods.Run machine learning tests and experiments.Perform statistical analysis and fine-tuning using test results.Train and retrain systems when necessary.Extend existing ML libraries and frameworks.Keep abreast of developments in the field.Requirements:Proven experience as a Machine Learning Specialist or similar role.Understanding of data structures, data modelling and software architecture.Deep knowledge of math, probability, statistics and algorithms.Experience with sentiment and social media analysis.Interest in human behaviour analysisAbility to write robust code in Python, Java and R.Familiarity with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn).Excellent communication skills.Ability to work in a team.Outstanding analytical and problem-solving skills.BSc in Computer Science, Mathematics or similar field; Master’s degree is a plus.Job Types: Full-time, PermanentSalary: $49,558.00-$75,000.00 per yearBenefits:Casual dressCompany eventsDental careExtended health careLife insuranceOn-site childcareOn-site parkingSchedule:8 hour shiftApplication question(s):Must be familiar with Topic and Sentiment Analysis extractionExperience:machine learning: 2 years (preferred)advanced statistics, data mining and text mining: 2 years (preferred)",,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer (Modeling),Afterpay,Ontario,Toronto,-1,-1,,CAD,"Company Description
+It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic app, bringing a better way to send, spend, invest, borrow and save to our millions of monthly active users. With a mission to redefine the world's relationship with money by making it more relatable, available and accessible, at Cash App you'll have the opportunity to make a real-world impact with your career.
+Remote Work
+Today, Cash App has thousands of employees around the world with a culture geared toward creativity, collaboration and impact. We’ve been a distributed team since day one, and continue to value working across time zones and continents both remotely and in our Cash App offices.
+Our offices are great, but many of our roles can be done remotely from the countries where Block operates. We tailor our experience to champion our employees’ creativity and productivity wherever they are.
+Job Description
+Machine Learning is an integral part of how we design products, operate, and pursue Cash App’s mission to serve the unbanked as well as disrupt traditional financial institutions. Our massive scale and deep trove of transaction data create an endless number of opportunities to use artificial intelligence to better understand our customers and offer new products and experiences that can improve their lives. We are a highly creative group that prefers to solve problems from first principles; we move quickly, make incremental changes, and deploy to production every day.
+This role is part of our Cash App's ML team and will be deeply embedded within one of our product teams - here are the workstreams we're currently hiring for:
+Search & Discovery
+Cash App enables millions of people and businesses to pay and get paid with ease. On our team, we build delightful experiences that help our customers find and discover people and things quickly and with trust - we aim to grow and strengthen the connections between people and businesses across the globe. Through your work, you will empower Cash App to personalize customers’ search and discovery experiences using AI/ML, to better understand our customers’ payment journeys, and help identify and execute on new opportunities for product improvement. You will employ a variety of modeling techniques on our comprehensive customer data and scale your solution to production by partnering closely with design, product, analytics, and engineering teams.
+Risk
+You'll build machine learning models that detect fraudulent activity in real time and help keep our customers safe and secure. You will experiment with state-of-the-art algorithms to drive down false positives, collaborate on new product features to drive fraud losses down, use any and every dataset at your disposal (including 3rd party data) to engineer new features for risk models, verify customer documents using OCR, and use biometric and device signals to detect malicious logins and account takeovers.
+Customer Support Automation
+Working closely with our Customer Support team, you will use our vast amounts of data to make experiences seamless for our customers and help us achieve world-class service as Cash App continues its rapid growth. You will build models that anticipate customer issues and deliver proactive in-app suggestions, use NLP to contextualize inquiries and respond instantly with relevant content, develop prioritization algorithms that improve efficiency, and apply the latest research to automate conversations with customers.
+Technologies we use (and teach):
+Python (NumPy, Pandas, sklearn, xgboost, TensorFlow, keras, etc.)
+MySQL, Snowflake, GCP/AWS and Tableau
+Java
+Qualifications
+You have:
+5+ years experience with applied Machine Learning or Deep Learning
+A graduate degree in Computer Science, AI, ML, Applied Math, Stats, Physics, or a related technical field
+Worked with Product, Design, and Engineering to prioritize, scope, design, and deploy ML models
+A track record of providing mentorship and technical leadership
+An appreciation for the connection between the software you build and the experience it delivers to customers
+Additional Information
+We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
+We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our I+D page.
+Additionally, we consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis.
+
+Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+New Grad Software Engineer / Machine Learning Engineer,Aviva,Ontario,Markham,-1,-1,,CAD,"Individually we are people, but together we are Aviva. Individually these are just words, but together they are our Values – Care, Commitment, Community, and Confidence.
+What you’ll doDevelop, test, and deploy codeMaintain an existing code databaseTest and debug software and hardware related issuesKeep your eye out for opportunities to improve our products
+What you’ll bring
+A degree in Computer Science/Engineering or related field.
+1+ programming experience in Python with strong grasp of software engineering standard methodologies such as code-reusability, modularity, use of repos, etc.
+1+ years of applied experience in ML, NLP, and Deep learning.
+Have an understanding of SDLC, machine learning concepts, and NLP tasks such as classification, feature engineering, information extraction, structured prediction, sentiment analysis, and topic modelling.
+Knowledge of packages such as Pytorch, Keras, Scikit Learn, Pandas, Tensorflow, and NLTK.
+Conceptual understanding in a data-driven software engineering environment and how to leverage data to make business decisions.
+A track record in building and maintaining high quality, robust and maintainable code.
+Understanding of Data Warehouse concepts, ETL strategies and best practices.
+An appetite for problem solving with a creative and resourceful approach to finding the right solution for the job.
+Strong communication and collaboration skills
+﻿What sets you apart:
+You are a self-motivated and outgoing person who can work closely with business and IT stakeholders.
+You understand the relationship between data and business outcomes and can focus on long term strategies for data.
+Proficiency with PostgreSQL, Teradata, Hadoop and AWS is an asset.
+You have experience working as part of an Agile Team.
+What you’ll get
+Competitive rewards package including base compensation, eligibility for annual bonus, retirement savings, share plan, health benefits, personal wellness, and volunteer opportunities.
+Exceptional Career Development opportunities.
+We’ll support your professional development education.
+Additional Information
+Aviva Canada is committed to providing accommodations for people with disabilities during all phases of the hiring process including the application process. If you require an accommodation because of a disability, we will work with you to meet your needs. Applicants need to make their needs known in advance. If you are selected for an interview and require an accommodation, you are encouraged to advise the Talent Acquisition Partner who will consult with you to determine an appropriate accommodation.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.","Energía, minería e infraestructura pública",,2022-09-07T00:00:00,2022-10-16,OTHER
+Machine Learning Engineer,BPH Online Marketing,Ontario,Hamilton,-1,-1,,CAD,"We are looking for a highly capable machine learning engineer to optimize our machine learning systems. You will be evaluating existing machine learning (ML) processes, performing statistical analysis to resolve data set problems, and enhancing the accuracy of our AI software's predictive automation capabilities.To ensure success as a machine learning engineer, you should demonstrate solid data science knowledge and experience in a related ML role. A first-class machine learning engineer will be someone whose expertise translates into the enhanced performance of predictive automation software.Responsibilities: Consulting with managers to determine and refine machine learning objectives.Designing machine learning systems and self-running artificial intelligence (AI) software to automate predictive models.Transforming data science prototypes and applying appropriate ML algorithms and tools.Ensuring that algorithms generate accurate user recommendations.Turning unstructured data into useful information by auto-tagging images and text-to-speech conversions.Solving complex problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks.Developing ML algorithms to analyze huge volumes of historical data to make predictions.Running tests, performing statistical analysis, and interpreting test results.Documenting machine learning processes.Keeping abreast of developments in machine learning.Requirements: Bachelor's degree in computer science, data science, mathematics, or a related field.Master’s degree in computational linguistics, data analytics, or similar will be advantageous.At least two years' experience as a machine learning engineer.Advanced proficiency with Python, Java, and R code writing.Extensive knowledge of ML frameworks, libraries, data structures, data modeling, and software architecture.In-depth knowledge of mathematics, statistics, and algorithms.Superb analytical and problem-solving abilities.Great communication and collaboration skills.Excellent time management and organizational abilities.Job Types: Full-time, PermanentSalary: $3,500.00-$4,500.00 per monthBenefits:Dental careExtended health careVision careSchedule:8 hour shiftDay shiftSupplemental pay types:Bonus payCommission payAbility to commute/relocate:Hamilton, ON: reliably commute or plan to relocate before starting work (required)Experience:Machine learning: 1 year (preferred)",,,2022-09-09T00:00:00,2022-10-16,FULL_TIME
+[ACN] Machine Learning Intern - SynapseBio,AlleyCorp Nord,Quebec,Montreal,-1,-1,,CAD,"Opportunity
+
+We are hiring machine learning interns to train and test models that diagnose and predict neuropsychiatric conditions using physiological data. In this role, you will be working on a team with engineers and statisticians to research solutions for healthcare diagnostics and treatment areas, starting with Alzheimer's Disease and Major Depressive Disorder, among others.
+
+Key Responsibilities
+Design, train, and implement machine learning models to classify and predict neuropsychiatric conditions;
+Collaborate with our interdisciplinary team to develop, test, and rank models that will be selected for product integration;
+Collaborate with leading scientific researchers on scientific publications;
+Keep up to date with ML and deep learning research literature – implement novel techniques from adjacent research areas (e.g. audio and video engineering, speech recognition, eye movement), to develop the highest performing models for healthcare applications.
+Qualifications
+Master's or PhD student in machine learning, computer science, neuroscience, or other related fields;
+Demonstrable proficiency writing code in Python, in particular with Tensorflow, Scikit-learn, PyTorch, Keras or similar (familiarity with Tensorflow is ideal, but flexibility across toolchains is strongly preferred);
+Excellent presentation and communication skills – published work such as papers, code, talks are a plus.",,,2022-09-13T00:00:00,2022-10-16,OTHER
+Machine Learning Operations Specialist,Stantec,Manitoba,Winnipeg,-1,-1,,CAD,"Machine Learning Operations Specialist - ( 220002SA )
+Description
+Grow with the best. Join a smart, creative, and inspired team that works behind the scenes to support operational excellence. As part of the Innovation Office, the Digital Technology & Innovation team is composed of digital experts who conduct research and development to keep our teams—and our client’s projects—ahead of the technological curve. They implement established technologies and find emerging solutions for all business lines (Buildings, Energy & Resources, Environmental Services, Infrastructure, and Water), bridging existing knowledge domains and facilitating the integration of powerful tools and methods. The team’s goals are to digitalize our organization, support Stantec’s digital transformation, and to increase the capacity of our designers, engineers, and scientists, providing higher-quality results and solutions to our clients.
+Your Opportunity
+The Innovation Office’s Digital Technology & Innovation (DTI) team has an opportunity for a Machine Learning Operations Specialist. This individual contributor position will be a member of the Data and Analytics Program Group, which leads the firm in Business Intelligence and data services by providing architectural guidance, technological vision, and solution development. Specifically, this position will use advanced analytics, data science, and machine learning to give our business and our products a competitive advantage. It includes understanding and managing the data and how it interconnects as well as architecting data for self-serve BI and BA opportunities. This position requires a person who is business savvy, experienced in data analytics, machine learning, and enjoys framing a problem, shaping & creating solutions, and helping to champion implementation. As a member of the Digital Technology & Innovation team, the Data and Analytics group also engages in research & development and provides guidance and oversight as a center of excellence for the business. This group also engages in new product research and testing and the incubation of data analytics ideas.
+The ideal candidate will be a self-starter, a critical thinker, and highly interested in the application of new data analytics and machine learning technologies and methods. The candidate will become a member of the Digital Technology & Innovation group; however, they will also be accessible to Stantec’s project teams to support project work as needed.
+Your Key Responsibilities
+Reporting to the Data Analytics Leader, your key responsibilities will include:
+Consult on machine learning solutions, give direction, and insight on machine learning initiatives and areas of focus.
+Build end-to-end advanced analytics and AI/ML solutions.
+Build efficient platforms for model training, evaluation, shipping, and monitoring.
+Design and train ML systems and model architecture.
+Train and tune advanced AI/ML models and put them in production via model pipelines, registry, packaging, deployment, and monitoring in a scalable way.
+Document the work process, including experiments, parameter tuning etc.
+Work with data scientists within our team, our business stakeholders, and other technical teams to deliver analytical solutions to the business.
+Present periodic Tech-Talk (internal company) webinars throughout the year on the topic of machine learning and artificial intelligence.
+Present to external audiences as needed.
+Perform other miscellaneous tasks associated with being a member of the Digital Technology & Innovation team and those typical of a Machine Learning operations specialist.
+Qualifications
+Your Capabilities and Credentials
+Curious, passionate about helping business lines drive their success utilizing data.
+Innovative problem-solver, ability to imagine new analytical solutions to any problem.
+Confident, able to challenge perceptions and biases of individuals diplomatically at every level of the organization in order to enact improvements.
+Ability to communicate to both technical and non-technical people.
+Ability to effectively organize, plan, prioritize, and manage time and competing priorities.
+Ability to execute complex or specialized projects.
+Business-oriented with a solid understanding of business requirements and vernacular.
+Highly detailed when required.
+Stays abreast of current and upcoming technologies and tools.
+Results-focused, able to focus on results and set an example for the team.
+Good understanding of end-to-end data science projects - data intuition validation, model design, implementation, validation and testing, and deployment.
+Strong proficiency with R or Python.
+Experience with application development practices, CI/CD pipelines and GIT.
+Extensive experience with machine learning libraries (Numpy, Pandas, SciKit Learn, etc.) and any deep learning frameworks like Pytorch/Tensorflow.
+Hands on expertise in developing AI & ML driven models.
+Experience/knowledge in deploying AI & ML models and putting models into production.
+Experience with Azure Cloud for MLOps is an asset
+Education and Experience
+A bachelor’s or master’s degree in business, IT, mathematics, statistics, or another relevant area of study.
+Minimum 1 year of experience in the areas of machine learning, deep learning, natural language processing or data mining.
+Typical office environment working with computers and remaining sedentary for long periods of time.
+This description is not a comprehensive listing of activities, duties or responsibilities that may be required of the employee and other duties, responsibilities and activities may be assigned or may be changed at any time with or without notice.
+Stantec is a place where the best and brightest come to build on each other’s talents, do exciting work, and make an impact on the world around us. Join us and redefine your personal best.
+Primary Location : Canada-Ontario-Waterloo
+Other Locations : Canada-Saskatchewan-Regina, Canada-Alberta-Calgary, Canada-Nova Scotia-Dartmouth, Canada-Manitoba-Winnipeg, Canada-British Columbia-Vancouver, Canada-Ontario-Toronto, Canada-Newfoundland and Labrador-St. John's, Canada-Alberta-Edmonton
+Job : Applications Development
+Organization : BC-1290 Innovation-DTI-Canada
+Employee Status : Regular
+Job Level : Individual Contributor
+Travel : No
+Schedule : Full-time
+Job Posting : Aug 25, 2022, 11:37:51 AM
+Req ID: 220002SA
+Stantec provides equal employment opportunities to all qualified employees and applicants for future and current employment and prohibit discrimination on the grounds of race, color, religion, sex, national origin, age, marital status, genetic information, disability, protected veteran status, sexual orientation, gender identity or gender expression. We prohibit discrimination in decisions concerning recruitment, hiring, referral, promotion, compensation, fringe benefits, job training, terminations or any other condition of employment. Stantec is in compliance with local, state and federal laws and regulations and ensures equitable opportunities in all aspects of employment. EEO including Disability/Protected Veterans","Servicios de construcción, reparación y mantenimiento",,2022-08-25T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer (All levels),Deep Genomics,Ontario,Toronto,-1,-1,,CAD,"About Us
+Founded in 2015, Deep Genomics is a drug development company that aims to revolutionize medicine by leveraging expertise in artificial intelligence (AI) and genome biology. We have built the world’s first, and by far the most advanced, AI platform that is able to untangle the enormous complexity of RNA biology and find the best targets, mechanisms, and molecules.
+The thesis here at Deep Genomics is that everyone, at some point in their life, will face a genetic condition, whether Mendelian or complex, and we aim to be there for them with a genetically precise therapy. We take immense pride in our team of people whose backgrounds span a diverse range of disciplines including those found in a traditional biotechnology company, as well as machine learning, laboratory automation, and software engineering.
+Ideal Candidate
+Our predictive systems group brings together world-leading experts in biology, genomics, medicine, and machine learning. We are working on several ambitious projects to develop pioneering AI technology for understanding complex genetic diseases and enabling the discovery of novel targets as well as therapies. We are looking for an experienced machine learning engineer to lead the design and development of new models and pipelines and the infrastructure for scaling it up to the next level.
+What You’ll Be Doing:
+Working with our ML scientists to develop highly scalable models and algorithms for predicting molecular phenotypes using state-of-the-art neural network methodologies.
+Developing evaluation, visualization, and productivity tools for streamlining machine learning research
+Adapting our algorithms and architectures to best exploit modern cloud computing environments
+Working with our software engineers, biologists and geneticists to operationalize and deploy research output to match the needs of stakeholders.
+What You Bring:
+Solid Engineering and Computer Science fundamentals, ideally with a degree in CS, Math, or equivalent experience.
+Senior candidates should have experience in architecting, developing, and deploying large software systems in a leading position
+Experience in building, testing, training, and deploying production-ready ML workflows.
+Experience developing machine learning algorithms or machine learning infrastructure in Python or C/C++.
+Experience with frameworks like PyTorch, Caffe2, Tensorflow, Keras, JAX, Chainer, etc.
+Experience in the operationalization of Machine Learning projects (MLOps) using at least one of the popular frameworks or platforms (e.g. Kubeflow, AWS Sagemaker, Google AI Platform, Azure Machine Learning).
+What we offer:
+Leading role in developing the future of drug development to cure genetically defined diseases.
+A highly competitive salary and meaningful equity compensation.
+Exceptional opportunities for learning and growth.
+A bright, collegial, highly motivated team working at the intersection of the most exciting areas of science and technology.
+Deep Genomics thanks all applicants, however only those selected for an interview will be contacted.
+Deep Genomics welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.",,,2022-08-22T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer III,ACV Auctions,British Columbia,Vancouver,-1,-1,,CAD,"ACV’s mission is to build and enable the most trusted and efficient digital marketplaces for buying and selling used vehicles with transparency and comprehensive data that was previously unimaginable. We are powered by a combination of the world’s best people and the industry’s best technology. At ACV, we are driven by an entrepreneurial spirit and rewarded with a work environment that enables each teammate to impact the company from day one. ACV’s network of brands includes ACV Auctions, ACV Transportation, MAX Digital and ACV Capital within its Marketplace Products as well as True360 and Data Services.
+
+ACV’s Machine Learning Team is looking for a talented, experienced Machine Learning Engineer, to join our pricing domain. You will be leading the research and development of models that power the prediction of vehicle sale prices on the ACV marketplace.
+
+Successful candidates will demonstrate excellent skill and maturity, be self-motivated as well as team-oriented, and have the ability to support the development and implementation of end-to-end ML-enabled software solutions to meet the needs of internal stakeholders. Those who will excel in this role will be those who listen with an ear to the overarching goal, not just the immediate concern that started the query. They will be able to show their recommendations are contextually grounded in an understanding of the practical problem, the data, and theory as well as what product and software solutions are feasible and desirable.
+
+The core responsibilities of this role are:
+
+Working with the fellow machine learning engineers to explore and refine the existing models via creative feature engineering and model tuning.
+Developing ML models to detect prediction outliers, from proof of concept to Production.
+Mining structured & unstructured data, and performing EDAs.
+Documenting the work process, including experiments, parameter tuning etc.
+Monitoring performance of models in Production.
+
+Required Qualifications:
+
+Graduate education in a computationally intensive domain.
+0-3 years of prior relevant work or lab experience in ML/DL projects/research.
+Strong sense and skills in mathematics, statistics and algorithms. Experience with regression analysis and classification analysis is essential.
+Experience with EDA, including data pipeline building and data visualization.
+Advanced proficiency with Python, SQL etc.
+Extensive knowledge of ML frameworks and libraries. Experience on tree-based algorithms (XGBoost, CatBoost, LightGBM etc.), and Generalized linear models (GLM) are highly valued.
+
+Preferred Qualifications:
+
+Experience with anomaly detection, and model interpretation.
+Experience with cloud services (AWS / GCP) and kubernetes, docker, CI/CD in python.
+Experience with Bash Scripting
+
+What we will offer:
+
+Comprehensive benefits offerings for benefits eligible Teammates.
+Unique culture that truly values each and every Teammate.
+Career development and Future Growth Opportunities.
+Learning & Development Opportunities!
+We love to see our engineers grow and learn and have invested heavily in our internal Learning and Development program, which provides access to PluralSight, Frontend Masters, as well as in-person conferences.
+Annual Hackathons with some amazing prizes!
+Career development and future growth opportunities.
+
+At ACV, we are committed to an inclusive culture in which every individual is welcomed and empowered to celebrate their true selves. We achieve this by fostering a work environment of acceptance and understanding that is free from discrimination. ACV is committed to being an equal opportunity employer regardless of sex, race, creed, color, religion, marital status, national origin, age, pregnancy, sexual orientation, gender, gender identity, gender expression, genetic information, disability, military status, status as a veteran, or any other protected characteristic We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires reasonable accommodation, please let us know.
+
+For information on our collection and use of your personal information, please see our Privacy Notice.",Ventas al mayoreo y al menudeo,,2022-09-07T00:00:00,2022-10-16,FULL_TIME
+Senior Machine Learning Scientist,GoDaddy,,,-1,-1,,CAD,"Location
+
+At GoDaddy the future of work looks different for each team. Some teams work in the office full-time, others have a hybrid arrangement (they work remotely some days and in the office some days) and some work entirely remotely.
+
+This position may be a hybrid or fully remote position, as decided by your manager. If designated as hybrid, you’ll divide your time between working remotely from your home and an office location, so you should live within commuting distance. If designated as remote, you’ll be working remotely from your home and may occasionally visit a GoDaddy office to meet with your team for events or off-sites. Your hiring manager can share more about this role’s hybrid or remote designation.
+
+This position is not eligible to be performed in Alaska, Mississippi, North Dakota, or the Virgin Islands.
+
+Hybrid-or-Remote: This position may be a hybrid or fully remote position, as decided by your manager. If designated as hybrid, you’ll divide your time between working remotely from your home and an office location, so you should live within commuting distance. If designated as remote, you’ll be working remotely from your home and may occasionally visit a GoDaddy office to meet with your team for designation.
+
+Join Our Team
+
+Our team is a part of the Worldwide Engineering organization within GoDaddy, and we are looking to hire a Senior Machine Learning Scientist/Applied Researcher experienced with NLP/NLU to join our ML/AR team. Our goal is to build and grow a community of ML scientists and engineers to learn, share, and grow. We are committed to understanding all major business units, and we thrive on empowering business results by leveraging state-of-the-art ML algorithms.
+
+This core Machine Learning/Applied Research team utilizes large-scale data to power various business areas, and a primary goal is to enhance the effectiveness of our team of customer care and sales partners with ML solutions like the self-service chatbot, a customer-centered case management system, and a configurable dynamic routing system to connect our customers with the team member who can answer their questions.
+
+Your contributions will affect millions of customers and have a direct impact on our business results. Our team's challenges include deriving value from sparse data, understanding large scale shopping data to extract and retrieve information, and developing best practices to create the best customer experience and highest customer engagement. GoDaddy has deep and rich data sets, many still untapped, and your real passion for the cutting-edge machine learning algorithms has the power to unlock tangible business growth.
+
+What you will get to do…
+
+You can articulate and understand a business problem, identify challenges, formulate the ML/NLP problem and provide/prototype solutions
+You will provide technical leadership, identify, and understand key business challenges and opportunities, and develop end-to-end software solutions using ML/NLP.
+You will collaborate extensively with internal partners, program & product management, and engineering teams to ensure that solution meets business needs, emits valid inferences, and is functionally feasible
+You will collect and process large volumes of data and build new and improved techniques and/or solutions for data collection, management, and usage
+You will communicate results in a comprehensible manner to all levels of the company (field teams up to Senior Management)
+You will brainstorm and share knowledge with other team members
+
+Your experience should include…
+
+MS in machine learning, computer science, or equivalent quantitative field with at least 2 years of industry experience, or PhD in same fieldsA background in both machine learning/NLP and software development; hands-on Deep Neural Network experience is preferredStrong algorithm design and programming skills in at least one low level language like C++/Java, and scripting languages like Python/R/ScalaExperience with distributed computing (Hadoop/Spark)Passion for solving interesting and meaningful real-world problems using principled techniques and practicesExperience working with live data (data cleaning, data visualization, and modeling)Passion for collaboration and teamworkExperience documenting, synthesizing, and communicating results
+
+ Your experience may include…
+
+Hands-on experience with Google Dialogflow, Live Engage, Kore.ai, or similar chatbot tools
+Defining or implementing chatbot and conversation design best practices
+
+About us... GoDaddy is empowering everyday entrepreneurs around the world by providing all of the help and tools to succeed online. GoDaddy is the place people come to name their idea, build a professional website, attract customers, sell their products and services, and manage their work. Our mission is to give our customers the tools, insights and the people to transform their ideas and personal initiative into success. To learn more about the company, visit About Us (https://aboutus.godaddy.net/about-us/overview/default.aspx.)
+
+
+GoDaddy is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, national origin, citizenship, marital status or civil partnership/union status, disability, pregnancy, genetic information or any other basis prohibited by applicable country or local laws.
+
+If you need help completing an application for a position with GoDaddy, please reach out to our Recruiting Team at myrecruiter@godaddy.com.
+
+GoDaddy doesn’t accept unsolicited resumes from recruiters or employment agencies.
+Job ID R016523
+GoDaddy's compensation is local to where you are and may vary based on an individual's qualifications at the time of the offer. The anticipated annual base salary ranges for select locations are listed below:
+Seattle, New York City - $128000.00 to $160000.00
+Colorado, Washington State - $113500.00 to $142000.00",Tecnologías de la información,,2022-08-18T00:00:00,2022-10-16,FULL_TIME
+"Senior Machine Learning Engineer, Computer Vision (Remote)",BenchSci,Ontario,Toronto,-1,-1,,CAD,"BenchSci is a remote first organization. At this moment, we are welcoming applicants from Canada, the US and the UK for this position.
+BenchSci's vision is to help scientists bring novel medicine to patients 50% faster by 2025. We empower scientists to run more successful experiments with the world's most advanced, biomedical artificial intelligence software platform.
+Backed by F-Prime, Inovia, Golden Ventures, and Google's AI fund, Gradient Ventures, we provide an indispensable tool for scientists that accelerates research at 16 top 20 pharmaceutical companies and over 4,300 leading academic centers. We're a certified Great Place to Work®, and top-ranked company on Glassdoor.
+We are seeking a Machine Learning Engineer - Computer Vision to join our growing ML team. You will work on complex and challenging computer vision problems that will have an impact on the 31,000+ life scientists across the world who rely on BenchSci for their research. Reporting to the Engineering Manager, ML, you'll apply your domain expertise to select, train and deploy the best-suited machine learning algorithms, collaborate and experiment with scientists, and apply state-of-the-art techniques to build solutions that will shape the future of scientific discovery. This role offers plenty of room for technical innovation and greenfield to explore and propose computer vision solutions to a complex area.
+You Will:
+Continuously improve the performance and scalability of ML models and pipelines that are at the core of BenchSci's products
+Work on different stages of the problem from prototyping to productization
+Contribute to key components across the machine learning ecosystem defining BenchSci's ML Technical Roadmap
+Regularly investigate what technologies will best enable BenchSci to effectively identify experimental insights through proof-of-concepts
+Work with BenchSci's Chief Science Officer and Director of ML to correctly capture the nuances of biology, effectively translating them into ML objectives
+Advocate for code and engineering process improvements across your team, and help define best practices based on personal industry experience and research
+Participate in sprint planning, estimations, and reviews
+Work with teammates to ensure high-quality deliverables
+You Have:
+3+ years of experience working as a professional developer, with at least 2 years of this focused on machine learning and computer vision
+A Bachelor's or Master's degree in Computer Science, Mathematics, or other closely-related disciplines
+Excellent software engineering skills in Python
+Comprehensive knowledge in the end-to-end machine learning lifecycle, including the nuances of the infrastructure and operations
+Working experience with ML and/or Computer Vision fundamentals
+Experience productionalizing ML models (this is kind of mandatory for us)
+Strong experience with PyTorch, TensorFlow, Scikit-learn, and image processing libraries such as OpenCV and Scikit-image
+Experience with distributed and cloud-based data processing frameworks such as Apache Spark or Apache Beam
+A constant desire to grow and develop
+Strong cross-team communication and collaboration skills
+A team player who strives to see teammates succeed together
+Nice to haves, but not mandatory qualifications:
+Research publications in ML/AI-related fields
+Background in Life Science (cell biology, molecular biology, genetics, immunology, microbiology)
+Experience in bioinformatics
+Familiarity with reference architectures on Google Cloud Platform
+Familiarity with modern container orchestration systems such as Kubernetes
+Benefits and Perks:
+An engaging remote-first culture
+A competitive compensation package that includes BenchSci equity options
+Comprehensive health and dental benefits
+Emphasis on mental health with $2500 CAD (or equivalent in your country’s currency) for Psychologist, Social Worker, or Psychotherapist services
+Three weeks of vacation plus an additional day for every completed year
+Unlimited flex time to use toward sick days, personal days, religious holidays, birthdays and appointments
+Additional time-off: 2 weeks for Winter Holidays, every other Friday in July and August, your birthday, and more!
+Generous parental leave benefits with a top-up plan or paid time off options
+A $2000 CAD (or equivalent in your country’s currency) Annual Learning & Development budget
+A $1000 CAD (or equivalent in your country’s currency) work from home allowance to make your home setup perfect for you
+A lifestyle spending account for employees to receive reimbursement for eligible expenses related to wellness, lifestyle and productivity $2500 CAD (or equivalent in your country’s currency) per year
+Our Culture:
+At BenchSci, we’re committed to cultivating an inspiring, inclusive, and equitable work environment for high performing, ego-free, self-starting individuals with a growth mindset, who enjoy the challenge of solving hard problems. We recognize that everyone here is a person first and an employee second. We want people to feel cared for and supported to bring the best versions of themselves to work and help the company achieve its mission. We believe culture is critical to success and invest accordingly.
+We live and promote our FASTT values of Focused, Advancement with Speed, Tenacity, and Transparency. We work hard to maintain an engaging, supportive environment where everyone can do their best work. To learn more, read our culture deck.
+Diversity, Equity and Inclusion:
+We're committed to creating an inclusive environment where people from all backgrounds can thrive. We believe that improving diversity, equity and inclusion is our collective responsibility, and this belief guides our DEI journey. To learn more, read about our DEI initiatives.
+Accessibility Accommodations:
+BenchSci provides accessibility accommodations during the recruitment process. Should you require any accommodation, we will work with you to meet your needs.
+BenchSci is a remote first organization. At this moment, we are welcoming applicants from Canada, the US and the UK for this position.
+#LI-Remote",Tecnologías de la información,,2022-08-26T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer,Routeique Inc.,Alberta,Calgary,-1,-1,,CAD,"MACHINE LEARNING ENGINEER
+
+ROUTEIQUE
+Company culture is at our core
+
+Routeique is not a software company. Our business involves unraveling complexity, ironing out wrinkles, and finding better ways—which means our commitment is always considerably deeper than pixels on a screen, and far wider than just the supply chain.
+We are a close-knit team of innovators with nerd-like enthusiasm, and veteran-like experience. We are supply chain experts armed with the mother of all digital platforms. And we are hell bent on ensuring every link, in every chain, is flawlessly efficient and seamless.
+Indeed it’s our velvet integration of high touch and high tech—and our insistence on being partners, not vendors—that allow us to bring so much value to the table.
+We strive to work passionately, improve daily, speak truthfully, invest wisely, watch carefully, iterate/innovate relentlessly and grow frequently. These are our values, they keep us accountable and drive us to our success. Success is not only growing the business but growing people.
+
+What’s cool about Routeique?
+
+At Routeique we know a supply chain can never be completely owned. The variables of logistics, warehousing, shipping and fulfillment are infinite, and not easily wrangled or second guessed—especially in a world wracked with the uncertainty of alarmingly frequent environmental, political and medical crises. That’s why, every day, we provide our clients with the next best things: insight, foresight, and oversight.
+We give clients penetrating x-ray vision that tracks and traces every step of their networks, virtually, in real time—empowering them to stay ahead of problems, leapfrog legacy logjams, and capitalize on previously unseen opportunities... with crystal-clear transparency.
+What you'll be doing:
+
+The Machine Learning Engineer uses their applied industry experience in deployment and operationalization of ML solutions in production environments to direct the research and development efforts of Routeique and our Supply Chain Clients. They bridge the gap between business opportunities and applied ML methods to provide direction and oversight on technical projects. They advise clients along the entire machine learning journey from scoping to model deployment and productization. This includes making informed decisions about what the data requirements are, what modeling techniques should be tested, how solutions should be deployed and monitored, and how success will be evaluated. As part of the development team, you will work to comprehend these complex customer needs and represent the customer through the development process including the below:
+
+Study and transform data science prototypes
+Design machine learning systems
+Research and implement appropriate ML algorithms and tools
+Develop machine learning applications according to requirements
+Select appropriate datasets and data representation methods
+Run machine learning tests and experiments
+Perform statistical assessments and fine-tuning using test results
+Train and retrain systems when necessary
+Extend existing ML libraries and frameworks
+Keep abreast of developments in the field
+
+
+Who we're looking for:
+
+Extensive experience with ML frameworks, platforms and tools, and expert knowledge with at least one tool stack
+Experience and comfort with DevOps and tools such as cloud platforms, containerization, CI/CD, etc
+Adept in at least one programming language eg: Python, Java, C++ or R
+Familiarity with at least two of: Tensorflow, Keras, PyTorch and Sklearn
+You're able to communicate on technical topics with a non-technical audience
+General comprehension of the strengths and weaknesses of a range of ML techniques across supervised learning, unsupervised learning, and reinforcement learning
+Up-to-date knowledge and strong engineering and analytical skills
+
+
+You might also have:
+
+Successful completion of post secondary education in Computer Science or related field with equivalent experience in Data Science
+2 or more years of experience developing machine learning models in an applied setting
+2 or more years of experience deploying machine learning models with production-quality code in industry
+Technical product knowledge or previous experience with operational technologies in Supply Chain, Warehousing, Fulfillment, Logistics solutions
+
+
+Being part of the Routeique team:
+
+Routeique is a more than a fun place to work and we have always honoured a self-driven hybrid work environment allowing our team members to choose where and when they work. Oh, and did we forget to mention, Routeique is the place to make life changing income? With our US/European inspired ESOP (Employment Share Options Program) everyone has the choice to share in the companies success. That's right... You are in the drivers seat along with everyone else, the decisions you make and effort you apply will allow you to directly benefit.
+What you'll also get:
+
+Market/experience based salary
+Comprehensive health, vision and dental benefits including a Health Spending Account and Employee Assistance Programs
+Group RRSP matching program & group life insurance
+TELUS Health Virtual Care: Online Doctors, virtual help and prescriptions in Canada
+Paid vacation days + paid cultural holidays
+Educational advancement
+Events with fun prizes
+Lunch and learns
+
+
+Am I the right candidate for Routeique?
+
+Sharing your knowledge with your team is fun for you, and you are happy to help other members of the team decode problems
+You're comfortable in an early-stage company and are excited at the idea of joining a team of smart, client-oriented folks
+You're a self-starter and can prioritize your time to achieve goals without a lot of day to day oversight
+You’re interested in not just a job but building a company, culture, processes, and growing with us
+You have a track record of committing to what you say you will do, and are passionate about delivering great products for teams and clients
+You communicate clearly, write well, speak eloquently, and are comfortable explaining complicated issues over the phone and via email to both engineers and clients
+You get along with people and like helping people, learning new things, and are quick to solve to problems proactively
+You have experience with and enjoy working teams that are partially or fully remote
+You are comfortable talking with internal team members and/or clients on product calls
+
+
+Sometimes, confidence can deter us from applying for a job but you know what? A ‘perfect’ candidate doesn’t exist. Routeique is a place for everyone to grow. Whatever background you have and however you identify, please apply for this role if it’ll avoid the Case of the Mondays. We want you to be excited to show up to work everyday and we’re convinced you will, at Routeique.
+https://routeique.bamboohr.com/jobs/view.php?id=62",Transporte y logística,,2022-09-07T00:00:00,2022-10-16,FULL_TIME
+Computational Biologist,CirrusLabs,Ontario,Mississauga,-1,-1,,CAD,"Job Title: Computational BiologistJob Description: Project RoleThis role will be working on drug discovery related research projects within the Oncology Bioinformatics department at Genentech. Here, we develop and apply Client computational concepts to molecular data to better understand the biology of cancer and develop therapeutic opportunities. The candidate for this role will have a strong background in computational biology and -omics data analysis, an excitement to contribute to early-stage drug programs, and at least some experience leveraging advanced computational models or machine learning / deep learning frameworks.In this role, you will contribute to basic research in Oncology Bioinformatics, applying these approaches to improve our understanding of molecular dependencies in cancer. Specifically, the successful candidate will be proficient in (or able to learn and adapt to) data analysis, integration, and visualization across diverse -omics platform types (including cutting-edge technologies, such as single-cell and long-read RNA sequencing), and have a strong track-record of contributing to and driving relevant genomic research as evidenced by high-impact publications.EducationMinimum of a Master's Degree or PhD and postdoctoral experience strongly preferred in a Biological field with Information Technology, Bioinformatics, computational biology or related fields.Required Skills3-6 years of related experience required.Strong computational and analytical skills, including high level of proficiency with Rprogramming language and Bioconductor packages.Experience with analysis of high throughput data such as RNA-seq,ChIP-seq/ATAC-seq.Familiarity with public genomic databases such as ENCODE, TCGA, gnomAD.Experience with working in Linux-based servers.Good data science practice and understanding of data complexity.Good understanding of biological concepts and an interest to learn more.Excellent communication, advanced English reading, writing, listening and speakingskills.Preferred Skills and ExperienceExperience contributing to and driving relevant genomic research as evidenced by high-impact publicationsExperience analyzing single-cell transcriptomics dataRemarks:Job Type: Fixed term contractPay: Up to $90.00 per hourSchedule:8 hour shift",Tecnologías de la información,,2022-09-12T00:00:00,2022-10-16,OTHER
+Machine Learning Scientist (All levels),Deep Genomics,Ontario,Toronto,-1,-1,,CAD,"About Us
+Founded in 2015, Deep Genomics is a drug development company that aims to revolutionize medicine by leveraging expertise in artificial intelligence (AI) and genome biology. We have built the world’s first, and by far the most advanced, AI platform that is able to untangle the enormous complexity of RNA biology and find the best targets, mechanisms, and molecules.
+The thesis here at Deep Genomics is that everyone, at some point in their life, will face a genetic condition, whether Mendelian or complex, and we aim to be there for them with a genetically precise therapy. We take immense pride in our team of people whose backgrounds span a diverse range of disciplines including those found in a traditional biotechnology company, as well as machine learning, laboratory automation, and software engineering.
+Ideal Candidate
+We are seeking a creative and experienced machine learning scientist to decipher how mutations and genetic medicines influence the molecular world of the cell. The successful candidate will develop machine learning approaches for modeling complex RNA- and protein-level outcomes based on massively parallel assays. The ideal candidate has a proven track record of publishing at top machine learning conferences (NeurIPS, ICML, ICLR) or has applied deep learning to genomics in a top life sciences journal.
+Requirements/Qualifications
+MSc (Junior Scientist) or PhD (Senior Scientist) trained in machine learning.
+Extensive practical experience at systematically designing, training, debugging, and evaluating neural networks using modern frameworks such as Tensorflow, PyTorch, or Theano.
+Excellent scientific writing and presentation skills.
+Senior Scientists must demonstrate leadership and ability to introduce new machine learning techniques.
+What we offer:
+A chance to develop machine learning techniques that will save human lives.
+Inspiring, creative, and fast-moving startup work environment in downtown Toronto
+Competitive compensation package including stock options
+Deep Genomics thanks all applicants, however only those selected for an interview will be contacted.
+Deep Genomics welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.",,,2022-08-22T00:00:00,2022-10-16,FULL_TIME
+Computational Scientist,Bayer,Ontario,Mississauga,-1,-1,,CAD,"At Bayer we’re visionaries, driven to solve the world’s toughest challenges and striving for a world where ,Health for all, Hunger for none’ is no longer a dream, but a real possibility. We’re doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those around us, expanding our thinking, growing our capabilities and redefining ‘impossible’. There are so many reasons to join us. If you’re hungry to build a varied and meaningful career in a community of brilliant and diverse minds to make a real difference, there’s only one choice.
+
+Computational Scientist
+
+
+The purpose of this position is to apply and design statistical and predictive modelling techniques to facilitate exploratory and confirmatory analysis needed for decision making.
+
+Bayer is committed to a flexible hybrid working environment.
+
+What you will do:
+Apply statistical and predictive modelling techniques; and lead programming activities to develop and validate interactive data analysis packages to facilitate exploratory and confirmatory analyses for decision making in collaboration with responsible statistician(s).
+Support the development of clinical data analysis applications that help to automize pipelines and support clinical experts and decision makers.
+Provide expertise and educate the organization on new approaches for data analysis. Assist organization to understand and adopt the principles of these approaches and how they provide value to decision making.
+Troubleshoot and implement enhancements and corrections to data analysis tools, systems, and methods as needed.
+Explore, evaluate, design, implement, and document new and emerging analytical processes and tools to improve working processes and research in collaboration with functional counterparts (internal and external), team leader(s) and subject matter expert(s).
+Actively participate in industry workshops and working groups.
+
+Who you are:
+BS/MS/PhD in Statistics, Mathematics, Computer Science, Bioinformatics or equivalent (of theoretical/technical depth).
+Three/Two years of relevant statistical analysis experience in the Pharmaceutical, Biotechnological, Academic, or Research Institutes or similar sector.
+Good knowledge of the pharmaceutical industry including the understanding of clinical drug development process and associated documents and regulations.
+Behavioral Skills:
+Capability of working independently and collaboratively.
+Demonstrated ability to prepare training materials such as use-cases, user-manuals, and formal presentations for audiences of different technical backgrounds (Clinicians, Medical writers etc.)
+Project Management Skills:
+Proven problem-solving capabilities to address complex issues independently and as a self-starter.
+Experience in requirements gathering, formulating, and operationalizing specifications and seeking clarification from and with end-users
+Technical Skills:
+High technical competency in clinical research setting along with basic understanding of clinical data structure (e.g. CDISC standards).
+Previous experience creating interactive data displays using statistical and/or visualization software or tools (i.e. SAS, R, Shiny, Python, Spotfire, SQL etc.) is required.
+Knowledge of statistical methodology used to analyze and interpret aggregate clinical data, i.e., the use of confidence intervals, hazard ratios, and p-values.
+Machine learning and/or NLP/NLG experience and web development (HTML, JavaScript etc.) is a plus.
+Strong data engineering skill (familiarity with different systems, databases, and technologies) and, data wrangling / manipulation/ management skills.
+Experience with version control systems (e.g. git) and agile methodology.
+This position requires full vaccination against COVID-19.
+
+What we offer:
+Competitive compensation and rewards package
+Collaborative, diverse, and inclusive culture
+Career development and global opportunities
+Work-life flexibility programs such as flex hours, employee discounts, volunteer days, wellness, and other employee offerings
+
+Bayer is committed to fostering, cultivating and preserving a culture of Inclusion and Diversity. We embrace and encourage our employees’ differences and believe that our people are our most valuable asset. The collective sum of individual life experiences, knowledge, innovation, self-expression, unique capabilities that our employees invest in their work represents our culture, reputation, and Bayer’s values and purpose.
+
+Learn more about our values and purpose at: https://www.bayer.com/en/ca/canada-our-purpose-values
+
+All referral candidates must first be submitted via our internal referral system by a current Bayer employee in order to participate in the referral program. Once a Bayer employee has successfully referred you in our system, you will receive an automated email with instructions on how to complete your application.
+
+Application Deadline: September 23, 2022
+
+#LI-CA
+
+
+Bayer welcomes and encourages applications from people with disabilities. Candidates participating in our selection process requiring accommodation due to a disability or medical need are encouraged to notify the Bayer representative that they will be meeting with to ensure appropriate arrangements can be made.
+
+Location:
+Canada : Ontario : Mississauga
+
+Division:
+Pharmaceuticals
+
+Reference Code:
+722504",Farmacéutica y biotecnología,,2022-09-09T00:00:00,2022-10-16,OTHER
+Machine Learning Engineer,Jumio,Quebec,Montreal,-1,-1,,CAD,"Description:
+
+We are looking for a machine learning engineer. In this role, you will get to work alongside various experts in product and engineering. You will analyze datasets to discover patterns, build and test models and implement them to improve our transactional monitoring system.
+
+Responsibilities:
+
+Mine and analyze data from databases to create features, generate insights, drive optimization and improvement of product development.
+Develop data models and algorithms to improve the current AML rule based system.
+Develop processes and tools to monitor and analyze model performance and data accuracy in production.
+Implement end-to-end machine learning solutions in a production environment
+Keep pace with the state-of-the-art technologies in machine learning
+
+Experience and Qualifications:
+
+Bachelor's degree in Mathematics, Statistics, Computer Science, Engineering
+3+ years of industrial experience solving analytical problems using relevant quantitative and qualitative research and analytics experience, in related business areas; or equivalent 2+years of industry experience with Master's degree
+Relevant experience in fraud detection, risk calculation and entity graph.
+Experience with programming languages (e.g., SQL, NoSQL, Python etc.)
+Hands-on experience with machine learning frameworks such as Scikit-learn, Tensorflow and Pytorch
+Strong knowledge of classical machine learning techniques (clustering, decision trees, artificial neural networks)
+Basic knowledge of other machine learning areas, such as deep learning (computer vision, NLP), or reinforcement learning or graph based learning.
+A strong passion for empirical research and for answering hard questions with data is required.
+
+Great to have Experience and Qualifications:
+
+Graduate degree in statistics, computer science, machine learning or related quantitate field.
+Familiarity with SaaS development in cloud ecosystems like AWS (e.g., Sagemaker)
+
+Key Characteristics and Attitudes:
+In a recent global survey these attributes were valued by Jumios in all locations and functions - we firmly believe in hiring for attitude as well as skill.
+
+Friendly and supportive
+Adaptable and flexible
+Articulate and persuasive
+High IQ and EQ
+Curious and coachable
+Commercially Aware
+Resilient and tenacious
+Big picture and the detail
+
+Jumio Values:
+
+IDEAL: Integrity, Diversity, Empowerment, Accountability, Leading Innovation
+
+Jumio Values:
+
+IDEAL: Integrity, Diversity, Empowerment, Accountable, Leading Innovation
+Equal Opportunities:
+Jumio is a collaboration of people with different ideas, strengths, interests and cultures. We welcome applications and colleagues from all backgrounds and of all statuses.
+
+About Jumio:
+
+Jumio is a B2B technology company dedicated to eradicating online identity fraud, money laundering and other financial crimes to help make the internet safer. We leverage AI, biometrics, machine learning, liveness detection and automation to create solutions that are trusted by leading brands worldwide and respected by industry thought leaders.
+
+Jumio is the leading provider of online identity verification, eKYC and AML solutions. With a global footprint, we're expanding the team to meet strong client demand across a range of industries including Financial Services, Travel, Sharing Economy, Fintech, Gaming, and others.
+
+Applicant Data Privacy
+We will only use your personal information in connection with Jumio's application, recruitment, and hiring processes, as described in Jumio's Applicant Privacy Notice. If you have any questions or comments, please send an email to privacy@jumio.com.",Tecnologías de la información,,2022-09-07T00:00:00,2022-10-16,OTHER
+"Deep Learning Researcher, NLP",AssemblyAI,British Columbia,Vancouver,-1,-1,,CAD,"AssemblyAI is a remote-first AI company building powerful deep learning models for developers, startups, and enterprises to transcribe and understand their audio data.
+
+Our ASR models already outperform companies like Google, AWS, and Microsoft - which is why hundreds of companies and thousands of developers are using our APIs to transcribe and understand millions of videos, podcasts, phone calls, and zoom meetings every day. Our APIs power innovative products like conversational intelligence platforms, zoom meeting summarizers, content moderation, and automatic closed captioning.
+
+AssemblyAI's Speech-to-Text APIs are already trusted by Fortune 500s, startups, and thousands of developers around the world, with well-known customers including Spotify, Algolia, Dow Jones, Happy Scribe, BBC, The Wall Street Journal, and NBCUniversal. As part of a huge and emerging market, AssemblyAI is well on its way to becoming the leader in speech recognition and NLP.
+
+We're growing at breakneck speed, and recently announced our Series B round. We've raised $63M in total funding, and are backed by leading investors including Insight Partners, Accel, Y Combinator, Patrick and John Collision (Founders of Stripe), Nat Friedman (Former CEO of GitHub), and Daniel Gross (Entrepreneur & Investor in companies including GitHub, Uber & SpaceX)!
+
+Our ambition is to build an iconic AI company, making advanced deep learning technology accessible to everyday developers through a simple API, good docs, and a great developer experience.
+
+Join our world-class, remote team and help us build an iconic deep learning company!
+The Role
+
+AssemblyAI is growing quickly, and we're searching for a Research engineer specializing in NLP Modeling to join our NLP team. With significant investment and strong leadership to fuel our growth, it's the perfect time to join the AssemblyAI team!
+
+In this role you'll have the opportunity to:
+
+Replicate state-of-the-art Deep Learning models based on conference/journal publications
+Drive best practices for the team in terms of model optimization and maximizing accelerator utilization
+Stay up to date on model innovations related to Natural Language Understanding such as Transformer variants (sparse, linear, LSH attention) and new architectures (S4)
+Act as a bridge between research and engineering to ensure our models perform well in a production environment
+Requirements
+3+ years of non-internship professional software development experience in developing and debugging C/C++ or Python
+2+ years of experience coding neural network models using primitives (matmul, einsum, relu, softmax, etc.) offered by modern Deep Learning frameworks such as PyTorch, Jax, or TensorFlow
+Experience with Google JAX
+Experience with Reinforcement Learning
+Experience with Natural Language Processing
+Knowledge of professional software engineering best practices
+Excellent written and oral communication skills in English
+BSc or MSc Degree in Computer Science, Electrical Engineering, or other technical field
+Preferred Qualifications
+2+ years of experience in optimization engineering related to machine learning or computational science
+Solid knowledge of data structures and algorithms
+Our Team
+
+Our team is made up of problem solvers, innovators and top AI researchers with over 20+ years of experience in Machine Learning, NLP, and Speech Recognition from companies like DeepMind, Google Brain, Meta, Apple and Amazon. They conduct cutting edge deep learning research and develop novel algorithms & techniques to continually push the state of the art in speech recognition & NLP!
+
+Our team is fully remote, and our culture is super collaborative, low-ego, transparent, and fast-paced. We want to win - and have a flat organization where everyone can openly share ideas (regardless of their title or position) in order to get the best idea.
+
+As a remote company, our team members are given a lot of trust and autonomy to work where and how they want. We look for people to join our team who are ambitious, curious, and self-motivated, and we put a lot of trust and autonomy into everyone on our team. We want to empower everyone to do their best work with whatever tools, structures, or resources they need to perform at their highest potential.
+
+Benefits (US)
+Competitive Salary + Bonus
+Equity
+401k
+100% Remote team
+Unlimited PTO
+Premium Healthcare (100% Covered for you + dependents)
+Vision & Dental Care
+$1K budget for your home office setup
+New Macbook Pro (or PC if you prefer)
+2x/year company paid team retreat",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,OTHER
+Machine Learning Researcher,AlleyCorp Nord,Quebec,Montreal,-1,-1,,CAD,"Site web billingue et description du poste en français à venir. Les soumissions en français sont les bienvenues.
+
+About the role
+
+We are hiring a Machine Learning Researcher on behalf of one of the early-stage companies. Their mission is to leverage AI/ML to mobilize multi-modal big data, beginning with EEG, to develop novel biomarkers for R&D and care delivery.
+
+In this role, you will be working on a team with engineers and statisticians to develop ML solutions for healthcare diagnostics and treatment areas, starting with Alzheimer's Disease and Major Depressive Disorder, among others. The ideal candidate will be able to utilize machine learning expertise to create models that diagnose and predict neuropsychiatric conditions using physiological data.
+
+Key Responsibilities
+
+Design, train, and implement machine learning models to classify and predict neuropsychiatric conditions;
+Collaborate with our interdisciplinary team to develop, test, and rank models that will be selected for product integration;
+Support our machine learning engineer(s) with model integration and debugging;
+Utilize multi-modal physiological data, such as EEG, eye tracking, heart rate, and more to develop biomarkers for neuropsychiatric conditions;
+Collaborate with leading scientific researchers on scientific publications;
+Keep up to date with ML and deep learning research literature – implement novel techniques from adjacent research areas (e.g. audio and video engineering, speech recognition, eye movement), to develop the highest performing models for healthcare applications.
+
+About you
+
+We want you to apply if you:
+
+Have a Master's degree or PhD in Computer Science, Artificial Intelligence, Machine Learning, Computational Neuroscience or related technical field.
+Have experience working with physiological signals, such as electroencephalography (EEG), electromyography (EMG), eye tracking, heart rate
+Have experience applying machine learning to audio data, such as speech recognition models.
+Have experience working on interdisciplinary teams shipping machine learning models in production
+
+We are a remote-first company and Montreal region is preferred, but we are open to candidates anywhere in the EST time zone in Canada. Our ideal start date is ASAP.",,,2022-09-13T00:00:00,2022-10-16,OTHER
+Junior Engineer,Integral Engineering,Alberta,Edmonton,-1,-1,,CAD,"About usIntegral Engineering is an Edmonton-based, engineering consulting and technology company that specializes in using advanced engineering methods to help major oil and gas operators to manage their assets. We’re looking for highly motivated and talented engineers who are passionate about using a diverse set of skills ranging from applying physical models and statistics, and programming to visualizations, presentations and report writing. Our goal is to help our clients to solve their biggest challenges using the best tools we can find, and to communicate our work in an engaging and interactive way.As an engineer on our team, you will…Develop and apply advanced engineering methods in consulting projects for Fortune 500 oil and gas operatorsPresent your analyses to clients to help them make critical decisions about the operation of their assetsBe constantly looking for better ways to solve problems and visualize the results of your workWe’d love to hear from you if you’re someone with any of the following….Experience performing integrity or risk assessmentsExperience with probabilistic methods, reliability methods, or statistical analysisExperience with programming languagesExperience in machine learning or data scienceExperience with GIS data and geospatial analysisAny engineering experience working with oil and gas assets such as production and storage wells, pipelines, or facilitiesGreat interpersonal and communication skillsBachelor’s degree in Mechanical, Civil, Chemical or Electrical EngineeringWhy us….You’ll be a part of a focused and dynamic team that is excited to test and apply cutting edge technologies to engineering problemsGain a wide range of experience working in a growing companyEnjoy a culture that is built on the premise of freedom and responsibilityHave the opportunity to work remotely with flexible hoursJob Type: Full-timeSalary: $60,000.00-$75,000.00 per yearBenefits:Dental careEmployee assistance programExtended health careWork from homeSchedule:Monday to FridayCOVID-19 considerations:Work from home is available for all employees.Education:Bachelor's Degree (required)Application deadline: 2022-03-11",,,2022-08-26T00:00:00,2022-10-16,FULL_TIME
+Application Engineer (Machine Learning),Au-Zone Technologies,Alberta,Calgary,-1,-1,,CAD,"Application Engineer (Machine Learning)Au-Zone is a leading supplier of machine learning tools and IP for embedded devices. Having just closed an investment and worldwide product licensing agreement with one of the world’s leading semiconductor companies, Au-Zone is aggressively growing our team to build on our current product innovation.The OpportunityWe build cutting-edge technical products, and we know how to have fun while doing it while still maintaining a great work-life balance. For this position, we are looking for an intermediate level application engineer to join our development team with a passion for working with customers to solve their unique embedded vision challenges using our machine learning tools, software IP and custom engineering servicesJoin a team where your creativity and dedication will be rewarded and where you will have a positive impact on the work of a large community of software developers.Description Engineering custom solutions for OEM customers.Providing customer training, demonstrations and technical assistance to technical sales.Performing front line product and application support to customers.Working with QA on software testing and verification from a customer perspective.Generating technical application notes and guides to help build the product knowledge base.Working with data scientists and software developers on the creation of demo applications to show case the product value.Participating in the continuous improvement of our support process.RequirementsExcellent Interpersonal skills, with a strong problem-solving perspective.5 yrs. of related industry experience in a development or support role.Experience with Keras and TensorFlow API’s or other ML design workflows.Positive, proactive attitude with a strong interest in learning new technologies.BS Computer Science, Computer Engineering or equivalent.AssetsExperience with Python or C programming.Experience with OpenCV.Experience with embedded hardware platforms.Personal CharacteristicsPositive, proactive problem-solving attitudeAbility to work well independently on routine assignmentsSelf motivated, entrepreneurial approach to tasks and time managementWhat We OfferMedical and dental insurance packageDisability and life insuranceShort-term and Long-Tern IncentivesFind out more about Au-Zone Technologies at www.embeddedml.comJob Type: Full-timeSalary: $57,889.78-$102,300.95 per yearBenefits:Dental careExtended health carePaid time offFlexible Language Requirement:French not requiredSchedule:Monday to FridayAbility to commute/relocate:Calgary, AB: reliably commute or plan to relocate before starting work (required)Experience:Machine learning: 5 years (preferred)",,,2022-09-07T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer,NTENT,Ontario,Toronto,-1,-1,,CAD,"Machine Learning Engineer
+Position: Full time
+Location: Toronto, Ontario (Initially Remote)
+About Us:
+NTENT provides a Platform-as-a-Service (PaaS), allowing industry partners to customize, localize and integrate search technologies directly into their business-to-consumer offerings. We are a unique group of brilliant minds intent on discovering, learning and building. We work in a vibrant atmosphere, with an emphasis on personal and professional development. This is an opportunity to tackle complex problems usually reserved for a handful of large companies in the search industry.
+About the Opportunity:
+We are looking for a talented Machine Learning Engineer to join our team and deliver machine learning-driven products. The right candidate will work on development, deployment, and lifecycle management of machine learning models for various large-scale applications (natural language understanding, web search and ranking, recommendation, personalization, dialog/conversation management).
+Keywords:
+Machine learning, natural language processing, learning-to-rank, online learning, deep learning, interactive machine learning, machine teaching, conversational agents, human computer interaction
+Duties and Responsibilities:
+Design, implement, and deploy machine learning algorithms.
+Manage machine learning algorithm lifecycle.
+Coordinate data collection and annotation efforts.
+Work with real-time data and content coming from various data sources.
+Manage machine learning data pipelines.
+Design tests for machine learning algorithm effectiveness and performance monitoring.
+Design tools and interfaces for interactive machine learning and teaching.
+Research and development on cutting-edge machine learning technologies.
+
+Qualifications and Skills:
+Graduate degree in Computer Science with a strong background in machine learning required.
+Strong problem-solving abilities, solid background in algorithms and data structures required.
+Strong programming skills in Python and Scala required. Experience in other programming languages (eg. Java, R, Haskell) a plus.
+Solid knowledge of machine learning tools (eg. scikit-learn, tensorflow, keras, pytorch, Spark MLlib) required.
+Experience with distributed and streaming data technologies (eg. Hadoop, Spark, Kafka) required.
+Experience with building and deploying API's with Docker and Kubernetes required.
+Experience with natural processing tasks (eg. named entity recognition, language modeling, vector representations) required.
+Experience with Elastic Search, Lucene a plus but not required.
+Experience with ranking algorithms a plus but not required.
+Experience with interactive machine learning (eg. active learning, reinforcement learning, machine teaching) a plus but not required.
+The ideal candidate will be self-motivated, possess excellent communication skills (both oral and written) and be able to work independently. A keen interest in various aspects of natural language processing is essential in our multi-disciplinary team.
+We offer a full comprehensive benefits package including medical, dental and vision. Employees receive a generous time off (PTO) plan and 13 holidays per year. We also offer 401(k) benefits, long term disability benefits and life.",Tecnologías de la información,,2022-08-31T00:00:00,2022-10-16,FULL_TIME

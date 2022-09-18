@@ -1,0 +1,1467 @@
+Job_title,Company,State,City,Min_Salary,Max_Salary,unitText,SalaryCurrency,Job_Desc,Industry,Rating,Date_Posted,Valid_until,Job_Type
+Dev Ops Engineer,DATACLOUD,British Columbia,Vancouver,-1,-1,,CAD,"The Role
+MinePortal from DataCloud is a cloud-based platform that powers geotechnical knowhow of the rock in the mining industry for operational intelligence. Our mission is to push the envelope in Artificial Intelligence (AI), Geophysical IoT sensors, Machine Learning (ML), Data Management, Signal Processing, and Grade Engineering, in order to provide the best-possible blast outcomes for our customers.
+We are looking for an experienced DevOps professional to help build industry-leading solutions and technologies that the world’s largest mining corporations will adopt. You will be working with engineers who have a wealth of experience in their field and are keen to share knowledge and best practices.
+Key Responsibilities
+Reporting to the VP Software, the DevOps Engineer role will include following broad responsibilities and any other assigned work from time to time
+
+Develop and implement processing pipelines from the backend to complete deliver for IoT data processing and answer product creation for DataCloud’s seismic sensors
+
+Be in the in-house go-to person for always on systems availability
+
+Provide high-performance cloud deployment solutions and maintain rapid deployment pipelines, server monitoring, and troubleshooting
+
+Maintain and improve CI/CD and automated testing pipelines
+
+Manage appropriate JIRA workflows to proactively address issues relating to containerization and deployment
+
+Manage the product architecture the powers the platform
+
+Take full responsibility of projects from design to deployment
+
+Explore promising research and maintain/gain the technical edge required for projects. Share and develop new approaches and methods.
+
+Keep abreast of developments in the field
+
+Contribute to full stack development, maintain database scaling, and engineer new process pipelines for new domains
+
+Work with Hardware Engineers to specify and optimize sensor and IoT device design and configuration for ensure appropriate IoT deployment and monitoring.
+
+Interface closely with ML and UX Engineers to develop high performance applications and platform features to utilize ML outputs and insights.
+Key Qualifications
+
+
+College degree or equivalent experience in CS, EE, or other relevant engineering / science major
+
+5+ year’s experience in a senior DevOps role
+
+Fluency in Azure, Kubernetes, Docker, and Python
+
+Proven track record releasing enterprise software in a fast-paced environment
+
+Background and experience in databases, administration, and high-performance IO platform engineering
+
+Comprehensive expert level knowledge of programming and experience in C, C++, Python, Golang, or similar language
+
+Familiarity and experience in modern SDLC methods for web-based platform development
+
+Experience and relevant expertise in interfacing with IoT acquisition devices, designing platforms and processes that demand high availability and low latency
+
+Experience in working in distributed teams in the research, development, and implementation of complex software solutions
+
+Experience building and maintaining production systems in Azure using Azure tools and Service Fabric
+
+Ability to develop Infrastructure as Code (Terraform, CloudFormation)
+
+Must have working knowledge of handling Disaster Recovery and Business Continuity in Azure
+
+Scripting experience in Bash, Ruby, Python, PowerShell or similar languages
+
+Deep knowledge with Source Control systems, such as GIT and SVN.
+
+Experience building CI/CD pipelines programmatically with Jenkins, CircleCI, TravisCI, or similar tools
+
+Working knowledge of DNS, network routing/subnetting, Monitoring, SSL Certificates, File Servers, Security, Performance, High Availability, and Disaster Recovery.
+
+Must have experience with monitoring tools and APMs such as Nagios, LogicMonitor, New Relic, AppDynamic, DataDog or similar tooling
+
+Working knowledge of Splunk, ELK or other log management tools.
+
+Extensive experience with Agile programming practices
+
+Proficient verbal and written communication skills necessary to effectively collaborate in a team environment and present and explain technical information.
+
+Takes initiative, independent worker
+
+Ability to manage multiple concurrent major projects with different tactical and strategic objectives
+
+Can effectively assume an array of roles as appropropriate in various kinds of organizations. These may entail different responsibilities, forms of leadership, team work, and project management.
+
+Experience leading in environments that are highly volatile, cross-functional, and cross-organizational
+
+Work Hours & Location
+
+
+Full time, Flexible working hours, 15 days/year vacation
+
+Work from home office and DataCloud’s office in Vancouver
+
+Some travel to Seattle, Palo Alto, and Client offices world wide
+DataCloud is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, disability, military status, or national origin or any other characteristic protected under applicable local law. The Candidate must be authorized to work in Canada.
+About DataCloud
+Founded in 2016, DataCloud delivers high-resolution rock mass characterization data to our clients in real-time. Our innovative measurement and analysis platform provides invaluable orebody insights during drill and blast operations. Our technologies help mine planning teams to dramatically improve their extraction efficiencies.
+With our unique combination of skills in both mining and technology, DataCloud is helping to solve many of the problems that have challenged the mining industry for decades. Our founders come from institutions such as Stanford, UC-Berkeley and Cambridge, who have expertise in geosciences and cloud architecture.
+
+
+Our portfolio of products and services span the latest in Geo-Statistics, Geo-Physics, and advanced digital and artificial intelligence technologies, including cloud computing, machine learning, advanced visualization, and new sensor technology enabled by IoT systems.",,,2022-08-18T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer (Modeling),Afterpay,Ontario,Toronto,-1,-1,,CAD,"Company Description
+It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic app, bringing a better way to send, spend, invest, borrow and save to our millions of monthly active users. With a mission to redefine the world's relationship with money by making it more relatable, available and accessible, at Cash App you'll have the opportunity to make a real-world impact with your career.
+Remote Work
+Today, Cash App has thousands of employees around the world with a culture geared toward creativity, collaboration and impact. We’ve been a distributed team since day one, and continue to value working across time zones and continents both remotely and in our Cash App offices.
+Our offices are great, but many of our roles can be done remotely from the countries where Block operates. We tailor our experience to champion our employees’ creativity and productivity wherever they are.
+Job Description
+Machine Learning is an integral part of how we design products, operate, and pursue Cash App’s mission to serve the unbanked as well as disrupt traditional financial institutions. Our massive scale and deep trove of transaction data create an endless number of opportunities to use artificial intelligence to better understand our customers and offer new products and experiences that can improve their lives. We are a highly creative group that prefers to solve problems from first principles; we move quickly, make incremental changes, and deploy to production every day.
+This role is part of our Cash App's ML team and will be deeply embedded within one of our product teams - here are the workstreams we're currently hiring for:
+Search & Discovery
+Cash App enables millions of people and businesses to pay and get paid with ease. On our team, we build delightful experiences that help our customers find and discover people and things quickly and with trust - we aim to grow and strengthen the connections between people and businesses across the globe. Through your work, you will empower Cash App to personalize customers’ search and discovery experiences using AI/ML, to better understand our customers’ payment journeys, and help identify and execute on new opportunities for product improvement. You will employ a variety of modeling techniques on our comprehensive customer data and scale your solution to production by partnering closely with design, product, analytics, and engineering teams.
+Risk
+You'll build machine learning models that detect fraudulent activity in real time and help keep our customers safe and secure. You will experiment with state-of-the-art algorithms to drive down false positives, collaborate on new product features to drive fraud losses down, use any and every dataset at your disposal (including 3rd party data) to engineer new features for risk models, verify customer documents using OCR, and use biometric and device signals to detect malicious logins and account takeovers.
+Customer Support Automation
+Working closely with our Customer Support team, you will use our vast amounts of data to make experiences seamless for our customers and help us achieve world-class service as Cash App continues its rapid growth. You will build models that anticipate customer issues and deliver proactive in-app suggestions, use NLP to contextualize inquiries and respond instantly with relevant content, develop prioritization algorithms that improve efficiency, and apply the latest research to automate conversations with customers.
+Technologies we use (and teach):
+Python (NumPy, Pandas, sklearn, xgboost, TensorFlow, keras, etc.)
+MySQL, Snowflake, GCP/AWS and Tableau
+Java
+Qualifications
+You have:
+5+ years experience with applied Machine Learning or Deep Learning
+A graduate degree in Computer Science, AI, ML, Applied Math, Stats, Physics, or a related technical field
+Worked with Product, Design, and Engineering to prioritize, scope, design, and deploy ML models
+A track record of providing mentorship and technical leadership
+An appreciation for the connection between the software you build and the experience it delivers to customers
+Additional Information
+We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
+We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our I+D page.
+Additionally, we consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis.
+
+Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Software Development Engineer,Amazon Dev Centre Canada ULC,British Columbia,Vancouver,-1,-1,,CAD,"A degree in Computer Science or related field (or 3+ years of industry experience) or equivalent experience.
+Strong background in computer science basics (data structures, algorithms, etc).
+Experience leveraging object oriented practices in Typescript, Java, Python, and or C#.
+
+Job summary
+Want to disrupt an industry by delighting customers? Looking for a job where your work can have direct and massive impact? Excited to join one of the newest and most exciting AWS services? Come join a team that is building a product that will touch millions of people daily.
+
+Amazon Connect is a highly disruptive cloud-based contact center that enables businesses to deliver engaging, dynamic, and personal customer service experiences. Amazon Connect is the result of the ten years of development that went into building the tools Amazon uses to provide its award winning customer service at massive scale and launching it as a publicly available AWS service.
+
+With Amazon Connect, you can create your own cloud-based contact center and be taking calls in minutes. Amazon Connect leverages the power of Artificial Intelligence and the large ecosystem of AWS services such as Amazon Lex, Amazon Polly, AWS Lambda, Amazon S3 and Amazon Kinesis to provide a truly frustration free, easy-to-use, extensible, and natural customer experience. With this technology, we are transforming an industry and the way customers interact with businesses and how agents service them.
+We have a rapidly growing customer base and an exciting charter in front of us that includes solving highly complex engineering and algorithmic problems.
+
+The ideal candidate is a passionate and talented Software Development Engineer to innovate on this new service that addresses customer needs to build modern contact centers in the cloud. The position represents a rare opportunity to be a part of a fast-growing business soon after launch, and help shape the technology and product as we grow. You will be playing a crucial role in developing the next generation contact center, and get the opportunity to design and deliver scaleable, resilient systems while maintaining a constant customer focus.
+Industry analysts have said, “Amazon Connect is quietly positioned to massively disrupt by enabling companies to focus on customer service, not service centers.” and “Amazon is totally disrupting the customer contact center space as they have many other market-spaces with customer-centric solutions with open platform integration with assistance from the partner community.”
+
+As a developer on our team, you’ll own code end-to-end from design to development, and work closely with senior technical leaders within the team and across AWS. You’ll have a sound understanding of computer science fundamentals and practical industry experience, working across the stack with technology involving modern web, SOA, NoSQL databases, AI, ML, Big Data and more.
+
+About Us
+
+Inclusive Team Culture
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Work/Life Balance
+Our team puts a high value on work-live balance. It isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings energy to both parts of your life. We believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. We offer flexibility in working hours and encourage you to find your own balance between your work and personal lives.
+
+Mentorship & Career Growth
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future.
+
+Power of Amazon Connect:
+https://www.youtube.com/watch?v=9qky_E39-_I
+https://youtu.be/rSzDFJGw5vg
+
+Experience taking a role in building complex software systems that have been successfully delivered to customers
+Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+Experience in driving systemic operational improvements
+Experience influencing software engineers best practices within your team
+Experience in communicating with users, other technical teams, and senior management to collect requirements, describe software product features, technical designs, and product strategy
+Communication skills for both a technical and business audience.
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-08-16T00:00:00,2022-10-16,FULL_TIME
+QA Engineer (C#),Remote - Ottawa,Ontario,Ottawa,-1,-1,,CAD,"Overview:
+
+Do you have a passion for Quality Assurance and for doing things the right way? A curiosity to dig deep and help find the underlying issue? If so, keep on reading as we’re looking for a QA Engineer to join one of our close-knit teams to work on a wide range of projects, ranging from new and existing back-end API testing to front-end web-based applications.
+As a Quality Assurance Engineer, you’ll get to work with Product Engineering and Product Management teams to create test cases, execute test suites, and create automated test cases for Windows and web applications.
+What you get to do every day:
+Act as QA champion on assigned projects.
+Perform multiple types of black-box, white-box, and grey-box testing including functional, system, end to end, data integrity, user acceptance, smoke, regression, and ad hoc testing.
+Ensure all test cases are completed within the required timeframe.
+Execute and deliver test results to the team(s) indicating a Pass or Fail to ensure timely completion while maintaining acceptable service level
+Design test plans from business requirements and specifications
+Analyze requirements, develop testing strategies/frameworks.
+Create automated tests for new and existing functionalities, and for system performance
+Regress and verify defects as needed, record test results, and provide metrics.
+Build and deploy software applications on multiple environments
+Execute complex functional, and unit test cases within test environments with a high degree of accuracy, including manual end-to-end testing
+Maintain test cases to be re-used for recurring and common (standard) projects
+Assist in the parallel running of the current system to ensure the new product results are validated against existing live applications
+Attend and participate in all agile ceremonies with the teams (stand-up, demo, retro, etc.)
+Assist in documentation for new features.
+Assist in developing personas, use cases, requirements, and acceptance criteria.
+What kind of person should you be?:
+Understanding of programming concepts, best practices, and test automation fundamentals
+Ability to create tests with or without business requirements or specifications
+Ability to work independently in a fast-paced environment with a high degree of professionalism
+Excellent problem-solving skills, a love for technical challenges, and a willingness to learn
+Strong organization, time and project management skills and multi-tasking abilities
+Excellent oral and written communication skills including the ability to communicate effectively with all levels of employees and management
+What skills do you need?:
+4-5 years of experience in a Quality Assurance role
+Demonstrated proficiency with testing Windows based applications
+Experience with testing REST web services
+Experience with Automated, Performance, Accessibility, and Security testing.
+Experience developing automated tests in one or more of the following languages: C#, JavaScript, Bash, PowerShell
+Experience with writing unit/integration test cases is an asset
+Experience with source control systems (i.e. GIT)
+Experience with one or more databases (i.e. SQL, Oracle)
+Experience with testing web applications in multiple browsers
+Experience using Windows OS
+Experience with testing tools and frameworks like Selenium, Ranorex, NUnit, XUnit.
+Experience with test driven development would be an asset.
+Software development experience and exposure to the DevOps is an asset.
+What can you expect from us?:
+Award-winning culture that fosters growth, diversity and inclusion for all
+Paid day off for your birthday
+Access to LinkedIn learning courses
+Continued education with our education reimbursement program
+Flexible schedules
+Free unlimited access to our refreshment stations (fully stocked with tea, coffee and other beverages)
+Two paid days for volunteer opportunities
+KUBRA is a fast-growing company that delivers customer communications solutions to some of the largest utility, insurance, and government entities across North America. KUBRA offers billing and payments, mapping, mobile apps, proactive communications, and artificial intelligence solutions for customers. With more than 1.5 billion customer interactions annually, KUBRA services reach over 40% of households in the U.S. and Canada. KUBRA is an operating subsidiary of Hearst.
+Our office is small enough to allow creative individuals to flourish, yet large enough to provide long-term stability. We place a tremendous amount of responsibility on our team members to be productive, focused and self-motivated. We offer a casual work environment, competitive compensation and a stellar benefits program.
+KUBRA is an equal opportunity employer dedicated to building an inclusive and diverse workforce. We will provide accommodations during the recruitment process upon request. Information received relating to accommodation will be addressed confidentially. We thank all applicants for their interest; however, only candidates under consideration will be contacted.",Hoteles y complejos turísticos,,2022-09-07T00:00:00,2022-10-16,FULL_TIME
+Junior Software Engineer,Cluep,Ontario,Toronto,-1,-1,,CAD,"Cluep is looking for
+We are looking for a Junior Software Engineer who loves pixels & code in equal parts, you’ll be working in a fast-paced environment where you drive the direction of the project. You’ll be working with key stakeholders in addition to a direct mentor to help develop our core products. This position will challenge you to think about performant technology and their impact to clients.
+
+Responsibilities
+Design, develop, and test an interactive, content-rich, and scalable front-end UI that leverages the Cluep platform to provide industry-leading targeting capabilities to clients
+Contribute to architectural designs and technical documentation
+Implement capacity management and disaster recovery to ensure service availability
+Implement, document, and enforce code quality standards
+Create business intelligence around large amounts of data that provides critical insight to brand and company efforts
+Requirements
+Solid understanding of JavaScript, HTML, and CSS
+Knowledge of front-end frameworks, such as React
+Knowledge of back-end concepts like APIs, webservices, or RESTful architecture
+Experience with non-relational databases, such as MongoDB
+Familiarity with version control, such as Git
+Understanding of TypeScript, Docker, Kubernetes & Python
+Knowledge of the advertising industry
+Desire to work in a fast-paced environment with self-direction
+Bachelor’s Degree or the equivalent in Computer Science
+Benefits
+Dynamic Work Culture and Supportive Team Environment
+3 Weeks of Paid Vacation
+Hybrid Work Model
+Approx. 2 weeks off during Dec. holiday period
+Inclusive Workforce
+Great Health Benefits and Coverage
+4 extended summer long weekends
+Work and Team Events
+Lunch and Learns Events
+About Cluep
+Cluep is an AI mobile advertising company that serves ads based on what people are publicly sharing and how they are feeling in a way that is private by design. Cluep delivers exceptional results on behalf of hundreds of leading brands such as Microsoft, Toyota, Starbucks, Unilever, H&M and many more, across every vertical and across the globe.
+Founded by 3 young entrepreneurs (recognized in the 2020 Forbes 30 under 30), Cluep began working with advertising and media agencies in 2014 to target people based on their feelings using its patented, artificially intelligent text analysis engine. Since that time, it has developed proprietary image, video and audio recognition capabilities.
+With a mission to help brands connect with people emotionally through artificial intelligence, Cluep is continuing to develop new and industry leading advertising solutions as it expands its team.
+We are an equal opportunity employer and vow to make any necessary disability-related accommodations, upon request, throughout the entirety of the recruitment and selection process. Need support in your application? Just let us know by emailing our HR at careers@cluep.com with the email subject being “Accommodation Request for Interview – (Job Title)""
+Qualified individuals are invited to submit an application by email to careers@cluep.com.",,,2022-08-30T00:00:00,2022-10-16,OTHER
+Machine Learning Engineer,Granify,Alberta,Edmonton,-1,-1,,CAD,"Machine Learning Engineer
+Granify is a rapidly growing technology company at the intersection of e-commerce, machine intelligence, and psychology. We’ve received investment from top investors, built a world-class team and a world-class product, and in the last year alone we generated over $650 million in incremental sales for many of the world's largest retailers!
+We’re searching for an experienced Machine Learning Engineer who values mastery, authenticity, and positivity to help build and grow our product. As an engineer, your strong foundation in productionizing machine learning models will be essential in making long lasting improvements to our product. If you are a highly technical, hands-on, and mission-driven engineer, who has a passion for solving problems in the area of recommendation, search and e-commerce optimization then this is the role for you.
+This is a full-time position. We are centrally located in Edmonton, but remote applications will also be considered.
+RESPONSIBILITIES:
+
+Research, design and prototype intelligent systems with the aim of enhancing online shopper experience.
+Oversee research prototypes and develop them into fully-fledged AI software that are ready to be delivered to our clients.
+Participate in active maintenance and code reviews in a large codebase, suggesting and implementing changes as appropriate.
+Keep up-to-date with the latest papers in artificial intelligence and machine learning to propose solutions for real problems in e-commerce.
+Build infrastructure to support the evolution of our shopper interaction toolset.
+Mentor other engineers, participate in code reviews, and share knowledge.
+Troubleshoot, test, and debug to your heart’s content.
+ABOUT YOU:
+
+At least 2 years of real-world experience implementing Machine Learning software.
+Proficient in Python and/or C/C++, with an interest in learning new languages
+BSc (MSc or PhD preferred) in Computer Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Engineering, Physics, or a related discipline, with (at minimum) graduate-level courses in machine learning, or equivalent practical experience.
+Strong research experience in machine learning, preferably in one or more of the following (in no particular order): reinforcement learning, natural language processing, recommendation and/or ranking systems, deep generative models, representation learning, AI interpretability, domain generalization, meta-learning, computer vision, deep neural network architectures.
+Proficient in deep learning frameworks like Tensorflow, PyTorch, etc. and scientific computing packages like NumPy. Able to implement an algorithm as described in an academic paper using these frameworks in quality code.
+Strong computer science background, with experience in object-oriented programming, systems design, data structures and algorithms.
+
+Familiarity with source control (Git) and Unix systems, including shell scripting.
+Good intuition for applying AI theory to make business-oriented products with minimal guidance.
+Communicate to introduce honesty and clarity (avoiding buzzwords and jargon) to experts in multiple disciplines. Demonstrate a mature understanding of the current possibilities and limitations of AI research.
+Curious, constantly looking for better ways to build things and excited to learn about emerging technologies.
+BONUS EXPERIENCE:
+
+Online advertising and/or marketing analytics, behavioural targeting and/or web analytics.
+Working in an Agile software development environment.
+Using cloud solutions, preferably AWS.
+Distributed and/or parallel programming.
+An active GitHub repository.
+ABOUT GRANIFY:
+
+You’ll work closely with an incredible group of the smartest, most interesting, genuinely good people around. You’ll work hard, learn quickly, and have plenty of excitement. You’ll also get a first hand view into the rapidly evolving, exciting intersection of e-commerce, machine intelligence and psychology.
+With our continued growth as a company, you’ll find limitless opportunities for growth, development, and career progression.
+Did you know? Granify is backed by early investors in Facebook, Uber, Twitter, Airbnb, Paypal, Pinterest, Palantir and Yelp. Wouldn’t it have been great to get in at one of those companies as they were taking off...",Tecnologías de la información,,2022-09-06T00:00:00,2022-10-16,FULL_TIME
+"Software Development Engineer, Alexa Smart Home Spoken Language Understanding",Amazon Dev Centre Canada ULC,British Columbia,Vancouver,-1,-1,,CAD,"2+ years of non-internship professional software development experience
+1+ years of experience contributing to the system design or architecture (architecture, design patterns, reliability and scaling) of new and current systems.
+Programming experience with at least one software programming language.
+
+Job summary
+We’re excited to build large-scale natural language processing solutions that employ Software, Linguistics, and Applied Science to delight Alexa customers! Sound exciting to you?! Come join us!
+
+Key job responsibilities
+A successful Software Development Engineer with the Alexa Smart Home Spoken Language Understanding (SH SLU) team will have:
+
+Rich hands-on programming experience in Java or another object oriented language
+Proven track record building large-scale systems and solving complex problems
+Experience mentoring and developing the technical skills of Software Engineers
+Deep understanding of design-patterns and putting them to use in real-world scenarios
+Experience with service oriented technology
+Experience working with and building scalable systems
+Demonstrated passion for machine learning
+A day in the life
+As a Software Development Engineer with the SH SLU team, you will work closely with a team of Software and Language Engineers as well as Data, Research, and Applied Scientists to deliver cross-functional projects with high levels of customer impact and internal visibility. Together, our team will leverage recent advances in artificial intelligence and natural language modeling, including large, pre-trained Machine Learning (ML) language models, contextual signals, knowledge graphs, and common-sense and inferential reasoning, to deliver a future to our customers where Alexa understands them accurately and completely every single time they speak.
+
+About the team
+The SH SLU team’s vision is to enable customers to engage with Alexa in a natural, delightful, and frustration-free manner to control device-related experiences in their homes. We process all of Alexa customers’ voice traffic related to smart home device interaction (a significant portion!) and are responsible for the experience created by Alexa’s natural language processing pipeline for these customers. In addition, we serve internal product teams who are working to define customer-facing features and third-party developers (our external partners) who build smart devices, skills, and features.
+
+Our people matter. Our team values and promotes an inclusive environment that fosters growth and opportunity for our gender- and racially-diverse team. Not only is this central to our team values and our desired work environment, but also to maintaining a culture of continual innovation that serves the needs of our worldwide customers.
+
+Master’s degree in Computer Science, Computer Engineering or related technical discipline
+Experience with modern machine learning techniques
+Ability to handle multiple competing priorities in a fast-paced environment
+Experience working with service oriented architectures and web based solutions.
+Experience designing scalable distributed systems, with a particular focus on low latency and secure data handling
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-09-09T00:00:00,2022-10-16,FULL_TIME
+Front End Developer,OTT Financial Group,Ontario,Toronto,-1,-1,,CAD,"OTT Financial Group is the parent organization of a group of financial services and investment companies. We leverage cutting-edge fintech innovations to bring excellent financial advice and best-in-class wealth management to our customers and business partners. Empowering 5,000+ merchants and hundreds of thousands of individual clients across Canada, we are the home to a wealth of expertise in forex and securities trading, mobile and cross-border payment, and investment fund management.
+
+
+We are ambitious, results-focused, and forward-looking. At OTT, you’ll get numerous opportunities to learn and grow, alongside a cohort of talented people from diverse backgrounds and industries. Tackling business challenges in a collaborative and innovative environment, you’ll be encouraged to be your best self and make a meaningful impact.
+
+
+The E-commerce division of OTT Financial Group has been working with Internet giants and financial service providers such as Alibaba, Tencent, and China Union Pay, as well as well-known local payment technology companies in North America. We are committed to building an e-commerce and financial services ecosystem serving our clients and merchants covering daily life needs from all angles. Innovators and dreamers, especially those with specialized skills in IT, artificial intelligence and market development are welcome to join us to achieve our common success and vision.
+
+
+We are currently looking for Front-End Developers to join our growing E-Commerce team in Toronto! You will be involved in many exciting and innovative projects designed to the industry forward and enhance our clients’ experience.
+Key Responsibilities:
+
+Develop web UI/UX application with Typescript and JavaScript framework, HTML, CSS/SCSS.
+Analyze and give the optimal front-end structure solution and effect realization of Web and mobile interface.
+Cooperate with back-end engineers to achieve efficient and stable product technical architecture.
+Ensuring web design is optimized for smartphones and optimizing web pages for maximum speed and scalability.
+
+
+Personalities and Qualifications Required:
+
+1+ years extensive experience as a front-end developer
+Diploma or degree in computer science or related fields
+General understanding and knowledge of front-end and back-end development
+Good problem-solving and interpersonal skills
+Excellent verbal communication skills
+
+
+Technical Skills Requirements:
+
+2+ years of JavaScript, Typescript, HTML, SCSS experience is a must
+Proficiency in React, Angular, Vue or Ionic or other mobile development framework
+Solid understanding of ES6+ features
+Strong understanding of UI, cross-browser and mobile app compatibility, general web functions and standards
+Solid knowledge of HTTP protocol and Comfortable working with RESTful APIs.
+Experience with SPA, Node.js, Bootstrap, Webpack and some necessary skills for web-based applications
+Experience with responsive and adaptive design and Object-Oriented analysis
+
+
+We provide a comprehensive compensation package and a variety of opportunities for you to grow in a dynamic, collaborative, progressive, and high-performing team. Apply now to unleash your full potential.
+
+
+We thank all applicants for their interest; however, only those candidates selected for an interview will be contacted.
+
+
+Accommodations for job applicants with disabilities are available upon request.",Finanzas,,2022-09-06T00:00:00,2022-10-16,FULL_TIME
+Quantitative Engineer,Boosted.ai,Ontario,Toronto,-1,-1,,CAD,"Boosted.ai is an artificial intelligence company that enhances portfolio management outcomes for the global financial industry. Our software, Boosted Insights, uses machine learning to empower fund managers to augment their investment process to source new ideas, manage risk, and create alpha. Users of our software create predictive models for various use cases based on their financial domain expertise, using any combination of factors such as fundamental, macro, or custom data. We are headquartered in Toronto with an office in New York City.
+
+Position Description
+
+As a Quantitative Engineer at Boosted.ai, you will work as a developer on the quant team to help solve real-world, applied finance problems in code. You will play a key role in expanding and enhancing our core portfolio construction and backtesting system. The ideal candidate has experience working on a team to develop software for large-scale quantitative finance applications. This team member is someone who is motivated, is self-aware, and collaborates well.
+
+Responsibilities:
+
+Work directly with product owners to research and develop portfolio construction techniques that our clients use to tackle complex problems
+Contribute high-quality, production code to the development of internal quant codebases
+Solve analytically challenging problems to drive portfolio performance
+Collaborate with web developers, cloud engineers, and data engineers to integrate our quantitative finance applications into the larger Boosted ecosystem
+Play a part in the shared monitoring, support, and maintenance of existing applications
+
+Requirements:
+
+BS or MS in financial engineering, computer science or engineering
+2+ years experience as a developer in investment management, banking, or fintech
+2+ years working in Python with scientific libraries (NumPy, Pandas, SciPy, Scikit-learn)
+Knowledge of the financial markets, portfolio construction, and quantitative approaches
+Understanding of large-scale software code best practices (OOP, design patterns)
+Experience with production software development tools (Git, AWS, Jira, Agile)
+Exposure to traditional statistics, artificial intelligence, and machine learning in finance
+Ability to work in a team environment and communicate effectively with team members, managers, and other colleagues",Tecnologías de la información,,2022-09-13T00:00:00,2022-10-16,OTHER
+"Senior Applications Engineer (Toronto, Vancouver, Ottawa)",Alphawave IP inc,Ontario,Toronto,-1,-1,,CAD,"Alphawave IP builds industry-leading wired connectivity solutions that enable data to travel faster, more reliably, and with higher performance at lower power. Our technology is embedded in leading-edge semiconductors built to power global network and computer systems. It is an essential part of the core infrastructure enabling next generation services in data centres, artificial intelligence, 5G wireless infrastructure, data networking, autonomous vehicles, and solid-state storage.The OpportunityWe’re looking for the dreamweavers of tomorrow.The Alphawave IP team combines technologists from different disciplines who come together with a shared passion for electronics, software, and communication technology. We look for individuals with a deep desire to build great products and we value collaboration, curiosity, and a commitment to solving hard problems.What You’ll DoYou will provide first-line customer-facing post-silicon bring-up supportWork closely with R&D to provide updates to PM when requiredProvide remote and onsite post-sale silicon bring up support to customer worldwideProvide pre-sales customer support for evaluations, demonstrations, roadshowsPerform silicon testing on customer-driven test casesWork with FW/HW/SW engineers to develop, test and verify FW and SW updates (ie. GUI, API, MATLAB)Work with internal teams to resolve customer silicon sightingsWhat You’ll NeedBachelor’s in computer science or Electrical/Computer Engineering or Engineering ScienceStrong programming skills in C/C++, scripting skills in Python, Tcl, PerlIt’d Be Amazing If You HadExperience working with PCIe and/or Ethernet SerDes specificationsExtensive working experience with one or more: firmware, low-level programming, optimizing embedded C code, hardware debugKnowledge of EDA tools, strong understanding of simulators. Hands-on experience working with emulation environment and tools is a plusMasters/PhD in Computer Science or Electrical/Computer Engineering or Engineering ScienceAbout YouCustomer focusedExcellent communication skillsAble to listen to and appreciate ideas and opinions that differ from yoursExtremely detail orientedSuperb analytical and problem-solving skillsDrives for consistencyTakes personal pride in high standard of outputsSelf-motivated and self-managingDiversity & InclusivityAlphawave IP is based out of one of the most diverse countries in the world. This includes differences related to race, ethnicity, national origin, gender, gender expression and presentation, sexual orientation, religion, age, ability and socioeconomic status. To us, diversity is one our strongest assets to our organization. We commit ourselves to promoting the recognition and appreciation of our diverse and rich culture. We believe that it is critical to our success to promote freedom of thought and opinion in a respectful environment. The decisions we make are rooted by respectfully considering each other’s thoughts and opinions and by working towards a greater common goal, saving lives.Accommodation*Alphawave IP is an equal opportunity employer and welcomes applications from all qualified individuals, including visible minorities, Indigenous People, and persons with disabilities. We welcome and encourage applications from people with disabilities. If as a qualified job applicant, you request accommodation, Alphawave IP will consult with you to provide reasonable accommodations according to your specific needs. If you wish to make a request, you will be provided an opportunity if your application is selected to proceed in our hiring process.Job Type: Full-time",,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer,Parallel Domain,British Columbia,Vancouver,-1,-1,,CAD,"At Parallel Domain, we believe that autonomous systems – from self-driving cars to contactless delivery drones – have the opportunity to drastically improve the quality of life for billions of people. That is why we love what we do: enabling our customers to develop their technology safely using the Parallel Domain data generation platform. Our platform revolutionizes the way our customers generate sensor data for AI development. We're looking for people like you to join us in pushing the boundaries of artificial intelligence and synthetic data.
+
+Parallel Domain envisions a future where every life on the planet is improved by the transition to safer and more equitable AI. To enable that future, we are on a mission to accelerate the development of machine perception with synthetic data.
+We don't define ourselves by the boxes we check, we define ourselves by how we can develop and face challenges that elevate our true potential. We expect you to apply to an opportunity that aligns with your skills, professional goals and core values. Due to the high number of applicants, only those selected to move forward with an interview will be contacted.
+What You'll Do:
+You’ll be part of the ML research team tasked with establishing best practises on creating and using synthetic data for perception
+You’ll develop perception algorithms, data pipelines, introspection tools, domain gap measures and domain adaptation approaches
+You’ll summarize your findings to help guide our team as well as our customers
+You’ll sync with your team on a daily basis to discuss progress, ideas and problems
+You’ll work with veterans from the gaming, movie and automotive industry
+What You'll Own:
+Creating specific datasets for your experiments
+Adapting/implementing cutting-edge models and data pipelines
+Maintaining and optimizing our code base to enable fast experimentation
+Writing tools to inspect and measure the impact of synthetic data on training
+Summarizing and sharing your findings
+Supporting our customers
+Staying up to date with the latest research on synthetic data
+About You:
+You are eager to learn and to add value to the team
+You are a team-player and understand the importance of clear communication
+You thrive in ambiguous environments
+You are not afraid to approach new challenges
+What You Bring:
+Master’s or PhD in computer science or a related field
+Well-versed with developing machine learning models for computer vision tasks in either an industry or research environment
+Extensive experience in python
+Ability to write clean/maintainable code
+Working knowledge of Pytorch or Tensorflow
+You are fluent in english
+Bonus Points:
+Experience with developing, deploying and improving perception stacks on AVs
+Experience with domain adaptation approaches or custom domain gap measures
+Experience at a fast-growing, young company
+Experience with workflow management systems such as Argo, Kubeflow, Airflow, Ray.io
+Remote Information: This opportunity is open to candidates based out of the West Coast in the United States or Vancouver, Canada.
+
+Why join Parallel Domain?
+We are assembling a team of talented visionaries crafting a new technology that will change the world. You will be able to learn, build, and scale in a collaborative, creative culture that values every team member.
+Parallel Domain celebrates diversity and is committed to creating a safe and inclusive environment for all our people. We are committed to providing employees with an environment free of discrimination, bullying and harassment. All employment decisions at Parallel Domain are based on business needs, job requirements and individual qualifications. We will maintain our commitment to and support of equal employment opportunity for all individuals without regard to race, national/ethnic origin, colour, religion, age, sex (including pregnancy), sexual orientation, gender identity/expression, marital status, family status, genetic characteristics or physical/mental disability. Our commitment extends to any other protected classes which may exist under applicable law.
+We offer:Flexibility to work from our office in Yaletown, Vancouver or your home officeCompetitive compensationEmployer-paid supplemental medical, mental health, dental, and vision benefitsPaid vacation and sick time, winter shutdown, and 11 stat holidays each yearPaid parental leaveNew hire equipment + accessories budget to optimize your setup$2,000 CAD annual learning and development allowance",Tecnologías de la información,,2022-08-25T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Scientist/Engineer,MetaOptima,British Columbia,Vancouver,-1,-1,,CAD,"What do you envision your next career to look like? Join MetaOptima to make a difference in the lives of millions as we revolutionize the dermatology industry with artificial intelligence-powered software solutions for faster, more effective, and affordable care. MetaOptima is full of passionate, innovative people who thrive on working together as a team to build smart, life-saving technologies for medical professionals and their patients. We have customers all over the world with staff situated to support them from Canada to the US, to Australia and New Zealand, you will have the chance to have an impact on the lives of medical professionals and their patients all around the globe!
+Join our fast-growing startup to add your voice to our vision while working with a cool group of people set on making their mark on the world. We take pride in what we’ve accomplished together, and can’t wait to see how you’ll help us grow.
+A team who works together, wins together. We’re excited to share some of our accomplishments with you:
+A BCIC New Ventures Competition Winner
+Plug and Play Startup Showdown Winner
+BCIP Innovation Challenge Award Winner
+Coast Capital Savings Venture Prize Winner
+A Ready To Rocket Winner 2018 & 2019
+Winner of ISIC Disease Classification AI Competition 2018
+Member of Canada’s Digital Technology Supercluster
+Winner of ITAC Ingenious of the Year Awards, 2019
+Requirements
+Master’s or PhD degree in Computer Science, or equivalent experience
+Proficient in Python and visualization libraries (matplotlib, plotly, seaborn)
+Experience using a deep learning framework (PyTorch, Keras, Tensorflow, Caffe) and machine learning/scientific computing libraries (scikit-learn, scipy, numpy)
+Able to determine the correct evaluation metric for a given problem and evaluate various models against it to determine performance
+Able to work in a fast-paced environment
+Self-starter and self-motivated worker
+Strong communication, documentation and presentation skills
+Comfortable looking at medical images
+Computer Vision experience is a strong plus
+Enjoying reading academic papers is a plus
+Responsibilities:
+Understanding business problems and brainstorming ideas as a team to come up with AI solutions.
+Able to work on all stages of a problem from data cleaning and acquisition all the way to implementation and deployment.
+Fast prototyping of research ideas and estimation of the effort required to develop an MVP.
+Develop any tools required to clean and label data.
+Able to take an MVP and analyse the performance to determine how to scale it up for a full-scale cloud deployment.
+Working closely with our Tech team and cloud engineers to deploy systems into production.
+Compiling and presenting research efforts in a clear and understandable way for the rest of the team and other non-technical staff members.
+Benefits
+We offer a competitive salary, vacation, stock options, and a comprehensive benefits package (including extended health, vision, and dental). If you are interested and passionate about doing things that really matter send us your resume and join us on this amazing journey.",Tecnologías de la información,,2022-09-11T00:00:00,2022-10-16,FULL_TIME
+Staff Software Developer,Google,Ontario,Waterloo,-1,-1,,CAD,"Minimum qualifications:
+
+Bachelor's degree in Computer Science, similar technical field of study, or equivalent practical experience.
+8 years of relevant work experience in software development.
+Experience in software development using a general purpose programming language (e.g., C/C++, Java, Python, JavaScript, C#, Go, Objective-C, and/or Swift).
+Experience architecting and developing distributed systems design.
+Preferred qualifications:
+
+Master’s degree or PhD in Engineering, Computer Science, or a related technical field.
+Hands on technical leadership experience leading project teams and setting technical direction.
+Experience architecting and developing solutions to ambiguous problems with significant impact.
+Demonstrated expertise working with one or more of the following: Infrastructure, Machine Learning, Mobile Application Development, Embedded Systems, Front End Development, Security and Privacy.
+Interest and ability to learn other coding languages.
+About the job
+Google's software developers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for software developers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our software developers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+Google aspires to be an organization that reflects the globally diverse audience that our products and technology serve. We believe that in addition to hiring the best talent, a diversity of perspectives, ideas and cultures leads to the creation of better products and services.
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, software developers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google software developers are changing the world one technological achievement after another.
+Responsibilities
+Help build a team and cultivate innovation by driving cross-collaboration and execution of projects across multiple teams.
+Lead designs of major software components, systems, and features.
+Design, develop, test, deploy, maintain and improve the software.
+Manage individual projects priorities, deadlines and deliverables with your technical expertise.
+Mentor and train other team members on design techniques, and coding standards.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",Tecnologías de la información,,2022-09-01T00:00:00,2022-10-16,FULL_TIME
+Backend Engineer (AI Startup),Recruiting From Scratch,British Columbia,Vancouver,-1,-1,,CAD,"About the Company
+Our client believes that the next leap forward in applied AI lies in active learning systems and techniques like reinforcement learning. These systems are ‘curious’ – they continuously try new things in the world, making them better at adapting to and operating in a fast-changing, complex world.
+Using Active & Transfer Learning, their software transforms business processes into automated feedback loops, creating accelerating advantages for our customers vs. their competition.
+Most AI today is passive. It learns by looking at billions of examples of historical data. But in the real world, the future seldom looks like the past. Our active learning agents learn not just from past data, but from simulations of different futures – think Neo from The Matrix learning Kung Fu by fighting Morpheus over and over in a virtual dojo. Arena uses simulations and your real environment to train active learning agents that can safely and quickly learn new tasks to improve your future outcomes.
+As a software engineer at Arena, you will build the next generation of machine learning software. We have 3 main areas of focus: Core Intelligence-ML Modeling, Telemetry-Impact & Algorithmic Health, and AI interfaces. You will be involved in building out functionality for all 3 areas.
+Required qualifications:
+Interest and enthusiasm for Artificial Intelligence and Machine Learning
+Proven ability to write clean code
+Strong Computer Science fundamentals in data structures, algorithm design, and problem solving
+Strong Intuition architecting, building, and scaling complex systems
+Collaborate with Product Designers, ML Scientists and external stakeholders to deliver compelling user-facing products
+Strong customer focus with ability to translate user requirements into good design
+Ability to take a project from scoping its requirements through to the actual launch
+Experience with continuous integration (CI) and continuous delivery (CD)
+
+Salary: Base: $120-180k
+Who is Recruiting from Scratch:
+
+
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+Salary: Base: $150-250k
+Who is Recruiting from Scratch:
+
+
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.",Recursos humanos,,2022-08-27T00:00:00,2022-10-16,OTHER
+Data Engineer,ScalePad,British Columbia,Vancouver,-1,-1,,CAD,"We're Hiring!
+
+We're looking for brilliant thinkers to join our #Rocketeers. If you've ever wondered what it's like to work in a place where people enjoy their work and where talent is more important than title, then keep reading.
+What is ScalePad?
+
+ScalePad is a market-leading software-as-a-service (SaaS) with headquarters in Downtown Vancouver, BC, and a development studio on the Plateau in Montreal, QC.
+Our success is no accident: Our award-winning platform strengthens connections between Managed Service Providers (MSPs) and their clients. Trusted by more than 10,000 MSP partners worldwide, ScalePad’s innovative asset lifecycle management and backup monitoring apps —- Lifecycle Manager & Backup Radar —-deliver actionable insights that lead to enhanced service delivery through automated data collection and analysis.
+You can contribute to building something amazing and appreciate how your work is helping take this company to a higher level of operational maturity. More on that here.
+Our mission, should you decide to accept it.
+
+As a Data Engineer, you will be responsible for the continuation of our business intelligence, data management and operation solutions. This means you will actively work to develop newer and better ways to ensure we are always scalable and aligning directly with our vision of growth. You will work with Data Scientists, Business Analysts and Software Architects to develop amazing solutions. We believe in a collaborative workspace, therefore your input will be crucial towards the continuous innovation of our application. This is a unique opportunity to participate in every aspect of the data engineering cycle. You will have the guidance to learn, optimize, advance, and grow every quarter.
+What we are looking for:
+
+5 years + Data Engineer experience
+Agile development is no secret for you
+Knowledge of Python, R, C# or equivalent
+Knowledge of SQL and NoSQL solutions
+Knowledge of data pipelines
+Knowledge and appetite for Big Data, Data mining, AI and ML
+
+
+Best assets for this role:
+
+You're curious, you love learning, sharing ideas, tackling problems.
+You love to build things that are useful for others.
+You have a natural inclination for shipping and iterating at high velocity.
+You can step back and appreciate the value of recognizing a mistake.
+You care. About ideas, solving hard problems, and about our team’s success.
+You have experience with building web application back-ends, consuming and building REST APIs, working with a variety of databases, using ORM/ODMs.
+Skills traits and experience we love:
+
+You have strong empathy and communication skills.
+You are obsessive about the quality of your work (and the work of your teammates).
+You have autonomy in your ability to manage and prioritize your tasks with an innate ability to shift gears when required.
+You are a sponge when it comes to learning and excel even when outside your comfort zone.
+You have experience with data management, transformation and visualization tools.
+You have experience designing or working with data lake, data warehouse solutions
+You have data streaming experience.
+OLAP database experience is an asset.
+Artificial intelligence and machine learning experience is an asset.
+Event Sourcing experience is an asset.
+Data analysis experience is an asset.
+Within the first few weeks you will:
+
+Get up to speed on our current initiatives, teams and operational workflow.
+Familiarize yourself with our technology architecture
+Familiarize with our business operations structure, needs and cycles
+
+From there, you will
+
+Join a new development team and kick-off major projects.
+Work with data scientist to enable projects
+Work on data lake and data warehouse solutions
+Work on solutions to connect different departments
+
+
+Perks, Perks, Perks.
+
+Work with Top Down, in a collaborative work environment with cross-functional teams, amongst multiple, rapid-growth SaaS companies at varying stages of growth
+Mentorships by industry veterans with a 100% track record of industry success in funding and scaling software companies creates endless career opportunities
+Training and professional development budget provided to help advance your career and skills (available every year to every employee)
+World-class offices and facilities in downtown Vancouver and Montreal, for locals seeking a hybrid experience
+Brand new, top-of-the-line hardware, and equipment providing an ideal working environment either at home or in the office
+A top benefits package including 100% extended health and dental
+Monthly stipend to assist with creating the best hybrid work experience.
+Employee Stock Options provided to all eligible employees!
+
+Work-Life Balance.
+
+We love our #Rocketeers! We value their work and recognize that to be a great #Rocketeer you have to have a work-life balance. Due to COVID-19 we have moved our teams to a hybrid model. This means the option to work in our Vancouver or Montreal offices, or work remotely, along with all the perks available to you for the ultimate work-life balance.
+
+If you prefer to work from home, not a problem! If you want to be in the offices, that is great as well! Our team remains connected throughout the day, so there is never a dull moment and you still feel part of the community, no matter where you are working from.
+Friday Lunch 'n Learn (yes, we have a whole section for this).
+
+On Fridays, our product and engineering dept is invited to our free Lunch ‘n Learn, where a team-mate shares something interesting with the rest of the group. Lunch is provided, whether you are in-office or remote. Nice!
+Dream jobs do not knock on your door every day.
+
+ScalePad is not your typical software company. When we hire you, we aren’t just offering you a job, but rather we are committing to investing in both you and your long-term career. You'll help shape how this modern SaaS company operates and make a genuine impact on the future of our people, product, and partners.
+We invite all qualified candidates to apply. Please note, you must be eligible to work in Canada to be considered for this role. We thank you for your interest. However, only successful applicants will be contacted.",Tecnologías de la información,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+"Visiting Researcher (PhD), Artificial Intelligence | Chercheur invité (Doctorat), Intelligence artificielle",Meta,Quebec,Montreal,-1,-1,,CAD,"Meta is seeking a PhD Student through a short term contract to join the AI Research team in Montreal. We are committed to advancing the field of artificial intelligence by making fundamental advances in scientific methods and technologies to help interact with and understand our world. We are seeking individuals passionate in areas such as deep learning, computer vision, audio and speech processing, natural language processing, machine learning, reinforcement learning, computational statistics, computational cognitive (neuro)science, and applied mathematics. This position would be a fixed term for PhD students in Montreal who will work in collaboration with McGill and University of Montreal. Applicants are expected to be pursuing a PhD in one of the areas listed above. To learn more about our research, visit https://ai.facebook.com/-Meta recherche un doctorant dans le cadre d'un contrat à court terme pour rejoindre l'équipe de recherche en IA à Montréal. Nous nous engageons à faire progresser le domaine de l’intelligence artificielle en réalisant des avancées fondamentales dans les méthodes et les technologies scientifiques pour aider à interagir avec notre monde et à le comprendre. Nous recherchons des personnes passionnées dans des domaines tels que l’apprentissage profond, la vision par ordinateur, le traitement audio et de la parole, le traitement automatique du langage naturel, l’apprentissage automatique, l’apprentissage par renforcement, les statistiques informatiques, la science cognitive (neuroscience) informatique et les mathématiques appliquées. Ce poste aura une durée déterminée pour les étudiants en doctorat à Montréal qui travailleront en collaboration avec McGill et l’Université de Montréal. Les candidats ou candidates doivent poursuivre un doctorat dans l’un des domaines indiqués ci-dessus. Pour en savoir plus sur nos recherches, consultez le site https://ai.facebook.com/.
+
+
+Visiting Researcher (PhD), Artificial Intelligence | Chercheur invité (Doctorat), Intelligence artificielle Responsibilities:
+
+Perform research to advance the science and technology of intelligent systems. | Effectuer des recherches pour faire évoluer la science et la technologie des systèmes intelligents.
+Perform research that improves computational understanding and representing of data. Devise data-driven models of human behavior. Influence progress of relevant research communities by producing publications. | Effectuer des recherches qui améliorent la compréhension informatique et la représentation des données. Concevoir des modèles du comportement humain fondés sur les données. Influencer les avancées de groupes de chercheurs et de chercheuses pertinents grâce à la publication d’articles.
+Devise data-driven models of human behavior. | Concevoir des modèles du comportement humain fondés sur les données.
+Influence progress of relevant research communities by producing publications. | Influencer les avancées de groupes de chercheurs et de chercheuses pertinents grâce à la publication d’articles.
+Collaborate and increase productivity on existing research projects. | Collaborer et augmenter la productivité sur les projets de recherche existants.
+
+
+Minimum Qualifications:
+
+Currently enrolled in a PhD program in a technical field such as Computer Science or Applied Mathematics. | Actuellement inscrit à un programme de doctorat dans un domaine technique tel que l'informatique ou les mathématiques appliquées.
+Knowledge in Machine Learning. | Connaissance de l’apprentissage automatique.
+Knowledge in a programming language. | Connaissance d’un langage de programmation.
+Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment. | Doit obtenir un permis de travail dans le pays où se trouve l’emploi à la date d’embauche et maintenir ce permis pendant la durée de l’emploi.
+
+
+Preferred Qualifications:
+
+Experience building systems based on machine learning and/or deep learning methods. | Posséder de l’expérience dans la construction de systèmes basés sur des méthodes d’apprentissage automatique ou d’apprentissage profond.
+Knowledge in Python, Lua, C++, C, C# and/or Java. | Connaissance de la programmation en langages Python, Lua, C++, C, C# et/ou Java.
+Research and software engineer experience demonstrated via an internship, work experience, coding competitions, or open-source contributions. | Expérience avérée à titre de chercheur/chercheuse et d’ingénieur/ingénieure logiciel dans le cadre d’un stage, d’une expérience professionnelle, de concours de codage ou de contributions à des projets libres.",Tecnologías de la información,,2022-08-31T00:00:00,2022-10-16,OTHER
+"Research Engineer, Computer Vision (University Grad) | Ingénieur de recherche, vision par ordinateur (diplômé de l'université)",Meta,Quebec,Montreal,-1,-1,,CAD,"In this role, you will embed deeply with researchers at Fundamental AI Research (FAIR) and develop experiments and prototypes at the frontier of AI Research. You will need to engage with research topics and cover new domains quickly; build deep expertise with Facebook data and tools; apply high standards to the research code around you and develop an ability to identify highly impactful projects in a complex and unexplored domain. You will gain valuable experience in artificial intelligence and AI, publish academic papers and help push forward the understanding of learning and intelligent systems.-------Dans ce rôle, vous vous intégrerez étroitement aux chercheurs de Fundamental AI Research (FAIR) et développerez des expériences et des prototypes à la frontière de la recherche en IA. Vous devrez vous atteler à des sujets de recherche et couvrir rapidement de nouveaux domaines, acquérir une expertise approfondie des données et des outils Facebook, appliquer des normes élevées au code de recherche autour de vous et développer une capacité à proposer des projets à fort impact dans un domaine complexe et inexploré. Vous acquerrez une expérience précieuse dans le domaine de l’intelligence artificielle et de l’IA, publierez des articles universitaires et contribuerez à faire progresser la compréhension de l’apprentissage et des systèmes intelligents.
+
+Research Engineer, Computer Vision (University Grad) | Ingénieur de recherche, vision par ordinateur (diplômé de l'université) Responsibilities:
+
+Collaborate with Facebook AI Research (FAIR) Scientists to facilitate research that enables learning the semantics of data (images, video, text, audio, and other modalities). | Collaborer avec les scientifiques de Facebook AI Research (FAIR) pour faciliter la recherche qui permet d'apprendre la sémantique des données (images, vidéo, texte, audio et autres modalités).
+Develop highly scalable algorithms based on state-of-the-art machine learning and neural network methodologies. | Développer des algorithmes hautement évolutifs basés sur des méthodologies de pointe en matière d'apprentissage automatique et de réseaux neuronaux.
+Apply knowledge of relevant research domains along with expert coding skills to platform and framework development projects. | Appliquer les connaissances des domaines de recherche pertinents ainsi que des compétences de codage expertes aux projets de développement de plateformes et de cadres.
+Adapt machine learning and neural network algorithms and architectures to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU). | Adapter les algorithmes et les architectures d'apprentissage automatique et de réseaux neuronaux afin d'exploiter au mieux les environnements parallèles modernes (grappes distribuées, SMP multicœurs et GPU, par exemple).
+
+Minimum Qualifications:
+
+Currently has or in the process of obtaining PhD in computer science or related field or has BS/MS in computer science or related field and 2+ years of experience. | Titulaire ou en cours d'obtention d'un doctorat en informatique ou dans un domaine connexe ou titulaire d'une licence ou d'un diplôme en informatique ou dans un domaine connexe et de plus de deux ans d'expérience.
+2+ years of experience in one or more of the following areas: Deep Learning, Reinforcement Learning, Computer Vision, Optimization, Distributed machine learning, or Artificial Intelligence. | Au moins 2 ans d'expérience dans un ou plusieurs des domaines suivants : Apprentissage profond, apprentissage par renforcement, vision par ordinateur, optimisation, apprentissage automatique distribué ou intelligence artificielle.
+Experience developing machine learning algorithms or machine learning infrastructure in Python or C/C++. | Expérience du développement d'algorithmes d'apprentissage automatique ou d'une infrastructure d'apprentissage automatique en Python ou C/C++.
+Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment. | Doit obtenir un permis de travail dans le pays où se trouve l’emploi à la date d’embauche et maintenir ce permis pendant la durée de l’emploi.",Tecnologías de la información,,2022-08-29T00:00:00,2022-10-16,OTHER
+Front-End Engineer,Amazon Dev Centre Canada ULC,Ontario,Toronto,-1,-1,,CAD,"5+ years of experience of developing web-based user interfaces
+Deep experience in modern web development with HTML5, CSS3.0, and Javascript frameworks (React, Vue, AngularJS)
+Experience with modern Javascript tooling (Webpack, Gulp, Grunt, etc.) and Proficiency in at least one modern dynamic programming language (Ruby, Python, Javascript)
+Experience translating design mockups and prototypes into working applications
+Demonstrated passion for user experience and improving usability
+
+Job summary
+ABOUT US
+
+We are building a brand-new AWS SDLC product that will enable customers to continuously increase the speed, frequency and reliability of their development processes and software deployments. We are seeking builders to be technical design leaders on the founding team of this new AWS developer product. We are looking for passionate front-end developers to grow and shape this new offering and build a brand-new experience to make shipping code fast, simple, and painless. We have a diverse and established team that needs passionate engineers to define and refine what it means to build developer experiences at Amazon scale.
+
+ABOUT YOU
+
+You are deeply passionate about using modern frameworks like React, Vue, or Angular to build sleek, intuitive, and extensible experiences for customers. You love platform-level features like security and have a knack for authorization and authentication of web applications. You place an extraordinary value on user experience, and have an eye for what works and what doesn’t. You know good tooling from bad and really care about optimizing your own development experience. You have strong opinions on the standards modern HTML, CSS, and Javascript should be held to. You’re determined to find the right approach even if it’s not your own. You’re passionate about interacting with customers and watching your work in action.
+
+
+About Us
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Inclusion
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and we host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Work/Life Balance
+
+Our team puts a high value on work-live balance. It isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings energy to both parts of your life. We believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. We offer flexibility in working hours and encourage you to find your own balance between your work and personal lives.
+
+Mentorship & Career Growth
+
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future.
+
+Learn more about Amazon on our Day 1 Blog: https://blog.aboutamazon.com/”
+
+AWS has the most services and more features within those services, than any other cloud provider–from infrastructure technologies like compute, storage, and databases–to emerging technologies, such as machine learning and artificial intelligence, data lakes and analytics, and Internet of Things. Whether its Identity features such as access management and sign on, cryptography, console, builder & developer tools, and even projects like automating all of our contractual billing systems, AWS Platform is always innovating with the customer in mind. The AWS Platform team sustains over 750 million transactions per second.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Experience building complex software systems that have been successfully delivered to customers
+Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+Experience in communicating with users, other technical teams, and management to collect requirements, describe software product features, and technical designs.
+Knowledge of the latest web styling frameworks and interest in user interface design
+Knowledge of the latest developer tools across the software development workflow (coding, building, deployment, operations, task tracking, real-time communication)
+Experience with conducting A/B Testing, usability studies, and performance tuning
+Experience with distributed environments
+Experience with communication to leadership teams
+Location options include Virtual, Seattle WA, Arlington VA, Berlin DE, Amsterdam NL.
+
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-08-27T00:00:00,2022-10-16,FULL_TIME
+Junior Software Engineer (Developer),Wingmate Inc.,Ontario,Toronto,-1,-1,,CAD,"Wingmate develops technologies that help businesses grow and maintain sales, organize service and simplify operations. With our award-winning applications, Wingmate supports thousands of businesses across the world to help them grow.Our software handles information at a large scale across a wide array of industries. At Wingmate, we’re looking for engineers to bring new ideas to our product from all areas including information retrieval, networking and data storage, artificial intelligence, security, UI design and mobile.As a software engineer, you will work in an AGILE environment to complete projects that match our clients needs with our business objectives. Your work will extend across the full stack, from UI to infrastructure. You will have the opportunity to choose the projects you can work on as well as design your own projects to build.Our engineers need to be resourceful and display leadership qualities. With your expertise, you will manage project priorities and deliverables. You will design, develop, test, deploy and upgrade software solutions. Experience true entrepreneurship with this opportunity by watching your ideas evolve from paper to product!Job RequirementsBachelor’s Degree in Computer Science, Software Engineering or related disciplineGreat communication, teamwork and interpersonal skillsPassionate about business developmentKnowledge of PostgreSQL and database designNice to HavesExperience with ReactJSExperience with Kubernetes and DockerExperience with NodeJSFull stack web and mobile development experienceUnit, integration and E2E testing experienceKnowledge of UX design principlesExperience with business analytics and related softwaresExperience with non-relational databasesJob Types: Full-time, PermanentSalary: $55,000.00-$70,000.00 per yearBenefits:Casual dressCompany eventsExtended health careLife insuranceWork from homeSchedule:Monday to FridaySupplemental pay types:Bonus payEducation:Bachelor's Degree (required)",,,2022-09-07T00:00:00,2022-10-16,FULL_TIME
+"Software Engineer, New Service",Amazon Dev Centre Canada ULC,British Columbia,Vancouver,-1,-1,,CAD,"Bachelor's degree in Computer Science, Computer Engineering, related field and/or equivalent professional industry work experience & training
+Strong background in computer science basics (data structures, algorithms, etc.).
+Sharp analytical abilities, proven skills and a track record of delivery.
+Communication skills for both a technical and business audience.
+Experience leveraging object oriented practices.
+
+Job summary
+Want to disrupt an industry by delighting customers? Looking for a job where your work can have direct and massive impact? Excited to join one of the newest and most exciting services? Come be a leader on a team that is building a product that will touch millions of people daily.
+
+
+Amazon Connect is a highly disruptive -based contact center that enables businesses to deliver engaging, dynamic, and personal customer service experiences. Amazon Connect is the result of the ten years of development that went into building the tools Amazon uses to provide its award winning customer service at massive and launching it as a publicly available service. With Amazon Connect, you can create your own -based contact center and be taking calls in minutes. Amazon Connect leverages the power of Artificial Intelligence and the large ecosystem of services such as Amazon Lex, Amazon Polly, Lambda, Amazon S3 and Amazon Kinesis to provide a truly frustration free, easy-to-use, extensible, and natural customer experience. With this technology, we are transforming an industry and the way customers interact with businesses and how agents service them.
+
+We have a rapidly growing customer base and an exciting charter in front of us that includes solving highly complex engineering and algorithmic problems. We are looking for passionate and talented Software Development Engineers to join us to innovate on this new service that addresses customer needs to build modern contact centers in the . The position represents a rare opportunity to be a part of a fast-growing business soon after launch, and help shape the technology and product as we grow. You will be playing a crucial role in developing the next generation contact center, and get the opportunity to and deliver scaleable, resilient systems while maintaining a constant customer focus.
+
+
+Industry analysts have said, “Amazon Connect is quietly positioned to massively disrupt by enabling companies to focus on customer service, not service centers.” and “Amazon is totally disrupting the customer contact center space as they have many other market-spaces with customer-centric solutions with open platform integration with assistance from the partner community.”
+
+As a developer on our team, you’ll own code end-to-end from requirements to development, and work closely with senior technical leaders within the team and across . You’ll have a sound understanding of computer science fundamentals and practical industry experience, working across the stack with technology involving modern web, SOA, databases, AI, ML, Big Data and more.
+
+Work/Life Balance
+Our team puts a value on work-life balance. Most days, our team is co-located in the office, but we’re also flexible when people occasionally need to work from home. We generally keep core in-office hours from 10am to 4pm. About half of us come in earlier and the other half of us stay later.
+
+Mentorship & Career Growth
+Our team is dedicated to supporting new team members. Our team has a broad mix of experience levels and Amazon tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. Our engineers truly enjoy mentoring more newer engineers through one-on-one mentoring and code reviews.
+We care about your career growth. We try to assign projects and tasks based on what will help each team member into a better-rounded engineer and enable them to take on more complex tasks in the future.
+Inclusive Team Culture
+Our team is intentional about attracting, developing, and retaining amazing talent from diverse backgrounds. We believe that an inclusive and welcoming culture help us build better services and better teams.
+We’re looking for a new teammate who is enthusiastic, empathetic, curious, motivated, reliable, and able to work effectively with a diverse team of peers; someone who will help us amplify the positive & inclusive team culture we’ve been building.
+Amazon is committed to a diverse and inclusive workforce.
+
+
+Learn more about Amazon Connect here.
+
+Media coverage on Amazon Connect:
+http://www.zdnet.com/article/how-the-abs-prepared-for-the-same-sex-marriage-survey-using-the-public-/
+https://www.benzinga.com/analyst-ratings/analyst-color/17/03/9241888/how-amazons-connect-could-impact-twilio-zendesk-ringcent
+https://.amazon.com/blogs//new-amazon-connect-and-amazon-lex-integration/
+https://techcrunch.com/2017/03/28/-amazon-connect/
+
+Power of Amazon Connect:
+https://www.youtube.com/watch?v=9qky_E39-_I
+https://youtu.be/rSzDFJGw5vg
+
+
+
+About the team
+Inclusive Team Culture
+
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 16 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Work/Life Balance
+Our team puts a high value on work-life balance. It isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings energy to both parts of your life. We believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. We offer flexibility in working hours and encourage you to find your own balance between your work and personal lives.
+
+Mentorship & Career Growth
+
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded professional and enable them to take on more complex tasks in the future.
+
+Experience taking a leading role in building complex software systems that have been successfully delivered to customers
+Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+Hands-on expertise in many disparate technologies, typically ranging from front-end user interfaces through to back-end systems and all points in between
+Experience in driving systemic operational improvements
+Experience mentoring junior software engineers to improve their skills, and make them more effective, product software engineers
+Experience influencing software engineers best practices within your team
+Experience in communicating with users, other technical teams, and senior management to collect requirements, describe software product features, technical designs, and product strategy
+
+
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-08-23T00:00:00,2022-10-16,FULL_TIME
+Junior Developer / Quality Assurance Engineer,Fortran Traffic Systems,Ontario,Toronto,-1,-1,,CAD,"Job Title:Junior Developer / Quality Assurance EngineerDivision/Department:Reports To:Position:Full TimeBased in Toronto, Fortran Traffic Systems Limited is a leader in the North American traffic industry and at the forefront of innovation in Intelligent Transportation Systems (ITS) and Connected and Automated Vehicles (CAV) support systems. With the arrival of transportation technologies such as CAV and Vehicle-to-Everything (V2X) communication, Fortran is developing advanced solutions to harness the multitude of benefits that these emerging technologies can provide to road operators and traffic management agencies. Fortran offers a challenging environment, rich in R&D, that fosters creativity and rewards excellence.The RoleThe Junior Developer / QA Engineer will be entrusted to both test and assist with the development ofcutting-edge software solutions for the next-generation of ITS designed and produced by Fortran.The successful candidate will be an integral part of a team developing and testing high performance andsustainable V2X and ITS systems.What You’ll DoBe great: Build a great product, provide a great service and be a great team playerContinuously innovate: Search for a better solution. Then top it!As a Developer you will: Utilize quality focused state-of-the-art software development practices to develop full stacksoftware solutionsPerform detailed analysis, design, unit-level code development, software integration and testingAnalyze complex functions, procedures and problems to deliver creative and effective solutionsParticipate in design and code reviewsPreparation of application operational / procedural documentation for users and technical supportstaffAs a QA you will: Develop and document software efficient test plansExecute test plans manually or automated and track software defects/bugsWork with the software development team to resolve bugsTest automation implementationAccurate creation/revision of software release instructions, software update instructions, testreports and related technical documentation.Install software and hardware in preparation for testing‍What You’ll Need To SucceedBachelors in Computer Science or related technical fieldExperience in software QAExperience defining & developing test scripts (Perl, Python or other) for automated test scriptsWeb-based front-end application framework and web-based UI programming such as but notlimited to HTML, CSS, JavasScript/jQuery and NodeJSSQL and NoSQL experience including (PostgresDB/PostGIS and MongoDB)One or more back-end programming languages such as C++ and PythonLinux (or Unix) environment Operating systems principles and communication protocolsTeam player with excellent interpersonal and communication skillsOrganized, focused and persistent with the ability to work to the plan and meet delivery datesExcellent problem solver and quick learnerNice To HaveExperience in Machine Learning, Data Mining or Machine Intelligence (Artificial Intelligence)Real-time software development experienceMobile app development (Android or iOS)What We OfferTechnically Challenging ProjectsCompetitive SalaryWork Remotely (Flexible Work Location)Casual Dress Code and WorkplaceGreat and Friendly EnvironmentFlexible HoursHalf Day Fridays‍FULL TRAINING WILL BE PROVIDEDTO APPLY: Please forward your resume to resumes@fortrantraffic.com and note "" Junior Developer / QualityAssurance Engineer"" on the subject header, showing how you meet the qualifications listed above in onedocument. No cover letter required.‍We thank all applicants for their interest but only those selected for an interview will be contacted.Job Type: Full-time",,,2022-08-24T00:00:00,2022-10-16,FULL_TIME
+DevOps Engineer (f/m/x),Ada Health GmbH,Ontario,Toronto,-1,-1,,CAD,"ABOUT US
+
+At Ada, we envision a world where everyone has access to the healthcare they need. In one of the biggest challenges facing the world, we pioneered a new form of artificial intelligence, combining medical knowledge with intelligent technology to empower millions of people to better understand their health. We're proud to support medical doctors and work with leading health systems and global non-profit organizations. We're a diversely skilled team representing 50 nationalities, and we're growing rapidly to achieve our global ambitions for the future of health. This is just the beginning.
+
+ABOUT THE ROLE
+
+Seize the opportunity to make the world a better place as a DevOps Engineer in our Service Delivery Team in the Americas.
+
+Our team is working on different topics to help people/teams across the org to proactively improve the ability to deliver, maintain and support products, such as: infrastructure (Kubernetes clusters, databases, cache stores, buckets, CDN…), alerting and monitoring, CICD tools and improving SDLC processes for Delivery teams.
+
+WHAT YOU WILL DO :
+
+As a DevOps Engineer at Ada, you will be responsible for extending and improving our container-based AWS / GCP infrastructure, running in Kubernetes within our Service Delivery team.
+Partner with your colleagues on the Service Delivery team and across the company to embrace the idea of self-service tooling, making the best way the easiest way.
+You will contribute to resilient CI/CD pipelines/processes to make sure that our engineering team is able to deploy features faster while being compliant to regulations.
+You enable a high quality and fast IT environment for services and resources for engineering and/or data teams to run their Java, Kotlin, Python services backed by MongoDB, Redis and Postgres within Kubernetes clusters.
+Extend and maintain our automated monitoring and alerting systems.
+Work in highly regulated environments.
+Train Developers on Infrastructure and Automation topics within our Service Delivery team.
+This role might require on-call shifts
+
+WHAT YOU WILL BRING :
+
+You have a strong background in automated provisioning of AWS/GCP environments.
+You have proven experience in distributed systems debugging.
+You can demonstrate a deep understanding of the intrinsic link between infrastructure and software delivery lifecycle while maintaining a system thinking view of the business.
+You have experience with Kubernetes, Terraform, Docker, AWS/GCP, Jenkins
+You understand the SDLC process.
+Focus on Security Engineering and InfoSec
+You understand the importance of distributed tracing and systems thinking expressed in metrics, visualized through graphics to make meaning intuitive.
+Our tech stack: Java, Spring Boot, Kotlin, MongoDB, Redis, Docker, Kubernetes, Node.js, Python, AWS, Google Cloud Platform and Istio
+You have expertise in agile environments (Scrum or Kanban) as well as in following principles in continuous delivery
+You are good in communication and collaboration within your team
+You are ready to coach other Engineers across the company
+You bring creativity and the ambition to strive in a constructive and multicultural team
+You are happy to share, learn, teach, communicate and document things every day
+You are fluent in English
+
+
+WHAT'S WAITING FOR YOU AT ADA :
+
+Join our global health mission to improve the health of billions of people around the world
+Work in an international environment (55 nationalities) and with medical doctors & experts
+Work with cross-functional & diverse teams of smart, purpose-driven peers
+Work wherever you feel most comfortable – home, office, or a bit of both
+Receive financial support to help set up your home office space
+Enjoy your country-specific vacation days to unplug, rest and recharge
+Maintain a healthy work-life balance with our flexible working hours and locations
+Meditate your stress away with a free Headspace subscription
+Meet and collaborate with colleagues via community days, virtual coffee chats, company parties, team celebrations",Salud,,2022-08-25T00:00:00,2022-10-16,OTHER
+Machine Learning Engineer (Modeling),Cash App,Ontario,Toronto,-1,-1,,CAD,"Company Description
+It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic app, bringing a better way to send, spend, invest, borrow and save to our millions of monthly active users. With a mission to redefine the world's relationship with money by making it more relatable, available and accessible, at Cash App you'll have the opportunity to make a real-world impact with your career.
+Remote Work
+Today, Cash App has thousands of employees around the world with a culture geared toward creativity, collaboration and impact. We’ve been a distributed team since day one, and continue to value working across time zones and continents both remotely and in our Cash App offices.
+Our offices are great, but many of our roles can be done remotely from the countries where Block operates. We tailor our experience to champion our employees’ creativity and productivity wherever they are.
+
+Job Description
+Machine Learning is an integral part of how we design products, operate, and pursue Cash App’s mission to serve the unbanked as well as disrupt traditional financial institutions. Our massive scale and deep trove of transaction data create an endless number of opportunities to use artificial intelligence to better understand our customers and offer new products and experiences that can improve their lives. We are a highly creative group that prefers to solve problems from first principles; we move quickly, make incremental changes, and deploy to production every day.
+This role is part of our Cash App's ML team and will be deeply embedded within one of our product teams - here are the workstreams we're currently hiring for:
+Search & Discovery
+Cash App enables millions of people and businesses to pay and get paid with ease. On our team, we build delightful experiences that help our customers find and discover people and things quickly and with trust - we aim to grow and strengthen the connections between people and businesses across the globe. Through your work, you will empower Cash App to personalize customers’ search and discovery experiences using AI/ML, to better understand our customers’ payment journeys, and help identify and execute on new opportunities for product improvement. You will employ a variety of modeling techniques on our comprehensive customer data and scale your solution to production by partnering closely with design, product, analytics, and engineering teams.
+Risk
+You'll build machine learning models that detect fraudulent activity in real time and help keep our customers safe and secure. You will experiment with state-of-the-art algorithms to drive down false positives, collaborate on new product features to drive fraud losses down, use any and every dataset at your disposal (including 3rd party data) to engineer new features for risk models, verify customer documents using OCR, and use biometric and device signals to detect malicious logins and account takeovers.
+Customer Support Automation
+Working closely with our Customer Support team, you will use our vast amounts of data to make experiences seamless for our customers and help us achieve world-class service as Cash App continues its rapid growth. You will build models that anticipate customer issues and deliver proactive in-app suggestions, use NLP to contextualize inquiries and respond instantly with relevant content, develop prioritization algorithms that improve efficiency, and apply the latest research to automate conversations with customers.
+Technologies we use (and teach):
+Python (NumPy, Pandas, sklearn, xgboost, TensorFlow, keras, etc.)
+MySQL, Snowflake, GCP/AWS and Tableau
+Java
+
+Qualifications
+You have:
+5+ years experience with applied Machine Learning or Deep Learning
+A graduate degree in Computer Science, AI, ML, Applied Math, Stats, Physics, or a related technical field
+Worked with Product, Design, and Engineering to prioritize, scope, design, and deploy ML models
+A track record of providing mentorship and technical leadership
+An appreciation for the connection between the software you build and the experience it delivers to customers
+Additional Information
+We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
+We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our I+D page.
+Additionally, we consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis.
+Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer (All levels),Deep Genomics,Ontario,Toronto,-1,-1,,CAD,"About Us
+Founded in 2015, Deep Genomics is a drug development company that aims to revolutionize medicine by leveraging expertise in artificial intelligence (AI) and genome biology. We have built the world’s first, and by far the most advanced, AI platform that is able to untangle the enormous complexity of RNA biology and find the best targets, mechanisms, and molecules.
+The thesis here at Deep Genomics is that everyone, at some point in their life, will face a genetic condition, whether Mendelian or complex, and we aim to be there for them with a genetically precise therapy. We take immense pride in our team of people whose backgrounds span a diverse range of disciplines including those found in a traditional biotechnology company, as well as machine learning, laboratory automation, and software engineering.
+Ideal Candidate
+Our predictive systems group brings together world-leading experts in biology, genomics, medicine, and machine learning. We are working on several ambitious projects to develop pioneering AI technology for understanding complex genetic diseases and enabling the discovery of novel targets as well as therapies. We are looking for an experienced machine learning engineer to lead the design and development of new models and pipelines and the infrastructure for scaling it up to the next level.
+What You’ll Be Doing:
+Working with our ML scientists to develop highly scalable models and algorithms for predicting molecular phenotypes using state-of-the-art neural network methodologies.
+Developing evaluation, visualization, and productivity tools for streamlining machine learning research
+Adapting our algorithms and architectures to best exploit modern cloud computing environments
+Working with our software engineers, biologists and geneticists to operationalize and deploy research output to match the needs of stakeholders.
+What You Bring:
+Solid Engineering and Computer Science fundamentals, ideally with a degree in CS, Math, or equivalent experience.
+Senior candidates should have experience in architecting, developing, and deploying large software systems in a leading position
+Experience in building, testing, training, and deploying production-ready ML workflows.
+Experience developing machine learning algorithms or machine learning infrastructure in Python or C/C++.
+Experience with frameworks like PyTorch, Caffe2, Tensorflow, Keras, JAX, Chainer, etc.
+Experience in the operationalization of Machine Learning projects (MLOps) using at least one of the popular frameworks or platforms (e.g. Kubeflow, AWS Sagemaker, Google AI Platform, Azure Machine Learning).
+What we offer:
+Leading role in developing the future of drug development to cure genetically defined diseases.
+A highly competitive salary and meaningful equity compensation.
+Exceptional opportunities for learning and growth.
+A bright, collegial, highly motivated team working at the intersection of the most exciting areas of science and technology.
+Deep Genomics thanks all applicants, however only those selected for an interview will be contacted.
+Deep Genomics welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.",,,2022-08-22T00:00:00,2022-10-16,FULL_TIME
+R&D Engineer,Scentroid (a division of IDES CANADA INC),Ontario,Whitchurch-Stouffville,-1,-1,,CAD,"Scentroid is the world’s premier manufacturer of odour sampling and air analysis equipment for the environment industry. With decades of experience developing state-of-the-art instrumentation for environment, nuclear, and medical industries, we bring new and innovative technologies to the field of air quality monitoring. Our strong technical expertise in all aspects of instrumentation including mechanical, electrical, and software engineering provides the fuel for our obsession of research and development. For more information visit www.scentroid.comJob DescriptionThis position is to complement Scentroid’s Research and Development activities in development of new sensing instruments and analytical software. With a strong focus on research and development in the field of electronic design, microchip programming, artificial Intelligence, big-data processing, and much more. The following are some of the daily activities of a Research and Development Engineer at Scentroid.· Evaluate new sensing technologies· Design and develop new multi-layer printed circuit boards· Develop software architecture for instrument firmware· Program various microprocessors used in Scentroid products· Conceptualize sensing solutions to address particular needs for end-users· Conduct environmental and performance testing of various instruments· Develop new and advanced digital filters and data analytics including the use of AI· Evaluate existing sensing solutions to identify areas for improvement· Conduct testing to ensure optimal functionality· Debug any errors or issues that arise· Maintain thorough documentation of systems and applicationsJob Requirements· A genuine passion for efficiency, automation, and infrastructure/platform building· Bachelors (B.Sc.) or Masters (M.Sc.) or equivalent in Mechatronics, Electrical, or Electronics engineering.· Experience with microprocessor programming· Strong Knowledge of Matlab programming· Familiarity with NumPy is preferred· Familiarity with Solidworks is a plus· Highly desired if any working experience in sensing systems, IoT, and digital filters.· Clear and coherent written communication, including visual representations of dataOther· This position is full-time with 3 months probation period.Job Types: Full-time, PermanentSalary: $55,000.00 per yearBenefits:Casual dressCompany eventsDental carePaid time offSchedule:8 hour shiftDay shiftMonday to Friday",,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+"Software Engineer, Core Infrastructure (Remote)",BenchSci,Ontario,Toronto,-1,-1,,CAD,"BenchSci is a remote first organization. At this moment, we are welcoming applicants from Canada, the US and the UK for this position.
+BenchSci's vision is to help scientists bring novel medicine to patients 50% faster by 2025. We empower scientists to run more successful experiments with the world's most advanced, biomedical artificial intelligence software platform.
+Backed by F-Prime, Inovia, Golden Ventures, and Google's AI fund, Gradient Ventures, we provide an indispensable tool for scientists that accelerates research at 16 top 20 pharmaceutical companies and over 4,300 leading academic centers. We're a certified Great Place to Work®, and top-ranked company on Glassdoor.
+We are currently seeking a Software Engineer to join our Core Infrastructure team. If you are the sort of engineer with a deep interest in how cloud architecture actually works under the hood, you’re exactly who we’re looking for in this role. You will work on a team of highly skilled engineers on a cutting-edge tech stack to build the systems that power all of BenchSci.
+You Will:
+Build internal tools, pipelines, and controls for all engineering teams
+Improve the lives of our engineering team by optimizing our build tools
+Automate our cloud architecture via state-of-the-art declarative configuration management (i.e. Infrastructure-As-Code) solutions so BenchSci can scale to meet user needs and recover from disaster events
+Collaborate closely with other engineering teams to solve problems relating to reliability and deployment systems architecture
+Improve monitoring, alerting, and overall observability for all systems
+Develop best practices for security, scalability, operational efficiency
+Support and educate application/data teams on how to use our cloud platform, and be a guardian of code and configuration quality to reduce operational errors
+You Have:
+2+ years working as a professional developer
+Strong experience in any programming language
+A strong background in computer science fundamentals including algorithms, data structures, software design, and the ability to audit third-party code
+Experience with configuration management on public cloud providers (GCP, AWS, or Azure)
+A strong interest in operationalizing distributed systems and raising SLIs
+Experience troubleshooting production issues and being part of PagerDuty schedules (only business hours)
+Benefits and Perks:
+An engaging remote-first culture
+A competitive compensation package that includes BenchSci equity options
+Comprehensive health and dental benefits
+Emphasis on mental health with $2500 CAD (or equivalent in your country’s currency) for Psychologist, Social Worker, or Psychotherapist services
+Three weeks of vacation plus an additional day for every completed year
+Unlimited flex time to use toward sick days, personal days, religious holidays, birthdays and appointments
+Additional time-off: 2 weeks for Winter Holidays, every other Friday in July and August, your birthday, and more!
+Generous parental leave benefits with a top-up plan or paid time off options
+A $2000 CAD (or equivalent in your country’s currency) Annual Learning & Development budget
+A $1000 CAD (or equivalent in your country’s currency) work from home allowance to make your home setup perfect for you
+A lifestyle spending account for employees to receive reimbursement for eligible expenses related to wellness, lifestyle and productivity $2500 CAD (or equivalent in your country’s currency) per year
+Our Culture:
+At BenchSci, we’re committed to cultivating an inspiring, inclusive, and equitable work environment for high performing, ego-free, self-starting individuals with a growth mindset, who enjoy the challenge of solving hard problems. We recognize that everyone here is a person first and an employee second. We want people to feel cared for and supported to bring the best versions of themselves to work and help the company achieve its mission. We believe culture is critical to success and invest accordingly.
+We live and promote our FASTT values of Focused, Advancement with Speed, Tenacity, and Transparency. We work hard to maintain an engaging, supportive environment where everyone can do their best work. To learn more, read our culture deck.
+Diversity, Equity and Inclusion:
+We're committed to creating an inclusive environment where people from all backgrounds can thrive. We believe that improving diversity, equity and inclusion is our collective responsibility, and this belief guides our DEI journey. To learn more, read about our DEI initiatives.
+Accessibility Accommodations:
+BenchSci provides accessibility accommodations during the recruitment process. Should you require any accommodation, we will work with you to meet your needs.
+BenchSci is a remote first organization. At this moment, we are welcoming applicants from Canada, the US and the UK for this position.
+#LI-Remote",Tecnologías de la información,,2022-09-12T00:00:00,2022-10-16,FULL_TIME
+DevOps Engineer,AcuityAds,Ontario,Toronto,-1,-1,,CAD,"AcuityAds is a leading technology company that provides marketers with a one-stop solution for omnichannel digital advertising with best-of-category return on advertising spend. Our journey automation technology, illumin™, offers planning, buying and real-time intelligence from one platform. With proprietary Artificial Intelligence, illumin™ brings unique programmatic capabilities to close the gap between advertising planning and execution. AcuityAds is headquartered in Toronto with offices throughout Canada, the U.S., Europe, and Latin America. For more information, visit AcuityAds.com.AcuityAds develops next-generation software that has innovated the way brands and marketers connect with their audiences. Our engineers build an exciting, highly-available, performant system that is able to withstand huge volumes of traffic (100B requests/day) and respond quickly to each of them (up to 30ms). Our Java (and some Kotlin) based platform is using state-of-the-art frameworks and technologies, and our team is an expert in JVM architecture. We have multiple persistence layers such as MySQL for our RDBMS needs, Cassandra, hBase, InfluxDB, HDFS (Spark Scala based jobs) and Aerospike.We are looking for a DevOps Engineer who will support our platform by developing and enhancing operational processes for our engineering teams. We’re looking for passionate, creative engineers who are excited about solving problems and working with some of the latest and exciting technologies.As a DevOps engineer on our team, you will get your hands dirty working with technologies like Terraform, Ansible, Docker, Kubernetes, and more.What You Will Do: Be part of a week long on call cycle where you are responsible for system uptimeParticipate in weekly application deploymentsLinux system administration and troubleshootingAnalyze and resolving incidents in a timely manner to minimize downtime to all clients while coordinating and communicating with impacted stakeholdersEvaluate new technologies and integrate them into our current environmentDevelop new application deployments using AnsibleScale current environments using Terraform to meet our ever increasing trafficWhat You Will Need: Good understanding of VMware, Docker and Kubernetes VM/container orchestrationExperience building deployment projects with Atlassian Bamboo and BitbucketExperience with Infrastructure as code (IaC) and deployment experience using TerraformExperience with configuration management using AnsibleExperience with deployment of infrastructure and Java applications in VMware, hardware servers and/or cloud (we’re running our own cloud, so some cluster nodes are deployed on k8s, while others on bare metal servers)Experience with scripting knowledge with Python and Bash (experience with Java is a plus)Experience with MySQL, NoSQL, and ElasticSearch. And ability to set them up for productionExperience with NetBoot, Cobbler or any PXE provisioner for hardware serversBasic networking experience and experience working with hardware serversExperience with git and understanding of basic git workflowsExperience with being on-call and willingness to figure out issues independentlyAbility to work independently in a small start-up environment and be self driven and self taught.Good communication and documentation skills*GREAT PLACE TO WORK®*AcuityAds is certified as a Great Place to Work® after a thorough and independent analysis conducted by @Great Place to Work Canada. This certification is based on direct feedback from employees, provided as part of an extensive and anonymous survey about the workplace experience. Check out our website here.DISCLAIMERThis description has been designed to indicate the general nature and level of work performed by the employee within this position. However, the actual responsibilities, duties, qualifications, and experience may vary. The Employee may perform other related duties as required to meet the ongoing needs of the organization. Information contained in this job posting/description is subject to change.__DIVERSITY, INCLUSION & EQUAL EMPLOYMENT OPPORTUNITIESAcuityAds is committed to the principle of equal employment opportunity for all our people_ and _to providing a work environment free of discrimination and harassment. We expect and require the cooperation of all our people in maintaining an environment with mutual respect by and for all our employees and applicants.All employment decisions at AcuityAds are based on business needs, job requirements and individual qualifications, without regard to race, colour, ancestry, creed (religion), place of origin, ethnic origin, citizenship, sex (including pregnancy, gender identity), sexual orientation, age, marital status, family status, political belief, physical or mental disability, receipt of public assistance, or irrelevant record of the offence.AcuityAds provides accommodations for individuals with disabilities. If you require accommodation, please contact us by e-mail at TalentAcquisition@acuityads.com. This ensures that the appropriate accommodations are in place during the recruitment and selection process and before you begin your journey with us.Let us know what we can do to help you be successful during your recruitment experience at AcuityAds.Job Types: Full-time, Permanent",Tecnologías de la información,,2022-09-09T00:00:00,2022-10-16,FULL_TIME
+Golang Software Engineer - Virtualization,Litmus Automation,Ontario,Toronto,-1,-1,,CAD,"Who is Litmus
+
+Litmus is a growth-stage software company that is transforming the way companies harness the power of machine data to improve operations. Our software is enabling the next wave of digital transformation for the biggest and most innovative companies in the World – making Industrial IoT, Industry 4.0 and Edge Computing a reality. We just completed our Series B financing round, and we are looking to expand our team.
+
+Why join the Litmus team
+
+You want to be a part of something great
+
+We pride ourselves on building the most talented and experienced team in the industry who knows how to win. We work hard and the results speak for themselves. We're trusted by industry leaders like Google, Dell, Intel, Mitsubishi, Hewlett-Packard Enterprise and others as we partner to help Fortune 500 companies digitally transform.
+
+You want to define and shape the future
+
+At Litmus you'll have the opportunity to influence and enable Industrial Internet of Things, the next wave of technology essential for global digitization. We're leading the industry in machine data analytics and edge computing to feed machine learning, artificial intelligence and other applications that rapidly change the way companies operate.
+
+You want to build and shape your career
+
+Join a growth-stage Silicon Valley company to build and define your career path in an environment that allows you to progress rapidly. Bring your unique experience, talent and expertise and add to it by collaborating with and learning from the brightest people in the industry.
+
+We are committed to hiring great people who are passionate about what they do and thrive on winning as a team. We welcome anyone and everyone who wishes to join the Litmus marketing team to apply and share their career experience, dreams and goals with us.
+
+Job Description
+Develop applications for Linux in Go programming language
+Write testable and highly reliable code
+As part of a highly efficient delivery team, participating in planning and design activities
+Qualifications
+
+Mandatory requirements:
+
+Ability to work remotely with occasional visits to our Toronto office
+Eligibility to work in Canada (no sponsorship will be provided)
+
+Primary skills:
+
+Ability to quickly learn unfamiliar concepts with minimum supervision
+
+Secondary skills:
+
+At least 1 year of developing in Go
+3 years of software development experience (college and internships don't count)
+Linux experience
+Understanding virtualization and container technologies - livirt, lxc/lxd, Docker, kvm, etc.
+Understanding of REST and gRPC APIs.
+Familiarity with CI/CD frameworks
+Familiarity with DevOps practices
+
+Please attach a cover letter highlighting your most memorable achievements.
+
+
+Find us at www.litmus.io",Tecnologías de la información,,2022-09-14T00:00:00,2022-10-16,OTHER
+Entry Level Software Developer- Remote Outside Canada (sponsorship),TrySight Inc.,,,-1,-1,,CAD,"THIS POSITION IS ONLY FOR NON CANADIAN RESIDENTS (outside Canada looking to relocate to Canada)About the companyTrySight Inc believes that everyone deserves the right to see and lead independent lives. We have been helping visually impaired people for over 10 years by developing software, handheld & wearable solutions to get the most out of remaining vision. Currently, we are working towards creating artificial intelligence-based glasses that will tell users what’s around them.Our team has significant expertise in custom hardware and software solutions using magnification and speech technologies. Our products are available in over a dozen languages and sold across the globe.Describe the project. Assisting the lead engineer remotelyRequired expertise/skills:Must have: Python, Java, C SharpOptional: C++, PHP, Java Script, JquaryJob Type: Full-timeSalary: Up to $10,000.00 per yearBenefits:Extended health careFlexible Language Requirement:French not requiredSchedule:8 hour shiftSupplemental pay types:Bonus payAbility to commute/relocate:Mississauga, ON L5B4L8: reliably commute or plan to relocate before starting work (required)Education:Bachelor's Degree (preferred)Work Location: RemoteExpected start date: 2022-10-31",,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+Systems Engineer,Alphawave IP inc,Ontario,Toronto,-1,-1,,CAD,"System EngineerAlphawave IP builds industry-leading wired connectivity solutions that enable data to travel faster, more reliably, and with higher performance at lower power. Our technology is embedded in leading-edge semiconductors built to power global network and computer systems. It is an essential part of the core infrastructure enabling next generation services in data centres, artificial intelligence, 5G wireless infrastructure, data networking, autonomous vehicles, and solid-state storage.The OpportunityWe’re looking for the dreamweavers of tomorrow.The Alphawave IP team combines technologists from different disciplines who come together with a shared passion for electronics, software, and communication technology. We look for individuals with a deep desire to build great products and we value collaboration, curiosity, and a commitment to solving hard problems.What You’ll DoDevelop new automation methodologies for power budget generation / analysis across all company productsIn this unique role, you will co-ordinate with system, analog, digital and lab teams on correlating power measurements & analog/digital simulationsWork with internal silicon engineering team to help perform system correlation between behavioral models and siliconPerform sensitivity analysis and regression simulations for various link conditionsWhat You’ll NeedBachelors/Masters in Computer Science or Electrical/Computer Engineering or Engineering ScienceStrong programming skills in Python, C/C++Understanding of power consumption of digital / analog circuitsIt’d Be Amazing If You HadStrong programming skills in MATLABFamiliarity with Excel MacrosAbout YouExtremely detail orientedExcellent communication skillsAble to listen to and appreciate ideas and opinions that differ from yoursSuperb analytical and problem-solving skillsDrives for consistencyTakes personal pride in high standard of outputsSelf-motivated and self-managingDiversity & InclusivityAlphawave IP is based out of one of the most diverse countries in the world. This includes differences related to race, ethnicity, national origin, gender, gender expression and presentation, sexual orientation, religion, age, ability and socioeconomic status. To us, diversity is one our strongest assets to our organization. We commit ourselves to promoting the recognition and appreciation of our diverse and rich culture. We believe that it is critical to our success to promote freedom of thought and opinion in a respectful environment. The decisions we make are rooted by respectfully considering each other’s thoughts and opinions and by working towards a greater common goal, saving lives.AccommodationAlphawave IP is an equal opportunity employer and welcomes applications from all qualified individuals, including visible minorities, Indigenous People, and persons with disabilities. We welcome and encourage applications from people with disabilities. If as a qualified job applicant, you request accommodation, Alphawave IP will consult with you to provide reasonable accommodations according to your specific needs. If you wish to make a request, you will be provided an opportunity if you’re applications is selected to proceed in our hiring process.Job Type: Full-time",,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+2022 Computer Vision Research Engineer,Samsung Research America Internship,Ontario,Toronto,-1,-1,,CAD,"Title: 2022 Computer Vision Research Engineer
+
+Company: Samsung Research America (SRA)
+
+Lab: Artificial Intelligence Center
+
+Location: Toronto Ontario, Canada
+
+Lab Summary:
+Samsung is working towards a vision of providing world-class AI services on its industry-leading hardware platforms like the Galaxy phones, and home appliances like the smart refrigerators and TVs, smart washers and dryers, etc. Real-time AI services on these connected devices will enable users to interact with devices more naturally via visual interaction, spoken dialog, continuous learning, and data analysis.
+
+Our researchers and engineers at Samsung Research America (SRA), located around North America and around the globe, are working hard towards making Samsung's vision a reality. We are looking for candidates with expertise in AI, large scale data analysis, statistical analysis, deep learning, computer vision, robotics, and language understanding to join us. You will work with a team of research scientists and engineers tackling real-world problems involving Samsung's Artificial Intelligence initiatives. The AI Research lab in Toronto is a key part of Samsung's global R&D effort and aims to have direct impact on future Samsung products reaching hundreds of millions of users worldwide.
+
+Position Summary:
+
+This position is related to machine learning and computer vision, with applications to image quality enhancement. Experience in photography, computer vision libraries (e.g., OpenCV), Android development, as well as deep learning tools and libraries is a plus.
+
+Common Essential Duties & Responsibilities:
+
+Design, develop, document, and test software within the SAIC-TOR Teams.
+Research new developments in the industry.
+Participate in brainstorming sessions.
+
+Necessary Skills / Attributes:
+
+BS/MS in Computer Science, Electrical Engineering, or related field
+Experience with machine learning and computer vision
+Strong programming experience in Python, PyTorch/Tensorflow
+Strong oral and written communication skills
+
+Additional Information
+Work Hours
+Incumbent must make themselves available during core business hours.
+
+Physical Requirements
+This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers, and reach with hands and arms.
+
+EEO Statement
+Samsung is committed to encouraging a diverse workplace and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) based on race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+
+If you have a disability or special need that requires accommodation, please let us know.
+
+All your information will be kept confidential according to EEO guidelines.",Tecnologías de la información,,2022-09-01T00:00:00,2022-10-16,OTHER
+Computer Vision/ML Engineer,Qcom,Ontario,Markham,-1,-1,,CAD,"Company:
+Qualcomm Canada ULC
+Job Area:
+Engineering Group, Engineering Group > Machine Learning Engineering
+General Summary:
+ Job Overview: (Computer Vision/ML Engineer)
+We are searching for a computer vision/ML engineer to be part of the Qualcomm AI Processor systems team responsible for developing video processing, computer vision and machine learning based applications and use cases developed for Qualcomm Snapdragon processors. The candidate will work on new cutting-edge algorithms in the areas of computer vision, image/video processing and machine learning, and contribute to research and development of new applications for mobile and edge devices. The responsibilities include reviewing and understanding the latest developments in the field of video processing and computer vision as well as artificial intelligence, developing new video processing and computer vision algorithms that run on Qualcomm Snapdragon processors in real time at low power, leveraging the latest developments in the field of artificial intelligence to develop low power, efficient solutions for mobile applications and work closely with the hardware and software teams and support implementation and commercialization of our algorithms on Qualcomm Snapdragon devices.
+Minimum Qualifications:
+Bachelor or master’s degree in electrical or computer engineering or related fields;
+Solid understanding of video processing and computer vision algorithms;
+Solid understanding of machine learning algorithms;
+Excellent programming skills in Python, C/C++, Linux and Windows;
+Experience with machine learning frameworks like TensorFlow, PyTorch;
+Strong motivation and capabilities in learning new subjects especially in the field of video processing, computer vision and artificial intelligence;
+Strong problem-solving skills;
+Effective interpersonal communications skill (written and verbal);
+Analytical, thorough, resourceful and detail-oriented;
+Self-motivated, hardworking, and flexible.
+Minimum Qualifications:Bachelor or master’s degree in electrical or computer engineering or related fields;Solid understanding of video processing and computer vision algorithms;Solid understanding of machine learning algorithms;Excellent programming skills in Python, C/C++, Linux and Windows;Experience with machine learning frameworks like TensorFlow, PyTorch;Strong motivation and capabilities in learning new subjects especially in the field of video processing, computer vision and artificial intelligence;Strong problem-solving skills;Effective interpersonal communications skill (written and verbal);Analytical, thorough, resourceful and detail-oriented;Self-motivated, hardworking, and flexible.
+Preferred Qualifications: Master’s or PhD degree with relevant work experience or publications in the areas of computer vision, video/image processing algorithms, audio/speech processing and machine learning.
+Preferred Disciplines: Electrical Engineering, Computer Science, Computer Engineering
+Applicants: If you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport
+Although this role has some expected minor physical activity, this should not deter otherwise qualified applicants from applying. If you are an individual with a physical or mental disability and need an accommodation during the application/hiring process, please call Qualcomm’s toll-free number found here for assistance. Qualcomm will provide reasonable accommodations, upon request, to support individuals with disabilities as part of our ongoing efforts to create an accessible workplace.
+Qualcomm is an equal opportunity employer and supports workforce diversity.
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+If you would like more information about this role, please contact Qualcomm Careers.",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Satellite Engineer,"Calian, Advanced Technologies",Quebec,Saint-Hubert,-1,-1,,CAD,"Come join Calian’s Satellite Operations team as we fly unique space missions that benefit Canadians and international partners. We conduct our operations in a pioneering yet sustainable fashion and are proud to have flown RADARSAT-1 more than triple its original design life. Our existing responsibilities consist of SCISat (18 years and counting), NEOSSat (more than 9 years), RADARSAT-2 (since 2007) and recently the RADARSAT Constellation Mission (RCM). With decades of flight heritage and an exciting future of cutting-edge missions, you can join the Calian team that ensures great ideas translate to great results.
+
+Calian is a Canadian-based, publicly traded company with an international reputation for excellence and stability. To learn more about who we are visit our website and explore the Advanced Technologies section – www.calian.com
+Position:
+
+The Satellite Engineer works hand-in-hand with the rest of the operations team, which is based in Saint-Hubert Quebec and ensures a healthy fleet of spacecraft. From observing ozone particulates to imaging natural disasters to hunting comets, each mission is unique with different needs and support requirements. The Satellite Engineer is relied upon to monitor and maintain mission health, implement contingency recoveries as part of a 24/7 on-call schedule, maintain hardware and software configurations, as well as identify improvements and keep relevant all documentation. Participating in the Launch and Early Orbit (LEOP) phase, Commissioning and Routine phases and the Decommissioning phase, the Satellite Engineer is a challenging position that helps ensure all mission deliverables. The SE position counts four different levels depending on employee qualifications and responsibilities: Entry, Intermediate, Senior and Lead.
+
+Responsibilities:
+You have a strong technical background with an inquisitive and curious mindset, able to investigate sometimes very complex scenarios to understand, explain and recommend solutions to both technical and non-technical audiences
+You will monitor the performance of all scheduled in-orbit activities to assess satellite health status and maintain logging records
+You will provide real time support for the implementation of special and contingency satellite activities confirming successful activity execution or identifying anomalous satellite behaviour
+You are comfortable expressing your opinions and the team will look to you for expert support:
+Regarding anomaly investigations and reporting,
+Reviewing and implementing the execution of recovery operations,
+Including an on-call rotation
+You will strive to provide support to future mission operations development, LEOP and commissioning
+You will work efficiently to support satellite operations and upgrades in a timely manner
+You will perform satellite telemetry short and long-term trend analysis to evaluate potential satellite subsystem performance degradation
+You will identify issues, recommend and implement approved changes to the baseline operations plan, satellite configuration, manual and automated procedures, and databases, when such changes are required to maintain or improve satellite availability or performance
+
+Qualifications:
+
+University Degree in Engineering preferably in one of Electrical, Mechanical, Computer Science or Aerospace
+Fluent knowledge of both spoken and written English is required and French is an asset
+Experience with one or more of the following elements would be an asset:
+Control systems,
+Radio frequency systems,
+Electrical power systems,
+Orbital mechanics,
+Linux operating system,
+Database management systems,
+Artificial intelligence and machine learning,
+Programming skills (Python, Java, SQL, Perl, Matlab, C ...)
+This position requires qualities such as autonomy, team spirit, adaptability, stability, analytical skills, sense of responsibility, a willingness to learn, and decision-making ability
+
+Why Work for Calian Advanced Technologies?
+
+Opportunity to make an impact by building and supporting projects that millions of people depend on daily
+A team-oriented work environment that promotes learning, collaboration, and skill improvement
+Annual salary and performance reviews, with one-on-one sessions to support career development
+Robust company paid benefit with the option to participate in the employee stock purchase plan
+
+The ability to meet the requirements outlined in the Canadian Controlled Goods Program is mandatory. All employees are required to apply for and receive a Government Security Clearance.
+
+The successful application will be required to work on site at our Saint-Hubert facility while adhering to all Federal, Provincial and company COVID-19 measures and guidelines.
+
+Applicants must be eligible for Ordre des Ingénieur du Québec (OIQ) membership.
+
+Thank you for your interest in Calian!",Telecomunicaciones,,2022-08-19T00:00:00,2022-10-16,FULL_TIME
+Patent Specialist,D-Wave Systems,,,-1,-1,,CAD,"About us:
+D-Wave is the leader in the development and delivery of quantum computing systems, software, and services and is the world’s first commercial supplier of quantum computers. Our mission is to unlock the power of quantum computing by delivering customer value with practical quantum applications for problems as diverse as logistics, artificial intelligence, materials sciences, drug discovery, cybersecurity, fault detection, and financial modeling.
+D-Wave’s quantum computers and quantum cloud services are being used by some of the world’s most advanced organizations, including Volkswagen, DENSO, Lockheed, and Los Alamos National Laboratory. We have also appeared in Time Magazine, MIT Technology Review, Forbes, INC Magazine and Wired.
+As of August 8, 2022, our organization is a publicly traded quantum computing company, trading on the NYSE as ($QBTS).
+About the role:
+Are you a collaborative and self-motivated person with strong interpersonal skills, who is enthusiastic and passionate about learning and technology? Do you have an engineering or science background, and do you have experience drafting patents? If so, we invite you to apply to join our IP team.
+D-Wave’s IP team is responsible for monitoring D-Wave’s technological developments, drafting and prosecuting patent applications, and liaising with D-Wave’s scientists and engineers to ensure IP procedures are followed and D-Wave’s technological leadership position is protected by strong patents.
+You will work together with the team that has developed an industry-leading patent portfolio. You will get the opportunity to draft and prosecute patents on a broad range of technologies in collaboration with folks pushing the boundaries of their respective fields. While the primary focus of the role is on patent drafting and prosecution, you will also get the opportunity to get involved in other IP-related areas, and to develop business and IP strategy skills.
+What you'll do:
+Drafting patents in a range of technical disciplines and preparing arguments for the patent office to turn patent applications into granted patents
+Learning about D-Wave’s cutting-edge and evolving technology
+Identifying new ideas through meetings and collaboration with inventors
+Developing and nurturing positive interpersonal relationships with the IP team and our diverse technical team to build trust and foster cooperation
+Assisting with the management of D-Wave’s IP portfolio to support our business
+Reviewing and identifying IP issues in the context of D-Wave's contracts, product documentation, marketing materials, presentations and other documents
+Training and advising non-IP colleagues on good IP habits and processes
+Proactively monitoring and advising on IP developments that may impact our business
+Managing and prioritizing a high-volume workload to ensure the right things get done on time and on budget
+What you'll bring:
+Prior experience drafting patents or patent agent designation
+Work, study or exposure to any of software, physics, math, computer science or electrical engineering
+Effective written and verbal communication
+Ability to build and nurture relationships
+Organizational skills and the ability to manage deadlines and priorities
+Additional information:
+We celebrate diverse perspectives to drive innovation in our pursuit. Our employees range from distinguished domain experts with decades of experience in their respective fields, to bright and motivated graduates eager to make their mark.
+Our diverse and innovative team will make you feel appreciated, supported and empower your career growth at D-Wave.
+No 3rd party candidates will be accepted.
+
+It is D-Wave Systems Inc. policy to provide equal employment opportunity (EEO) to all persons regardless of race, color, religion, sex, national origin, age, sexual orientation, gender identity, genetic information, physical or mental disability, protected veteran status, or any other characteristic protected by federal, state/provincial, local law.",Tecnologías de la información,,2022-08-25T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Geoscientist,DATACLOUD,British Columbia,Vancouver,-1,-1,,CAD,"The Role
+MinePortal from DataCloud is the groundbreaking cloud-based intelligent platform that powers geotechnical knowhow of the rock in the mining industry for operational intelligence. Our mission is to push the envelope in Artificial Intelligence (AI), Geophysical IoT sensors, Machine Learning (ML), Data Management, Signal Processing, and Grade Engineering, in order to provide the best-possible blast outcomes for our customers. We are looking for a Geology, Statistics, and ML Specialist to help build industry-leading modeling technologies that the world’s largest mines will adopt.
+Key Responsibilities
+Reporting to the VP Software, the Machine Learning Geoscientist role will include following broad responsibilities and any other assigned work from time to time
+
+Apply domain expertise in the development and implementation of machine learning models within the hard rock and coal mining industry
+
+Teach internal and client teams how to integrate machine learning software into existing workflows to optimize blast design, blasthole spacing, and other engineering applications
+
+Study and transform data science prototypes for the geoscience specific data streams
+
+Feature extraction and identification over large data sets to feed automated algorithm development
+
+Apply knowledge in geology, geosciences, applied mathematics, and quantitative analysis to sensor solutions for challenges facing our sponsors.
+
+Explore promising research and maintain/gain the technical edge required for projects. Share and develop new approaches and methods.
+
+Design machine learning systems that can automatically recognize features, extract features, and create volume models out int and sparse data
+
+Research and implement appropriate ML algorithms and tools for mining domain specific applications
+
+Select appropriate datasets and data representation methods
+
+Run machine learning tests and experiments
+
+Perform statistical analysis and fine-tuning using test results
+
+Train and retrain systems when necessary
+
+Extend existing ML libraries and frameworks
+
+Keep abreast of developments in the field
+
+Contribute to analysis of algorithmic computational complexity and memory requirements.
+
+Work with Hardware Engineers to specify and optimize sensor and IoT device design and configuration for multiple sensing use cases.
+
+Interface closely with Application and UX Engineers to develop compelling analytical use cases to utilize ML outputs and insights.
+Key Qualifications
+
+
+Master’s degree in Geosciences, statistics, mathematics, applied physics, or a related field.
+
+Comprehensive expert level knowledge of programming and experience in C, C++, Python, R, Golang, or similar language used in geo-stat, ML, and computer vision sciences.
+
+Proficient verbal and written communication skills necessary to effectively collaborate in a team environment and present and explain technical information.
+
+Experience in working in distributed teams in the research, development, and implementation of machine learning, spatial modeling, and geo-stat algorithms.
+
+Takes initiative, independent worker
+
+Ability to manage multiple concurrent major projects with different tactical and strategic objectives
+
+Can effectively assume an array of roles as appropriate in various kinds of organizations. These may entail different responsibilities, forms of leadership, team work, and project management.
+
+Experience leading in environments that are highly volatile, cross-functional, and cross-organizational
+
+Work Hours & Location
+
+
+Full time, Flexible working hours, 15 days/year vacation
+
+Work from home office and DataCloud’s office in Vancouver
+
+Some travel to Seattle, Palo Alto, and Client offices world wide
+DataCloud is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, disability, military status, or national origin or any other characteristic protected under applicable local law. The Candidate must be authorized to work in Canada.
+About DataCloud
+Founded in 2016, DataCloud delivers high-resolution rock mass characterization data to our clients in real-time. Our innovative measurement and analysis platform provides invaluable orebody insights during drill and blast operations. Our technologies help mine planning teams to dramatically improve their extraction efficiencies.
+With our unique combination of skills in both mining and technology, DataCloud is helping to solve many of the problems that have challenged the mining industry for decades. Our founders come from institutions such as Stanford, UC-Berkeley and Cambridge, who have expertise in geosciences and cloud architecture.
+
+
+Our portfolio of products and services span the latest in Geo-Statistics, Geo-Physics, and advanced digital and artificial intelligence technologies, including cloud computing, machine learning, advanced visualization, and new sensor technology enabled by IoT systems.",,,2022-08-18T00:00:00,2022-10-16,FULL_TIME
+Software Engineer,University of Alberta,Alberta,Edmonton,-1,-1,,CAD,"SCI Computing Science
+Competition No. - S113945967D3
+
+Posting Date - Jan 27, 2022
+
+Closing Date - Will remain open until filled.
+
+
+Position Type - Full Time - Grant Funded
+
+Salary Range - $54,027 to $73,378 per year
+
+Grade - 08
+
+Hours - 37.5
+
+This competition is open to all applicants however internal candidates and applicants who were former employees of the University of Alberta in the past 18 months will be given priority consideration before external candidates. Please indicate your internal status using the ""Advertisement"" drop down menu when applying.
+
+This one year plus a day position with the possibility of extension offers a comprehensive benefits package which can be viewed at: Faculty & Staff Benefits.
+
+The Chatbot research team lead by Dr. Osmar R. Zaïane at the Alberta Machine Intelligence Institute at the University of Alberta is seeking a full-time software developer to join an exciting project in order to build an end-to-end AI open-ended chatbot system for the elderly. The project titled ANA (Automated Nursing Agent) will require implementing state-of-the-art natural language understanding (NLU), natural language generation (NLG), and rule-based systems to cater to specific tasks the chatbot system is targeting. The successful candidate will mainly work in collaboration with graduate students in the research team implementing and incorporating their algorithms within the chatbot. This project is funded by the Alberta Machine Intelligence Institute (AMII). Our lab has a track record of publishing multiple papers at reputed NLP conferences like ACL, NAACL, and EMNLP.
+
+Job Description
+
+We are looking for a talented and motivated software developer, willing to learn and preferably with an understanding of AI and chatbots to help us build an end-to-end AI chatbot system that will be released in production as a web server and an android application. The successful candidate will be responsible for implementing various machine learning and AI models for NLP response generation and general classification, integrating them in a web-server, and deploying them to production. We are using a Django web framework, MySQL database, python for server-side programming, and Pytorch for NLU and NLG models. Several AI models are needed to be integrated at the back-end that caters to different tasks like natural language understanding and generation, open-ended dialogue systems, and task-oriented rule-based systems. There is a need to efficiently and concurrently run these AI models during inference to improve the response time of the chatbot. Users will speak to the chatbot via a speech-to-text module or type questions, comments, and requests to the chatbot via the web interface. The ideal candidate will be passionate about artificial intelligence and system building and stay up-to-date with the latest developments in the field.
+
+Duties:
+
+Work with the research team to implement different AI models
+Integrate different AI models together in the back-end
+Improve response time of chatbot system by implementing multiprocessing techniques at the back end
+Improve upon the existing web-interface by implementing user-centered design techniques
+Write high quality, production code adhering to the principles of software design and development
+Build a MySQL database on the server for storing the knowledge base and interactive sessions with users
+Write tests and documentation for different components of the chatbot system and fix bugs wherever necessary
+Improve and optimize server-side processing of the application
+Deploy an application to production via Continuous integration and continuous deployment
+Communicate about issues in the application with the research team
+
+Qualifications:
+
+Minimum Bachelor’s Degree in Computer Science, Computer Engineering; Master’s Degree Preferred
+Must have experience with Python and Javascript. C++ is a bonus
+Must have experience with web-server frameworks like Django
+Must have experience with Linux servers, and MySQL and SparQL Databases
+Must have experience with Pytorch
+Must have knowledge of Machine learning and NLP concepts
+Must have knowledge of containarization (how to dockerize applications)
+Experience with Chatbots particularly with RASA is a plus
+Experience developing graphical user interfaces (GUI) preferred
+Must have experience with auxiliary development tools such as modern IDEs, code repositories, and Unix command line
+
+Salary: Will be commensurate with experience and based on a standard scale from the University of Alberta.
+
+Please submit a cover letter, CV, and 2-5 references to chenyangh+programmer@ualberta.ca
+
+We are looking for someone to start as soon as possible. The review of applications will continue until a suitable candidate is found.
+
+We thank all applicants for their interest; however, only those individuals selected for an interview will be contacted.
+The University of Alberta is committed to an equitable, diverse, and inclusive workforce. We welcome applications from all qualified persons. We encourage women; First Nations, MÃ©tis and Inuit persons; members of visible minority groups; persons with disabilities; persons of any sexual orientation or gender identity and expression; and all those who may contribute to the further diversification of ideas and the University to apply.",Educación,,2022-08-25T00:00:00,2022-10-16,FULL_TIME
+Signal Processing Specialist,DATACLOUD,British Columbia,Vancouver,-1,-1,,CAD,"The Role
+MinePortal is a cloud-based platform that powers geotechnical knowhow of the rock in the mining industry for operational intelligence. Our mission is to push the envelope in Artificial Intelligence (AI), Geophysical IoT sensors, Machine Learning (ML), Data Management, Automatic Blast Loading, and Signal Processing, in order to provide the best-possible blast outcomes for our customers. We’re looking for a Senior Signal Processing Engineer to help build industry-leading seismic processing technologies that the world’s largest mines will adopt.
+Key Responsibilities
+Reporting to the CTO, the Signal Processing Specialist role will include following broad responsibilities and any other assigned work from time to time.
+
+Participating in design and execution of field tests for data collection and sensor system demonstration. Processing and quantitatively analyzing data from multiple sensor modalities.
+
+Surveying current academic and industry research for state-of-the-art capabilities in new sensor phenomenology and generating innovative ideas to benefit the company
+
+Feature extraction and identification over large data sets to feed automated algorithm development
+
+Apply knowledge in electromagnetic theory, quantitative analysis, and signal processing to sensor solutions for challenges facing our sponsors.
+
+Explore promising research and maintain/gain the technical edge required for projects. Share and develop new approaches and methods.
+
+Develop and implement signal processing techniques for ground and drill-based acoustic sensors, including detection, monitoring, tracking, and parameter estimation.
+
+Develop signal processing performance metrics and testing methodologies.
+
+Contribute to analysis of algorithmic computational complexity and memory requirements.
+
+Work with Hardware Engineers to specify and optimize sensor and IoT device design and configuration for multiple sensing use cases.
+
+Interface closely with Application and UX Engineers to develop compelling analytical use cases to utilize signal outputs and insights.
+Key Qualifications
+
+
+PhD or master’s degree in electrical engineering, statistics, mathematics, applied physics, geosciences, or a related field.
+
+Comprehensive knowledge of programming and experience in C, C++, Matlab, Python, Golang, or similar language used in the signal and image sciences.
+
+Proficient verbal and written communication skills necessary to effectively collaborate in a team environment and present and explain technical information.
+
+Experience in leading teams in the research, development, and implementation of signal and image processing algorithms.
+
+Takes initiative, independent worker
+
+Ability to deal with ambiguity and work in a fast-paced environment
+
+Ability to manage multiple concurrent major projects with different tactical and strategic objectives
+
+Can effectively assume an array of roles as appropriate in various kinds of organizations. These may entail different responsibilities, forms of leadership, team work, and project management.
+
+Experience leading in environments that are highly volatile, cross-functional, and cross-organizational
+
+Work Hours & Location
+
+
+Full time, Flexible working hours, 15 days/year vacation
+
+Work from home office and workspace in Vancouver
+
+Some travel to Seattle and Client offices world wide
+DataCloud is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, disability, military status, or national origin or any other characteristic protected under applicable local law. The Candidate must be authorized to work in Canada.
+About DataCloud
+Founded in 2016, DataCloud delivers high-resolution rock mass characterization data to our clients in real-time. Our innovative measurement and analysis platform provides invaluable orebody insights during drill and blast operations. Our technologies help mine planning teams to dramatically improve their extraction efficiencies.
+With our unique combination of skills in both mining and technology, DataCloud is helping to solve many of the problems that have challenged the mining industry for decades. Our founders come from institutions such as Stanford, UC-Berkeley and Cambridge, who have expertise in geosciences and cloud architecture.
+
+
+Our portfolio of products and services span the latest in Geo-Statistics, Geo-Physics, and advanced digital and artificial intelligence technologies, including cloud computing, machine learning, advanced visualization, and new sensor technology enabled by IoT systems.",,,2022-08-16T00:00:00,2022-10-16,FULL_TIME
+Full Stack Engineer (f/m/x),Ada Health GmbH,Ontario,Toronto,-1,-1,,CAD,"ABOUT US
+
+At Ada, we envision a world where everyone has access to the healthcare they need. In one of the biggest challenges facing the world, we pioneered a new form of artificial intelligence, combining medical knowledge with intelligent technology to empower millions of people to better understand their health. We're proud to support medical doctors and work with leading health systems and global non-profit organizations. We're a diversely skilled team representing 50 nationalities, and we're growing rapidly to achieve our global ambitions for the future of health. This is just the beginning.
+
+
+ABOUT THE ROLE
+
+We're looking for a Full Stack Engineer (Java, Kotlin, JVM, JavaScript) to join our Service Delivery team in Canada. Your work will guide millions of users towards better health!
+
+
+WHAT YOU WILL DO :
+
+As a Full stack Engineer at Ada, you'll work in a cross-functional delivery team
+You'll be responsible for customization our products for our clients and partners including onboarding of the new clients and support of the existing ones
+Be generalist-specialist on our product modules to shield the Ada Product teams in client integration projects
+You'll take care of unit and integration tests (adding and maintaining) together with our Quality Engineers
+You'll work in a collaborative and agile team help us to get to the next level
+
+
+WHAT YOU WILL BRING :
+
+You have a strong background in back end development, being experienced in the JVM ecosystem making use of Kotlin's or Java 8s (or higher) functional abilities
+You have solid experience in web and/or mobile web development, being experienced in writing and understanding modern JavaScript and its ecosystem as well as React
+You've developed, deployed & monitored production applications used by real users
+You bring the experience of scalable software architectures and modern software tools as well as the desire to ""play"" with back end technologies
+Our tech stack: Kotlin, Spring Boot, JVM, Typescript, Javascript, React, MongoDB, Redis, Docker, Kubernetes, Node.js, Google Cloud Platform, Azure, AWS, Jenkins
+You are quality-driven and experienced in writing unit, integration and e2e tests and you have a good sense of software quality
+You have expertise in agile development (Scrum or Kanban)
+You bring creativity and the ambition to strive in a constructive and multicultural team
+You are happy to pair, learn, teach, share, communicate and document things every day
+Proactive, result-oriented personality, high sense of responsibility and initiative
+
+
+WHAT'S AWAITING YOU AT ADA :
+
+Join our global health mission to improve health of billions of people around the world
+Work in an international environment (55+ nationalities) and with real doctors
+Work with cross-functional & diverse teams of smart, purpose-driven peers
+Work wherever you feel most comfortable – home, office, or a bit of both
+Receive financial support to help set up your home office space
+Enjoy your country specific vacation days to unplug, rest and recharge
+Maintain a healthy work-life balance with our flexible working hours and locations
+Meditate your stress away with free Headspace subscription
+Meet and collaborate with colleagues via community days, virtual coffee chats, company parties, team celebrations
+
+
+CONTACT
+
+We look forward to receiving your application. If you have any questions, please feel free to contact our Talent Acquisition Team at talent@ada.com.
+
+Please note that we do NOT accept applications sent via email. All applications need to be completed using the online form. All your information will be kept confidential according to GDPR guidelines.
+Any commercial activities concerning this advertisement will not be appreciated.",Salud,,2022-08-16T00:00:00,2022-10-16,OTHER
+Associate Data Scientist (Entry Level): Toronto/Calgary,IBM,Ontario,Toronto,-1,-1,,CAD,"Introduction
+As a Data Scientist at IBM, you will help transform our clients’ data into tangible business value by analyzing information, communicating outcomes and collaborating on product development. Work with Best in Class open source and visual tools, along with the most flexible and scalable deployment options. Whether it’s investigating patient trends or weather patterns, you will work to solve real world problems for the industries transforming how we live.
+
+Your Role and Responsibilities
+ASSOCIATES PROGRAM
+
+We’re looking for passionate, original thinkers who want to drive progress, grow their network, and further their careers. If you see yourself as someone who never stops learning, who believes no problem is too big to solve, and who wants to unleash their potential, the entry level Associates Program is for you.
+
+To learn more about the Associates Program, check out our Applicant Info Package.
+
+You:
+Graduated (or will be graduating) between 2021 and September 2023
+Have an Associate’s Degree, College Diploma, Bachelor’s Degree, or Master’s Degree (Exception: The Associates Program does not accept MBA or PhD candidates/graduates)
+Have maximum 2 years of full-time, professional work experience
+Are within commuting distance of Toronto/Calgary, with flexibility to travel 80-100% of the time
+Are eligible to work in Canada without current or future need for visa sponsorship
+
+APPLICATION INSTRUCTIONS
+
+At the very top of your resume, indicate which of the following cities you are willing to remain in and/or relocate to. Kindly note that our incoming Associates are responsible for all costs associated with relocation.
+Toronto
+Calgary
+
+Application Deadline: September 19, 2022 @ 11:59 PM ET
+
+ASSOCIATE DATA SCIENTIST
+
+As an Associate Data Scientist, you’ll use tools to analyze data and predict trends to make meaningful recommendations to clients. Armed with data, modeling expertise, and analytic results, you’ll formulate conclusions and recommendations to client stakeholders, leveraging strong consulting, communication, visualization, and storytelling skills.
+
+Individuals with an interest in specializing in machine learning operations are also highly encouraged to apply.
+
+Communicate with technical and non-technical stakeholders to understand and define business needs and translate them to a data science context
+Work in a collaborative environment, partnering with other scientists, engineers, consultants, and database administrators to integrate the latest predictive analytics with enterprise-level application development
+Write programs to cleanse and integrate data sources in an efficient and reusable manner, resulting in high-quality, clean datasets
+Incorporate a variety of statistical and machine learning techniques on big data, using leading edge tools such as Python (scikit-learn, tensorflow, matplotlib, pandas), R, and combined with AI application suites. Exposure to big data tools such as include pyspark or sparkR.
+Implement and validate predictive models with the end user, comfortable with iterative solution development to arrive at the most usable models for the specific use case
+Deploy and maintain machine learning models using established best practices, allowing the client to consistently gain high value from advanced analytics projects.
+Understanding of model monitoring and tools such as Prometheus, Grafana, Azure Monitor etc.
+
+REQUIRED PROFESSIONAL AND TECHNICAL EXPERTISE
+Strong fundamentals in applied Mathematics and Computer Science algorithms
+Proficiency in least one or more statistical programming languages (e.g. R, Python, SQL, Scala, SAS, SPSS, MATLAB)
+Basic understanding of or experience with predictive/prescriptive modeling
+Ability to translate business requirements into technical solutions
+Ability to thrive in an ever-changing, technology-based consulting environment, using agile development techniques
+
+Required Technical and Professional Expertise
+Please see Job Description
+
+Preferred Technical and Professional Expertise
+Exposure to Cloud (e.g. AWS, Azure, Google Cloud, IBM Cloud) is an asset
+Knowledge of end-to-end ML application development in hybrid cloud environments (Azure/AWS/GCP/IBM Cloud)
+Familiarity with clusters and containers, writing docker files, defining architectures for distributed computing (Kubernetes/ docker).
+Exposure to MLOps pipelines and script development for pipeline automation. (e.g. Jenkins, ArgoCD)
+About Business Unit
+IBM Consulting is IBM’s consulting and global professional services business, with market leading capabilities in business and technology transformation. With deep expertise in many industries, we offer strategy, experience, technology, and operations services to many of the most innovative and valuable companies in the world. Our people are focused on accelerating our clients’ businesses through the power of collaboration. We believe in the power of technology responsibly used to help people, partners and the planet.
+
+Your Life @ IBM
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+Must have the ability to work in Canada without sponsorship.
+
+This role will involve working with technology that is covered by Export Regulations sanctions. If you are a Foreign National from any of the following US sanctioned countries (Cuba, Iran, North Korea, Syria, and the Crimea, Luhansk and Donetsk regions of Ukraine) on a work permit, you are not eligible for employment in this position.
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.",Tecnologías de la información,,2022-08-31T00:00:00,2022-10-16,FULL_TIME
+"Amazon Connect, Bus Intelligence Engineer",Amazon Dev Centre Canada ULC,British Columbia,Vancouver,-1,-1,,CAD,"Bachelor’s degree with emphasis on statistical and analytical skills
+Degree in Statistics, Computer Science, Math, Operations Research or other quantitative field·
+5+ years of experience in data mining and dataset preparation using SQL
+5+ years of experience in data visualization tools like Tableau
+Experience in designing and building data infrastructure / automated reporting tools
+
+Are you inspired to work with a team than launches products with direct and massive impact on Amazon’s customers? Are you excited to join one of the newest and most exciting AWS services?
+
+
+Amazon Connect is a highly disruptive cloud-based contact center that enables businesses to deliver engaging, dynamic, and personal customer service experiences. Amazon Connect is the result of the ten years of development that went into building the tools Amazon uses to provide its award winning customer service at massive scale and launching it as a publicly available AWS service. With Amazon Connect, you can create your own cloud-based contact center and be taking calls in minutes. Amazon Connect leverages the power of Artificial Intelligence and the large ecosystem of AWS services such as Amazon Lex, Amazon Polly, AWS Lambda, Amazon S3 and Amazon Kinesis to provide a truly frustration free, easy-to-use, extensible, and natural customer experience. With this technology, we are transforming an industry and the way customers interact with businesses and how agents service them. See our section in Andy Jassy 2020 re:Invent keynote
+
+We’re seeking a Business Insights Analyst to join our newly created GTM & Partner team responsible for setting Connect’s all-up GTM strategy. Data analysis is at the core of Amazon’s culture, and our Business Insights Analyst will have a direct impact on the GTM investments we make and how we measure success. A successful candidate will distill complex questions into simple recommendations, and thoughtfully shape how senior leaders make key decisions. You will have the opportunity to work with one of the fastest growing AWS businesses and influence leaders at a critical moment in our business development. This position requires high judgment, excellent analytical abilities and exceptional communication skills. As the ideal candidate, you will be passionate about your work, detail-oriented, analytical, and possess creative problem-solving abilities. You will need to demonstrate subject matter expertise in querying and extracting large datasets and the accompanying tools and programming languages needed to work with them. You will possess good communication and project management skills, is customer obsessed and able to communicate complex business insights; both verbally and in writing; in a clear and precise manner. You also thrive in a highly matrixed organization where your partners will be in Sales, AWS Partner Network (APN), Finance, and across our Connect team.
+
+As a Business Insights Analyst, you dive deep into Amazon Connect’s revenue, sales pipeline, and partner results to identify trends - geographical, segments/industries, or any other trends. You will then synthesize the analytics creating insightful recommendations by applying your analytical and business skills to drive GTM recommendations. As the successful candidate, you must be able to roll-up your sleeves and work directly with large and complex datasets. You will continuously evolve business reporting, conduct data analysis, build self-service reporting and analytical tools, and deliver business insights in an environment of rapid growth and increasing complexity. You will use insights to challenge, guide and illuminate Connect’s GTM strategies, which directly influences how we reach our customers. A successful leader will work closely with our Sales Operations teams that own the Connect pipeline and associated analytics, Finance partners that own all-up reporting, and other teams depending on where the data leads you!
+
+This team is a great fit for you if
+
+You enjoy working with a fun team that prides itself on a great work environment with an inclusive group of people that are working together towards a common goal.
+You are sensitive to customer needs and interested in working on a service that will be used, directly and indirectly, by millions of customers and has a meaningful impact to their functions and interactions.
+You’d like to be directly responsible for solving real customer problems.
+You are a passionate learner and are motivated to take on new challenges.
+Learn more about Amazon Connect here.
+
+Find Media Coverage on Connect here, here and here
+Power of Amazon Connect:
+
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee -led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Proven experience in BI/DW providing strategic research, recommendations, and implementation in both business and technical roles
+Prefer 8-15 years experience
+Familiarity with Amazon's cloud infrastructure including EC2, S3 and Redshift
+Strong interpersonal and communication skills. Must be able to explain technical concepts and analysis clearly to a diverse audience, including senior executives, and be able to translate business objectives into actionable analyses
+Experience with Python or other relevant scripting language
+Experience with relational database design and architecture
+Experience visualizing data in Tableau or other relevant data visualization software
+Strong critical thinking skills and attention to detail
+Proficiency in relational databases (Redshift, RDS, SQL Server, MySQL, etc.) and SQL for querying and extracting data
+Proficiency in at least programming languages (Python, Java, R, etc.) for data gathering, data cleansing and statistical analysis
+Expertise in data visualization software (QuickSight, Tableau, PowerBI, QlikView, etc.) for effective data presentation
+Creative and analytical thinking to generate interesting approaches to answering business questions
+Strong and effective written and oral communication to clearly convey data findings
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, visit https://www.amazon.jobs/en/disability/us.",Tecnologías de la información,,2022-08-29T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer,BPH Online Marketing,Ontario,Hamilton,-1,-1,,CAD,"We are looking for a highly capable machine learning engineer to optimize our machine learning systems. You will be evaluating existing machine learning (ML) processes, performing statistical analysis to resolve data set problems, and enhancing the accuracy of our AI software's predictive automation capabilities.To ensure success as a machine learning engineer, you should demonstrate solid data science knowledge and experience in a related ML role. A first-class machine learning engineer will be someone whose expertise translates into the enhanced performance of predictive automation software.Responsibilities: Consulting with managers to determine and refine machine learning objectives.Designing machine learning systems and self-running artificial intelligence (AI) software to automate predictive models.Transforming data science prototypes and applying appropriate ML algorithms and tools.Ensuring that algorithms generate accurate user recommendations.Turning unstructured data into useful information by auto-tagging images and text-to-speech conversions.Solving complex problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks.Developing ML algorithms to analyze huge volumes of historical data to make predictions.Running tests, performing statistical analysis, and interpreting test results.Documenting machine learning processes.Keeping abreast of developments in machine learning.Requirements: Bachelor's degree in computer science, data science, mathematics, or a related field.Master’s degree in computational linguistics, data analytics, or similar will be advantageous.At least two years' experience as a machine learning engineer.Advanced proficiency with Python, Java, and R code writing.Extensive knowledge of ML frameworks, libraries, data structures, data modeling, and software architecture.In-depth knowledge of mathematics, statistics, and algorithms.Superb analytical and problem-solving abilities.Great communication and collaboration skills.Excellent time management and organizational abilities.Job Types: Full-time, PermanentSalary: $3,500.00-$4,500.00 per monthBenefits:Dental careExtended health careVision careSchedule:8 hour shiftDay shiftSupplemental pay types:Bonus payCommission payAbility to commute/relocate:Hamilton, ON: reliably commute or plan to relocate before starting work (required)Experience:Machine learning: 1 year (preferred)",,,2022-09-09T00:00:00,2022-10-16,FULL_TIME

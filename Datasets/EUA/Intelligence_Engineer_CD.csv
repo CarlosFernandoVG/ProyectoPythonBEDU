@@ -1,0 +1,1169 @@
+Job_title,Company,State,City,Min_Salary,Max_Salary,unitText,SalaryCurrency,Job_Desc,Industry,Rating,Date_Posted,Valid_until,Job_Type
+Threat Intelligence Engineer,ServiceNow,California,Santa Clara,-1,-1,,USD,"Company Description
+At ServiceNow, our technology makes the world work for everyone, and our people make it possible. We move fast because the world can’t wait, and we innovate in ways no one else can for our customers and communities. By joining ServiceNow, you are part of an ambitious team of change makers who have a restless curiosity and a drive for ingenuity. We know that your best work happens when you live your best life and share your unique talents, so we do everything we can to make that possible. We dream big together, supporting each other to make our individual and collective dreams come true. The future is ours, and it starts with you.
+With more than 7,400+ customers, we serve approximately 80% of the Fortune 500, and we're proud to be one of FORTUNE's 100 Best Companies to Work For® and World's Most Admired Companies® 2022.
+Learn more on Life at Now blog and hear from our employees about their experiences working at ServiceNow.
+Unsure if you meet all the qualifications of a job description but are deeply excited about the role? We still encourage you to apply! At ServiceNow, we are committed to creating an inclusive environment where all voices are heard, valued, and respected. We welcome all candidates, including individuals from non-traditional, varied backgrounds, that might not come from a typical path connected to this role. We believe skills and experience are transferrable, and the desire to dream big makes for great candidates.
+Job Description
+What you get to do in this role:
+Support an application consisting of primary of a PHP front end, python, MySQL database and ServiceNow integrationsPlan, develop and maintain current and future threat data platforms across multiple environments and technologiesSupport Intel team’s analysis, process development, and report production via task automation with a bias towards utilizing ServiceNow workflowsCreate health monitoring services for threat intelligence infrastructure and applicationsBuild integration for new open and closed threat data feedsProvide innovative engineering solutions to complex data problems
+Qualifications
+To be successful in this role you have:5+ years of experience working with operational security or security engineering teamsBS degree in Computer Science or equivalent project/work experienceStrong background in networking, systems architecture, or engineering. Preferably with an understanding of cloud SaaS infrastructure, including hardware platforms, OS, virtualization, application, databases, web, application servers and security toolsDevelopment/programming skills with one or more major programming languagesWorking knowledge of public cloud platforms such as Azure, AWS, or GCPCandidate must have excellent communication skills and demonstrate working in a hyper collaborative culture.Familiarity with modern threat intelligence platform such Anomali, ThreatConnect, MISP etc.Knowledge of STIX 2.0 and TAXII communication protocolsPreferably has knowledge of common terms relating to threat intelligence, business risk and information security.Experience with ServiceNow or ITIL administration is a plusFamiliar the MITRE ATT&CK framework and its applications is a plusExperience with managing work through agile and OKRs is a plusSome experience in data science technologies and their applications is a plus
+FD21
+Additional Information
+ServiceNow is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.
+At ServiceNow, we lead with flexibility and trust in our distributed world of work. Click here to learn about our work personas: flexible, remote and required-in-office.
+All new employees hired in the United States are required to be fully vaccinated against COVID-19, subject to such exceptions as required by law. If hired, you will be required to submit proof of full vaccination or have an approved accommodation, by your start date. Visit our Candidate FAQ page to learn more.
+If you require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at talent.acquisition@servicenow.com for assistance.
+For positions requiring access to technical data subject to export control regulations, including Export Administration Regulations (EAR), ServiceNow may have to obtain export licensing approval from the U.S. Government for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by the U.S. Government.
+Please Note: Fraudulent job postings/job scams are increasingly common. Click here to learn what to watch out for and how to protect yourself. All genuine ServiceNow job postings can be found through the ServiceNow Careers site.",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Jr DevOps Engineer,Leidos,,,-1,-1,,USD,"Description
+Job Description:
+Leidos is seeking a Jr DevOps Engineer on the Department of Commerce Enterprise Security Operations Center Contract. The candidate will be customer-facing and perform a variety of assignments associated with data management, content development, and system integrations. The position will be part of a growing IT team working on multiple information systems in a high-demand setting.
+Primary Responsibilities:
+The candidate will work to:
+Develop a comprehensive understanding of SIEM, LogStream products, and use cases.
+Identify and address technical issues by finding the root cause, formulating solutions or workarounds, and guiding customers efficiently, accurately, and professionally
+Help roll out, troubleshoot, and manage supported LogStream resources agency-wide.
+Address inbound support questions for enterprise customers
+Assist with SIEM integrations and log onboarding tasks.
+Ability to communicate well both verbally and in writing to technical and non-technical audiences of various levels within the enterprise or outside the organization.
+Basic Qualifications:
+To be successful in this role, you must have the following:
+Experience with building data pipelines
+Experience administering Linux operating system
+Ability to troubleshoot moderate to complex problems
+Basic understanding of networking and networking concepts
+Understanding of configuration management concepts and principals
+Ability to present technical details to non-technical personnel
+Passion for working with large volumes of data in fast-paced environments.
+The ideal candidate will also possess the following skills:
+Experience structuring data using Cribl.
+Experience with Java Script (Highly Preferred.)
+Experience with Regular Expressions.
+Experience with writing reusable code
+Clearance:
+Must be a US Citizen
+Possess an interim or active Secret clearance
+EDUCATION & EXPERIENCE:
+Minimum BS degree with 2+ years of prior relevant experience
+Minimum Cribl Administrator Certification.
+Bonus points/Nice-to-Haves:
+Cribl Engineer Certification
+Experience with Logs, Metrics, IT Operations and Security
+Pay Range:
+Pay Range $60,450.00 - $93,000.00 - $125,550.00
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+#Remote
+Covid Guidance for the US
+In order to enter Leidos facilities in the U.S. and to attend Leidos events outside our facilities, employees are required to be vaccinated for COVID-19 or maintain proof of a negative COVID-19 test within 96 hours of entry. In addition, we are receiving guidance from certain customers that onsite contractor personnel will need to be fully vaccinated to access customer facilities. If you are not vaccinated, please consider getting your COVID-19 vaccination as soon as possible. If you have any questions, please contact your Talent Acquisition POC.
+About Leidos
+Leidos is a Fortune 500® technology, engineering, and science solutions and services leader working to solve the world’s toughest challenges in the defense, intelligence, civil, and health markets. The company’s 44,000 employees support vital missions for government and commercial customers. Headquartered in Reston, Virginia, Leidos reported annual revenues of approximately $13.7 billion for the fiscal year ended December 31, 2021. For more information, visit www.Leidos.com.
+Pay and Benefits
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement.
+Securing Your Data
+Beware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at corp_security@leidos.com.
+If you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.
+Commitment to Diversity
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",Aeroespacial y defensa,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Business Intelligence Engineer,Stanford University,California,Redwood City,-1,-1,,USD,"JOB PURPOSE:
+Responsible for development of technical analysis and design, new programming, modifications, scheduling, tuning, testing and maintenance of systems in support of new and existing Business Intelligence(BI) and other projects.
+
+CORE DUTIES:
+Consult with client groups to assess user needs and requirements.
+Perform data analysis, design and development of new and ongoing business intelligence (BI) tools (such as OBIEE, Tableau, Incorta) involving complex Data structures.
+Provide technical design, coding, testing, implementation, maintenance, system and technical support for BI initiatives.
+Conduct and participate in code walkthroughs and document technical design. Assist in Quality Control testing. Troubleshoot and solve technical problems
+Meticulously build BI applications following software methodologies defined.
+Follow the release cycles and implement on-time delivery of bug fixes, change requests and enhancements.
+Monitor Dashboard Reporting and Presentation Layer functioning and performance and pro-actively fix issues as found. Support the performance of systems.
+Support Source upgrades, Hardware/Software upgrade projects with impact analysis, fixes and end-to-end testing. Provide operational support on failures and outages.
+MINIMUM REQUIREMENTS:
+Education & Experience:
+Bachelor’s degree and five years of relevant experience in IT/computer science or a combination of education and relevant experience.
+
+Knowledge, Skills and Abilities:
+Basic understanding of software engineering principles and skills working on Unix/Linux/Windows Operating systems, Version Control and Office software.
+Basic programming skills, relational database skills with expertise in Advance SQL query language.
+Strong in Business Intelligence and Data warehousing concepts and methodologies.
+Expertise and a minimum of 3 years of hands-on experience in OBIEE/OAS tool. Should be able to understand requirements, design and develop RPD, user-friendly self-serve Adhoc layer and Dashboard Reporting solutions. Should have experience working in MUDE environment.
+Knowledge in ETL and be able to debug data issues.
+Ability to define and solve logical problems with right solutions.
+Analytical capabilities to slice and dice data and display data in reports for best user experience.
+Demonstrated ability to review business processes and translate into BI reporting and analysis solutions.
+Ability to follow Software Development Lifecycle (SDLC) process and should be able to work under any project management methodologies used.
+Ability to follow best practices and standards.
+Ability to identify BI application performance bottlenecks and tune.
+Ability to programmatically process data in flat files, transform and load into Data warehouse OR use as source in Reporting tool.
+Quick learner of any new technologies OR business processes.
+Ability to work effectively in a team environment.
+Certifications and Licenses:
+None
+
+PHYSICAL REQUIREMENTS*:
+Constantly perform desk-based computer tasks.
+Frequently sitting.
+Occasionally stand/walk.
+Rarely writing by hand, lift/carry/push/pull objects that weigh up to 10 pounds.
+- Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of the job.
+
+WORK STANDARDS:
+Interpersonal Skills: Demonstrates the ability to work well with Stanford colleagues and clients and with external organizations.
+Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for safety; communicates safety concerns; uses and promotes safe behaviors based on training and lessons learned.
+Subject to and expected to comply with all applicable University policies and procedures, including but not limited to the personnel policies and other policies found in the University’s Administrative Guide, http://adminguide.stanford.edu.
+Why Stanford is for You:
+Stanford University has revolutionized the way we live and enrich the world. Supporting this mission is our diverse and dedicated 17,000 staff. We seek talent driven to impact the future of our legacy. Our culture and unique perks empower you with:
+Freedom to grow. We offer career development programs, tuition reimbursement, or audit a course. Join a TedTalk, film screening, or listen to a renowned author or global leader speak.
+A caring culture. We provide superb retirement plans, generous time-off, and family care resources.
+A healthier you. Climb our rock wall, or choose from hundreds of health or fitness classes at our world-class exercise facilities. We also provide excellent health care benefits.
+Discovery and fun. Stroll through historic sculptures, trails, and museums.
+Enviable resources. Enjoy free commuter programs, ridesharing incentives, discounts and more.
+Redwood City. Our new Stanford Redwood City campus, opened in 2019, will be the workplace for approximately 2,700 staff, including University IT, whose jobs are important to supporting the University’s mission. The campus will offer amenities such as onsite cafes and a dining pavilion, a high-end fitness facility with an outdoor pool, and a childcare center for Stanford families.
+How to Apply:
+We invite you to apply for this role by clicking on the “Apply for Job” button.
+
+The job duties listed are typical examples of work performed by positions in this job classification and are not designed to contain or be interpreted as a comprehensive inventory of all duties, tasks, and responsibilities. Specific duties and responsibilities may vary depending on department or program needs without changing the general nature and scope of the job or level of responsibility. Employees may also perform other duties as assigned.
+
+Stanford University’s commitment to safely and effectively meet the public health challenge presented by COVID-19 extends to ensuring University employees may work from home, or another off-site location, where determined appropriate, whenever necessary through the end of August 2021. The department will give reasonable notice when employees are expected to return to work at the Stanford and/or Redwood City campus.
+
+Stanford is an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+**We are not able to provide sponsorship for this position. No relocation reimbursement provided. Bay Area Local candidates are preferred. It is on-site job and selected candidate will be working from one of the Stanford University work location. We are temporarily working remote due to COVID situation**",Educación,,2022-09-09T00:00:00,2022-10-16,FULL_TIME
+Business Intelligence Engineer,DPL Financial Partners,,,-1,-1,,USD,"Work for one of the country's hottest startups! DPL Financial Partners is a nationally recognized, award-winning company in the high-growth FinTech space. DPL Financial Partners is the first and leading turnkey insurance platform for registered investment advisors (RIAs). With a powerful mission to help people achieve lifelong financial security, we are upending the multi-trillion-dollar insurance industry by modernizing insurance and annuities. We've grown fast and are looking for smart, dynamic candidates to join our team. If you're a hard-worker looking for opportunity, growth, mentoring and a high-energy, team-oriented experience, we may be just right for each other. Come grow your career with us!
+We are seeking a Tableau ninja to expand our business intelligence and analytics team. Our primary source systems (data sets) include Salesforce, DPL Everywhere (our in house platform), financial transactional data and marketing data including Google Analytics along with other ancillary data sources like MS-Excel. We expect the ideal candidate to love data, understand how to define, build and qa visual stories, banded reporting and interactive analytics.
+Essential Duties and Responsibilities include the following. Other duties may be assigned.
+Assure reports, dashboard and visual analysis is built and delivered accurately
+Develop a high level of expertise in data access through Tableau
+Work hand-in-hand with the Director of BI and our analytics personnel to assure reporting outcomes are well defined, understood and delivered in an accurate and timely manner
+Assure daily delivery of key report outcomes
+Data sets will cover all aspects of the business including customer engagement, operational execution and financial performance
+Competencies
+To perform the job successfully, an individual should demonstrate the following competencies:
+Demonstrated past performance developing business intelligence solutions with Tableau
+Strong analytic, inferencing, critical thinking, and creative problem-solving skills
+Self-starter with ability to work both independently and within a team
+Ability to manage multiple tasks and deadlines simultaneously
+Highly organized with exceptional attention to detail
+Qualifications To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Demonstrated ability to use the Tableau (Desktop) for reporting delivery
+SQL mastery
+Experience with integrating external and internal datasets from different source systems (including marketing related data from Google Analytics, LinkedIn, Facebook, other ad related platforms and custom data sources)
+Knowledge of modern BI architectures and platform solutions include real time, streaming analytics and data lakes
+2 years of business reporting build and delivery, story-telling through dashboards
+Education and/or Experience
+B.S. in Business Management, IT, Computer Science or equivalent related job experience preferred
+Minimum 2 years of development experience
+Experience in Insurance and/or Financial Products & Services a plus
+Preferred Certificates, Licenses, Registrations
+Platform certifications welcome
+TYPICAL DAY
+You will work in concert with our Business Intelligence Director to develop and implement appropriate daily reporting requirements and ad hoc analytic reporting. You will also be the responsible for the verifying reporting requirements, understanding our data model and key data relationships and leveraging both to deliver exceptional operational, sales, marketing and financial reporting solutions. You will make certain that data delivery and quality exceeds the expectation of our data analysts.
+Physical Demands
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+While performing the duties of this Job, the employee is frequently required to stand; walk and sit and spend extended periods of time in front of digital screens.
+
+Work Environment
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+The noise level in the work environment is usually moderate. Remote work is available for this position. Occasional, up to one week per quarter, travel to the home office may be required.",,,2022-08-25T00:00:00,2022-10-16,FULL_TIME
+Entry-Level Azure Data Engineer,"Antra, Inc",,,-1,-1,,USD,"About usAntra, Inc is a leading IT consultancy business based in Dulles, VA which is 30 mins away from DC.We provide IT services to our clients, and most of our clients are Fortune 500 companies like Wells Fargo , World Bank, Apple, Microsoft, Tesla and also some federal contract organizations, etc.An Azure Data Engineer will be expected to perform duties such as: evaluating the performance of current data solutions, designing and implementing cloud and hybrid data solutions. Ability to adapt and learn new technologies per business requirements is also needed.Responsibilities: Design and implement data solutions using industry best practices.Performs ETL, ELT operations and administration of data and systems securely and in accordance with enterprise data governance standards.Monitor and maintain data pipelines proactively to ensure high service availability.Works with Data Scientists and ML Engineers to understand mathematical models and optimize data solutions accordingly.Continuous development through training and mentorship programs.Create scripts and programs to automate data operations.You meet our “must haves” for this role if you have: Minimum Bachelor’s degree in Data Science, Business Intelligence, Computer Science or related fields, or the equivalent combination of education, professional training, and work experience.0-3 years of experience working with one or more languages commonly used for data operations including SQL, Python, Scala and R.Experience working with relational databases such as SQL Server, Oracle and MySQL.Experience working with NoSQL databases such as Redis, Mongo DB, Cosmos DB.Excellent problem-solving skills and ability to learn through scattered resources.Thorough understanding of the responsibilities and duties of a data engineer, as well as established industry standards/best practices and documentation guidelines.Outstanding communication skills, and the ability to stay self-motivated and work with little or no supervision.Authorization(s) to work lawfully in the United States (OPT/CPT is acceptable).Willing to relocate to any US location on Antra projects location.Plus, if you meet any the of requirements: Experience with cloud-based data technologies.Experience with distributed systems utilizing tools such as Apache Hadoop, Spark or Kafka.Working experience in Agile Scrum environments.Experience with source control tools such as Git, SVN and TFS.Work AuthorizationUS work authorization is required, but the employer is willing to sponsor candidatesJob Type: Full-timePay: $62,000.00 - $70,000.00 per yearBenefits:401(k)Dental insuranceFlexible scheduleHealth insurancePaid time offRelocation assistanceVision insuranceSchedule:Monday to FridayApplication Question(s):Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?Are you willing to relocate if required in the first contract year ?Experience:Python: 1 year (Preferred)Work Location: Remote",Tecnologías de la información,,2022-09-13T00:00:00,2022-10-16,FULL_TIME
+Artifical Intelligence (AI) Engineer,LOCKHEED MARTIN CORPORATION,New York State,Owego,-1,-1,,USD,"COVID-19 continues to significantly impact our employees, families and communities. With employee health and safety as our top priority, and as a federal contractor, Lockheed Martin is taking action to address the increased risk and uncertainty COVID-19 variants pose in the workplace and ensuring we meet our commitments to national security.
+
+To uphold safety for all employees, we will continue to request vaccination status for all Lockheed Martin employees including new hires. All current and newly hired employees are required to follow onsite safety measures based upon the COVID-19 Community Level at the specific work location.
+Description:Seeking candidates interested in being part of a high-performing, cohesive Agile software product team developing the software applications for fixed wing aircraft, vertical lift aircraft, human space flight. As a member of the Agile development team, the candidate should be comfortable with the full SW development cycle which includes requirements analysis, software design, implementation, and test (including automated testing).
+
+The candidate should be productive working in a team-oriented environment. With daily interaction with systems engineers, software team members, and integration and test engineers being the key to program success, the ideal candidate should possess strong written, verbal and inter-personal communication skills. The desired candidate should be versatile and able to respond to the demand of producing working software in the short development cycles prescribed by Agile development.
+
+Applications development opportunities include development of mission planning software, mission systems for aircraft and development of crew displays for aircraft and space vehicles. Potential applications include data management software, user interface software, embedded avionics and/or mission software applications; unmanned systems flight and ground station software; device drivers, board support packages.
+
+The successful candidate must be flexible, motivated, details-focused, team-oriented and demonstrate a strong work ethic along with the ability to multi-task.
+
+The Locale: Owego, New York is located about 200 miles northwest of New York City and about 75 miles south of Syracuse New York, sits just north of the border with Pennsylvania and is part of what's known as the ""Southern Tier"" section of New York State. The region is home to Binghamton University, Ithaca College and Cornell University. Great metropolitan weekend getaways with friends are just a few hours away and include areas such as Niagara Falls, NYC, & Philadelphia. The Adirondacks, Catskills, Lake Ontario and the Finger Lakes are also areas to explore and host activities including: sailing, boating, kayaking, jet skiing, hiking, mountain biking, golfing, fishing, skiing, snow shoeing, concerts, shows and seasonal festivals. The local area and region are also home to several New York state wineries and craft breweries.
+Basic Qualifications:
+BS Degree in Computer Science, Computer Engineering, Electrical Engineering, Applied Mathematics, Physics, or closely related technical field.
+Academic or professional experience using Java, C++, C, Python, Docker, or similar programming languages.
+Strong verbal and written communication skills.
+Must have the ability to obtain & maintain a secret security clearance.
+Desired Skills:
+Demonstrated interest and ability to learn new tools and technologies and successfully leverage those to successfully complete projects in a timely manner.
+Knowledge and/or experience with Unmanned Aircraft Systems.
+BASIC QUALIFICATIONS:
+job.Qualifications
+
+Lockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+Join us at Lockheed Martin, where your mission is ours. Our customers tackle the hardest missions. Those that demand extraordinary amounts of courage, resilience and precision. They’re dangerous. Critical. Sometimes they even provide an opportunity to change the world and save lives. Those are the missions we care about.
+
+As a leading technology innovation company, Lockheed Martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territories.
+EXPERIENCE LEVEL:
+4 yr and up College",Aeroespacial y defensa,,2022-09-15T00:00:00,2022-10-16,OTHER
+Business Intelligence Engineer,RepairSmith,Oregon,Portland,-1,-1,,USD,"We are looking for a savvy Business Intelligence Engineer to join our growing team of Data Science and Business Intelligence. The successful candidate will work on impactful projects that range from creating various data integration pipelines and data models in the company's data platform to understanding reporting requirements from business stakeholders and providing technical solutions. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys working with data, building and optimizing data systems from the ground up. The successful candidate will develop and maintain our data and reporting platforms and will ensure optimal data delivery architecture is consistent throughout ongoing projects. The candidate must be self-directed and comfortable supporting the data needs of multiple teams, systems and products.
+
+This role will be reporting to a BI Manager with multiple years of leadership experience, and will be part of the BI and Data team led by a BI Director with 20 years of leadership experience across multiple industries & platforms. The BI and Data team is part of the overall Digitization team run by our Chief Digitization Officer.
+
+WE WILL DEPEND ON THIS PERSON TO
+Build the infrastructure required for optimal extraction, transformation, and load (ETL/ELT) of data from wide variety of data sources using SQL and Azure cloud services.
+Build analytics tools that utilize the data pipeline to provide actionable insight into customer acquisition, operational efficiency and other key business performance metrics.
+Work with stakeholders including the Executive, Product, Marketing, Data, Engineering and Operations teams to assist with data-related technical issues and support their data infrastructure needs.
+Keep our data separate and secure across the boundaries of data centers and regions.
+Make sure data security and privacy is compliant with required data protection laws and regulations like CCPA, GDPR, etc.
+Collaborate and create data tools for analytics and data science team members that assist them in building and optimizing our product into an innovative industry leader.
+Create, maintain and enhance dashboards, reports and other visualizations for stakeholders.
+Tightly collaborate with Product and Engineering teams on project planning and design processes.
+YOU SHOULD HAVE
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience designing, building and optimizing scalable data pipelines and data sets.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+Strong project management and organizational skills.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+Intellectual curiosity to find new and unusual ways of how to solve data management issues.
+TECHNICAL SKILLS:
+
+We are looking for a candidate with 5+ years of experience in a Data Engineering role, who has an educational background in Computer Science or Engineering, Math, Statistics, Informatics, Information Systems or another quantitative field. The candidate should also have experience using the following software and tools:
+
+Experience with relational SQL databases, including MS SQL Server, PostgreSQL.
+Experience with Microsoft Azure cloud services: Azure Data Factory, Data Pipelines, Data Bricks, Azure Functions, Storage, SQL Database and/or Data Warehouse, etc.
+Experience with Microsoft Power BI or similar analytical and reporting tools.
+Computer programming skills including Java, JavaScript, Node.js, Python, R, SQL, XML, JSON.
+Experience with project management and collaboration tools such as Jira, Confluence, Slack, etc.
+ABOUT US
+
+RepairSmith is on a mission to deliver convenient auto repair everywhere with its disruptive service, offering the first and only full-service mobile solution for automotive repair and maintenance.
+
+The company delivers complete mobile repair and maintenance to car owners with the convenience of online booking and instant price quotes, combined with five-star quality service at fair, affordable prices. RepairSmith also delivers repair and scheduled maintenance on-location to fleet operators, car rental agencies and dealership customers.
+
+Founded in 2018, RepairSmith is based in Los Angeles and offers service in 650+ cities across six states with over 100,000 service appointments completed to date. All RepairSmith technicians are employees of the company, equipped with customized state-of-the-art mobile service vans to deliver a best-in-class experience. Named one of Fast Company's Most Innovative Companies of 2021, RepairSmith is backed by TI Capital, Mercedes-Benz, Porsche Ventures, Spring Mountain Capital, and other venture and automotive investors.
+
+For more information, visit www.RepairSmith.com and follow the company on social media via LinkedIn, Twitter, and Instagram.
+
+Interviews will take place after resumes have been screened for minimum requirements. Please note that this position is not restricted solely to the responsibilities listed above and that the job scope and responsibilities are subject to change.
+
+REPAIRSMITH, INC. IS AN EQUAL OPPORTUNITY EMPLOYER. ALL QUALIFIED APPLICANTS WILL RECEIVE CONSIDERATION FOR EMPLOYMENT WITHOUT REGARD TO RACE, COLOR, AGE, RELIGION, SEX, NATIONAL ORIGIN, DISABILITY, PROTECTED VETERAN STATUS, OR ANY OTHER CHARACTERISTIC PROTECTED UNDER FEDERAL, STATE, OR LOCAL LAW.","Servicios de construcción, reparación y mantenimiento",,2022-09-15T00:00:00,2022-10-16,OTHER
+Business Intelligence Engineer,SunPower,,,-1,-1,,USD,"Do you want to change the world? We do, too.
+SunPower is changing the way our world is powered every day with a passionate and driven team of more than 3,660 full-time employees in North America and the Philippines. SunPower provides world-class solar solutions to residential customers across the U.S. with a commitment to a superior customer experience. We welcome forward thinkers, freedom chasers and all those demanding better, cleaner energy to join us.
+Summary of Role:
+The Data Science team under SunPower Financial Products develops the end-to-end data analytics and statistical models that SunPower needs to offer a proprietary suite of world class financial products. This business serves four main customer types – consumers, dealers, home builders, and fixed income investors – each with its own unique analytical and modeling challenges. These include forecast models, propensity models for optimization of the funnel, personalization models to delight customers, credit underwriting, prepayment, interest rate, as well as portfolio analytics.
+The Data Science team is looking for a Business Intelligence Engineer (BIE) to help us accelerate our efforts in delivering our new generation of SunPower’s Financial Products. This person will build new business intelligence solutions end-to-end. The ideal candidate will be passionate about working with big data sets and have the expertise to utilize these data sets to derive insights, answer business questions and drive growth.
+Essential Duties & Responsibilities:
+Design, develop and maintain scaled, automated, user-friendly systems, reports, dashboards, etc. that will support our analytical and business needs for operations.
+Use analytical and statistical rigor to solve complex problems and drive business decisions that will help us achieve our strategic goals.
+Write high quality SQL code to retrieve and analyze data from database tables (ex. Redshift, MySQL, Oracle), and learn and understand a broad range of SunPower’s data resources and know how, when, and which to use and which not to use.
+Develop queries and visualizations for ad-hoc requests and projects, as well as ongoing reporting.
+Work closely with data & software engineering teams to establish analytical data store for internal and external datasets relevant to the risk of our financial products.
+Required Qualifications:
+Bachelor's degree in Sciences, Engineering, Finance or related field.
+Advanced knowledge of SQL, Data Warehouse solutions and database in a business environment with large-scale, complex datasets.
+Written and verbal skills to effectively communicate to both business and technical teams, including defining business requirements and conveying key insights from complex analysis.
+Ability to work with shifting deadlines in a fast-paced environment.
+Demonstrated ability to draw insights from data and clearly communicate them to both business and technical teams.
+Advanced skills in Excel as well as any data visualization tools like Tableau or similar BI tools.
+Develop and present recommendations of new metrics allowing better understanding of the performance of the business.
+Preferred Qualifications:
+Advanced degree in Sciences, Engineering, Finance or related field.
+Experience using databases in a business environment with large-scale, complex data sets.
+Experience building data products incrementally and integrating and managing datasets from multiple sources.
+Experience with statistical analysis.
+Coding proficiency in at least one modern programming language or statistics analysis language (Python, R, STATA, etc).
+Strong verbal/written communication and data presentation skills, including an ability to effectively communicate with both business and technical teams.
+Ability to work on a diverse team or with a diverse range of coworkers Inclusive Team Culture.
+Don’t meet every single requirement? Studies have shown that women and underrepresented minorities are less likely to apply to jobs unless they meet every single qualification. At SunPower, we are dedicated to building a diverse, inclusive, and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.
+Equal Employment Opportunity
+The Company is an equal employment opportunity employer and makes employment decisions, including but not limited to, hiring, firing, promotion, demotion, training, and/or compensation, on the basis of merit. Employment decisions are based on an individual’s qualifications as they relate to the job under consideration. The Company’s policy prohibits unlawful discrimination based on sex (which includes pregnancy, childbirth, breastfeeding, or related medical conditions, the actual sex of the individual, or the gender identity or gender expression), race, color, religion, including religious dress practices and religious grooming practices, sexual orientation, national origin, ancestry, citizenship, marital status, familial status, age, physical disability, mental disability, medical condition, genetic information, protected veteran or military status, or any other consideration made unlawful by federal, state or local laws, ordinances, or regulations. The Company is committed to complying with all applicable laws providing equal employment opportunities. This commitment applies to all persons involved in the operations of the Company and prohibits unlawful discrimination by any employee of the Company, including supervisors and co-workers.
+EOE Minorities/Females/Protected Veterans/Disabled
+SunPower Supports EEO
+Accommodation for Applicants to SunPower Corporation
+SunPower Corporation is an Equal Employment Opportunity / Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures. If you have any difficulty using our online system and you need a reasonable accommodation due to a disability, you may use the following alternative email address to contact us about your interest in employment at SunPower Corporation: jobs@sunpower.com. Please indicate in the subject that line of your email that you are requesting accommodation. Only candidates being considered for a position who require an accommodation will receive a follow-up response.
+NOTICE TO ALL APPLICANTS AND EMPLOYEES
+Availability of Affirmative Action Plan for Review
+SunPower is a federal government contractor. As a part of the Company’s obligations under law, it must develop a written Affirmative Action Program (AAP) for the Disabled, Recently Separated Veterans, Armed Forces Service Medal Veterans, Disabled Veterans and Active Duty Wartime Or Campaign Badge Veterans and for Women and Minorities as specified by law. Non-confidential and non-proprietary aspects of the AAP are available for inspection by applicants and employees, consistent with applicable law, which will be made available during office hours by contacting the EEO Officer.","Energía, minería e infraestructura pública",,2022-09-12T00:00:00,2022-10-16,FULL_TIME
+Business Intelligence Engineer,Klaviyo,Massachusetts,Boston,-1,-1,,USD,"At Klaviyo, we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every day. We believe everyone deserves a fair shot at success and appreciate the experiences each person brings beyond the traditional job requirements. If you're a close but not exact match with the description, we hope you'll still consider applying. Want to learn more about life at Klaviyo? Visit careers.klaviyo.com to see how we empower creators to own their own destiny.
+Data is at the heart of every decision made at Klaviyo, and we're looking for a Business Intelligence Data Engineer to join our Business Intelligence (BI) team. BI at Klaviyo collaborates across all departments to provide solutions for our data, analytic, and reporting needs. You will play an essential role in creating and maintaining the data infrastructure that powers Klaviyo's business. Responsibilities include maintaining databases, coding ETL's, and developing data models used across the company.
+
+How You Will Make a Difference
+
+Develop and maintain the ""source of truth"" data environment used by everyone at Klaviyo.
+Work with petabyte scale databases optimized for business analytics.
+Build and manage large, real time data pipelines with monitoring and proactive alerting.
+Extract and maintain 3rd party market data using API calls.
+Develop data models that power predictive recommendations, marketing attribution, and financial forecasts to support the decision-making within the organization.
+Collaborate on a regular basis with the following teams at Klaviyo: Engineering, Customer Success, Support, Product, Sales, and Marketing.
+Work with a team of data engineers and analysts to build a world-class data environment.
+
+Who You Are
+
+You are a creator at heart who understands the importance of a well-designed data environment. You have a deep understanding of business problems within the company and how to create, transform, and store the data needed to solve these problems. You are a systematic thinker and enjoy finding creative technical solutions to hard problems by collaborating closely with your team. You are curious and constantly seeking the best solutions to what makes a business/operation successful and want to contribute to that success.
+
+2+ years of data or software engineering experience, including expertise in SQL and object-oriented programming languages (Python, Java, or C++)
+Experience in database design, 3NF, denormalization, or star schema.
+Experience with Big Data technologies (Snowflake, Redshift, Spark/Hadoop, Kafka)
+Familiarity in managing the deployment of new tools and technologies
+Familiarity with ETL flows/tools (Airflow, DBT, Stitch, Fivetran, etc.)
+Comfortable with massive amounts of semi-structured data
+Has knowledge of data engineering best practices (data discovery, data documentation, infrastructure development/deployment, and information security)
+Bachelors or Masters in engineering, math, or data science preferred
+
+Get to Know Klaviyo
+
+Klaviyo is a world-leading marketing automation platform dedicated to accelerating revenue and customer connection for online businesses. Klaviyo makes it easy to store, access, analyze and use transactional and behavioral data to power highly-targeted customer and prospect communications. The company's hybrid customer-data and marketing-platform model allows companies to grow by fostering direct relationships with customers, without giving up their valuable data to popular big-tech ad platforms. Over 265,000 innovative companies like Unilever, Custom Ink, Living Proof and Huckberry sell more with Klaviyo. Learn more at www.klaviyo.com.
+
+If you are a Colorado resident and this role is a remote role, you can receive additional information about the compensation and benefits for this role, which we will provide upon request. Requests can be submitted here. Additional information regarding benefits can be found here.
+
+Klaviyo is committed to diversity and to a policy of equal employment opportunity and non-discrimination. We do not discriminate on the basis of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation or any other characteristic protected by applicable law.",Audiovisual y medios de comunicación,,2022-08-28T00:00:00,2022-10-16,OTHER
+"Engineer, Business Intelligence",XPO Logistics,Michigan,Ann Arbor,-1,-1,,USD,"Solutions driven success.
+XPO is a top ten global provider of transportation services, with a highly integrated network of people, technology and physical assets. At XPO Logistics, we look for employees who like a challenge and can communicate effectively in all situations. We want to leverage your skills and years of experience to drive positive results while ensuring a bright future for yourself and XPO. If you’re looking for a growth opportunity, join us at XPO.
+As the Engineer, Business Intelligence, you will drive our strategy for business intelligence (BI) solutions and reporting tools. You’ll be capturing and analyzing the data that ensures we stay at the top of our industry. On our team, you’ll have the support to excel and the resources to build a career you’ll be proud of. If you’re looking for an outstanding growth opportunity, you’ve found what you’re looking for with XPO.
+Pay, benefits and more.
+We are eager to attract the best, so we offer competitive compensation and a generous benefits package, including full health insurance (medical, dental and vision), 401(k), life insurance, disability and more.
+What you’ll do on a typical day:
+Handle and execute the business analytics solution vision and feature definitions to ensure impact of developed solution, tool or application is achieved
+Gather and analyze business requirements and end user specifications for new products/functionalities and improve existing solutions
+Communicate with technical and business-oriented audiences
+Interpret data and analyze results using statistical techniques and provide ongoing reports
+Work with business partners to ensure all requirements are clearly documented to guarantee deliverables meets the objectives
+Coordinate development and testing with the business analytics, development and product teams
+Independently design, develop, document and deploy high quality dashboards, reports, analytical tools and other user-friendly functionalities
+What you need to succeed at XPO:
+At a minimum, you’ll need:
+Bachelor’s degree or equivalent related work or military experience
+1 year of related work experience
+Knowledge in analyzing large, complex, multidimensional datasets with query languages (SQL)
+Understanding of best practices and principles in SQL, query design, data validation/automation and research functions
+Understanding of data warehouse concepts and using logical data models to document and explain business objectives
+Experience in dealing with structured and unstructured data, ETL design principles and best practices using various technologies and frameworks such as SSIS, SSRS, etc.
+It’d be great if you also have:
+Master’s degree in Mathematics, Engineering, Computer Science or related field
+3 years of experience with reporting systems, creating applications, designing and implementing solutions, and developing applications/websites
+Up-to-date knowledge of BI tools (MicroStrategy, PowerBI, Tableau, etc.)
+Understanding of basic programming concepts and languages (Python, Java, Scala, HTML, C+, C#, etc.)
+Familiarity with adapting various APIs for customized applications
+Demonstrated proficiency for completing moderately complex projects and/or multiple assigned projects
+Understanding of SuccessFactors, Peoplesoft, Kronos, SAP Payroll systems, and visual reporting tools like Google Data Studio and Microsoft PowerBI
+Experience delivering business intelligence and data analytics solutions that involve statistical modeling or machine learning, the use of associated R/Python libraries and tooling, and which emphasize effective design and usability for end users
+Knowledge of statistical/mathematical software (R, SAS)
+Be part of something big.
+We are proud to be an Equal Opportunity/Affirmative Action employer. Qualified applicants will receive consideration for employment without regard to race, sex, disability, veteran or other protected status.
+All applicants who receive a conditional offer of employment may be required to take and pass a pre-employment drug test.
+The above statements are not an exhaustive list of all required responsibilities, duties and skills for this job classification.
+Review XPO's candidate privacy statement here.",Transporte y logística,,2022-09-16T00:00:00,2022-10-16,OTHER
+Applied Scientist,Microsoft,Washington State,Bellevue,-1,-1,,USD,"Azure Cognitive Services in Bellevue, WA, is hiring an Applied Scientist.
+It has never been a more exciting time at the Azure Cognitive Services Division at Cloud & AI! We continue to advance the state of the art in the areas we choose to study, and we impact Microsoft by transferring great research results to products. The Azure Cognitive Services Division is tasked to improve our odds of betting on the “next big thing” and impact various products in the areas of cloud and edge intelligence such as Microsoft Cognitive Services. We work in the general areas of human understanding, environment understanding, and decision intelligence.
+This team offers a comprehensive family of AI services and cognitive APIs to help customers build intelligent applications. We are looking for highly motivated and self-driven individuals who are passionate about advancing the state of the art while making business impact.
+Responsibilities
+The Azure Cognitive Services Division in Microsoft Cloud & AI is looking for applied scientists in Computer Vision, Natural Language Processing, Multimodal Analysis, and Machine Learning, broadly defined. In this position, you will conduct deployment-driven research in computer vision/natural language processing/multimodal analysis, prototype and demonstrate, and work closely with product teams to transfer research to products/services to delight customers.
+Qualifications
+Required Qualifications:
+At least three years’ research experience in Computer Vision, Natural Language Processing, Deep Learning, Machine Learning, or a related field.
+Publication(s) in top-tier conferences or journals in related fields (e.g., CVPR, ECCV, ICCV, ALP, EMNLP, NeurIPS, ICML, ICLR, etc.).
+At least 1 year of hands on experience and proficiency with open-source tools such as PyTorch, Tensorflow.
+Preferred Qualifications:
+Ideal candidates would have one or more of the additional qualifications:
+Strong algorithmic problem solving and software development skills (C/C++/Python).
+Proficiency with open-source tools such as PyTorch, Tensorflow.
+Demonstrated capability as an independent researcher and engineer.
+Experience collaborating with teams of diverse technical and cultural backgrounds.
+Excellent communication and writing skills.Microsoft is an equal opportunity employer.
+All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",Tecnologías de la información,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+University Grad Machine Learning Engineer 2023 (USA),Pinterest,,,-1,-1,,USD,"About Pinterest:
+Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you'll be challenged to take on work that upholds this mission and pushes Pinterest forward. You'll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+
+Our new progressive work model is called PinFlex, a term that's uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more.
+At Pinterest, Machine Learning Engineers (MASTERS ONLY) are challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping users make their lives better in the positive corner of the internet.
+As a Machine Learning Engineer at Pinterest, you'll work on tackling new challenges in machine learning and artificial intelligence. We are building the world's first discovery engine, serving up millions of recommendations to an incredibly loyal user base. At the same time, our teams are building one of the fastest growing online ad platforms, and our success depends on mining rich user interest data that helps us connect users with highly relevant advertisers. In this role, you can join a team in any of the following areas: image recognition, user modeling, recommender systems, natural language processing, and big data analytics. As you kickstart your career at Pinterest, you’ll help us maneuver through crazy growth and insane scale while pinpointing tomorrow’s engineering challenges.
+
+What you’ll do:
+
+Break down complex problems and implement creative algorithms using state-of-the-art techniques
+Write clean, efficient, and sustainable code
+Come up with efficient and creative algorithms for complex problems
+Use machine learning, natural language processing, and graph analysis to solve modeling and ranking problems across discovery, ads and search
+Scope and independently solve moderately complex problems and takes ownership over project with minimal guidance
+
+What we’re looking for:
+
+Masters in Computer Science, Mathematics, Statistics, or another related field
+Familiarity with Python, Javascript, Java, HIVE, MySQL, Redis, Solr or Hadoop
+Strong communicator, team player, and a thoughtful and efficient problem solver
+Previous industry experience is a plus
+Interest in learning new programming languages and technologies
+Comfortable working in a fast paced environment
+Passion for applied ML and the Pinterest product
+Must be graduating in December 2022 or later.
+
+Colorado based applicants only:
+
+The minimum and maximum salary for this position is $139,000 to $170,000 in Colorado;
+This position is eligible for equity;
+Information regarding the culture at Pinterest and benefits available for this position can be found here.
+This compensation and benefits information is based on Pinterest’s good faith estimate as of the date of publication and may be modified in the future. The level of pay within the range will depend on a variety of job-related factors that may include location, travel, shift requirements, relevant prior experience and/or education, or particular skills and expertise.
+
+#LI-EB1
+#LI-REMOTE
+Our Commitment to Diversity:
+
+At Pinterest, our mission is to bring everyone the inspiration to create a life they love—and that includes our employees. We’re taking on the most exciting challenges of our working lives, and we succeed with a team that represents an inclusive and diverse set of identities and backgrounds.
+
+Not Specified
+
+0",Tecnologías de la información,,2022-09-09T00:00:00,2022-10-16,OTHER
+"Software Engineer, Frontend",Invisible AI,,,-1,-1,,USD,"Company Overview:
+At Invisible AI, we are building the future of computer vision. Our core focus is on developing an end-to-end platform that can digitize the physical world to solve business problems. Today, our visual intelligence platform uses AI-enabled cameras to analyze human body posture in real-time — without streaming any video to the cloud. Coming from the world of self-driving cars, the founders of Invisible AI have years of experience in building and deploying large-scale machine learning pipelines.
+As a Frontend Engineer, you will be working on our flagship Insight platform to help deliver real-time computer vision solutions to our customers. The features you build here will be used every day in some of the largest manufacturing facilities in the world. You’ll also have the opportunity to work in a fast-paced startup environment and take ownership of the codebase from planning to delivery. Our stack is written using React
+and Redux, with ES6+ JavaScript extensions for advanced functionality.
+What you'll be working on
+Building a dashboard using WebSockets to visualize manufacturing errors in real time
+Using the HTML5 Canvas API to overlay debug output from our AI models on top of live video- all streaming directly from the camera
+Working with computer vision engineers to build advanced video annotation tools
+Creating drag-and-drop tools to manage 1000s of cameras from a simple UI and visualizing our fleet using a variety of React libraries
+Skills we hope you have
+Have 2+ years of experience with vanilla JavaScript and ES6+ best practices
+Have 2+ years of experience working on complex single-page applications using React/Redux
+Have real-world experience defining and integrating with REST APIs
+Understand the ins and outs of deploying frontend codebases to production, to include bundling, compression, HTTP/HTTPS, and caching
+Working knowledge of software engineering best practices - automated testing, linting, CI, etc.
+Experience with advanced concepts such as Websockets, HLS/RTMP, HTML5 Canvas API and Python is a big plus",,,2022-09-14T00:00:00,2022-10-16,OTHER
+Junior Software Engineer 1 - Customer Journey Experiences & Messaging,Comcast,Pennsylvania,Philadelphia,-1,-1,,USD,"Comcast’s Technology, Product & Experience organization works at the intersection of media and technology. Our innovative teams are continually developing and delivering products that transform the customer experience. From creating apps like TVGo to new features such as the Talking Guide on the X1 platform, we work every day to make a positive impact through innovation in the pursuit of building amazing products that are enjoyable, easy to use and accessible across all platforms. The team also develops and supports our evolving network architecture, including next-generation consumer systems and technologies, infrastructure and engineering, network integration and management tools, and technical standards. We offer a flexible working environment to balance the need to work independently wherever you choose, with days that require collaboration at one of our offices. Our roles primarily reside inside or around one of our Tech Hubs (Philadelphia and surrounding suburbs, Denver, Austin, Silicon Valley, Washington DC/N. Virginia). Some roles can work virtual full-time if they are not near a Tech Hub, but that is dependent upon the needs of the position and amount of collaboration required.
+Job Summary
+Responsible for planning and designing new software and web applications. Completes programming and implements, tests and debugs defined software components.
+Job Description
+The Comcast Customer Journey Experiences & Messaging Platform team is building the next generation of interactive experiences as we continue to invest in new and better ways to communicate with our customers! Xfinity Assistant Journeys (XAJ) are an orchestrated customer experience leveraging business process management (BPMN), data intelligence, AI based recommendations, email, and SMS communications to create a series of connected interactions. These journeys range from predictive troubleshooting, proactive notifications for outages, and reminders for technician appointments and visits. This position includes the exciting opportunity to work with a number of cutting edge technologies that the platform is built on including: Amazon AWS cloud, Apache Nifi, Apache Flink, and Spring-based java microservices. As a junior software engineer, core responsibilities of this position will include working with peers and mentors in a team environment to develop and deliver new and updated functionality for the journey platform using a range of technologies such as Java, Javascript, and Ruby. Candidates will also be expected to participate in all phases of the software development lifecycle including functional testing, deployment in a cloud based environment, and general support. In addition to development tasks, day-to-day responsibilities include participating in team Agile Scrum ceremonies, updating progress in our work tracking platform, and providing delivery and operations status readouts when needed. You are the right candidate for this position if you a highly motivated individual, consistently seek to grow and learn, actively seek out technical challenges and solutions, and do not fear change - come join us!
+Core Responsibilities
+Reviews, writes and edits codes. Conducts analysis to determine integration needs.
+Researches, writes and edits documentation and technical requirements, including software design evaluation plans, test results and technical manuals.
+Monitors and evaluates competitive applications and products. Reviews literature, patents and current practices relevant to the solution of assigned projects.
+Works with the Quality Assurance team to determine if applications fit specification and technical requirements.
+Applies full use and application of engineering methodologies related to area of engineering specialty.
+Displays knowledge of engineering concepts and skills and knowledge of their application in the area of specified engineering specialty.
+Employees at all levels are expected to:
+Understand our Operating Principles; make them the guidelines for how you do your job.
+Own the customer experience - think and act in ways that put our customers first, give them seamless digital options at every touchpoint, and make them promoters of our products and services.
+Know your stuff - be enthusiastic learners, users and advocates of our game-changing technology, products and services, especially our digital tools and experiences.
+Win as a team - make big things happen by working together and being open to new ideas.
+Be an active part of the Net Promoter System - a way of working that brings more employee and customer feedback into the company - by joining huddles, making call backs and helping us elevate opportunities to do better for our customers.
+Get results and drive growth.
+Respect and promote inclusion & diversity.
+Do what's right for each other, our customers, investors and our communities.
+Disclaimer:
+This information has been designed to indicate the general nature and level of work performed by employees in this role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications.
+Comcast is an EOE/Veterans/Disabled/LGBT employer.
+Comcast is proud to be an equal opportunity workplace. We will consider all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other basis protected by applicable law.
+Education
+Bachelor's Degree
+While possessing the stated degree is preferred, Comcast also may consider applicants who hold some combination of coursework and experience, or who have extensive related professional experience.
+Relevant Work Experience
+0-2 Years
+Base pay is one part of the Total Rewards that Comcast provides to compensate and recognize employees for their work. Most sales positions are eligible for a Commission under the terms of an applicable plan, while most non-sales positions are eligible for a Bonus. Additionally, Comcast provides best-in-class Benefits. We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That’s why we provide an array of options, expert guidance and always-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially and emotionally through the big milestones and in your everyday life. Please visit the compensation and benefits summary on our careers site for more details.",Telecomunicaciones,,2022-08-27T00:00:00,2022-10-16,FULL_TIME
+"Dedicated Cloud Analyst, Intelligence Initiative","Amazon Dev Center U.S., Inc.",Colorado,Denver,-1,-1,,USD,"
+Bachelor’s Degree in Computer Science, Information Systems or other technical degree, AND/OR 0-6 months of varying technical experience (i.e. mechanical, industrial, electrical, chemical, hardware or software) and use of computers in a non-technical role, OR Industry Relevant Certifications can be acceptable (Linux+, LPIC-1, etc.).
+Strong desire to become a technical engineer, self-taught and demonstrated ability to learn quickly
+Excellent communication skills and the ability to work well in a team
+Prior industry or non-industry Troubleshooting/Support Experience
+Proven ability to navigate ambiguity and learn quickly
+Current, active US Government Security Clearance of Top-Secret SCI with Polygraph
+
+Job summary
+AWS has established a specialized group of service teams responsible for the work we are doing with the U.S. Intelligence Community. We are building some of the largest and most complex distributed systems in the world, and we need world class people to help us implement and operate them.
+
+The AWS Intelligence Initiative Team is hiring cleared engineers for a unique opportunity to work with some of the best and brightest engineers and technical leaders. Engineers undergo an intensive 9-12 month development program to learn about operational culture, enhance their technical skills through a hands-on job path curriculum, complete rotations with engineering teams to obtain a holistic view of our technology, dedicated mentorship, and support from our program’s alumni all while obtaining a U.S. Government security clearance.
+
+Upon graduation from our program, engineers will have the foundational skills and knowledge needed to excel at AWS to help U.S. Government agencies implement innovative cloud computing solutions, solve technical problems and join a specialized engineering team. If you are passionate about the potential of cloud computing and about building simple and elegant software solutions, apply for a role today and come learn about our commitment to developing engineers skillsets to operate in dedicated AWS regions.
+
+This position requires that the candidate selected be a US Citizen and must currently possess an active TS/SCI security clearance with Polygraph. The position further requires that, after start, the selected candidate obtain and maintain an active TS/SCI security clearance with a Polygraph and satisfy other security related requirements.
+This position can work out of Denver CO, Arlington, VA, Herndon, VA, or Seattle WA office locations.
+
+A day in the life
+On a ""typical"" day, our engineers may dive deep to find the root cause of a customer issue, investigate why a metric is trending in the wrong direction, or discuss radical new approaches to automate operational processes. As a member of our team you will join a dedicated group of engineers who provide troubleshooting and operations support, and innovate to automate operational tasks.
+
+
+Prior enterprise/university experience with systems administration on either Linux/UNIX or Windows operating systems.
+Prior enterprise/university experience supporting service-oriented architecture and web services
+1+ years of Linux experience and demonstrated proficiency with associated tools/languages, Or 2+ years Windows Server/enterprise experience.
+1+ years’ experience with support procedures for production/mission critical environments to include ticketing, monitoring/metrics, and troubleshooting technical issues.
+Experience with enterprise/university mission critical, 24x7 operations.
+Experience with automation or use of programming languages.
+Experience with networking.
+Experience with performance and log analysis.
+Strong sense of ownership and urgency.
+
+The pay range for this position in Colorado is $68,000 - $114,000 yearly; however, base pay offered may vary depending on job-related knowledge, skills, and experience. A sign-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided per the Colorado Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon's internal or external careers site.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.",Tecnologías de la información,,2022-09-13T00:00:00,2022-10-16,FULL_TIME
+Business Intelligence Engineer,Yale New Haven Health System,Connecticut,New Haven,-1,-1,,USD,"Overview:
+
+To be part of our organization, every employee should understand and share in the YNHHS Vision, support our Mission, and live our Values. These values - integrity, patient-centered, respect, accountability, and compassion - must guide what we do, as individuals and professionals, every day.
+
+Individuals within the Business Intelligence (BI) Engineer role work closely with customers and Application Analysts to turn data into critical information and knowledge that can be used to make sound business decisions. They provide data that is accurate, congruent and reliable and is easily accessible. BI professionals educate and train customers to use the data as an analytical tool, displaying the information in new form and content for the purpose of analysis and exploring options. The BI Engineer is responsible for the full life cycle development, implementation, production support, and performance tuning of the Enterprise Data Warehouse, Data Mart, and Business Intelligence Reporting environments, and support the integration of those systems with other applications. They design and implement reporting and analytical solutions, including both the design of table structures and the processes used to populate those structures with data from internal and external sources. The data they provide helps business teams drive improvement in key business metrics, customer experience and business results. BI Engineers also interact with various teams in ITS, project managers, internal and external customers, senior management, and external vendors. The BI Engineer role is a team leader with a responsibility focused on delivering the highest level of technical expertise and guidance to the Joint Data analytics Team (JDAT) and its customers. The BI Engineer works under minimal direction. Strong focus on overseeing senior and junior analyst work and providing technical and substance based direction for projects. In many cases the position will require oversight and delegation of analyst assignments. It is the role of the position to research and pursue new techniques and technologies for the Joint Data Analytics Team. Stays current with national trends around healthcare analytics by attending conferences, conducting independent research, and other methods.
+
+EEO/AA/Disability/Veteran
+Responsibilities:
+1. Application & dashboard development.
+1.1 Supports new application development including specification gathering, application programing, validation & analysis, user testing and maintenance.
+2. Works with data architects as they design relational and dimensional data models to verify that the model meets the use cases and aligns with JDAT's strategic direction.
+3. Acts as a leader in the group for research and understanding of new industry trends and technologies.
+3.1 Create proof of concept & sandbox environments to test new methods and technologies.
+4. Fosters an environment for department growth through development of internal training. Openly & proactively shares information and knowledge with all team members.
+5. Constantly evaluates departmental work flows and standard procedures to ensure efficiencies and requirements are being met.
+6. Leads groups of subject matter teams by delegating tasks and ensuring requirements are met.
+7. Provides feedback to management regarding performance of other analysts.
+8. Understand JDAT workflows while developing application build specifications.
+9. Expert level understanding of Epic user workflows.
+10. Follow system standards related to workflow analysis, system specs generation, proof of concept validation and sign off, system configuration, application and integrated testing, change control, training, and implementations.
+11. Oversight on potential system enhancements from Epic and enhancement requests from end users.
+12. Facilitate the development and documentation of JDAT internal procedures.
+13. Coordinates and interacts with vendors, both on and off-site
+14. Performs all duties and responsibilities in such a manner in accordance with the ""I Am Yale-New Haven"" service excellence program and the new Standards of Professional Behavior.
+Qualifications:
+
+EDUCATION
+Bachelor degree is required, Master's preferred. IT related field is preferred or equivalent combination of education and experience.
+EXPERIENCE
+10 years work experience in an analytics related role. Work experience in a relevant clinical setting preferred
+LICENSURE
+Three or more Epic data model certifications required.
+SPECIAL SKILLS
+Expert in database management and relational database querying. Business intelligence experience required; Tableau, SAP Web Intelligence, SAP Crystal Reports. Expert level understanding of Microsoft scripting languages and other object orientated programing languages. Knowledge of networking and web technologies, GitHub or other source control experience. ETL skills using SSIS or scripted tasks to accomplish highly complex tasks. Ability to work independently while being responsible for the oversight of others work. Strong written and verbal communication skills with a diverse range of individuals, comfortable speaking and managing up to large groups or audiences. Highly engaged in teamwork and team growth activities. High aptitude for understanding new concepts, technology & academic theory.",Salud,,2022-08-26T00:00:00,2022-10-16,FULL_TIME
+Business Intelligence Engineer,EY,Virginia,McLean,-1,-1,,USD,"At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+The Opportunity
+Join our Americas Data Enablement Team and be part of a high-energy, fast-paced, and innovative group. You will help develop and support the important data analytics capabilities that will deepen our understanding of the drivers of our business performance and inform our business decisions. You will have the opportunity to develop your career and implement state-of-the-art technologies through a broad scope of experiences and projects, active mentoring, and continuous learning. Sound interesting? Well, this is just the beginning!
+Your Responsibilities:
+You will lead the design, creation, and maintenance of dashboards measuring KPIs for core business operations using PowerBI (e.g., talent recruitment/attrition modeling/revenue forecasting/brand marketing) and lead the exploratory data analysis (EDA) & data quality check (DQC) process at the initial stages of projects. You will query data and merge data tables from multiple sources and partner with other departments to identify data needs, new data sources, and analyst training. You will identify unexplored business opportunities with current data assets and automate reports to drive actionable business insights. You will also, collaborate with Data Scientists/Engineers to simplify and summarize findings for EY leadership while consistently research and apply best practices to enhance your skill set.
+To qualify for this role, you must have:
+Bachelor’s degree in Statistics/Business Analytics/Business Intelligence Engineering/Analytics & Visualization/Information Design & Data Visualization or a similar background with minimum 1 year of work experience in a data analyst/data visualization specialist role
+Proficient in PowerBI including executing DAX queries in PowerBI desktop
+Experience producing business intelligence dashboards/reporting tools
+Working knowledge of SQL
+Experience with relational databases
+Strong written and oral communication skills; strong ability to translate complex technical concepts to a non-technical audience
+Detail-oriented; critical thinker; strong individual contributor and teammate
+Great to have but not essential are a Master’s degree in relevant fields, Experience with Microsoft Business Intelligence Stack (SSMS, SSIS) and Familiarity with R and/or Python
+Similarly, demonstrated history of building end-to-end business intelligence solutions, ability to work with leadership to understand business problems and develop solutions and an advanced knowledge of SQL Data Warehousing and Visual Studio are a plus.
+What we offer
+We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options. Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well-being.
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+The exceptional EY experience. It’s yours to build.
+EY | Building a better working world
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+EY is an equal opportunity, affirmative action employer providing equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.
+EY is committed to providing reasonable accommodation to individuals with disabilities. If you are a qualified individual with a disability and either need assistance applying online or need to request an accommodation during the interview process, please call 1-800-EY-HELP3, type Option 2 (HR-related inquiries) and then type Option 1 (HR Shared Services Center), which will route you to EY’s Talent Shared Services Team or email SSC Customer Support at ssc.customersupport@ey.com.",,,2022-09-05T00:00:00,2022-10-16,OTHER
+Jr. Security Engineer,Universal Music Group,,,-1,-1,,USD,"Job Description
+We are UMG, the Universal Music Group. We are the world’s leading music company. In everything we do, we are committed to artistry, innovation, and entrepreneurship. We own and operate a broad array of businesses engaged in recorded music, music publishing, merchandising, and audiovisual content in more than 60 countries. We identify and develop recording artists and songwriters, and we produce, distribute, and promote the most critically acclaimed and commercially successful music to delight and entertain fans around the world.
+How you’ll LEAD:
+Our team is looking for a Jr. Security Engineer with entry level experience in information security, architecture and design concepts, cloud technologies, web and application security, network and infrastructure security, and security standards/best practices to join our team.
+We take security very seriously, and protecting our customers is our highest priority. If you are a self-starter who is passionate about security and is excited to work in a highly collaborative environment alongside a diverse team of experts every day, this position is for you.
+In addition to having strong technical skills, you must be comfortable in effectively communicating with business end users, technical IT teams, business partners, network providers, and business process outsourced vendors, all while being sensitive to a wide diversity of cultural and technical backgrounds in a global business environment.
+How you’ll CREATE:
+Assist as needed with information security needs, including data entry, report generation, etc.
+Gain experience with and operate information security tools and processes to assist GSO in protecting our environment and bolster security
+Keep up to date with Cyber Threat Intelligence and adversary behaviors, processes, actions and strategies
+Assist in the validation of information security controls via adversary simulations
+Leverage metrics to track effectiveness of security programs and services over time
+Become involved with projects as needed to provide support
+Create Quickbase applications
+Create processes and develop workflows in security orchestration, automation, and response (SOAR) platform
+Use Splunk to query and report data
+Take meeting notes
+Other duties as assigned
+Bring your VIBE:
+This is an entry level position, so it requires curiosity, ability to learn new concepts quickly, and a desire to help where needed
+Ability to communicate security-related topics effectively with business representatives
+Analytical mind with a problem-solving attitude
+Strong written and verbal communication skills
+Ability to handle multiple projects at the same time
+Proficiency with Microsoft O365 services (Microsoft Outlook, Microsoft Office, Microsoft Excel, Microsoft World, PowerPoint, Teams, etc.)
+Organizational and documentation skills
+Report writing, presentation and interpretation skills
+Self-starter with strong self-organization skills
+Team focus with an ability to work in a matrixed organization
+Bachelor’s degree
+Experience with one or more programming languages
+Background in IT and/or information security tools and processes
+Universal Music Group is an Equal Opportunity Employer
+All UMG employees are currently required to be fully vaccinated against COVID-19 or provide proof of a negative PCR or Antigen test before entering any Company offices unless they have been approved for an exemption or unless prohibited by applicable law.
+Disclaimer: This job description only provides an overview of job responsibilities that are subject to change.",Artes y entretenimiento,,2022-09-15T00:00:00,2022-10-16,OTHER
+Senior Database Engineer,American Tower,Massachusetts,Woburn,-1,-1,,USD,"Posted On Sep 15, 2022
+As an organization focused on mutual respect and inclusion, American Tower endeavors to make reasonable accommodations to qualified applicants with a disability. Applicants needing an accommodation during the recruitment process or who have questions regarding website accessibility should contact us at (617) 687-7911 or recruiting@americantower.com.
+Job Description
+
+The Team
+
+We are seeking a Senior Database Engineer to join American Tower’s Information Technology team. The IT team delivers quality software solutions that provide measurable business value. Day to day you will lead all aspects of the design, development, and delivery of database, business intelligence, data warehouse, and data integration solutions. As a Senior Database Engineer, you will partner cross-functionally to provide technical knowledge and leadership guidance during design, development, and delivery to ensure solid, scalable, robust solutions.
+
+Job Qualification
+What You Can Offer Us
+Discuss with business users what their requirements and priorities are and propose solutions that meet their needs.
+Review designs from the development teams and audit implementations to assure adherence to standards.
+Educate the organization on the newest technology advances and best practices, leveraging both to support business drivers.
+Lead technical teams in designing and developing data solutions.
+Perform data modeling and design and develop data solutions, including relational and analytical models.
+Audit and review performance metrics for new and existing data integration solutions and database queries to ensure both adherence to service level agreements and system health.
+Other duties as assigned.
+
+What You Need to Succeed
+Bachelor’s degree in Computer Science or a related field with six years of related experience, or Master’s degree in Computer Science or a related field with at least 4 years of related experience required.
+A minimum of 4 years of relational database, data warehouse, design, data modeling, development or architecture experience required.
+Experience with one or more of the following platforms required:
+Database Platform:
+Proficient with SQL and PL/SQL programming language;
+Experience with a data modeling tool;
+Extensive experience with data warehouse architecture, data modeling, design, implementation, and concepts (Kimball methodology, star or snowflake schemas, semantic layer design, etc.);
+Experience with SQL Server Management Studio and SQL Server Database, 2005 and greater;
+Experience with Oracle 10g databases and greater and TOAD/SQL Developer;
+Experience writing complex stored procedures;
+Experience with tuning relational databases;
+Approximately 10% travel may be required in support of the position’s responsibilities.
+Strong written and oral communication skills, including the ability to present ideas and suggestions clearly and effectively.
+Ability to work with different functional groups and levels of employees to effectively and professionally achieve results.
+Strong organizational skills; ability to accomplish multiple tasks within the agreed upon timeframes through effective prioritization of duties and functions in a fast-paced environment.
+
+American Tower is proud to be an equal opportunity employer and will not discriminate against an applicant or employee based on age, sex, sexual orientation, gender identity, race, color, creed, religion, national origin or ancestry, citizenship, marital status, familial status, disability, military or veteran status, genetic information, pregnancy or any other characteristic protected under applicable law.
+Why Work Here
+Our Culture is based on our Core Principles - the values that guide how our employees communicate with our customers and each other, drive solutions, hire and grow our talent, play to win, and of course, have fun! We look for motivated individuals to join our team who care about their colleagues, our customers, and the communities where we live and work. Join us and become part of our team of diverse, talented thinkers and doers!
+What We Can Offer You (Benefits)
+We're proud of the high quality of our benefits that help support the varied lifestyles of our employees.
+This includes, but is not limited to:
+Comprehensive health care coverage
+Healthcare and dependent care FSAs
+401 (k) matching
+Employee Stock Purchase Program (ESPP)
+Equity Incentive Plan
+Educational assistance
+Paid parental leave
+Adoption assistance
+Wellness reimbursement
+Paid time off
+ID
+220000Q1
+Location
+North America USA MA Woburn
+Other Location
+North America-USA-Hybrid
+Our Core Principles are the foundation of our culture, and we’re focused on achieving continued success by thinking long-term, leading with values, and creating value with decisions. Come grow your career with us!
+About Us
+Our vision is to make wireless communication possible everywhere. American Tower provides the wireless infrastructure needed to enable a connected world - outdoors, indoors, and in urban and rural locations. We are one of the largest global Real Estate Investment Trusts (REITs), and a leading independent owner, operator and developer of wireless and broadcast communications real estate. Our global portfolio includes approximately 221,000 sites, with more than 43,000 in the U.S., and is experiencing steady growth. Headquartered in Boston, Massachusetts, American Tower has offices across the United States and in 25 countries around the globe.",Telecomunicaciones,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Associate Machine Learning Engineer,Lucasfilm,California,San Francisco,-1,-1,,USD,"Job Summary:
+The Lucasfilm Advanced Development Group (ADG) is looking for Software Engineers to join our team. As an Associate Machine Learning Engineer at the ADG, you will apply your knowledge and expertise to real production issues facing our creative clients across Lucasfilm, ILM, and ILMxLAB. We are seeking engineers with deep technical knowledge in this rapidly- advancing field to join ADG to push the boundaries of ILM’s Virtual Production tools and empower the creation of Disney’s Metaverse.
+Responsibilities:
+Maintain and support cutting edge machine learning solutions in production projects
+Maintain and support solutions for content and artist-facing problems across our global studios, such as our ML-based appearance transfer pipeline
+Maintain, support and document the accumulation of training data for ML application at the company
+Design, develop, test, deploy, maintain and improve software and training models
+Provide front-line support for end-users and assist with technical issues, coach system use and raise any usability or bugs with the Pipeline team to resolve
+Collaborates with the ADG DevOps and other ILM technology departments to build scalable and robust systems for all ILMxLAB, Virtual Production and Virtual Art Department productions
+Creates and maintains clear and concise documentation outlining the use of products and solutions in production
+Participate in special projects as needed
+Basic Qualifications:
+Bachelor’s degree in Computer Science or related technical field or equivalent professional experience
+0-3 years of relevant experience
+Academic experience of machine learning and artificial intelligence, with knowledge of generative models, GANS, neural networks (CNNs, RNNs) , gradient based optimization
+Academic experience with one or more general purpose programming languages including but not limited to: C/C++, Python
+Applying ML techniques specifically in the visual/image space, e.g. ML encoded image processing, differentiable rendering, inverse rendering
+Excellent 3D math skills including linear algebra and vectors
+Driven and self-motivated individual with excellent problem-solving skills
+Must be detail-oriented and organized, possess strong communication skills, and be able to handle a variety of tasks in an efficient and decisive manner
+Preferred Experience
+Familiarity with DCC packages such as Maya
+Familiarity with real-time game-engine development such as Unity or Unreal
+JoinTheForce",Audiovisual y medios de comunicación,,2022-09-14T00:00:00,2022-10-16,OTHER
+Search & ML Engineer / Scientist (SIGIR 2022),Apple,California,Cupertino,-1,-1,,USD,"Summary
+Posted: Jul 11, 2022
+Role Number:200353144
+Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Combining groundbreaking machine learning techniques with next-generation hardware, our teams take user experiences to the next level. We are looking for scientists and engineers to join our teams in Cupertino, Seattle, Zurich, Pittsburgh, Cambridge (UK), and Greater China. This posting is for attendees of the SIGIR 2022 conference who are interested in full-time positions at Apple.
+Key Qualifications
+Strong background in search engine core engineering, information retrieval, data management and artificial intelligence
+Strong programming experience in one or more of the following: Python, Java, C/C++, Go
+Knowledge of machine learning fundamentals such as feature extraction, learning algorithms, training and evaluation
+Strong programming skills with proven experience crafting, prototyping, and delivering advanced algorithmic solutions
+Creative, collaborative, and innovation focused
+Description
+Our teams are creating groundbreaking technology in the areas of algorithmic search, machine learning, knowledge bases, NLP, and artificial intelligence. The experiences we build are redefining how hundreds of millions of people use their computers and mobile devices to find what they are looking for. Our technologies power features across a variety of Apple products, including Siri, Spotlight, Safari, Messages, Lookup, Maps, Music, and News. As a member of a search team at Apple, you will use your deep understanding of search, information retrieval, and artificial intelligence to tackle meaningful technical problems, collaborate with the most innovative product development teams in the world, and transfer your ideas into solutions in the next generation of Apple products and services. You will perform fundamental research by defining, designing, implementing and evaluating algorithms involving unrivaled data and objectives. You will also actively engage with the academic community by collaborating with universities, publishing and presenting your work, and attending conferences.
+Education & Experience
+PhD, MS, or BS in Machine Learning, Computer Science, or related fields.
+Additional Requirements",Tecnologías de la información,,2022-09-11T00:00:00,2022-10-16,FULL_TIME
+Lead Business Intelligence Engineer - REMOTE,HM Health Solutions,,,-1,-1,,USD,"Company :
+HM Health Solutions
+Job Description :
+JOB SUMMARY
+This job is plans, designs tests and implements Business Intelligence solutions through use of BI tools, technologies and systems. Analyzes complex processes and develop technical and/or process solutions to meet business needs. The incumbent works collaboratively with customers and technical staff in all phases of projects, potentially including requirements gathering and change management. Acts as subject matter expert on projects regarding technology, resource needs, schedule and/or implementation. Follows all divisional and corporate project management guidelines.
+
+ESSENTIAL RESPONSIBILITIES
+Design, develop, implement and maintain of Business Intelligence (BI) solutions to support business needs, following BI development best practices and innovative use of appropriate technologies and systems.
+Work collaboratively with business management and staff to deliver technical solutions that meet customer needs.
+Work effectively with customers in all phases of application development projects, potentially including requirements gathering, design, testing and change management.
+Provide end user support for BI solutions and applications, including investigation and resolution of issues regarding tool functionality and performance.
+Keep abreast of new BI and related technology and trends and assess when and if new technology is needed.
+Participate in quality or process improvement activities, including regular reviews of systems and technology. Design and implement modifications or improvements, based on those activities.
+Provide input on strategies and tactics regarding platforms, tools and technical staffing to meet customer needs.
+Provide input to business cases, contracts, project plans, scope of work, status and project summary reports.
+Follow and/or support prescribed project management guidelines. Project management responsibilities include documentation of design and technical testing, as well as managing and negotiating project scope, timelines and developing/defining project deliverables with business customers.
+May provide guidance and direction to other staff and may function as a team leader. May train employees, assign, monitor and review progress and accuracy of work.
+Other duties as assigned or requested.
+QUALIFICATIONS
+Required
+Bachelor’s Degree in Computer Science, Math or other related area or 6 years of related experience in lieu
+8 years of experience
+Preferred
+Excel – advanced
+Power BI – advanced
+Alteryx – Intermediate
+Power Apps – Intermediate
+Understanding of M365 – Teams, SharePoint, etc.
+KEY SKILLS
+Has knowledge of and can apply principles, concepts, practices and processes within department and has at least a basic knowledge of health care and BI solution development practices.
+Disclaimer: The job description has been designed to indicate the general nature and essential duties and responsibilities of work performed by employees within this job title. It may not contain a comprehensive inventory of all duties, responsibilities, and qualifications required of employees to do this job.
+Compliance Requirement: This position adheres to the ethical and legal standards and behavioral expectations as set forth in the code of business conduct and company policies.
+As a component of job responsibilities, employees may have access to covered information, cardholder data, or other confidential customer information that must be protected at all times. In connection with this, all employees must comply with both the Health Insurance Portability Accountability Act of 1996 (HIPAA) as described in the Notice of Privacy Practices and Privacy Policies and Procedures as well as all data security guidelines established within the Company’s Handbook of Privacy Policies and Practices and Information Security Policy. Furthermore, it is every employee’s responsibility to comply with the company’s Code of Business Conduct. This includes but is not limited to adherence to applicable federal and state laws, rules, and regulations as well as company policies and training requirements.
+Highmark Health and its affiliates prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, age, religion, sex, national origin, sexual orientation/gender identity or any other category protected by applicable federal, state or local law. Highmark Health and its affiliates take affirmative action to employ and advance in employment individuals without regard to race, color, age, religion, sex, national origin, sexual orientation/gender identity, protected veteran status or disability.
+EEO is The Law
+Equal Opportunity Employer Minorities/Women/Protected Veterans/Disabled/Sexual Orientation/Gender Identity ( https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf )
+We endeavor to make this site accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact number below.
+For accommodation requests, please contact HR Services Online at HRServices@highmarkhealth.org
+California Consumer Privacy Act Employees, Contractors, and Applicants Notice",Tecnologías de la información,,2022-09-16T00:00:00,2022-10-16,FULL_TIME
+Business Intelligence Analyst,Kin Insurance,Illinois,Chicago,-1,-1,,USD,"The world has changed. Why hasn't insurance?
+
+Kin's mission is to reimagine home insurance For Every New Normal. While other insurers struggle to handle a fast-changing world, Kin is built for the future and is prepared to meet its challenges head on while helping our customers do the same.
+
+Kin is proud to be one of BuiltIn Chicago's 2021 and 2022 Best Mid Sized Companies to work for, and Forbes 2021 Best Startup Employers in North America. Simply put, our people are what make us great, and we need forward-thinking, inspired game-changers like you to join us in our mission.
+So, what's the role?
+
+As a BI Analyst you will be a critical part of the growth and expansion of Kin Insurance. You will be responsible for data & analytics across many departments including: Finance, Accounting, Claims, Insurance, Underwriting, Legal and Compliance. You will work with internal leadership to define and structure critical datasets and data consumption layers, and will collaborate with engineering to ingest, clean, and analyze data from multiple sources.You will be responsible for maintaining single source of truth for various stakeholders, optimizing the cadence of ETL processes, and automating data reporting processes.
+
+A day in the life could include:
+
+Design, develop, and maintain scalable and reliable ETL processes to meet business needs
+Collaborating with stakeholders and other BI analysts to gather new business use cases and requirements; work with BI leadership to construct project plans and delivery timelines
+Partner with data engineers on the ingestion of new data sources: communicating requirements, validating data quality, and ensuring projects meet all necessary deadlines
+Identify opportunities for new data structures or consumption layers based on new product launches, changes in business practice, changes in regulation, themes in ad-hoc requests from business users, etc
+Use analytics tools to monitor data quality and ETL process run-times; help identify root causes of data quality issues and weak points in data pipelines; recommend/implement necessary improvements
+Use domain knowledge to assist BI analysts and business users with ad-hoc requests
+
+I've got the skills… but do I have the necessary ones?
+
+Bachelor's degree or master's in Engineering, Statistics, Mathematics, Computer Science, or a related field
+3+ years of professional work experience in a data-centric role
+Technical Requirements: Advanced SQL skills (proven track record to independently query data from disparate sources); Familiarity with ETL processes (structuring new datasets/data-pipelines to meet business needs)
+Experience working in cloud-based data warehouse environments (Redshift, AWS, Snowflake, Azure, etc.)
+Strong business acumen to make sense of and bring logic to data
+Excellent interpersonal skills, both oral and written
+Interest or experience in highly regulated and / or startup environment(s)
+
+Bonus Points:
+
+Bachelor's Degree in Insurance or Risk Management
+1+ years of professional work experience in Insurance, Compliance, Risk Management and/or Regulatory Reporting
+Airflow experience
+Experience using data visualization tools such as Tableau, Power BI, Looker, etc. Experience with advanced Looker development is highly desirable.
+Experience in programming in R or Python is a plus
+Advanced Microsoft Excel skills (Pivot Tables, vLookup, Index/Match, Power Query, etc.)
+
+Oh, and don't worry, we've got you covered!
+
+Medical, Dental and Vision Insurance
+Flexible PTO policy
+Very generous equity options and 401K
+Parental Leave
+Continuing education and professional development
+Disability and Life Insurance
+The excitement of joining a high-growth Insurtech company and seeing your work make an impact
+About Kin
+
+In an industry that hasn't budged in more than 100 years, our technology transforms the user experience, cuts inefficiencies that waste billions of consumer dollars, and customizes coverage homeowners want. We believe insurance was always meant to be a digital product – we're making that a reality.
+
+Our approach to the industry makes us unique, and the people at Kin help us excel. We're a team of problem solvers, collaborators, builders, and dreamers who are passionate about creating positive change in the lives of our customers and in our industry. Kin is more than just our name – it's how we treat each other. That's one of the many reasons we've been recognized as a great place to work by Built In, Forbes, and Fast Company.
+
+
+EEOC Statement
+
+Kin is proud to be an Equal Employment Opportunity and Affirmative Action Employer. We don't just accept difference – we honor it, nurture it, and celebrate it. We don't discriminate based on race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+
+Kin encourages applications from all backgrounds, communities and industries, and are committed to having a team that is made up of diverse skills, experiences and abilities.
+
+
+#LI-Remote",Seguros,,2022-09-15T00:00:00,2022-10-16,OTHER
+Cybersecurity Engineer Jr.,Leidos,,,-1,-1,,USD,"Description
+Job Description:
+The Leidos Cybersecurity Architecture, and Engineering (CAE) organization has an immediate opening for a motivated entry level Cybersecurity Engineer. This role can be supported remotely or from one of the following locations: Gaithersburg, MD, Reston, VA or Orlando, FL.
+Our mission at Leidos is to make the world safer, healthier, and more efficient through information technology, engineering, and science. Our work provides an immediate impact in the real world.
+Leidos has world-class Security Architecture and Engineering teams responsible for the security suites that protect Leidos data, networks, and endpoints. Come join us for a rewarding experience alongside talented cyber professionals who can help you achieve your career goals!
+Primary Responsibilities
+Learn and actively participate in Design Engagement Reviews (DERs) for enterprise environments and capabilities. These design decisions, technical control implementations, and risk mitigation measures set the foundation for Leidos’ global cybersecurity posture.
+Enhance, document, and moderate this process, working alongside highly experienced Security Architects and Engineers to ensure reviews are comprehensive and repeatable.
+Learn from SMEs who have deep domain knowledge in their area of expertise (Endpoint, Network, Application, Mobile, and Cloud security) to gauge interest and career growth opportunities.
+Interface with other Security organizations outside of Engineering (including Governance, Risk, Compliance, and Operations) to ensure inputs for CAE and outputs from CAE meet expectations.
+Interface with other non-Security organizations (including Infrastructure, Applications, and Business Integration) to ensure Program/Project inputs for CAE and outputs from CAE meet expectations.
+Support the overall CAE team with their mission by tracking project statuses, organizing meetings with stakeholders, providing input into process enhancements, and other duties as assigned.
+Basic Qualifications
+Actively seeking or pursuing a career in Cybersecurity with less than 2 years prior experience. Have a Bachelor’s degree in Information Assurance, Cybersecurity, Computer Science or related domain; additional experience or Cyber courses/certifications may be substituted in lieu of a degree.
+Must be able to obtain a Security Clearance and therefore have US citizenship. Individuals do not need to possess a clearance today.
+Ability to write and verbally communicate effectively to both technical and non-technical audiences.
+A self-starter who wants to eagerly participate in architect level design discussions, can drive consensus in group conversations, cultivate strategic relationships, and use grit to achieve results.
+Must have strong problem-solving, analytical skills, and demonstrate poise in communicating with non-technical audiences.
+Fundamental understanding of networking, infrastructure, software development, and application technologies.
+Understanding of basic cyber threats and popular attack vectors such as phishing, ransomware, and social engineering.
+Have a learner’s mindset and be an early adopter of new technology in your personal life.
+Preferred Qualifications
+All of the below are not requirements, but would bring significant value to the team:
+Demonstrated leadership or cyber skills gained from student clubs, community involvement or work experience.
+Experience with popular cloud hosting environments (AWS, Azure, Google Cloud)
+Basic understanding of remote access, OSI model, and TCP/IP networking principles and protocols.
+Basic knowledge of Linux or MAC operating systems.
+Basic knowledge of mobile operating systems like iOS and Android
+Experience with scripting tools and programming languages; Python, Javascript, C, Go, Rust.
+Knowledge of and interest in data science, machine learning and/or security automation.
+Pay Range:
+Pay Range $50,700.00 - $78,000.00 - $105,300.00
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+#Remote
+Covid Guidance for the US
+In order to enter Leidos facilities in the U.S. and to attend Leidos events outside our facilities, employees are required to be vaccinated for COVID-19 or maintain proof of a negative COVID-19 test within 96 hours of entry. In addition, we are receiving guidance from certain customers that onsite contractor personnel will need to be fully vaccinated to access customer facilities. If you are not vaccinated, please consider getting your COVID-19 vaccination as soon as possible. If you have any questions, please contact your Talent Acquisition POC.
+About Leidos
+Leidos is a Fortune 500® technology, engineering, and science solutions and services leader working to solve the world’s toughest challenges in the defense, intelligence, civil, and health markets. The company’s 44,000 employees support vital missions for government and commercial customers. Headquartered in Reston, Virginia, Leidos reported annual revenues of approximately $13.7 billion for the fiscal year ended December 31, 2021. For more information, visit www.Leidos.com.
+Pay and Benefits
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement.
+Securing Your Data
+Beware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at corp_security@leidos.com.
+If you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.
+Commitment to Diversity
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",Aeroespacial y defensa,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+"Software Engineer (Entry-level)- Blacksburg, VA",Growth,Virginia,Blacksburg,-1,-1,,USD,"Peraton is seeking an Entry-Level Software Engineer to join our Technology and Engineering Software Delivery Center in Blacksburg, VA. The ideal candidate will support exciting projects across Peraton in areas such as communications, space, cybersecurity, defense, health, and mobile.
+
+As an entry-level Software Engineer, you’ll have the opportunity to work in a collaborative, supportive environment that allows you to grow your skills and your career while building experience in a variety of different projects and domains. You’ll work in an Agile software development environment supporting requirements/story development, software architecture and design, software development, and unit/component testing.
+
+Responsibilities:
+Design, develop, and test leading edge technology solutions in areas such as cybersecurity, satellite ground systems, information management systems, cloud computing, and mobility.
+Work in a collaborative, team-oriented Agile software development environment to help shape the direction of the project.
+Support the software engineering life-cycle in areas such as requirements/story development, software architecture and design, software development, and unit/component testing.
+
+Required Qualifications:
+U.S. Citizenship and the ability to obtain and maintain a security clearance.
+Bachelor’s degree in computer science, computer engineering, software engineering or a related field.
+December 2022 and May/June 2023 grads are welcome to apply.
+0-2+ years of experience working as a software engineer.
+Experience programming in Java or a similar language and a solid foundation in object-oriented development.
+Strong analytical and problem-solving skills.
+Ability to quickly adapt and learn new technologies and concepts.
+Self-motivated, independent, detail oriented, responsible team-player.
+Strong written and oral communication skills.
+
+Desired Qualifications:
+3.0 and above GPA.
+Prior work or educational experience working in an Agile software development environment.
+Experience with web development frameworks, database technologies, web services, and/or web application servers.
+Experience with integrated development environment and configuration/build management tools and processes.
+Experience with deploying software into cloud environments, particularly Amazon Web Services, using technologies such as Ansible, Docker, and Rancher.
+
+Location :
+Blacksburg, VA
+Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our employees do the can’t be done, solving the most daunting challenges facing our customers.
+
+An Equal Opportunity Employer including Disability/Veteran. Colorado Salary Minimum: $43,900
+Colorado Salary Maximum: $106,400
+
+The estimate displayed represents the typical salary range for this position, and is just one component of Peraton's total compensation package for employees. Other rewards may include annual bonuses, short- and long-term incentives, and program-specific awards. In addition, Peraton provides a variety of benefits to employees.",Educación,,2022-09-02T00:00:00,2022-10-16,OTHER
+Junior Security Engineer - REMOTE,VerSprite,Georgia,Atlanta,-1,-1,,USD,"VerSprite
+
+VerSprite is an Inc. 5000 2020 fastest growing company and industry leader in PASTA threat modeling. Founded in 2007, VerSprite is a private cybersecurity consulting firm helping organizations tighten their risk-gaps with evolved security solutions and advanced threat intel tools.
+
+VerSprite has a 97% client retention rate providing organizations with services like penetration tests, evolved red teaming engagements, vCISO, vSOC and VerSprite's advanced security tools Cloud Security Assessment Platform and Cyber Threat Intelligence Portal.
+The Junior Security Consultant will support the VerSprite SecOps team and initiatives related to cloud security assessments and cloud audits. Their focus will be on utilizing control guidance defined by CSA 3.1, CIS benchmarks, Microsoft and Amazon, as well as performing automated checks with a combination of VerSprite developed, CSP provided, and Opensource tooling. The Junior Security Consultant will occasionally collaborate with customer technical staff and will support other VerSprite practice areas as required, when addressing customer technical needs.
+
+ To be successful this individual is a self-starter with good technical skills in cloud and security posture assessments. The Junior Security Consultant also must thrive in a demanding and highly flexible environment against both short and long-term deliverables.
+
+
+Junior Security Cloud Consultant Skills & Experience Requirements:
+
+Excellent written and verbal communication skills - provident English
+Proven ability to identify and communicate project issues and risks
+Able to work in a multi-project and agile environment
+Drive successful delivery and implementation of key enterprise initiatives
+Demonstrated ability to apply knowledge independently, requesting assistance as needed
+Good time management and organizational skills
+Detail oriented in approach to tasks and deliverables
+Contributes to team members and/or team success
+Passionate about IT projects and learning new technologies
+Experience with running and adjusting automated tools in cloud environments
+Intermediate working knowledge of networking, storage, virtual computing, identity and access management
+Intermediate knowledge of Microsoft Windows and Linux Operating System
+Experience with Git, JIRA, Confluence
+
+Strongly preferred:
+
+Bachelor's degree or equivalent in Computer Science or Computer Engineering
+1 year plus experience working with one or more cloud service providers:
+Amazon Web Services
+Microsoft Azure
+Google Cloud Platform
+Basic skills in scripting languages i.e., Python, Bash, PowerShell
+Additional desired skills:
+Hands on experience with DevOps best practices such as infrastructure as code, continuous integration, automated deployment, and design
+Practical experience with CI tools such as Jenkins, Team City, Circle CI or similar.
+Certifications are beneficial e.g., AWS, Azure, GCP etc.
+
+Benefits
+
+We offer a competitive compensation package where you'll be recognized for the value you bring to our business, along with:
+
+Opportunities to develop new skills and progress your career;
+The freedom and flexibility to handle your role in a way that's right for you; and
+A collaborative environment where everyone works together to create a better working world
+
+If this seems intriguing to you, please apply! We will reach out promptly to discuss your fit and additional job details.",,,2022-09-16T00:00:00,2022-10-16,OTHER
+Jr. Integration Test Engineer,Peraton,Virginia,Herndon,-1,-1,,USD,"Peraton is seeking a Jr. Integration Test Engineer to join our team of qualified, diverse individuals. This position is located in Herndon, VA. The qualified applicant will become part of Peraton's Department of State (DOS) Consular Systems Modernization (CSM) Program, for the Bureau of Consular Affairs (CA). This initiative is intended to modernize and consolidate the operational environment under a common technology framework in order to better support the services provided to CA’s customers.
+
+This position requires excellent interpersonal skills to be able to interact with, support, and influence fellow members of a diverse team in a large program. As part of the integration Testing Team, your ability to formulate well-designed automated test scripts in coordinated scenarios and support software development teams in an Agile environment will make you successful in this role. If challenge, growth, and the ability to have a positive impact on your customer and fellow team members is something that interests you, this job is worth your consideration.
+
+Day to Day Roles and Responsibilities:
+Work within a SAFe Agile Team to plan and develop automated test scripts to support the integration testing requirements of the teams you support Design, develop, execute, and maintain automated scripts using the program’s tools and frameworks to validate the integration and functional requirements of the system Maintain a Kanban board with tasks and report out the status of your work during scheduled standup meetings Serve as a web services subject matter specialist providing test automation know-how
+
+Basic Qualifications:
+Bachelor's Degree in a related field and 2-4 years experience or Master's Degree and 0-2 years experience and high school diploma/equivalent or 6 years experience. Must have at 1-2 years’ experience as a tester within a software development program Must be able to think and communicate in a clear, organized fashion Experience testing web services using SOAP UI or similar tools Demonstrable ability to design, develop, and implement automated testing methods in an Agile environment Must have the ability to break down complex technical topics and effectively communicate them in a cross-functional team environment Possess the ability to provide technical solutions to a wide range of difficult problems under only general direction Experience with the principles of software engineering and developing automated test scripts Must have the ability to obtain a Secret clearance.
+
+Preferred Qualifications:
+A demonstrated ability to conceive new ideas and introduce them to teams for consideration and eventual adoption
+Experience in an agile testing environment including Test-Driven Development (TDD)
+Some software development experience is a plus
+Experience developing automated test scripts using Java or other programming languages
+Experience with Selenium WebDriver and Gauge a plus
+Experience writing SQL scripts for Oracle, PostgreSQL, SQL Server, etc.
+Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our employees do the can’t be done, solving the most daunting challenges facing our customers.
+
+An Equal Opportunity Employer including Disability/Veteran. Colorado Salary Minimum: $52,400
+Colorado Salary Maximum: $127,000
+
+The estimate displayed represents the typical salary range for this position, and is just one component of Peraton's total compensation package for employees. Other rewards may include annual bonuses, short- and long-term incentives, and program-specific awards. In addition, Peraton provides a variety of benefits to employees.",Tecnologías de la información,,2022-09-14T00:00:00,2022-10-16,OTHER
+Business Intelligence Engineer,Amazon,,,-1,-1,,USD,"We are looking for high caliber and tested Senior Business Intelligence Engineer (BIE) to start a project with high exposure to VP and SVP level business decision making support. In this role you will define scalable processes and frameworks leveraged by multiple cross-functional teams. You will apply both business and technical acumen in a fast-paced, ambiguous and innovative environment. Our ideal teammate possesses a natural curiosity, sharp analytical skills and is excited to pioneer on behalf of customers.Basic QualificationsBA/BS in Computer Science, Engineering, Mathematics or related field5+ years of relevant work experience in a role requiring application of analytic skills to integrate data into operational/business planningPreferred qualificationsAdvanced degree in computer science, mathematics, statistics, economics, or other quantitative fieldExperience using AWS technologies (Redshift, S3)Experience working in very large data warehouse environmentsStrong project management skills to coordinate projects across cross-functional teams, including business intelligence, engineering, marketing, product management, and finance.Demonstrated ability to influence across a large, multi-faceted organizationExperience in consumer-facing industryExcellent written and verbal skills to effectively communicate to both business and technical teams, including defining business requirements and conveying key insights from complex analysis.Be self-driven, and show ability to deliver on ambiguous projects with limited dataAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.Job Type: Full-timeSalary: $117,000.00 - $180,000.00 per yearBenefits:401(k)Dental insuranceHealth insurancePaid time offVision insuranceSchedule:8 hour shiftMonday to FridaySupplemental pay types:Signing bonusEducation:Bachelor's (Preferred)Experience:analytical skills: 5 years (Preferred)business planning: 5 years (Preferred)aws technology: 1 year (Preferred)Redshift: 1 year (Preferred)Data warehouse: 1 year (Preferred)consumer facing: 1 year (Preferred)project mangement skillls: 1 year (Preferred)Work Location: Remote",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Lead Bot Intelligence Engineer,Afterpay,New York State,New York,-1,-1,,USD,"Company Description
+Block is one company built from many blocks, all united by the same purpose of economic empowerment. The blocks that form our foundational teams — People, Finance, Counsel, Hardware, Information Security, Platform Infrastructure Engineering, and more — provide support and guidance at the corporate level. They work across business groups and around the globe, spanning time zones and disciplines to develop inclusive People policies, forecast finances, give legal counsel, safeguard systems, nurture new initiatives, and more. Every challenge creates possibilities, and we need different perspectives to see them all. Bring yours to Block.
+Job Description
+All of Block's product services are organized into departments with their own product and engineering teams. Underneath, there's a connected platform team that supports the network. We are that platform. As a senior Bot Intelligence Engineer, you will set technology direction for a new function to use multiple sources of data to identify which traffic hitting our public endpoints is coming from bots and which is coming from our own experiences. This includes using data from industry standard solutions like CloudFlare WAF/CDN, fingerprinting services like Kasada, as well as internally developed mobile identification and risk models. This also includes building and internal services that the rest of the platform can query to determine if a particular session is valid or not, as well as advising teams how to harden their external services so they are less vulnerable to bot traffic. You will partner with the global Information Security team, product managers and our business teams to define and execute our end-to-end bot identification and deflect strategy with innovative and globally scalable solutions that power our business. This impactful and visible role requires a leader who can build a long-term vision for the space, inspire the team, drive execution, and establish credibility and influence across Block's ecosystem of products. Sound like you? Read on.
+You Will:
+Guide long-term thinking and new ideas in an ambiguous space, and promote your organization to support our business.
+Work with the Information Security team and Partners to manage the balance of tech debt vs. strategic investment to achieve our goals over a multi-year roadmap.
+Bring deep understanding of and experience in identifying bot traffic and proven expertise & success in helping organization reduce the impact of bot traffic on their external services
+Drive best practices across the organization on building bot resiliency into new and existing external services
+Proven technology leadership in building data analytics models that identify valid vs bot traffic
+Champion technical and operational excellence while influencing other technical leaders within the company.
+Cultivate an inclusive team culture focused on ownership, integrity, and customer focus.
+Report to the Head of Platform & Infrastructure Engineering.
+Qualifications
+You Have:
+15+ years relevant software development and systems design experience.
+5+ years of experience with bot detection and deflection technologies at the CDN or WAF layer, experience with Kasada or traffic fingerprinting technologies is a must
+Experience building software and bot detection services that can scale to current and future business volumes
+Excellent communication skills and can concisely articulate a strategy to ensure Partners feel included and aligned on expectations.
+Additional Information
+We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
+We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our I+D page.
+Additionally, we consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+
+Perks
+We want you to be well and thrive. Our global benefits package includes:
+Healthcare coverage
+Retirement Plans
+Employee Stock Purchase Program
+Wellness perks
+Paid parental leave
+Paid time off
+Learning and Development resources
+
+Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Software Engineer - Remote,Mayo Clinic,Minnesota,Rochester,-1,-1,,USD,"Why Mayo Clinic
+
+Mayo Clinic is the nation's best hospital (U.S. News & World Report, 2022-2023) and ranked #1 in more specialties than any other care provider. We have a vast array of opportunities ranging from Nursing, Clinical, to Finance, IT, Administrative, Research and Support Services to name a few. Across all locations, you’ll find career opportunities that support diversity, equity and inclusion. At Mayo Clinic, we invest in you with opportunities for growth and development and our benefits and compensation package are highly competitive. We invite you to be a part of our team where you’ll discover a culture of teamwork, professionalism, mutual respect, and most importantly, a life-changing career!
+
+Mayo Clinic offers a variety of employee benefits. For additional information please visit Mayo Clinic Benefits. Eligibility may vary.
+
+Position description
+Mayo Clinic is seeking a Software Engineer to design and build back-end services that support our portfolio of data-centric clinical and analytic applications. These applications leverage cloud computing, big data, mobile, data science, data warehousing, machine learning using state of the art software development applications and frameworks. Our Software Engineers ensures that these cloud-based micro-services adhere to uptime and accuracy targets, are resilient, and scale as data volumes and traffic increase. They work closely with the data engineering, platform, and solutions teams to develop applications as required to benefit our practice and patients.
+Works closely with the Product Owners, Product Managers, Architects to translate requirements into code. Developing services around data warehousing, big data, cloud computing, business intelligence, analytics and machine learning. Participate in DevOps, Agile, continuous development and integration frameworks. Programming in high-level languages such as Go, Python, Java etc. Work on deployment automation/configuration management with tools including but not limited to ADO, Puppet, Chef or Ansible or Azure Pipelines, CloudFormation, Terraform following a DevOps model. Ensure all appropriate documentation of processes and source code is created and maintained. Communicate effectively with peers, leaders, and customers throughout the organization. Participate in expert level troubleshooting and resolve problems through root cause analysis, data and system investigation. Continues to build knowledge of the organization, processes and customers. Performs a range of mainly straightforward assignments. Uses prescribed guidelines or policies to analyze and resolve problems. Receives a moderate level of guidance and direction.
+
+Qualifications
+
+Bachelor's Degree in Computer Science/Engineering or related field; Or an Associates’ degree in Computer Science/Engineering or related field with an additional 2 years of experience as described below.
+
+
+Have working knowledge and experience of Software Engineering with a minimum of internships and a minimum of 1 yr. of experience, or 2yrs of experience coding applications or services in a high-level language (C, C++, Golang, Java, C# etc.).
+Demonstrated problem solving and time management skills.
+Possesses strong technical aptitude for designing and implementing software solutions.
+Experience with modern application development frameworks
+Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.
+Deep hands-on technical expertise, excellent verbal and written communication skills.
+Experience with Agile software development techniques.
+
+
+Additional qualifications
+
+Preferred qualifications for this position include:
+
+Ability to use a wide variety of open-source technologies and cloud-based services.
+Experience with Google and Azure cloud environments
+Experience in databases, analytics, big data systems or business intelligence products
+Experience with building high-performance, highly available and scalable distributed systems.
+Experience developing software for healthcare related industries.
+
+License or certification
+
+
+
+
+Exemption status
+
+Exempt
+
+Compensation Detail
+
+$92,705.20 - $129,792.00 / year
+
+Benefits eligible
+
+Yes
+
+Schedule
+
+Full Time
+
+Hours / Pay period
+
+80
+
+Schedule details
+
+Full time remote. Monday - Friday, 8:00 a.m. - 5:00 p.m. May be required to provide 24/7 on-call support.
+
+
+Weekend schedule
+
+May be required to provide 24/7 on-call support
+
+Remote
+
+Yes
+
+Site description
+
+Mayo Clinic is located in the heart of downtown Rochester, Minnesota, a vibrant, friendly city that provides a highly livable environment for more than 34,000 Mayo staff and students. The city is consistently ranked among the best places to live in the United States because of its affordable cost of living, healthy lifestyle, excellent school systems and exceptionally high quality of life.
+
+Recruiter
+
+Ted Keefe
+
+EOE
+
+As an Affirmative Action and Equal Opportunity Employer Mayo Clinic is committed to creating an inclusive environment that values the diversity of its employees and does not discriminate against any employee or candidate. Women, minorities, veterans, people from the LGBTQ communities and people with disabilities are strongly encouraged to apply to join our teams. Reasonable accommodations to access job openings or to apply for a job are available.",Salud,,2022-09-09T00:00:00,2022-10-16,FULL_TIME
+"Software Engineer, .NET, Intelligence Features","Grammarly, Inc.",,,-1,-1,,USD,"Grammarly is excited to offer a remote-first hybrid working model. Team members can work primarily remotely in the United States, Canada, Ukraine, Germany, Poland, and Portugal. Conditions permitting, teams will meet in person a few weeks every quarter at one of Grammarly's hubs, currently in San Francisco, Kyiv, New York, Vancouver, and Berlin, or in a shared workspace in Krakow.
+Grammarly team members in this role must be based in the United States or Canada.
+
+The opportunity
+
+Grammarly empowers people to thrive and connect, whenever and wherever they communicate. Every day, 30 million people and 30,000 teams around the world use our AI-powered writing assistant. All of this begins with our team collaborating in a values-driven and learning-oriented environment.
+
+To achieve our ambitious goals, we’re looking for a Software Engineer with a background in .NET and Windows application development to join our Intelligence Features team. The person in this role will be responsible for delivering excellent user experience for machine learning intelligence features on our new Windows desktop software platform. They will work closely with our Product and Design teams to build and ship delightful, thoughtful, and unobtrusive UI for core Grammarly features.
+
+Grammarly’s engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. Read more about our stack or hear from our team on our technical blog.
+
+Your impact
+
+As a Software Engineer focused on .NET on our Intelligence Features team, you will build new user-facing intelligence features on our Windows desktop client.
+
+In this role, you will:
+
+Design, build, and ship major user-facing intelligence features in collaboration with our ML, Product, and Design teams.
+Develop features from early-stage prototypes to metrics-driven iterations to successful launches.
+Collaborate with other client teams across platforms to ensure consistency across Grammarly’s product offerings.
+Maintain excellent application performance and code quality by applying engineering best practices and thoughtful problem-solving.
+Ship production code using C#, .NET, and WPF to one of our most strategic flagship product offerings.
+We’re looking for someone who
+Embodies our EAGER values—is ethical, adaptable, gritty, empathetic, and remarkable.
+Is able to collaborate in person 2–4 weeks per quarter, traveling if necessary to the hub where the team is based.
+Delights in applying design thinking to user-centered product development.
+Enjoys fast-paced development with a tight feedback loop.
+Values thoughtful and proactive communication in collaborative and inclusive environments.
+Has strong knowledge of developing Windows applications with C#, .NET, and WPF.
+Is fluent in engineering best practices: code review, test coverage, and monitoring.
+Has—as a plus—experience developing desktop applications that work with low-level APIs, such as COM API and .NET interoperability.
+Support for you, professionally and personally
+Professional growth: We hire people we trust, and we give team members autonomy to do their best work. We also support professional development with training, coaching, and regular feedback.
+A connected team: Grammarly builds a product that helps people connect, and we apply this mindset to our own team. We have a highly collaborative culture supported by our EAGER values. We also take time to celebrate our colleagues and accomplishments with global, local, and team-specific events and programs.
+Comprehensive benefits: Grammarly offers all team members competitive pay along with a benefits package encompassing superior health care (including mental health benefits). We also offer support to set up a home office, ample and defined time off, gym and recreation stipends, 401(k) matching, and more.
+For Colorado-based employment: The salary range for this position is $111,000 - $239,000/year; however, base pay offered may vary considerably depending on job-related knowledge, skills, and experience. The compensation package includes a wide range of medical, dental, vision, financial, and other benefits, as well as equity.
+We encourage you to apply
+
+At Grammarly, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Grammarly will consider qualified applicants with criminal histories in a manner consistent with applicable law. Grammarly is an equal opportunity employer and a participant in the US Federal E-Verify program.
+
+Grammarly currently supports the long-term work of team members in the following US states: Arizona, California, Colorado, Florida, Georgia, Illinois, Maine, Massachusetts, Minnesota, Nevada, New Jersey, New York, North Carolina, Oregon, Pennsylvania (Kennett Township, New London Township, Pittsburgh City, Shaler Township), South Carolina, Texas, Utah, Virginia, and Washington, as well as the District of Columbia
+
+Grammarly currently supports the long-term work of team members in the following Canadian provinces: British Columbia, Ontario
+Please note that Grammarly’s COVID-19 vaccination policy requires that all team members in North America be vaccinated against COVID-19 to meet in person for Grammarly business or to work from a North America hub location. It is expected that this will be a requirement for this role. Qualified candidates in North America who cannot be vaccinated for medical reasons or because of a sincerely held religious belief may request a reasonable accommodation to this policy. For Europe, this policy requires team members to be vaccinated or produce a daily negative COVID-19 test administered on-site to work from the hub or attend in-person meetings.
+
+#LI-Hybrid",Tecnologías de la información,,2022-08-27T00:00:00,2022-10-16,OTHER
+Business Intelligence Engineer,"RLA Engineering, LLC",Washington State,Redmond,-1,-1,,USD,"9056-123471
+
+Position Summary
+The Business Intelligence Engineer is responsible for helping the client’s Architecture and Strategy team develop and implement a new SaaS billing solution on their cloud services platform. The client needs a new solution for billing their customers and reporting related customer data. If you are a creative business solutions expert who enjoys large scale projects, this position is for you!
+
+Must Have Requirements:
+1+ years of experience of doing Azure administration/engineering tasks
+1+ years of experience using Linux
+1+ years of experience with C#
+
+
+Duties and Responsibilities:
+Determine business data reporting and analysis requirements, working with client business units to answer key business questions; and identify new data requirements, analysis strategies, and reporting mechanisms
+Collaborate effectively with and
+systems, Object Oriented Programming and web application development
+Familiarity with Azure Quantum, Quantum Development Kit, Q#
+Ability to work and thrive in a fast- supports internal end-users, cross-functional software development teams, Database Administrators and Developers, and technical support and/or sustaining engineering teams to solve problems, implement new solutions, and deliver successfully against high operational standards of system availability and reliability
+Build data warehousing systems for business intelligence, reporting, and analytics
+Assist in business report generation to internal and external customers for business decision making
+Assist in data administration, modeling, and integration activities in data warehouse systems
+Analyze key metrics, data findings, error reporting, and performance management control; test solutions and resolve issues; design conceptual, logical, and physical data models; build and maintain multiple databases; and provide analytical support
+Develop ETL (Extract, Transform, and Load) processes, possibly using SQL stored procedures and/or SSIS packages
+Manipulate and mine data from database tables, such as SQL server, Oracle, Data Warehouse, and FC log files
+Write scripts that identify gaps in processes, giving the team the ability to solve issues with the identified root cause analysis
+Recommend enhancements and modifications to optimize business intelligence processes
+Maintain documentation for all business intelligence processes
+Perform other duties as needed
+
+
+Job Requirements:
+Education and Experience: The requirements listed below are representative of the knowledge, skill, and/or ability required.High School Diploma, GED or Equivalent; Bachelor’s degree in Computer Science, Computer Engineering, Business Analytics or related field preferred
+Experience with Azure application services/functions
+Experience with Agile development practices including scrums
+
+
+Qualifications:
+Deep knowledge of how web applications work, including session management and best development practices
+Adequate knowledge of relational database paced environment, learn rapidly and master diverse technologies and techniques
+Track record of meeting project deadlines
+Ability to frame and align to clear problems, vision, and goals
+Strong collaboration skills across disciplines and organizations
+Customer service orientated, ensuring needs are met in a timely fashion
+Ability to take opportunities for continuous improvement and implement documented process improvements
+Ability to work on multiple projects concurrently; demonstrated organization, problem-solving, project management, and time management skills
+Demonstrated strong ability to remotely work well within a team environment, or independently; strong interpersonal and teamwork skills; ability to work and interact effectively with team members from other disciplines, cultures, and organizations
+Excellent verbal and written communication skills; ability to effectively inform and present ideas confidently and persuasively to peers and managers; excellent email, telephone and virtual meeting etiquette
+Ability to take initiative to ask questions, ask for help, or provide updates, without reluctance
+Ability to meet the eligibility requirements for working in the US without RLA sponsorship for employment visa status
+Strong computer skills that include proficiency with MS Office (Word, Outlook, Excel, PowerPoint, and Visio), Teams and SharePoint
+
+
+Language Skills:
+Ability to read, write, and speak English proficiently
+
+
+Physical Demands:
+While performing the duties of this job, the employee is regularly required to talk or hear.
+Frequently required to stand, walk, sit, use hands to feel; reach with hand and arms, and stoop, kneel, or crouch.
+The employee must occasionally lift and/or move up to 25 pounds.
+Specific vision requirements include the ability to see at close range, distance vision, peripheral vision, depth perception, and the ability to adjust focus.
+At times, may require more than 40 hours per week to perform the duties of the position.
+
+
+Work Environment:
+The position typically operates in a standard office environment.
+This role may use standard office equipment such as computer, phones, photocopiers, filing cabinets, and fax machines.",Recursos humanos,,2022-09-12T00:00:00,2022-10-16,OTHER

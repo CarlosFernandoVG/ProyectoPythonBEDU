@@ -1,0 +1,1017 @@
+Job_title,Company,State,City,Min_Salary,Max_Salary,unitText,SalaryCurrency,Job_Desc,Industry,Rating,Date_Posted,Valid_until,Job_Type
+Junior Software Engineer - System Integration,Sanctuary AI,British Columbia,Vancouver,-1,-1,,CAD,"Your New Role and TeamOur System Integration team is looking to hire a Junior Software Engineer. Reporting to the System Integration Team Lead, you'll gain a comprehensive understanding of the design, architecture, and implementation of our platform and machine learning systems that power our general-purpose robots.The ideal applicants for this position enjoy thinking broadly and are eager to learn and develop technical skills while gaining valuable industry experience. Ultimately, you'll be a valued part of the team as you learn and adapt to new, complex development environments, own solutions from design and execution through to deployment and support, and innovate best practices that drive continuous improvements in our robotic systems.*Our Success Criteria*Bring hands-on experience working with high-performing teams on academic group projects and/or internshipsGain cutting-edge career experience while automating our workflows/processes, managing, optimizing, and securing on-robot, edge computers, and cloud environmentsExpand your career capabilities as you refine build, deploy, and monitor component subsystems, ensuring that all segments work together as a coherent unitAchieve company-wide visibility as you partner with developers to ensure the smooth deployment of these tools, provide technical support to end users, and structure and keep technical documentation updated*Your Experience*QualificationsBachelor's degree in Computer Science or related fieldsKnowledge of engineering best practices, including coding standards, testing, and operations1-3 Years of engineering experience with Python, Java, C++, or equivalentProven ability to design, implement, and test in a fast-paced environment*Skills*Familiarity with distributed system design and multithreadingUnderstanding of fundamentals of computer science, compilers and operating systems, data structures, and networking*Traits*Above all else, a consistently positive attitude and a willingness to do whatever it takes to create robust solutions to complex problemsStrong communication and interpersonal skillsSelf-motivated and able to solve problems independentlyObsession with bringing human-like intelligence to machinesWorking at SanctuarySanctuary is an equal opportunity employer; employment with Sanctuary is governed based on skills, competence, and qualifications and will not be influenced in any way by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.BenefitsMedical/dental/vision, life insurance, wellness programs, stock options, paid time off (vacation, paid holidays, sick time, and parental leave), scheduling and worksite flexibility by role, and more.*About Sanctuary*Founded in 2018 by Geordie Rose, Suzanne Gildert, Olivia Norton, and Ajay Agrawal, Sanctuary is a Vancouver, Canada-based company. Sanctuary is on a mission to create the world’s first human-like intelligence in general-purpose robots that will help us work more safely, efficiently, and sustainably. And in the not-too-distant future, help us explore, settle, and prosper in outer space.Members of the Sanctuary team founded D-Wave (a pioneer in the quantum computing industry), Kindred (first use of reinforcement learning in a production robot), and the Creative Destruction Lab (pioneered a revolutionary method for the commercialization of science for the betterment of humankind). The team has experience launching market-defining innovations rooted in previously unsolved and deep scientific problems.Job Type: Full-time",Tecnologías de la información,,2022-08-26T00:00:00,2022-10-16,FULL_TIME
+Senior Machine Learning Engineer (NLP),Global Relay,British Columbia,Vancouver,-1,-1,,CAD,"Who we are:
+
+For over 20 years, Global Relay has set the standard in enterprise information archiving with industry-leading cloud archiving, surveillance, eDiscovery, and analytics solutions. We securely capture and preserve the communications data of the world's most highly regulated firms, giving them greater visibility and control over their information and ensuring compliance with stringent regulations.
+
+Though we offer competitive compensation and benefits and all the other perks one would expect from an established company, we are not your typical technology company. Global Relay is a career-building company. A place for big ideas. New challenges. Groundbreaking innovation. It's a place where you can genuinely make an impact – and be recognized for it.
+
+We believe great businesses thrive on diversity, inclusion, and the contributions of all employees. To that end, we recruit candidates from different backgrounds and foster a work environment that encourages employees to collaborate and learn from each other, completely free of barriers.
+
+We encourage you to apply if your qualifications and experience are a good fit for any of our openings.
+Your Role:
+
+As a Senior Software Developer on the AI team you'll be using leading edge technologies to build AI-enabled products that are used by tens of thousands of users globally to enhance business efficiency. Working alongside data scientists and other developers, you will contribute to the building of machine learning (ML) solutions and other infrastructure components that will be used in features ranging from language detection, machine translation, sentiment analysis, business classifiers, and other natural language processing (NLP) related initiatives.
+
+Our AI team remains grounded with focus and purpose from Global Relay's startup days, while benefiting from being a mature, medium-sized company. We are looking for people with strong software engineering skills and experience writing Python code as well as experience working in a machine learning/data science capacity.
+
+Your Job:
+
+Work with data scientists and developers in the research, building and deployment of machine learning models and other infrastructure components for NLP related features
+Work as part of an Agile development team to write Python code
+Document code and document detail designs
+Design, in collaboration with team, the software implementations that satisfy business requirements
+Design, in collaboration with the architecture team, the system architectures that satisfy business requirements
+Write unit and integration tests for your code
+Collaborate with testers in development of test cases
+Develop deployment systems for Python based systems
+Collaborate with product owners on user story generation and refinement
+Participate in knowledge sharing activities with colleagues
+Monitor and support operation of production systems
+
+About You:
+
+Minimum 5 years of Python development experience, shipping enterprise grade software in an Agile environment
+Experience working with microservices
+Experience with web services technology such as REST, JSON, or Thrift
+Experience working on machine learning problems such as in natural language processing, speech recognition, and others
+Experience with machine learning libraries such as Scikit-learn, TensorFlow PyTorch, NLTK, SpaCy, and others
+Experience with multi-threaded programming
+Experience with unit testing and Test Driven Development (TDD)
+Experience with Continuous Integration/Continuous Delivery (CI/CD)
+Experience mentoring Junior developers
+Experience with any of the following is considered an asset:
+C++, Bash
+MLflow, OpenShift, Kubernetes, Docker
+
+What you can expect:
+
+At Global Relay, there's no ceiling to what you can achieve. It's the land of opportunity for the energetic, the intelligent, the driven. You'll receive the mentoring, coaching, and support you need to reach your career goals. You'll be part of a culture that breeds creativity and rewards perseverance and hard work. And you'll be working alongside smart, talented individuals from diverse backgrounds, with complementary knowledge and skills.
+
+Global Relay is an equal-opportunity employer committed to diversity, equity, and inclusion.
+
+We seek to ensure reasonable adjustments, accommodations, and personal time are personalized to meet the unique needs of every individual.
+
+We understand flexible work arrangements are important, and we encourage that in our work culture. Whether it's flexibility around work hours, workstyle, or lifestyle, we want to ensure our employees have a healthy work/life balance. We support and value a hybrid work model that blends collaboration with the team in the office and focus time from the comfort of your home.
+
+To learn more about our business, culture, and community involvement, visit www.globalrelay.com.",Tecnologías de la información,,2022-08-18T00:00:00,2022-10-16,OTHER
+"Junior Associate Data Science, Class of 2023",Publicis Sapient,Ontario,Toronto,-1,-1,,CAD,"Company Description
+Publicis Sapient is a digital transformation partner helping established organizations get to their future, digitally-enabled state, both in the way they work and the way they serve their customers. We help unlock value through a start-up mindset and modern methods, fusing strategy, consulting and customer experience with agile engineering and problem-solving creativity. United by our core values and our purpose of helping people thrive in the brave pursuit of next, our 20,000+ people in 53 offices around the world combine experience across technology, data sciences, consulting and customer obsession to accelerate our clients’ businesses through designing the products and services their customers truly value.
+
+Job Description
+As a Junior Associate in our Data Science practice, you will develop a deep understanding of how customers engage with our client brands and digital experiences. You will leverage data and your analytics/data science skills to make recommendations that will drive incremental revenue, reduce cost and optimize the customer experience.
+You will develop new technical data science and machine learning skills as you build models, begin working with digital analytics platforms to collect and analyze customer data. Then you will harness data to deliver personalized experiences to customers and report on their performance. After developing a thorough understanding of the performance of our clients’ business you will develop and testing hypotheses for driving incremental value from personalized marketing initiatives.
+Through your exposure to project work, you will familiarize yourself with many areas of our practice, developing expertise and a specialization.
+As part of our new graduate program, you will be on-boarded into a variety of digital analytics tools and will be working with clients by month 2. You’ll also receive on-going structured learning during your first three years that is tailored to you, and you will also be supported with your growth & progression.
+Your Impact:
+You will function as part of a world class Data Science team to support various AI and machine learning initiatives
+Contribute to solving complex marketing and business challenges by accessing, integrating, manipulating, mining and modeling a variety of data sources
+Use distributed computing systems to ingest, access and integrate various big data sources
+Perform exploratory data analysis, data cleansing and imputation, feature generation in preparation to the modeling process
+Apply various quantitative techniques to build predictive models and uncover patterns in data
+Build scalable data pipelines and models for real-time modeling frameworks
+Document and visualize your work and outputs for technical and non-technical audiences
+Contribute to the Data Science capability through presenting work, mentoring talent, helping form best practices and point of views on various AI-related topics
+
+Qualifications
+We recognize that you might not meet 100% of the requirements listed below and that’s okay! We’d love to hear from you anyways.
+Required Qualifications
+Experience conducting data analysis through coursework, coop, and/or volunteer organizations
+Fluency in a data programming language such as SQL, Python, R, SAS
+Ability to integrate multiple methods to accomplish specific objective/project and apply techniques and learnings from past projects to new projects
+Great written and verbal communication and the ability to work closely with senior stakeholders
+Broad awareness of data science concepts including, linear regression, logistic regression, correlation variance, standard dev, dimensionality reduction, unsupervised learning, parameter tuning, cross-validation, boot strapping, forecasting and imputation
+Hands on evaluation experience with understanding of data exploration, visualization, model comparison, model evaluation, insights/interference, and data Interpretation / insight analysis.
+Broad understanding of digital landscape and martech principles
+Strong presentation and communication skills clearly developing client communications using tools such as PowerPoint, Excel and email
+A demonstrated willingness to learn (a successful candidate will be supported through the certification process of relevant tools for their accounts)
+BS/BA degree in Business and Mathematics, Economics, Statistics, Physics, Engineering, Bioinformatics, Computer Science, or other areas where analytics and business are applied
+Graduating between August 2022 and July 2023
+Willingness to travel up to 80-100% of the time
+Desired Qualifications
+Prior experience in data science
+Direct experience working with cloud platforms
+Additional Information
+As part of our dedication to an inclusive and diverse workforce, Publicis Sapient is committed to Equal Employment Opportunity without regard for race, color, national origin, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity, or religion. We are also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at hiring@publicissapient.com or you may call us at +1-617-621-0200.",Administración y consultoría,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+Software Developer (Golang),Fortinet,British Columbia,Burnaby,-1,-1,,CAD,"The new developer will be primarily working on the Web Content Filter.
+Include exists system maintain and new feature develop. The basic requirement is having some Python or Golang programming knowledge. Our ideal candidate will be smart/eager to learn. We are considering junior/new graduates for this role but also open to a strong candidate at the intermediate or senior level.
+Must have skills:
+ Experience with Python and software development methodology
+ Experience Linux, MySQL
+ Strong problem solving and analytical skills
+Desired skills:
+ Experience with Python, Go and software development methodology.
+ Experience with operating system interfaces for threads, process control
+ Experience with Linux platforms
+ Experience MySQL
+ Experience Machine Learning
+ Experience with scripting languages (PHP, Shell etc) is a plus
+ Experience with Java, C is a plus.
+Educational qualifications:
+ BS or MS degree in Computer Science, Electrical Engineering or related field
+#GD
+#LI-MIMI",Tecnologías de la información,,2022-08-26T00:00:00,2022-10-16,FULL_TIME
+Junior Engineer,Integral Engineering,Alberta,Edmonton,-1,-1,,CAD,"About usIntegral Engineering is an Edmonton-based, engineering consulting and technology company that specializes in using advanced engineering methods to help major oil and gas operators to manage their assets. We’re looking for highly motivated and talented engineers who are passionate about using a diverse set of skills ranging from applying physical models and statistics, and programming to visualizations, presentations and report writing. Our goal is to help our clients to solve their biggest challenges using the best tools we can find, and to communicate our work in an engaging and interactive way.As an engineer on our team, you will…Develop and apply advanced engineering methods in consulting projects for Fortune 500 oil and gas operatorsPresent your analyses to clients to help them make critical decisions about the operation of their assetsBe constantly looking for better ways to solve problems and visualize the results of your workWe’d love to hear from you if you’re someone with any of the following….Experience performing integrity or risk assessmentsExperience with probabilistic methods, reliability methods, or statistical analysisExperience with programming languagesExperience in machine learning or data scienceExperience with GIS data and geospatial analysisAny engineering experience working with oil and gas assets such as production and storage wells, pipelines, or facilitiesGreat interpersonal and communication skillsBachelor’s degree in Mechanical, Civil, Chemical or Electrical EngineeringWhy us….You’ll be a part of a focused and dynamic team that is excited to test and apply cutting edge technologies to engineering problemsGain a wide range of experience working in a growing companyEnjoy a culture that is built on the premise of freedom and responsibilityHave the opportunity to work remotely with flexible hoursJob Type: Full-timeSalary: $60,000.00-$75,000.00 per yearBenefits:Dental careEmployee assistance programExtended health careWork from homeSchedule:Monday to FridayCOVID-19 considerations:Work from home is available for all employees.Education:Bachelor's Degree (required)Application deadline: 2022-03-11",,,2022-08-26T00:00:00,2022-10-16,FULL_TIME
+"Senior Scientist, Cell Line Development (CMC Development)",AbCellera,British Columbia,Vancouver,-1,-1,,CAD,"AbCellera is a nimble, energetic, and quickly growing tech company that searches, decodes, and analyzes natural immune systems to find antibodies that its partners can develop into drugs to prevent and treat disease. We are not afraid of challenges and together we tackle tough problems. AbCellera has made significant news as a leader in the development of antibody therapeutics to treat COVID-19. We won't stop with this success though, and continue to partner with industry leaders to identify therapeutics for serious diseases. With over 400 AbCellerites and growing, we're expanding our capabilities to include internal CMC development and GMP manufacturing of antibodies to bring therapies from idea to patients, faster.
+
+The Senior Scientist will join our newly formed CMC Cell Line Development (CLD) group and be responsible for the generation of mammalian cell lines expressing therapeutic antibodies, bispecific antibodies, and other recombinant therapeutic proteins. These cell lines are used for the manufacturing of antibody therapies to support our partners' rapid transitions from target identification to clinical testing across therapeutic areas including oncology, inflammation, cardiovascular disease, pain, neurodegeneration, and more.
+
+The Senior Scientist will work in a high-performing, fast-paced collaborative environment, committed to ensuring the highest quality and compliance with applicable regulatory guidelines. This is a unique and exciting opportunity for the successful candidate to have a direct impact on establishing an industry leading CLD platform leveraging cutting-edge technologies.
+
+We'd love to hear from you if
+
+You are an innovator and ready to help new approaches to the discovery and development of therapeutics
+You have a strong desire to support early antibody discovery work by developing ways to improve and speed up the discovery to CMC development to GMP manufacturing paradigm
+You are ready to revolutionize therapeutic development and move at lightning speed to create a legacy in our industry
+You are an outstanding communicator and teammate
+You are highly motivated and excited about the opportunity to work with an inspired team on challenging problems that matter
+
+How you might spend your days:
+
+Contributing to AbCellera's internal platform capabilities and procedures, including the implementation of appropriate high-throughput and automated workflows.
+Conducting end-to-end cell line development for generating recombinant CHO cell lines, including vector design and selection of stable clonal cell lines ready for cell banking.
+Training and mentoring junior CLD team members.
+Conducting lab work in accordance with appropriate quality standards and ensuring all work is fully documented in a timely manner.
+Establishing appropriate quality practices and contributing to regulatory filings.
+Working cross-functionally with our antibody assessment team and other CMC functions including upstream and downstream development, analytical and formulation teams.
+Managing your own work to ensure that agreed targets are met in a timely manner and effectively communicating results, progress, and plans.
+
+Required qualifications and experience:
+
+PhD in Molecular Biology, Biochemical/Chemical Engineering, Bioengineering or related discipline with 5+ years of relevant industry experience. Candidates with an MSc degrees and 8+ years of industry experience or a BSc and 10+ years of industry experience will also be considered.
+Strong molecular biology background, including expression plasmid design, cloning, plasmid extraction and purification, PCR etc.
+Strong mammalian cell culture skills with industrial suspension CHO cell lines
+Experience with single-cell cloning, automation, and high-throughput technologies as applied to industrial CHO cell line development workflows for recombinant protein manufacturing.
+Knowledge of international quality and regulatory guidelines related to cell line development.
+Experience and knowledge of a range of CMC operations within biopharmaceutical development.
+Previous experience in preparation of regulatory submissions.
+Experience in writing protocols, SOPs, policies, risk assessments etc.
+Strong attention to detail.
+Ability to work collaboratively as a member of a cross-functional team with excellent interpersonal and communication skills.
+Foster a positive can-do attitude with a willingness to expand skill set and responsibilities.
+Ability to work in a fast-paced and dynamic technical environment.
+
+What we offer
+
+A generous compensation package including an equity stake in AbCellera's success. Our headquarters are nestled in the heart of Vancouver, Canada - we'll support you and your family in every way we can to relocate if you haven't had the joy of living in this beautiful area!
+
+About AbCellera
+
+At AbCellera, we find the next generation of therapeutic antibodies. To succeed, we have created innovative solutions at every step - custom antigen preparation and immunizations, microfluidics, high-throughput imaging, genomics, computation, machine learning and laboratory automation - leaving no stone unturned and revolutionizing how scientists can explore natural antibody diversity and the scale at which they can do it. You'll join a diverse and multi-disciplinary team of biologists, biochemists, engineers, bioinformaticians, computer scientists and physicists - all working together to bring better therapies to patients. This is life-changing research and you could be a part of it.
+
+We're a growing company with state-of-the-art discovery tools and the drive to be the best in the industry. This isn't just about having the best technology. We know we need a world-class team of innovators working together to solve the toughest problems. We look for people with drive and energy. Idealists. People we love and people we trust. This may be unconventional, but it is the key to our success. We're looking for someone like you to support and organize our efforts along the way.
+
+#LI-MS
+
+#LI-EM1",,,2022-09-12T00:00:00,2022-10-16,OTHER
+Data Scientist,Granify,Alberta,Edmonton,-1,-1,,CAD,"Data Scientist
+Granify is a rapidly growing technology company at the intersection of e-commerce, machine intelligence, and psychology. We’ve received investment from top investors, built a world-class team and a world-class product, and in the last year alone we generated over $650 million in incremental sales for many of the world's largest retailers!
+We’re searching for an experienced Data Scientist who values mastery, authenticity, and positivity to help build and grow our product. As a key member of our Data Science team, you will work with and analyze vast amounts of behaviour and transaction data, and design and implement algorithms which predict e-commerce shopper actions and needs. This includes - but goes well beyond - recommendations. This is an amazing opportunity to design algorithms which will be responsible for helping and influencing real shoppers across the world in real-time! We have access to and act on millions of shopper sessions per day. If you are a highly technical, hands-on, and mission-driven person who has a passion for solving problems in the area of ML/AI and e-commerce optimization, then this is the role for you.
+
+This is a full-time position. We are centrally located in Edmonton, but remote applications will also be considered.
+RESPONSIBILITIES
+
+Develop new and improve existing ML models that guide our interactions with shoppers
+Help design and create ML/AI based tools to interact with shoppers
+Evaluate performance statistics at an extremely detailed level and present insights and recommendations to teammates.
+Analyze, interpret and use machine learning and data mining algorithms on the enormous amount of behavioural and transactional data
+Recommend new experiments supported by your findings and research
+Dissect online stores’ shoppers data to identify opportunities to increase conversion, order value, lifetime value, and customer delight
+Write code to implement your experiments
+Work closely with our developers and engineers to bring your new experiments to life
+Solve a wide variety of complex problems as they arise that will often require significant analysis of our data, research and deep thinking
+Participate in brainstorming sessions with your teammates to determine opportunities for improvement and experiments
+Research, design and prototype intelligent systems with the aim of enhancing online shopper experience.
+Keep up-to-date with the latest papers in artificial intelligence and machine learning to propose solutions for real problems in e-commerce.
+Help to build infrastructure to support the evolution of our shopper interaction toolset
+Collaborate with other DS team members, mentor junior DS, participate in code reviews, and share knowledge.
+Participate in active maintenance and code reviews in a large codebase, suggesting and implementing changes as appropriate.
+Troubleshoot, test, and debug to your heart’s content.
+
+ABOUT YOU
+
+BSc (Msc/Phd preferred) in Computer Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Engineering, Physics, or a related discipline, with (at minimum) graduate-level courses in machine learning, or equivalent practical experience.
+At least 3+ years of real-world experience implementing Machine Learning models
+Comfortable jumping into an existing ML modelling code base
+Proficient in at least one programming language, preferably Python (focus on ML)
+Demonstrated ability to apply statistical or data mining techniques to solve real problems
+Ability to organize, interpret, and analyze large amounts of data
+Advanced skills and experience in machine learning and data mining
+Strong research experience in machine learning, preferably in one or more of the following (in no particular order):
+Unsupervised and Supervised Learning
+Reinforcement learning
+Recommender and/or ranking systems
+Deep learning and deep generative models
+Computer vision
+NLP
+Intimately familiarity with the DS workflow:
+Data gathering and cleaning
+Feature engineering
+Model design, coding, hyperparameter tuning and validations
+
+Proficient in deep learning frameworks like Tensorflow, PyTorch, etc. and scientific computing packages like NumPy. Able to implement an algorithm as described in an academic paper using these frameworks in quality code.
+Knowledge of various ML and statistical tools and libraries (e.g. TensorFlow, sciPy, R, and similar)
+Good intuition for applying ML/AI theory to make business-oriented products with minimal guidance.
+
+
+BONUS EXPERIENCE
+
+Experienced using shopper data
+Worked with ‘Big data’
+Hands-on Knowledge of distributed computing frameworks (e.g. Spark, AWS, Flink)
+Experience in online advertising/marketing analytics, behavioral targeting or web analytics
+Experience with distributed databases
+
+
+OUR TECH STACK
+
+We are using AWS cloud and the ML stack includes Python, TensorFlow, Spark, DataBricks and Hadoop. We have dedicated Data Engineers and Software Developers who provide support and tools needed for research and help with implementation of research outcomes.
+ABOUT GRANIFY
+
+Granify merges machine intelligence and digital psychology to automatically increase sales for retailers. This is the future and it’s an exceptionally interesting world to delve into every day! Our mission is to provide the ultimate experience for every shopper at any given point in time and, in doing so, completely redefine the trillion-dollar e-commerce market. We hope you can help us achieve this ambitious mission!
+Granify is backed by early investors in Tesla, Facebook, SpaceX, AirBnB, Pinterest, Palantir, Alibaba, and Yelp and won Top E-Commerce Solution and Top Digital Startup at the DAA Awards!",Tecnologías de la información,,2022-09-06T00:00:00,2022-10-16,FULL_TIME
+Jr. Data Scientist,SimpTek Technologies,New Brunswick,Fredericton,-1,-1,,CAD,"SimpTek Technologies - Fredericton, NB:
+SimpTek is seeking a Jr. Data Scientist to join our growing team. You will play a crucial role in helping SimpTek make smarter decisions to deliver even better products. Your primary focus will be on applying data mining techniques, doing statistical analysis, and building high-quality prediction systems integrated with our products to improve and extend the features used by our existing platform.
+
+We are looking for someone that thrives on the urgency of startups and can leverage data analytics while being creative and is eager to learn and evolve as the job demands. You will be part of a dynamic team that is passionate about building better ways to provide energy insights for buildings. We’re looking for someone who can take ownership, and if you think you have those qualifications, you might be a good fit to join our team!
+
+Responsibilities:
+
+Selecting features, building and optimizing classifiers using machine learning techniques
+Enhancing data collection procedures to include information that is relevant for building analysis
+Processing, cleansing, and verifying the integrity of data used for analysis
+Doing ad-hoc analysis and presenting results in a clear manner
+Integration with 3rd party API’s for data collection and analysis, including weather data, time-series data, and event-based data sets
+
+Skills and Qualifications:
+
+1-2 years experience in similar roles
+Excellent understanding of machine learning techniques and algorithms, such as k-NN,
+Naive Bayes, SVM, Decision Forests, etc.
+Experience with common data science toolkits.
+Great verbal and written communication skills
+Experience with data visualization tools, such as D3.js, Highcharts.js etc.
+Proficiency in using query languages like SQL.
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills
+Data-oriented personality
+
+About SimpTek Technologies:
+We are creating a platform that changes the way utilities, building owners and energy service providers collaborate. By using energy data analytics, SimpTek is building a new way of connecting consumers with personalized products and services to drive towards a zero-carbon world, We call this the Gride Edge Economy
+
+We can offer you::
+
+Competitive salary
+Benefits
+The opportunity to work with passionate and driven individuals
+Flexible schedule
+
+Question::
+If you were given a set of resumes with the goal to choose the most qualified candidate for the
+Data Scientist position at SimpTek, how would you determine the best candidate?",,,2022-08-21T00:00:00,2022-10-16,OTHER
+Junior Process Engineer,Hatch,,,-1,-1,,CAD,"Requisition ID: 81584
+Job Category: Mining; Engineering; Metals
+Location: Mississauga, ON, Canada
+Join a company that is passionately committed to the pursuit of a better world through positive change. With more than 65 years of business and technical expertise in mining, energy, and infrastructure, our 10,000 colleagues in 150 countries tirelessly work toward bettering the industries in which we operate. With practical solutions that are safe, innovative and sustainable, we think globally while acting locally. Are you looking for an opportunity to join a diverse group of professionals who are committed to remaining exceptional? We look forward to hearing from you.
+If it isn't grown, it's mined. Our mining and metals teams help our clients to safely and sustainably mine the minerals and metals used in our everyday lives. Want to play a part of innovating and optimizing the mining life cycle on greenfield and brownfield facilities? Apply today!
+Position Summary:
+The Hatch Metals & Mining group is seeking a Pyrometallurgy EIT with interest in Process Engineering. Reporting to the Global Director Pyrometallurgy, you will support projects globally based out of our Mississauga Head Office location. Bachelor, Master and PhD candidates are encouraged to apply for this position.
+What Will a Career at Hatch Offer You:
+You will:
+Be given opportunities to contribute to complex projects around the world in meaningful ways
+Work on problems and gain experience in the office and on project sites
+Collaborate with diverse teams locally and globally
+Work in an exciting environment where you can apply your academic learning on a daily basis
+Gain relevant experience and support in obtaining your professional designation
+Benefit from formal and informal mentorship from some of the leading minds and authorities in the industry
+Participate in local Professional Development Programs, Sustainability Week, Toastmasters, and more to develop your skills
+Join in charitable, social, and sports activities with other Hatch employees
+We’re entrepreneurs with a technical soul. Our flat organizational structure creates an atmosphere of openness and participation. We build practical solutions that are safe, innovative, and sustainable. Our ultimate goal is to achieve no harm for our people, our clients, and our communities.
+Responsibilities:
+Applying problem solving skills to complete project work
+Work in a multi-disciplinary engineering team environment, with focus on assisting the process team
+Assist with wide range of metals projects, including critical metals for battery manufacturing
+Assist with metal industry decarbonization projects to apply new technologies and approaches to reduce greenhouse gas emissions
+Assist with developing process control, simulation, automation, prediction and operation models, with emphases on big-data and machine learning
+Assist with interpretation of simulation and field data as well as developing test work programs
+Assist with preparation of engineering documents and calculations, such as mass and energy balances, design criteria, engineering reports, process facility layout, hazard studies, cost estimation, etc.
+Assist with project management within the scope, schedule, and budget provided by the process engineers and project managers
+Assist with analysis of on-site data and reporting
+Education and Experience:
+Must be working towards graduating in 2023, or recently graduated, with an undergraduate or graduate Discipline(s) Engineering degree with a Materials Engineering, Metallurgical Engineering or Chemical Engineering specialization.
+Strong academic record (top quintile).
+Ability to evaluate ferrous and non-ferrous metallurgical processes by applying concepts of high-temperature chemistry, heat and mass transfer, kinetics and thermodynamics to assist in the modeling and design of process plants.
+Ability to program in popular languages for data processing and/or to develop numerical models for metallurgical processes.
+Ability to effectively utilize written and oral communication skills to describe, depict and explain their work to team members and clients.
+Must have proven skills with MS Excel, Word, and PowerPoint.
+Competencies (knowledge, skill, attributes):
+Good understanding of engineering and business fundamentals as they apply to engineering problems and projects
+Ability to learn quickly and to take on new challenges
+Collaborative team player with excellent interpersonal skills
+Excellent organizational skills and attention to detail
+Strong written and verbal communication skills
+Shows critical and creative thinking and problem solving, and brings forward solutions for our clients' toughest challenges
+Adapts and embraces change
+Relevant Courses:
+Metallurgical Engineering
+Materials Engineering
+Chemical Engineering
+Mechanical Engineering
+Extractive / Process Metallurgy
+Thermodynamics and High Temperature Thermochemistry
+Popular Programming Languages (e.g., Python, MatLab, C++, VBA)
+To be considered, please use your school email address when applying. If you have applied to a role with Hatch in the past, please ensure your school email is your current email in our system.
+For more information on our graduate recruiting process visit hatch.com/students. To be considered you must submit a Resume, Transcript (official or unofficial)
+Why join us?
+Work with great people to make a difference
+Collaborate on exciting projects to develop innovative solutions
+Top employer
+What we offer you?
+Flexible work environment
+Long term career development
+Think globally, work locally
+Don't meet every single requirement? You don't need to. At Hatch, we are building a diverse, inclusive workplace that fosters innovation. If you're interested in this role, we encourage you to apply even if your past experiences don't perfectly align with the skills we've listed.
+We're committed to fostering a workforce that reflects the diversity of the communities in which we operate and serve. Hatch is an Equal Opportunity Employer that considers applicants without regard to age, race, color, national origin, citizenship, religion, creed, gender, sexual orientation, marital status, disability, or any other protected status. If you have any accommodation requirements, please let us know. We'll do our best to meet your needs in accordance with applicable local legislation.
+[[req_postHashtag]]","Energía, minería e infraestructura pública",,2022-09-13T00:00:00,2022-10-16,OTHER
+Staff Machine Learning Engineer,PagerDuty,Ontario,Toronto,-1,-1,,CAD,"We are interviewing and onboarding 100% virtually at this time. PagerDuty is focused on inclusion and employee well-being by building a culture that isn't location specific and gives equal opportunity to everyone—regardless of where you are working. Unless your job requirements make it necessary to be in a company office, you may choose to work in-office, remotely, or hybrid.
+Why We Need You:
+
+
+We're looking for a staff-level engineer and a proven technical leader passionate about successfully collaborating with data scientists and engineers to run machine learning models in production. We expect you to understand requirements from the data science and data engineering team and drive alignment with Engineering teams on design patterns and best practices to support the business.
+
+
+You are expected to anticipate data science & engineering-related bottlenecks, suggest escalation and investment wherever necessary, communicate immediate and long-term technical as well as strategic solutions and trade-offs, and will possess an excellent capacity to manage time. In addition, you will demonstrate emotional intelligence as you navigate stakeholder relationships championing the organization's data science and machine learning initiatives.
+
+How you contribute to our vision: Key Responsibilities
+Build and improve the capabilities of the data platform that enable and accelerate the production of machine learning (ML) based solutions
+Drive and define standards for data engineering across the organization.
+Provide guidance, technical leadership, and mentoring to other members of the team
+Proactively recommend improvements and new approaches addressing potential systemic pain points and technical debt
+Anticipate technical demands on the data platform based on the organization's roadmap and systematically drive the evolution of the architecture towards those ends
+Mentor junior members and participate in scaling up the existing team
+Develop a long-term plan for data science investments
+Minimum Requirements
+You have 8+ years of experience building, designing, and evolving data architecture for large-scale systems
+Experience working with Product teams ensuring and driving a timely delivery
+Have a deep understanding of the trade-offs to be considered when designing and delivering machine learning solutions to production
+Demonstrated experience with data modeling, database design, extract transform load (ETL) processes, working with unstructured data, and cloud-based data infrastructure
+Awareness of and experience with ML processes (exploration, training, deployment), technologies (services, packages), and infrastructure (AWS)
+Passionate about data/ML engineering and interested in driving discussions with stakeholders and executives
+Not sure if you qualify?
+
+Apply anyway! We extend opportunities to a broad array of candidates, including those with diverse workplace experiences and backgrounds. Whether you're new to the corporate world, returning to work after a gap in employment, or simply looking to transition or take the next step in your career path, we are excited to connect with you.
+
+PagerDuty Offers
+
+We are dedicated to providing a culture where our people are happy, enabled and inspired to do their best. One of the ways we do this is by developing a comprehensive total rewards approach that supports employees and their loved ones. As a global organization, our programs are competitive with industry standards and aligned with local laws and regulations.
+
+Your package may include:
+Competitive salary and company equity
+Comprehensive benefits package from day one
+ESPP (Employee Stock Purchase Program)
+Retirement or pension plan
+Paid parental leave - up to 22 weeks for pregnant parent, up to 12 weeks for non-pregnant parent (some countries have longer leave standards and we comply with local laws)
+Generous paid vacation time
+Paid holidays and sick leave
+Paid employee volunteer time - 20 hours per year
+Bi-annual company-wide hack weeks
+Mental wellness programs
+Dutonian Wellness Days - scheduled company-wide paid days off in addition to PTO and scheduled holidays
+HibernationDuty - a week each year when everyone at PagerDuty, with the exception of a small, coverage crew, is asked to take a much needed break to truly disconnect and recharge
+About PagerDuty
+
+PagerDuty, Inc. (NYSE:PD) is a global leader in digital operations management, serving over 14,000 customers and 850,000 users worldwide, including 65% of the Fortune 100.
+
+For the teams who build and run digital systems, PagerDuty is the best way to manage the urgent, mission-critical work that is essential to keeping digital services always on. We make it easy to handle any unplanned task, event, or opportunity, right away.
+
+Led by CEO Jennifer Tejada, 50% of our board of directors is comprised of women, 45% of our managers are from underrepresented groups, and we are a proud member of the Pledge 1% Movement, committed to donating 1% Equity, 1% Employee time, and 1% Product to accelerate change in our communities. We are Great Place to Work-certified™ and our product is top rated in its category on TrustRadius.
+
+From how we build our teams to who sits in the boardroom, we hope you can see yourself at PagerDuty.
+
+Learn more: Social Impact; Inclusion, Diversity, & Equity; Culture
+
+Additional Information
+
+PagerDuty is committed to creating a diverse environment and is an equal opportunity employer. PagerDuty does not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, parental status, veteran status, or disability status.
+
+PagerDuty is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. Should you require accommodation, please email accommodation@pagerduty.com and we will work with you to meet your accessibility needs.
+
+PagerDuty verifies work authorization in accordance with the requirements of your local jurisdiction.",Tecnologías de la información,,2022-09-01T00:00:00,2022-10-16,PART_TIME
+Junior Data Scientist,HonestDoor,Alberta,Edmonton,-1,-1,,CAD,"HonestDoor is looking for a junior data scientist to support our data team. The ideal candidate has knowledge of Python and is interested in working in a start-up environment. They learn quickly and, when they don't understand something, they ask questions. They are able to follow directions/instructions and are keen on learning the intricacies of the models and how they work.In this role, you will:- Develop new and improve existing ML models- Analyze, interpret and use machine learning and data mining algorithms on the enormous amount of data- Write code to implement your experiments- Perform analysis for a wide range of requests using data from various platforms.- Support business operations in providing advice stemming from data and process analysis taken from internal and external sources.If you are based in Edmonton, this role would be a hybrid remote/in-person, however, we are open to making sure that any work arrangements fit your needs. We guarantee that you'll learn a lot about both machine learning and working in a start-up.Skills & Qualifications: Proficient in Python (preferably with a focus on ML)significant database querying (SQL) data analysis and visualization experience.Comfortable jumping into an existing ML modelling code baseGood intuition for applying ML/AI theory to make business-oriented productsJob Types: Full-time, PermanentSalary: $40,000.00-$60,000.00 per yearSchedule:8 hour shiftMonday to FridayApplication deadline: 2022-09-30",,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Senior Machine Learning Engineer,Loblaw Digital,Ontario,Toronto,-1,-1,,CAD,"At Loblaw Digital, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experiences, or designing an app that will impact the lives of people across the country, we’re up for the challenge. Loblaw Digital is the team responsible for building and operating the online businesses of Canada’s largest and most successful retailer. Based in downtown Toronto, we are an entrepreneurial, fast-paced, and collaborative team working towards transforming the way Canadians shop by creating leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, loyalty, and apparel spaces, and we’re only just getting started! To achieve these goals, we are looking for talented and passionate individuals who want to collaborate and solve challenging problems and make significant and lasting impact on Canadians.
+As a Senior Machine Learning Engineer on our team, you will build data science products that helps us build a better fulfillment platform that
+improves our customers’ experience as well as the efficiency of our colleagues working in store operations. Leveraging the wealth of operational data available you’ll focus on delivering solutions that predict, forecast & optimize how we manage our inventory operations and our fulfillment strategy to provide a fulfillment experience that balances a complex trade-off between ensuring millions of Canadians who shop with us get their orders in a timely fashion and ensuring our operational & fulfillment costs stay low.
+Your work requires communicating with an array of business stakeholders across Store Operations, Fulfillment Software Engineering Teams, Product Management, and Online Analytics to name a few primary ones. From brainstorming on numerous options to solve a problem, through deploying the completed solution in a production environment, you will partner with colleagues who offer a diverse set of ideas that are all immensely valuable to our purpose and mission.
+What You Will Do
+Drive solutions for our businesses, providing carefully designed approaches using your technical skills combined with an ability to inspire the more junior members of the team, with a focus on owning pieces of our solution space
+Communicate cross-functionally with business teams — Product, Store Operations, Fulfillment Specialist, Store & Area Managers— to source data, establish requirements and define success
+Code robust, scalable, high-performance ML solutions based on massive structured and unstructured datasets from various sources
+Collaborate with Engineering and Data Platform teams to build and deploy your ML models into production
+Design experiments to measure the effectiveness of your product in driving a seamless fulfillment experience through key metrics such as labour rate, pick efficiency, orders ready of time, fill rate etc.
+Document and share, findings and results in a structured manner with stakeholders, as well as drive technical discussions with other Data Science teams
+What We Need
+MS or Ph.D. in a STEM field — especially computer science — or BS plus equivalent work experience in a Data Scientist or a closely related role
+A portfolio including work in the domain of data science and ML with a focus on predictive analytics, forecasting, operations research & supply chain optimization
+Ability to deal with some uncertainty and take the lead in designing individual components that sit together in the technical solution architecture
+Creative, resourceful, and productive problem-solver
+Passion for applying data science to dynamic open-ended problems
+Able to work independently and collaboratively
+Comfortable with advanced SQL querying
+Proficient in Python programming
+Experience in shell scripting/unix
+Experience with big-data tools, e.g. Spark, Beam, Kafka
+Experience with Airflow for workflow scheduling
+Experience with or working knowledge of a public cloud AWS, GCP, Azure
+Experience with or knowledge of software development best practice
+How you’ll succeed
+At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. You will get to work with some of the best digital minds and will have the support of world class technologies to craft products our customers will love!
+Loblaw Digital recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us.",Tecnologías de la información,,2022-09-13T00:00:00,2022-10-16,FULL_TIME
+Junior to Senior Data Geoscientist,SRK Consulting,Ontario,Toronto,-1,-1,,CAD,"Our North American geology group is one of the largest within SRK, with a diverse cross-section of structural geologists, resource geologists, and geostatisticians. As a junior- to senior-level consultant within this team, your general responsibilities will include the completion of data science projects applied to mining-related geoscience. Our work incorporates data processing, data analysis and the implementation of machine learning models applied from early exploration through mining project development (including resource and engineering studies) to operational support.An important aspect of working for SRK will be the development of your consultancy. We encourage all engineers and scientists to grow their consulting skills under the broad SRK umbrella; the successful applicant will therefore be expected to establish and maintain client relationships.A postgraduate degree specializing in the application of advanced statistical analysis and/or machine learning to geoscienceMining / metals exploration experienceProfessional membership of the Association of Professional Geoscientists of Ontario (APGO) or the Professional Engineers of Ontario (PEO), or eligibility to obtain itA strong theoretical background with demonstrated competence in defining applied solutionsProficiency with a scientific coding language and with data-science and/or machine learning packagesProven ability to work independently and as part of a team to generate, implement, and complete projectsStrong written and verbal communication skillsAdditional Beneficial Experience: An undergraduate degree in geologyProficiency with GIS and/or 3D modeling softwareExperience in economic geology, structural geology, geostatistics, geochemistry and/or geophysicsExperience with modern, implicit modelling tools and/or geophysical interpretationPrior consulting experienceIn this position, you will work in multidisciplinary teams on projects around the world and may be required to travel internationally.Job Types: Full-time, Permanent",Administración y consultoría,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Staff Machine Learning Infrastructure Engineer,Forethought,Ontario,Toronto,-1,-1,,CAD,"Founded by a team of Facebook, Dropbox, and LinkedIn alumni in 2017, Forethought's mission is to ""unlock human potential through AI."" Forethought is a leading AI company providing human-centered AI solutions that transform the customer experience. Our products enable seamless customer experiences by infusing intelligence at each stage of the customer support journey: resolving common cases instantly, predicting and prioritizing cases, and assisting agents with relevant knowledge—all from one AI platform.
+
+Forethought has grown 22x in the past two years and has raised over $92M in VC funding from top investors including STEADFAST Capital Ventures, New Enterprise Associates (NEA), Ashton Kutcher and Guy Oseary's Sound Ventures, Gwyneth Paltrow, NBA Vet Baron Davis, Robert Downey Jr., Sean ""Diddy"" Combs, LL Cool J, and the CEOs of Robinhood, Carta, and Qualtrics. In 2018, Forethought launched and won at TechCrunch Disrupt—the world's most prestigious startup competition—and was featured in Forbes 30 Under 30. More recently, Forethought was listed as one of Forbes' Next Billion-Dollar Startups.
+We're looking for world-class Machine Learning Infrastructure Engineers to join our team! We're looking for folks with a growth mindset who love to solve the world's hardest problems and want to have an impact on the world by building next-generation AI solutions for customer support.
+
+As a member of the infrastructure team, you will focus on applying MLOps methodologies with infrastructure that enables machine learning product teams to develop advanced NLP solutions that power state-of-the-art models for our customers. This includes deploying and maintaining a next-generation experimentation platform for our Machine Learning Engineers to experiment with the latest technologies.
+
+What You'll Be Doing (Responsibilities):
+
+Design, build and maintain optimized and scalable ML platforms for machine learning and data science teams.
+Design and develop production backend microservices and infrastructure to perform scalable machine learning training and inference and monitoring in the cloud.
+Build and manage a next-generation ML experimentation platform for our Machine Learning Engineers and Scientists.
+Deploy and manage third-party annotation solutions to empower engineers to collect, sanitize and, anonymize the data needed for training.
+Participate in building data pipelines going from our databases into data lakes.
+
+Who You Are (Skill):
+
+5+ years of experience in software engineering
+Proficiency in writing production-quality code in Python
+Good understanding of large-scale processing frameworks such as Kafka, Spark, sparkSQL, and Airflow
+ Familiarity with Ray, Kubeflow, MLFlow, and AWS Sagemaker or GCP AI Platform
+Familiarity with containerization, MLOps, and DevOps (Docker, Kubernetes)
+Familiarity with Terraform for Infrastructure as Code
+
+What You Get (Benefits):
+
+A chance to be an early member of a hyper-growth startup with equity to match
+An opportunity to help us define a new market within AI
+Ability to solve challenging problems with a world-class team
+A low-ego company culture that is obsessed with feedback and helping each other grow
+Hybrid work structure that allows you to choose where you get your best work done
+Competitive medical, dental, and vision coverage
+Paid maternity, paternity, & adoption leave
+Unlimited paid time off",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,OTHER
+Power BI Developer,White Cap,Ontario,Vaughan,-1,-1,,CAD,"A position at White Cap isn’t your ordinary job. You’ll work in an exciting and diverse environment, meet interesting people, and have a variety of career opportunities.
+The White Cap family is committed to Building Trust on Every Job. We do this by being deeply knowledgeable, fully capable, and always dependable, and our associates are the driving force behind this commitment.
+Job Summary
+The primary responsibility for this role will be to provide data analytics and reporting to the various company functions. This includes implementing solutions for creating new and optimizing existing reports using standard tools such as power BI and SQL. This helps the company to create and monitor new key performance indicators and operational metrics.
+Major Tasks, Responsibilities and Key Accountabilities
+ Develop new reports and dashboards using Power BI builder
+ Troubleshoot, test, and refresh existing solutions and ensure the solutions perform as necessary and document results
+ Develop Microsoft SQL server queries to consume, aggregate, and report data from various data sources and actively use necessary data transformation techniques to convert raw data to clean usable data
+ Tackle business problems by converting raw data into meaningful and actionable business insights
+ Collaborate directly with peers and business leaders to transform ideas into actions
+ Ensure all key stakeholders are aware of progress and next steps in timely and accurate manner
+Nature and Scope
+Demonstrates skill in data analysis techniques by resolving missing/incomplete information and inconsistencies/anomalies in more complex research/data.
+Nature of work requires increasing independence; receives guidance only on unusual, complex problems or issues. Work review typically involves periodic review of output by a supervisor and/or direct customers of the process.
+May provide general guidance/direction to or train junior level support or professional personnel.
+Work Environment
+Located in a comfortable indoor area. Any unpleasant conditions would be infrequent and not objectionable.
+Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.
+Typically requires overnight travel less than 10% of the time.
+Education and Experience
+Typically requires BS/BA in a related discipline. Generally 2-5 years of experience in a related field OR MS/MA and generally 2-4 years of experience in a related field. Certification is required in some areas.
+Preferred Qualifications
+ Bachelor's Degree
+ 1 Year but Less Than 3 Years
+ 1 Year experience in business intelligence reporting or analytics
+ Skills Preferred in Database modeling and Machine learning (classification and clustering)
+If you’re looking to play a role in building America, consider one of our open opportunities. We can’t wait to meet you.
+Functional Area Information Technology
+Recruiter Saunders, Kimberly
+Req ID WCJR-007207
+White Cap is an Equal Opportunity Minority/Female/Individuals with Disabilities/Protected Veteran and Affirmative Action Employer. White Cap considers for employment and hires qualified candidates without regard to age, race, religion, color, sex, sexual orientation, gender, gender identity, national origin, ancestry, citizenship, protected veteran or disability status or any factor prohibited by law.","Servicios de construcción, reparación y mantenimiento",,2022-09-12T00:00:00,2022-10-16,OTHER
+"Data Scientist, Product Development",Praemo,Ontario,Kitchener,-1,-1,,CAD,"by Praemo | Sep 1, 2022
+Praemo is searching for creative technical people to help improve Razor™. We do not require you to have all the qualifications listed in the following job description. A lot of what we do can be learned on the job. If this position sounds interesting to you, we strongly encourage you to apply!
+
+About Praemo
+
+Founded by industry experts, Praemo is focused on the appropriate application of leading-edge analytic technologies within industrial operations. We believe there is a simpler more effective way to harvest insights from the industrial and manufacturing datasets that already exist.
+
+Utilizing an organization’s operational and IoT (Internet of Things) data as-is, where-is, and applying statistical, machine learning, and AI tools, Razor transforms existing and under-utilized data into context-relevant actionable insights. These insights alert industrial operators to any anomalous behavior with the potential to harm performance in time to prevent an incident. Due to the generalized nature of Razor, it can be applied to a wide range of datasets.
+
+Praemo has worked with customer datasets that range from discrete manufacturing to consumer-packaged goods to mining and processing plants.
+
+The Praemo head office is located in downtown Kitchener, Ontario, Canada. We are looking for an energetic applicant with general knowledge of Linux & Python to help us out. If you thrive in an autonomous, empowering, and exciting environment, and have a strong desire to learn and investigate new technologies, we want to hear from you!
+
+About the Tech Team
+
+The Tech Team is divided into two interacting branches: Product Development and Emerging Applications. The Product Development team focuses on the development of Razor and Razor’s model suite while the Emerging Applications team monitors the application of Razor to new customer data and develops new analytical approaches for emerging use cases. Both teams collaborate regularly to drive the product forward.
+
+Successful Tech Team members are:
+
+Adaptable
+Hard-working
+Motivated and self-starting
+Creative
+Can think critically about their code as well as the team’s
+Can handle ambiguity
+
+Overall, the Tech Team is dynamic with opportunities for everyone to contribute in a variety of ways. We run both Product Development and Emerging Applications Tech Teams as matrix organizations. Each team member is responsible for their own projects, with the entire team available for brainstorming and mentoring. We feel this structure allows you the freedom to create without the burden of micromanagement. We encourage taking ping-pong or coffee breaks and using all paid time off – a rested mind is an efficient mind!
+
+The tech team also has plenty of opportunities to grow in whichever capacity you’re looking for. Want to upskill? Great! We have annual support for continuing education. Want to take on more responsibility and improve those leadership skills? Praemo will support your ambitions. Want to dip your feet in another team’s pool and learn something new? We’ll make it work! Want to see how many donuts you can eat in a day? Same. We’re in this together
+
+About your role
+
+At Praemo, the Tech Team works with data at massive scales and drives the development of our products. We work closely with our sales department and customers to shape the ongoing development of Razor. As a Data Scientist, you will have a direct impact on both our customers’ bottom line and our own.
+
+Through model and utility development for Razor you will help provide actionable insights across all customers’ processes. In addition to your day-to-day tasks, you will also be expected to gain experience with the global system by contributing to other team-members’ projects in the form of code-review and brainstorming.
+
+Responsibilities:
+
+Build statistical or machine learning based solutions (descriptive, diagnostic, predictive, or prescriptive) while maintaining a generalized customer-centric point-of-view
+Work closely with and incorporate feedback from internal Data Science and Sales teams
+Actively participate in team-wide activities such as code review, brainstorming, and code quality assurance
+Mentor Co-op Students and Junior Data Scientists
+
+Skills:
+** reminder: we do not require you to check every box. Please apply if you check even a portion!
+
+Comfortable with Python (Pandas, Numpy, Scipy, Matplotlib, Scikit-learn, Tensorflow, Keras)
+Familiar with Statistics, Machine Learning, and/or AI technologies
+General knowledge of Linux
+General command line commands
+General database concepts (Queries, State, Throughput)
+Basic containerization concepts for model deployment
+Great verbal and written communication skills for collaboration with a multi-disciplinary team
+Readily offer constructive feedback during code review
+Strong focus on documentation and sharing
+Real passion for working in a team to develop solutions for complex problems
+Thrive in an autonomous, empowering and exciting environment
+A strong desire to learn and investigate new technologies
+
+Ideal Qualifications:
+
+2-4 years of data science experience (this may include Graduate Studies)
+or College diploma in STEM field
+Projects relating to Statistics, Machine Learning, Deep Learning
+Experience with Git or other version control software
+Previous startup experience nice, but not required
+Some mechanical and industrial process knowledge
+Some database knowledge
+Desire to grow into a leadership role
+Perks
+
+At Praemo we offer an environment that encourages personal growth and continuous improvement. We provide family-focused benefits to all our employees.
+
+Life, Medical, Vision, Dental Benefits
+Table-Tennis
+Flexible Working Hours
+Casual Bi-Weekly Tech-Team Hack-a-Thon
+Annual Support for Continuing Education
+Paid Time Off
+Located near LRT station (Borden), Tim Hortons, and Grand River Rocks
+
+Praemo is an equal opportunity employer with a proven commitment to diversity and inclusion. We are proud to have received the Platinum Seal from Diversio for ranking in the top 5% of technology companies when it comes to diversity and inclusion. We prohibit discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation, or any other legally protected status.
+
+We are committed to providing a positive interview experience for every candidate. If accommodations are required due to a disability or medical condition, contact us via email at info@praemo.com.
+
+Check out our website and our social media to get to know us better as you think about your next step at Praemo. We thank all applicants for showing an interest in this position. Only those selected for an interview will be contacted.",,,2022-09-01T00:00:00,2022-10-16,OTHER
+Quantitative Developer,"Connor, Clark & Lunn Financial Group",British Columbia,Vancouver,-1,-1,,CAD,"Quantitative Developer
+Connor, Clark & Lunn Investment Management Ltd.
+Vancouver, BC
+
+We are a special software team embedded in a top performing quantitative equity fund that manages $23 billion in financial assets. This is a fantastic opportunity in the exciting intersection of finance and technology where investment decisions are made using technology. Quantitative equity funds use programmed investment strategies and as a result, our developers are crucial to its success.
+
+The team is headquartered and deeply rooted in West Coast Vancouver. We place high value on maintaining an entrepreneurial spirit and creating a culture where each of us has opportunities to succeed.
+
+What You Will Do
+
+Developers play an essential role through innovative technologies: machine learning, cloud computing, optimization engines, non-traditional high performance databases, custom applications and data visualization. You own the entire software life cycle:
+Collaborate with portfolio managers, analysts and researchers to analyze interesting financial problems.
+Design, plan and implement solutions in an entrepreneurial spirit.
+Keep investment systems running smoothly through enhancements and support.
+What You Bring
+Programming Knowledge – you have an undergraduate, graduate, or post-graduate degree in a computer-related field OR exceptional programming skills gained through your work experience.
+Deeply Analytical – you possess an analytical mind and enjoy mental challenges. An ability to perform deep thoughtful analysis is required for this role.
+Passion for Technology – we work with several programming languages (Kdb+/Q, Python, R, Java, C#, Angular/Typescript) and upfront knowledge is not required. If you are passionate about technology, learning new languages and concepts is natural and fun.
+Collaborative Communication – you have a collaborative spirit that helps you to work well with others and you communicate effectively.
+Interest in Investment Management – this is key. Your interest will help you learn about our complex domain.
+About Connor, Clark & Lunn Financial Group
+Connor, Clark & Lunn Financial Group Ltd. (“CC&LFG”) provides a broad range of traditional and alternative investment products and services to individuals, advisors and institutional investors. Our business comprises of eleven institutional investment affiliates that are responsible for investment decision making and client service, as well as distribution affiliates including Connor Clark & Lunn Private Capital, which provides multi-asset class investment solutions and Connor, Clark & Lunn Funds which distributes single-strategy investments to individual investors. CC&LFG partners with each of its affiliates by contributing world class operations, product development expertise, broad distribution, and business management. We have grown from $29 billion in assets and 200 people in 2008 to over $96 billion in assets and over 700 people today. This has been accompanied by a high level of change in technology, types of assets managed, trading activity and geographic growth. As we look forward, we can see both opportunities and challenges for further growth that only reinforce our commitment to attracting, retaining and motivating the most talented people.
+This is best achieved by:
+A High-Quality Environment: To work with people who we hold in high regard; to enjoy the time that we spend at work; to focus on productive activities without the distraction of politics and bureaucracy; to treat each other with respect.
+An Opportunity to Succeed: To do work that has value and which presents the opportunity for professional growth and development.
+Recognition and Reward: To recognize each person’s contribution and to align compensation with contribution.
+CC&L is committed to creating a diverse and inclusive environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to gender, ethnicity, religion, sexual orientation or expression, disability, or age.
+We are looking for junior/intermediate/senior developers. To apply for this position, please submit your resume and cover letter as one PDF.
+We thank all applicants in advance for their interest, but only those candidates shortlisted for interviews will be contacted. No telephone calls or recruitment agencies will be accepted.
+#CCL1",Finanzas,,2022-08-31T00:00:00,2022-10-16,OTHER
+Head of Machine Learning,AstraZeneca,Ontario,Mississauga,-1,-1,,CAD,"The Center for Artificial Intelligence (CAI) is a lab focused on applying machine learning research to the toughest challenges at AstraZeneca. We are a team of experts from different disciplines including Machine Intelligence, Data Science, Real World Evidence and Bioinformatics. We innovate together with our leading biologists, chemists, and clinicians to close the gap between today's challenges and the forefront of machine learning. If you want to have an impact on transforming patients' lives by accelerating new medicines to patients, this may be the position for you!
+What you’ll do
+In this role, you will manage several projects simultaneously and a team of researchers and engineers working on the development of machine learning models aimed at delivering the strategic priorities of the Center for AI. More specifically, you will be responsible for an effective execution of the strategy agreed with the Head of Machine Intelligence and progression of projects through different stages (feasibility, discovery, development, and deployment). You will interact closely with stakeholders across the organization and external partners while realizing these goals. You will ensure that teams are adhering to established engineering standards, coding practices, and way of working. The role will also require mentorship of junior AI researchers and creating an environment for their growth and development. You will also be expected to define your own research agenda and collaborate with the Head of Research to drive forward a cohesive program of basic, fundamental, and applied research. The role gives you an opportunity to realize your ideas in products and services used in clinical trials and across the drug development pipeline.
+Accountabilities
+Partner closely with business partners to develop carefully engineered machine learning projects using modern ML methods
+Lead teams of 3-10 machine learning researchers to successful project delivery using modern engineering standard methodologies and collaboration tools
+Define (in collaboration with the Leadership Team) standards and ways of working
+Drive alignment to these standards across the team
+Mentor and develop more junior AI Researchers, including directing basic research
+Continue to actively engage in ML research with and through the broader ML research community. Publish papers at the major ML conferences, contribute technical blogs and forge strategic alliances with academia and other industry
+Remain at the cutting edge of ML research, especially in a chosen subfield (e.g., deep learning, generative models, causal inference, reinforcement learning).
+Contribute ideas and provide creative input to machine learning projects
+Adhere to CAI standards and ways of working
+Examples of projects this team works on are de-novo design of biologics, generative synthetic data models of our clinical trial data, and multi-modal domain translation.
+Essential for the role
+PhD degree in computer science, electrical engineering, statistics, applied mathematics, or a related field.
+At least 6 years of experience in developing machine learning models (a minimum of 2 years industry experience after completion of PhD studies).
+ML Ops experience: model tracking, model governance, multiple models in different production contexts
+End-to-end experience leading collaborative ML/data science projects in an industry setting.
+Desirable for the role
+A research program demonstrated by 5 or more journal and conference publications in prestigious venues (with at least 3 publications as a leading author). Examples include but are not limited to: NeurIPS, ICML, UAI, COLT, AAAI, ICLR, JMLR. Leadership in high impact model deployment (e.g., developed over a period of 2+ years) or 2+ small-to-medium scale deployments.
+3+ years of experience within the pharmaceutical industry with either extensive knowledge of clinical trial process (all phases) and associated regulatory activities or the discovery pipeline and accompanying investment decisions.
+Deep understanding of drug development and clinical trial process and data (all phases).
+Participation and activity in the scientific community on program committees, editorial boards, organizing workshops.
+Demonstrated leadership potential in research and capability in expanding the frontier of addressable problems.
+Track record of collaborating successfully with AI engineering teams to deliver complex machine learning models.
+Why AstraZeneca?
+At AstraZeneca we’re dedicated to being an excellent Place to Work. Where you are empowered to push the boundaries of science and unleash your ambitious spirit. There’s no better place to make a difference to medicine, patients and society. An inclusive culture that champions diversity and collaboration, and always committed to lifelong learning, growth and development. We’re on an exciting journey to pioneer the future of healthcare.
+So, what’s next?
+Are you already imagining yourself joining our team? Are you ready to bring new insights and fresh thinking to the table? Good, because we can’t wait to hear from you.
+#DSAI #DataAI",Farmacéutica y biotecnología,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+Full-Time Junior Back End Developer,LINUS MEDIA GROUP,British Columbia,Surrey,-1,-1,,CAD,"Full-Time Junior Back End Developer
+Location: Surrey, BC, Canada
+This team member will work on a wide variety of projects in order to deliver value across all of our companies. Lots of opportunities to gain experience and to grow within the company. We’re looking for a self-starter, someone who is passionate, and can make things happen.
+Duties:
+Building strong reusable code
+Ensure code follows up to date practices in order to ensure maintainability, performance, and security
+Collaborate with other team members to drive innovation and avoid missteps
+Optimizing code for better performance and scalability
+Craft clear user stories, design tests, and continuously deliver product enhancements
+Job Requirements:
+Position can be worked remote or local
+Understanding of JavaScript and/or (some of) it’s derivatives
+Understanding of PHP
+Understanding of database structures, queries, etc
+Understanding of Linux systems
+Strong written and verbal skills
+Excellent analytical and problem-solving skills
+Ability to work with a team as well as independently
+Highly organized with the ability to manage multiple tasks effectively
+Exposure to Kubernetes
+To Apply, Click Here
+Full-Time Back-End Web Developer
+Location: Surrey, BC, Canada
+This team member will work to deliver performant, effective, and reliable solutions to bolster and enhance our various web offerings. We’re looking for a self-starter, someone who is passionate, and can make things happen.
+Duties:
+Building strong reusable code
+Ensure code follows up to date practices in order to ensure maintainability, performance, and security
+Collaborate with other team members to drive innovation and avoid missteps
+Optimizing code for better performance and scalability
+Craft clear user stories, design tests, and continuously deliver product enhancements
+Job Requirements:
+At least 3 years of relevant experience AND/OR
+Bachelor’s Degree in Computer Science, or a related field AND/OR
+A very strong portfolio
+Position can be worked remote or local
+Excellent understanding of JavaScript and/or (some of) it’s derivatives
+Strong written and verbal skills
+Excellent analytical and problem-solving skills
+Ability to work with a team as well as independently
+Highly organized with the ability to manage multiple tasks effectively
+Exposure to Kubernetes
+To Apply, Click Here
+Full-Time Front-End Developer
+Location: Surrey, BC, Canada
+This team member will be responsible for implementing visual, interactive elements that users will engage with on the LTT Labs website. We’re looking for a results-driven developer who will work well with team members to improve current front-end features and interactivity.
+Duties:
+Building strong reusable code
+Ensure code follows up to date practices in order to ensure maintainability, performance, and security
+Collaborate with other team members to drive innovation and avoid missteps
+Optimizing code for better performance and scalability
+Craft clear user stories, design tests, and continuously deliver product enhancements
+Job Requirements:
+At least 3 years of relevant experience AND/OR
+Bachelor’s Degree in Computer Science, or a related field AND/OR
+A very strong portfolio
+Position can be worked remote or local
+Excellent understanding of JavaScript and/or (some of) it’s derivatives
+Excellent understanding of CSS
+Strong written and verbal skills
+Excellent analytical and problem-solving skills
+Ability to work with a team as well as independently
+Highly organized with the ability to manage multiple tasks effectively
+To Apply, Click Here
+Full-Time ML/Computer Vision Engineer
+Location: Surrey, BC, Canada
+Reporting to the head of LTT Labs, the successful candidate will have experience with machine learning (deep learning), reinforcement training, image and signal processing, segmentation, and detection.
+Excellent communication & the ability to work as part of a team are a must. The role will require working with several fellow engineers from various backgrounds to support our test and automation efforts.
+This role is on-site.
+Duties:
+Designing and developing bespoke software for testing purposes
+Assisting the LTT Labs team with training and managing ML models.
+Leveraging computer vision for test automation.
+Job Requirements:
+Strong written and verbal communication skills
+Experience with OpenCV, TensorFlow, PyTorch, Keras
+3+ years of experience or relevant degree
+Ability to work in a fast paced environment
+Ability to multitask without micromanagement
+Ability to communicate well with co-workers
+Ability to take constructive criticism and excel with it
+Must be motivated, able to work independently, and hard-working
+To Apply, Click Here",,,2022-09-09T00:00:00,2022-10-16,FULL_TIME
+Junior Developer,JaalaTek Design Solutions Inc.,Ontario,Toronto,-1,-1,,CAD,"Are you a digital enthusiast who wants to help shape the future of Digital Health? The health care sector is transforming at a rapid rate, and there has never been a more exciting or important time to revolutionize how health care is delivered.Our client the largest home healthcare provider in Canada is relentlessly focused on developing and deploying new and innovative strategies to help drive the company forward. They are currently hiring for a Junior Full Stack Developer.The Junior Full Stack Developer will be entrusted to develop cutting-edge software solutions around multiple enterprise support systems. This will range from next-generation digital web or mobile solutions built around legacy/new enterprise-wide Line of Business applications. The successful candidate will be an integral part of a team developing high performance and sustainable digital solutions in Health Care.What You’ll DoUtilize quality focused software development practices to develop full stack software solutionsPerform detailed analysis, design, unit-level code development, software integration and testingAnalyze complex functions, procedures, and problems to deliver creative and effective solutionsParticipate in design and code reviewsProvide a great service and be a great team playerWhat You’ll Need To SucceedCollege degree in Computer Science, Computer Engineering, or related areasAt least 3yr-4yr experience working with digital application framework and web-based UI programming such as but not limited to HTML, JavasScript/jQuery, React Native, and ReactJS.Good knowledge of Microsoft stack, with experience in T-SQL and back-end programming languages such as C#.Team player with excellent interpersonal and communication skillsOrganized, focused and persistent with the ability to work to the plan and meet delivery datesExcellent problem solver and quick learner.Eager to learn new evolving technologies to cater for organizational growth.Nice To Have (Not Mandatory)Electronic Health Record (eHR) / ERP system knowledgeMobile app development (Android or iOS)Machine Learning knowledgeOffice 365 automation knowledgeRobotic Process Automation knowledge / experienceJob Types: Fixed term contract, Full-timeSchedule:8 hour shift",,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+QA Analyst,QuoteToMe Inc.,Alberta,Edmonton,-1,-1,,CAD,"Resume + Application Tips: Please help us to see and understand your best qualities. Formatting your resume to quantify your specific impact and initiative helps a lot:1. Please be specific about *what you did*. What actions or steps did you, personally, take?2. Please *quantify the impact* of your accomplishments. What was the outcome and impact that it had? How much did you personally contribute to the success of a project or task?3. e.g. Saying ""made the web server fast"" is not specific.4. Saying ""Increased server performance from 2 Requests Per Second (RPS) to 4,000 RPS"" is more specific. But _how_ did you do it?5. Saying ""Implemented redis LRU caching and optimized top 5 database queries to improve server performance from 2 RPS to 4,000 RPS"" - great! Now we know specifically what you did, and the impact it had. Fantastic.6. Please stack-rank your accomplishments so the best, most important, most impactful items are at the top. This makes it much easier to find the important, impactful accomplishments that demonstrate why you are great.-------About QuoteToMeAre you looking for a positive, collaborating team where you can make a big impact? Then you should join QuoteToMe! We’re looking for an enthusiastic, thoughtful Quality Assurance Analyst to be part of our development team in Edmonton, AB (remote positions available).QuoteToMe is a technology company that is shaking up one of the biggest industries on the planet: commercial construction. We are reimagining the way materials, equipment, and services are purchased for construction projects.Who We NeedWe need a skilled, humbly confident analyst who loves to critically assess software and collaborate in a small team. Someone with a positive attitude who wants to contribute towards a significant vision. If you take delight in maliciously destroying software, or cackle maniacally as you discover a powerful edge-case bug – then we want to talk to you!As QA Analyst you have: Testing Skills. You delight in finding tricky bugs and enjoy making software cry. You know the difference between a smoke test, unit test, integration test, and end-to-end test. More importantly: you know when to use them.Software Quality Knowledge. You understand that quality doesn’t magically appear from someone working in QA. Quality comes from everyone, on every team, doing their job well. You prefer working on teams where every developer writes their own automated tests, and manual testing is used to gauge human opinion, not from necessity.A Systems Thinking mindset. You enjoy building a picture of the entire system and interactions in your head. You are able to think at a high level about workflows and interactions, then drill down to think at a low level and tackle specific areas.Bonus: Your favourite reading materials might include “Lessons Learned in Software Testing”, “The SRE Book”, ""The Puzzling Adventures of Dr. Ecco"", or Richard Feynman.Bonus: Coding and Automation Skills. You enjoy automating the boring, tedious work so you can focus on the interesting, challenging parts. You know that 100% test automation should rarely be the goal. You use metrics to target your work on the most impactful parts first, reducing both time required and cognitive load. If you enjoy or want to learn programming to create automated tests in targeted areas - we would love to hear from you. A full time position as an SDET / automated software programmer is also an option.Our System: - Tech Stack: Python Django API, Vue.js/nuxt frontend, quasar.dev for mobile, Postgres, Elasticsearch- Testing with: Cypress, CircleCI. Tests pass before any code gets merged.- Machine Learning with: Amazon Textract- Deployment: Heroku and Amazon S3. We have one-click deploys and can ship a release in 5 minutes.- Third party APIs we work with: Sendgrid, Twilio, Slack, Freshdesk, Google Maps, Hubspot, multiple accounting systemsTo Be Successful, You Should Have- Drive. You are self-motivated, able to work independently or with a team, and you want to measure the impact of your efforts on mission critical systems.- Personality. You are creative, friendly, and engaging, ready to take part in team discussions to provide ideas and solutions.- A desire to grow. You have an interest in actively learning and teaching – mentoring those junior to you and learning from everyone around you. You believe that the team is best when everyone grows and succeeds together.- A collaborative, customer-focused mindset. You are 100% customer oriented, valuing customer delight over perfection. You write clean, easy-to-understand code. You work well in a team environment to quickly and regularly ship high quality, well-tested updates.- Communication skills. You have outstanding written and verbal skills. You are able to translate business requirements into technical implementations and vice versa quickly and easily. You are comfortable working with stakeholders at all levels and aren’t afraid to work directly with our customers.What You Can Expect From QuoteToMe- A total compensation package that includes an annual salary, health benefits, and stock options.- A strong culture of learning and personal development to help you reach your career goals and fullest potential.- Support for your lifestyle – take vacation when you need it to rest and recharge. We do not believe in working “crunch”.- A unique opportunity to build, grow, and make an impact on a $1.2-trillion industry, and to work with a group of people who are humble, supportive, and truly care about our mission.We believe that diverse teams perform better and that fostering an inclusive work environment is a key part of growing a successful team. We welcome people of diverse backgrounds, experiences, and perspectives.QuoteToMe’s Philosophy on Empowering EveryoneFor a deeper look at our philosophy on empowering people to make wise, impactful decisions - see our QuoteToMe Employee Handbook - https://drive.google.com/file/d/1UZWPiAYT5YFMh64trM0M-7obbeS_hKGH/viewQuoteToMe’s QA Philosophy - Quality Does Not Come from QAWe believe that creating a quality product comes from everyone on every team, from all departments, contributing and doing their job well. The QA group are the scouts that act as the eyes and ears of the company - searching out bugs and reporting on the state of software. Their efforts are used to help inform everyone, and to help make decisions about what to do next.For a deeper look at our philosophy on Quality Assurance, see our document on QA Vision - https://docs.google.com/document/d/1GNGwIFcHqKCO4JMKfeYW8EzpJm7wjWZchDKIoUiCP0c/editOur TeamWe meet regularly as a team, bringing all aspects of our business together. The QA Analyst will help shape the direction of the company and get exposure to all different facets of QuoteToMe including business development, sales, technology development, and customer service. We also have a lot of fun doing it! We are a tight knit group who makes time for team building and celebrating together.Remote FirstQuoteToMe is a Remote First development team, including team members from several different time zones. Collaboration will work best if you can meet and sync with Mountain Time (UTC-7) for at least a few hours of the work day. We are happy to empower you to be as productive as you can be.Job Type: Full-time",,,2022-09-06T00:00:00,2022-10-16,FULL_TIME
+Junior Software Engineer - Simulation,Sanctuary AI,British Columbia,Vancouver,-1,-1,,CAD,"Your New Role and TeamOur Robotics Simulation team is looking to hire a Junior Software Engineer. Reporting to the Simulation Team Lead, you'll gain a comprehensive understanding of the design, architecture, and implementation of our simulation platform and machine learning systems that power our general-purpose robots.The ideal applicants for this position enjoy thinking broadly and are eager to learn and develop technical skills while gaining valuable industry experience. Ultimately, you'll be a valued part of the team as you learn and adapt to new, complex development environments, own solutions from design and execution through to deployment and support, as well as innovate best practices that drive continuous improvements in our robotic systems.*Our Success Criteria*Bring hands-on experience working with high-performing teams on academic group projects and/or internshipsGain cutting edge career experience as you develop physics/game engine tools that support our robotics system's cognitive structureAchieve company-wide visibility as you partner with developers to ensure the smooth deployment of these tools, provide technical support to end users, and update/organize/distribute technical documentation*Your Experience*QualificationsBachelor's degree in Computer Science or related fieldsKnowledge of engineering best practices, including coding standards, testing, and operations1-3 Years of engineering experience with Python, Java, C++, or equivalentAbility to design, implement, and test in a fast-paced environment*Skills*Familiarity with distributed design, multithreading, and concurrencyUnderstanding of fundamentals of computer science, compilers and operating systems, data structures, and networking*Traits*Above all else, a consistently positive attitude and a willingness to do whatever it takes to create robust solutions to complex problemsStrong communication and interpersonal skillsSelf-motivated and able to solve problems independentlyObsession with bringing human-like intelligence to machinesWorking at SanctuarySanctuary is an equal opportunity employer; employment with Sanctuary is governed based on skills, competence, and qualifications and will not be influenced in any way by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.BenefitsMedical/dental/vision, life insurance, wellness programs, stock options, paid time off (vacation, paid holidays, sick time, and parental leave), scheduling and worksite flexibility by role, and more.*About Sanctuary*Founded in 2018 by Geordie Rose, Suzanne Gildert, Olivia Norton, and Ajay Agrawal, Sanctuary is a Vancouver, Canada-based company. Sanctuary is on a mission to create the world’s first human-like intelligence in general-purpose robots that will help us work more safely, efficiently, and sustainably. And in the not-too-distant future, help us explore, settle, and prosper in outer space.Members of the Sanctuary team founded D-Wave (a pioneer in the quantum computing industry), Kindred (first use of reinforcement learning in a production robot), and the Creative Destruction Lab (pioneered a revolutionary method for the commercialization of science for the betterment of humankind). The team has experience launching market-defining innovations rooted in previously unsolved and deep scientific problems.Job Type: Full-time",Tecnologías de la información,,2022-08-26T00:00:00,2022-10-16,FULL_TIME
+Neuroimaging Data Scientist/Programmer Junior,University of British Columbia,British Columbia,Vancouver,-1,-1,,CAD,"Staff - Non Union
+Job Category
+M&P - AAPS
+Job Profile
+AAPS Salaried - Information Systems and Technology, Level A
+Job Title
+Neuroimaging Data Scientist/Programmer Junior
+Department
+McKeown Laboratory Pacific Parkinson's Research Centre Division of Neurology | Department of Medicine | Faculty of Medicine
+Compensation Range
+$4,688.67 - $6,754.00 CAD Monthly
+Posting End Date
+September 20, 2022
+Note: Applications will be accepted until 11:59 PM on the day prior to the Posting End Date above.
+Job End Date
+Sep 30, 2023
+This position is located within a health-care facility, therefore, the successful candidate will be required to provide verification of full vaccination against Covid-19 provided prior to the start date, as required by a provincial health mandate.
+Job Summary
+Pacific Parkinson’s Research Centre at UBC is seeking a data scientist/programmer. This position is an excellent fit for graduating seniors (or recent graduates) with interest in the field of neuroscience and neuroimaging. We conduct projects associating MRI imaging data (structural, functional, diffusion) with behavioral data in patients with Parkinson’s disease and evaluate how non-invasive brain stimulation interventions change symptom-relevant brain circuits.
+A qualified candidate will assist and work closely with the PI and senior-level researchers to set up experiments and analysis pipelines for various neuroimaging, behaviour, and clinical data.
+Organizational Status
+The data scientist/programmer will report to the Research Manager and Principal Investigator of the study, and will work closely with graduate students, fellows and research staff from different departments on campus.
+
+Work Performed
+Developing codes (bash shell scripting, Python, MATLAB, R) to run experiments and preprocess MRI and behavioral data
+Conducting data-driven and theory-driven analyses using combinations of supervised and unsupervised learning approaches
+Managing project databases
+Other duties and responsibilities as assigned
+Consequence of Error/Judgement
+Errors made could influence the ability of the PI to meet critical deadlines, as well as compromise the results of research projects and affect funding applications, thereby impacting the credibility of the Investigator. Poor decisions may be damaging to the reputation of and cause financial loss to the Principal Investigator, The Centre, the Research Institute and the University.
+
+Supervision Received
+The data scientist/programmer will work closely with researchers, graduate students and clinical fellows. Direct supervision will be provided by the Research Manager and Principal investigator of the study.
+
+Supervision Given
+None
+
+Minimum Qualifications
+Undergraduate degree in a relevant discipline. Minimum of one year of related experience, or the equivalent combination of education and experience.
+
+Preferred Qualifications
+Experience with neuroimaging tools (FSL, Freesurfer, AFNI, SPM, ANTs) and neuroimaging data preprocessing
+Excellent programming knowledge (Python, MATLAB, R, and linux/bash)
+A deep understanding of a variety of statistical concepts, machine learning approaches, clustering and classification techniques, and optimization algorithms.
+Experience with popular machine learning frameworks and libraries (xgboost/lightGBM, Keras, Tensorflow, Pytorch, pandas, numpy, etc).
+Experience with version control using Git and Code Collaboration practices.
+Strong analytical and problem-solving skills and attention to details are desirable
+Knowledge in basics of digital image processing is a plus",Educación,,2022-09-08T00:00:00,2022-10-16,FULL_TIME
+Metallurgist,New Gold Inc.,British Columbia,Kamloops,-1,-1,,CAD,"Make an impact at Canada’s premier mining company.
+
+When you advance your career at New Gold, you are joining a Canadian-focused intermediate gold mining company engaged in the operation, development and exploration of mineral properties. Our mission is be a leading intermediate gold producer, driving responsible and profitable mining in a way that creates sustainable value for our employee, shareholders, the communities in which we live and work and our environment. To learn more about New Gold, visit our website at www.newgold.com. To learn more about our culture and people practices, visit the Career page.
+
+New Gold attracts and hires highly skilled individuals. By joining our team, you can look forward to:
+
+A stimulating values-based work
+A culture of collaboration and inclusion
+Inspiring colleagues and approachable leaders
+Career development opportunities
+A deeply rooted commitment to responsible mining, health and safety and community engagement
+A competitive total compensation program
+A comprehensive benefits package including a retirement savings plan
+
+New Afton Mine
+
+Situated 10 kilometers west of picturesque Kamloops, British Columbia, the New Afton Mine is an underground gold and copper producing site.
+
+Kamloops is a city of 90,000 people, located 350 kilometers east of Vancouver. The area provides the opportunity to live and work in a vibrant community with its own university and within easy reach of world class ski resorts, championship golf courses, mountain biking trails, popular recreational lakes and award-winning vineyards.
+
+About the Role
+
+Schedule: Monday to Friday, 8 hours per day
+
+Position Reports To: Chief Metallurgist
+
+Position Overview: New Afton is looking for one junior level and one mid-level metallurgist. Working within the Metallurgy team, the incumbent will be a process metallurgist with the ability to make safe decisions and work closely with the operational team.
+
+Key Responsibilities
+
+Putting safety first in the planning and execution of all works;
+Identifying, evaluating, and coordinating execution of operational and/or capital projects to improve product quality and process efficiency;
+Providing timely and accurate metallurgical accounting information;
+Assisting with commissioning of new circuits;
+Interpreting mineralogical data;
+Designing and executing test programs to optimize gravity, grinding, flotation and tailings dewatering circuit performance.
+
+Qualifications
+
+Required:
+Degree in Mining, Mineral Processing, Metallurgical or Chemical Engineering
+Minimum two years of experience for the junior metallurgist and five years for mid-level metallurgist in a mineral processing or similar environment. Relevant co-op experience may be included
+Previous experience in gold and/or base metal processing plant(s)
+Experience with interpretation and application of mineralogical data
+Strong problem-solving skills and an emphasis on safety
+Ability to both lead teams and be a contributing team member
+High level of proficiency in MS Excel
+Registered or eligible to register with EGBC
+
+Desirable:
+Experience with process control, expert systems and/or machine learning
+Hands-on experience with laboratory-scale mineral processing equipment
+Experience using JK SimMet or similar balancing/simulation software
+Involvement in technical/professional associations and conferences
+Experience working as part of a mill operations crew
+
+Other Requirements
+
+Candidates will be required to participate in a comprehensive qualification process, including:
+
+Successful completion of pre-placement functional screen
+Provide proof of a valid Class 5 driver’s license
+Demonstrate eligibility to work in Canada
+Provide confirmation of valid educational requirements
+
+Compensation
+
+A competitive salary, performance bonus plan and benefits will be provided. This is not a camp operation and therefore the successful candidate will be required to relocate to the Kamloops area or travel and accommodation will be the responsibility of the successful applicant.
+
+Inclusion, Equal Opportunity, Accessibility
+
+New Gold is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans’ status, Indigenous status or any other legally protected factors. Disability-related accommodations during the recruitment process are available upon request.
+
+Additional Information
+
+We thank all applicants for their interest but will only contact candidates selected to advance in the hiring process. New Gold does not accept resumes from employment placement agencies, head-hunters or recruitment suppliers that are not in a forma contractual arrangement with the Company. Any resume or other information received from a supplier not approved by New Gold will be considered unsolicited and will not be considered.
+
+Applicants can submit their resume and cover letter until 11:59pm on September 21, 2022.","Energía, minería e infraestructura pública",,2022-09-08T00:00:00,2022-10-16,OTHER
+Machine Learning Scientist (All levels),Deep Genomics,Ontario,Toronto,-1,-1,,CAD,"About Us
+Founded in 2015, Deep Genomics is a drug development company that aims to revolutionize medicine by leveraging expertise in artificial intelligence (AI) and genome biology. We have built the world’s first, and by far the most advanced, AI platform that is able to untangle the enormous complexity of RNA biology and find the best targets, mechanisms, and molecules.
+The thesis here at Deep Genomics is that everyone, at some point in their life, will face a genetic condition, whether Mendelian or complex, and we aim to be there for them with a genetically precise therapy. We take immense pride in our team of people whose backgrounds span a diverse range of disciplines including those found in a traditional biotechnology company, as well as machine learning, laboratory automation, and software engineering.
+Ideal Candidate
+We are seeking a creative and experienced machine learning scientist to decipher how mutations and genetic medicines influence the molecular world of the cell. The successful candidate will develop machine learning approaches for modeling complex RNA- and protein-level outcomes based on massively parallel assays. The ideal candidate has a proven track record of publishing at top machine learning conferences (NeurIPS, ICML, ICLR) or has applied deep learning to genomics in a top life sciences journal.
+Requirements/Qualifications
+MSc (Junior Scientist) or PhD (Senior Scientist) trained in machine learning.
+Extensive practical experience at systematically designing, training, debugging, and evaluating neural networks using modern frameworks such as Tensorflow, PyTorch, or Theano.
+Excellent scientific writing and presentation skills.
+Senior Scientists must demonstrate leadership and ability to introduce new machine learning techniques.
+What we offer:
+A chance to develop machine learning techniques that will save human lives.
+Inspiring, creative, and fast-moving startup work environment in downtown Toronto
+Competitive compensation package including stock options
+Deep Genomics thanks all applicants, however only those selected for an interview will be contacted.
+Deep Genomics welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.",,,2022-08-22T00:00:00,2022-10-16,FULL_TIME
+Junior Algorithms Engineer,Kardium,British Columbia,Burnaby,-1,-1,,CAD,"By joining the Kardium team, you can help make a difference in the lives of millions around the world. Kardium is developing a ground breaking medical device for the percutaneous diagnosis and treatment of atrial fibrillation, a heart condition that can cause strokes, heart failure, and other heart-related complications.As our Junior Algorithms Engineer, you will join Kardium’s Cardiac Mapping team in supporting the design, development, and evaluation of algorithms to turn raw data into actionable information for physicians. You will support the development of 3-dimensional maps used by electrophysiologists during cardiac ablation procedures, using a wealth of electrical, anatomical, and spatial information as inputs. In this role you will have the opportunity to bring your creative and innovative ideas to help Kardium achieve its goal of helping improve people’s lives.What you’ll doApply scientific investigation methods to drive product innovations in mapping and navigation algorithmsImplement and evaluate algorithmic approaches to meet clinical needs related to navigation, electrophysiology, and ablationDevelop and maintain internal software tools for large multivariate data sets of electrophysiological, anatomical, spatial, and procedural dataUse data analysis and visualization to characterize existing algorithms and the data they act on to identify algorithmic improvementsSupplement algorithmic analysis with the collection of high quality and reliable bench top testing dataCommunicate experiments, analyses and results to teammates and senior leadershipWhat you bring to the teamOur Kardium team is smart, creative, and passionate about creating cutting-edge medical devices to help improve people’s lives. We work within a collaborative environment based on trust and respect. And we understand that only by working together can we solve the unsolvable. You bring to the team these characteristics, plus:A bachelor’s degree in engineering, physics, or equivalentPrior experience in research or development within a high-technology fieldPrior experience with object-oriented programming, especially for data analysis; emphasis on MATLAB, Python or Java; experience with source control is also an assetA strong motivation to produce correct, clear, and maintainable codeStrong understanding of foundational topics in applied mathematics such as calculus, linear algebra, and statisticsEffective written and verbal communication of technical subject matterIntroductory experience with advanced topics in applied mathematics are greatly desired; these topics could include signal processing, machine learning, vectors and rotation matrices, statistics, or computer vision.Why work at Kardium?We know you are looking for a meaningful career. We can offer you that, and more:Every day you know you are making a difference by helping treat a condition that debilitates millions of people worldwideA great working environment with opportunities to develop your skills and knowledge while working with cutting-edge technologyAn engaged leadership team who believes in mentoring and growing employees’ careersSupportive colleagues and plenty of fun social events to encourage employee interactionsAnd our employees think we are great too – check out Glassdoor to learn more!How to applyApply today by sending your résumé and cover letter to jobs@kardium.com, with the job title “361 Junior Algorithms Engineer” in the subject line. If you completed your undergraduate degree in the last 2 years, please also include an unofficial copy of your transcripts.Thank you in advance for your interest in working at Kardium!Job Type: Full-time",Salud,,2022-08-25T00:00:00,2022-10-16,FULL_TIME
+Junior Data Scientist,Lululemon,British Columbia,Vancouver,-1,-1,,CAD,"Who we are
+
+lululemon is a yoga-inspired technical apparel company up to big things. The practice and philosophy of yoga informs our overall purpose to elevate the world through the power of practice. We are proud to be a growing global company with locations all around the world, from Vancouver to London, and places in between. We owe our success to our innovative product, our emphasis on our stores, our commitment to our people, and the incredible connections we get to make in every community we are in.
+
+About this team
+
+We are looking for someone who is passionate about applying machine learning and statistical modeling techniques to support product strategy at lululemon. This individual will be working closely with cross-functional partners to research data science models and oversee end-to-end implementation into production systems. Working with teams of diverse skillsets and backgrounds, the Data Scientist leads research projects to solve the most difficult problems facing our Product organization while mentoring junior team members.
+
+A day in the life:
+
+Work with a senior data scientist to define data science projects from start to finish, identifying opportunities, defining the problem, building a proof of concept, and deploying a data product
+Conduct data mining on guest, product, sales, assortment data sources for insights; generate hypotheses to test for opportunities in improving the merchandising and planning process
+Apply a wide range of statistical and quantitative analysis in practical and valuable ways
+Perform data pre-processing, data integrity, feature selection, model selection analysis
+Participate in design workshops and document business requirements and constraints
+Program and write maintainable and well-documented scripts/applications for process automation; produce reusable machine learning pipelines while model building
+Connect with business partners to understand the go-to-market process, product lifecycle, and product strategy
+Collaborate with data engineering teams to improve data quality and availability
+Visualize and communicate results to senior leadership in Product
+Create rich interactive visualizations through data interpretation and analysis integrating various reporting components from multiple data sources
+Learn and work with subject matter experts
+
+Qualifications:
+
+Excellent academics in Comp. Science, Engineering, Math, Statistics, Research, or a related field
+Strong problem solving and analytical skills including mining, evaluation, analysis, and visualization;
+Must have experience with Python (Jupyter, NumPy, Pandas, PySpark)
+Must have experience in at least one of the common data science toolkits, such as scikit learn, Tensorflow, Keras, PyTorch, etc..
+Strong SQL or Excel skills with the ability to learn other analytic tools;
+Ability to take on responsibilities and work with minimal supervision;
+Ability to create and maintain outstanding partner relationships;
+Strong technical aptitude;
+Excellent written and verbal communication skills including reports and presentations;
+A drive to learn and master new technologies and techniques
+1+ years of work experience in data science, preferably in the retail or apparel industries, including internships
+Demonstrated experience applying machine learning and data mining techniques
+Excellent communication skills to both technical and non-technical audiences
+Able to turn business problems into analytical solutions
+
+Must haves:
+
+Possesses an entrepreneurial spirit and continuously innovates to achieve great results.
+Communicates with honesty and kindness, and creates the space for others to do the same.
+Leads with courage, knowing the possibility of greatness is bigger than the fear of failure.
+Fosters connection by putting people first and building trusting relationships.
+Integrates fun and joy as a way of being and working, aka doesn’t take themselves too seriously.
+
+NOTE: Only those applicants under consideration will be contacted. Please accept our utmost appreciation for your interest. lululemon is an Equal Employment Opportunity employer. Employment decisions are based on merit and business needs, and not on race, color, creed, age, sex, gender, sexual orientation, national origin, religion, marital status, medical condition, physical or mental disability, military service, pregnancy, childbirth and related medical conditions or any other classification protected by federal, state or provincial and local laws and ordinances. Reasonable accommodation is available for qualified individuals with disabilities, upon request. This Equal Employment Opportunity policy applies to all practices relating to recruitment and hiring, compensation, benefits, discipline, transfer, termination and all other terms and conditions of employment. While management is primarily responsible for seeing that lululemon equal employment opportunity policies are implemented, you share in the responsibility for assuring that, by your personal actions, the policies are effective.",Ventas al mayoreo y al menudeo,,2022-08-29T00:00:00,2022-10-16,OTHER
+Junior Software Developer,Archipelago Marine Research,British Columbia,Victoria,-1,-1,,CAD,"JUNIOR SOFTWARE DEVELOPER – TWO POSITIONSAre you looking to help drive the design and development of software solutions that can truly change the world? Seriously. Are you passionate about our environment and sustainability? Can you play nice with humans and machines?Join our diverse development team on our drive the modernization of fisheries data collection and analysis for our customer-base worldwide. This work includes the implementation of AI and Machine Learning algorithms for data and video analysis, remote fleet-monitoring software, video analysis applications and mobile data collection apps. These advancements will help maintain Archipelago’s role as the global leader in fisheries Electronic Monitoring hardware and software, supporting sustainable fishing practices worldwide.WHAT ARE WE ALL ABOUT?Archipelago has been around for over 40 years and is at the forefront of electronic monitoring solutions for fisheries around the world. We create and deploy remote monitoring technology for commercial fishing vessels, and dockside monitors to collect data and report back to our clients. This data helps manage global fisheries and ensure sustainability for generations to come. Our head office sits right on the water in Victoria (Esquimalt), British Columbia and we have offices in Alaska, Oregon, Australia, Norway and in port cities up and down the British Columbia coast.Our electronic monitoring technology has been deployed on over 700 fishing vessels around the world and we work with government agencies like DFO, NOAA and AFMA (Australia) and MPI (New Zealand). We support organizations like The Nature Conservancy (TNC) and the Environmental Defense Fund (EDF) in their efforts to create more sustainable fisheries around the world.WHAT DO WE OFFER? A commitment to sustainability and the environment within all our operationsGroup Benefits Program (Health and Dental)Health Spending AccountPersonal Wellness FundRSP MatchingPerformance BonusesFlex SchedulesRemote Work OptionsStaff funding programs for local and global non-profitsCompany funded education and development opportunitiesStaff Deck Days overlooking Victoria harbourStaff parties & eventsOcean Front Building with Free Parking, proximity to transit and bike pathWHAT DO YOU OFFER? Creativity and the ability to bring new ideas to the table.Strong problem-solving and logical thinking skills.The ability to work well in a small, diverse, hybrid/remote development team.Experience with Microsoft Visual Studio & C#.NetWeb Application DevelopmentBeneficial Experience / Training:Android / iOS mobile app developmentArtificial Intelligence / Machine LearningComputer VisionProgressive Web AppsAzure Dev OpsMicrosoft Azure and/or other cloud hosting platformsMicrosoft SQL Server & Reporting ServicesMicrosoft Office 365 developmentPower AutomatePower AppsSharePoint OnlineWHAT ELSE?We are hiring two (2) full-time positions in a hybrid work environment. The roles are based out of our Victoria, BC head office with options for varying degrees of remote work. We are interested in hearing from qualified candidates including graduate students and 3rd or 4th year co-op students.The starting annual salary range for this role is $50,000 – $65,000, based on experience.Application Deadline: September 23, 2022Note: Interviews may be conducted throughout the posting period and the position may be filled prior to the closing date.Job Type: Full-timeSalary: $50,000.00-$65,000.00 per yearBenefits:Casual dressCompany eventsDental careDisability insuranceExtended health careLife insuranceOn-site parkingPaid time offRRSP matchWellness programWork from homeSchedule:8 hour shiftMonday to FridayCOVID-19 considerations:All Employees must prove that they are up to date on the Covid -19 vaccination.",Administración y consultoría,,2022-09-01T00:00:00,2022-10-16,FULL_TIME
+Junior Data Scientist Work Experience Student,City of Edmonton,Alberta,Edmonton,-1,-1,,CAD,"Junior Data Scientist Work Experience Student 8 months
+Job Number : 44640
+1 temporary full-time position for 8 months intended specifically for students currently enrolled in a computer science, data science, business technology management or related co-op or equivalent post-secondary work experience degree program, commencing in January 2023
+The Financial and Corporate Services Department’s role is to lead the organization in becoming a modern municipal corporation with a special focus on competency, leadership and culture. The business model drives integration, modernization and innovation across all branches to create an aligned and employee focused system.
+We are currently looking to add a Junior Data Scientist Work Experience Student to the Data Science and Research team.
+Responsibilities include:
+Support with the development of analytical solutions; apply mathematical and statistical modelling approaches to various problems that lead to actionable decisions affecting operations
+Assist team with corporate level consultation service that supports business stakeholders in the conception, planning and implementation of data-driven analytical solutions to City service delivery issues.
+Work directly with business areas throughout the Corporation to translate data science insights to action
+Use analytics to support evidence based decision-making and collaboration particularly in emerging fields that address the needs of multiple City business areas
+Support the Data Science and Research Team at stakeholder meetings and presentations
+Assist in producing reports, presentations and data visualizations using a variety of communication materials for diverse audiences
+Assist in team members with the review and evaluation of processes and procedures, and providing recommendations
+Other related duties as required
+Note: This position will be a combination of working from home and on-site working conditions.
+Qualifications :
+Currently enrolled in a computer science, data science, business technology management or related co-op or equivalent post-secondary work experience degree program
+Access to reliable internet while working from home
+Demonstrated ability using Google Workspace applications
+Experience with programming languages and relational databases such as SQL
+Ability to analyze and visualize data using R or Python
+Experience with multivariate regression/classification, time series models, cluster analysis, anomaly detection, optimization and both supervised and unsupervised machine learning techniques
+Project management experience and skills
+Ability to work independently and make decisions in the absence of a supervisor
+Excellent verbal and written communication skills and ability to maintain strong working relationships
+Demonstrated ability to manage multiple tasks with multiple elements, with attention to detail
+Demonstrate service excellence, embracing diversity and promoting inclusiveness
+Demonstrate alignment with the Cultural Commitments of Safe; Helpful; Accountable; Integrated; and Excellent, fostering an environment for others to do the same. For more information on the City’s Cultural Commitments, please visit (http://bit.ly/3bH2Ztv)
+Demonstrate the foundational competencies, key behaviours and attributes of the City’s six leadership competencies: Courage, Inclusivity, Values-Based Influencer, Collaborative Networker, Systems Thinker and Creative Innovator. For more information on the City’s leadership competencies, please visit (http://bit.ly/2PLbz1w)
+Additional assets include experience in or knowledge of:
+Using the R package “Shiny”
+Working with big data in real time/near real time and with big data platforms
+Please note, as part of your application, we ask that attach an unofficial transcript, and an enrollment verification letter (indicating you are enrolled in a co-op or related post-secondary work experience degree program). Talent sourced through this process may be considered for similar opportunities within the City.
+The City of Edmonton is committed to inclusive, respectful and equitable workplaces that represent the communities we serve. We continuously improve our systems, policies and practices to remove barriers and ensure our employees, in all their diversity, can succeed. We value applicants with a diverse range of skills, experiences and competencies, and encourage you to apply. To learn more, see the Art of Inclusion: Our Diversity and Inclusion Framework here: https://bit.ly/3ye6wb5
+The City of Edmonton strives to provide reasonable access and accommodations throughout the application and selection process. If you would like to request an accommodation at any stage of the process, please contact Employment@edmonton.ca.
+COVID-19 Notice: The City of Edmonton has implemented a COVID 19-Vaccination Policy. Employees must be fully vaccinated against COVID-19 and provide proof of vaccination. Employees who cannot be fully vaccinated on the basis of a protected legal ground (e.g. medical, religious) may request an exemption. Please note that this policy applies to all employees, including new hires, and volunteers. If your application is successful, you will be asked to provide proof of vaccination or request an exemption.
+For more information, please refer to our COVID-19 Vaccination Policy (bit.ly/3lKwb6j) and COVID-19 Vaccination Procedure (bit.ly/39BICMt).
+Hours of Work: 33.75 hours per week, Monday - Friday. The weekly hours of work for this position are currently under review and may change at a future time. Any changes will be made in accordance with the City of Edmonton/Civic Service Union 52 collective agreement and the incumbent will be notified in advance.
+Salary: $22.799 - $26.599 (Hourly)
+Talent Diversity Consultant: JY/MJB
+Classification Title : Student Work Exp 4YR Post Secondary
+Posting Date : Sep 15, 2022
+Closing Date : Sept 29, 2022 11:59:00 PM (MDT)
+Number of Openings (up to) : 1 - Student Position Full-time
+Union : CSU 52
+Department : Service Innovation and Performance
+Work Location(s) :
+Century Place, 17th Floor, 9803 - 102A Avenue
+
+ Edmonton T5J 3A3",Gobierno y administración pública,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Junior Automation Engineer,Fresh Prep,British Columbia,Vancouver,-1,-1,,CAD,"This internship is funded by the Government of Canada and work terms are under the Digital Skills for Youth (DS4Y) Program. DS4Y, an initiative from Innovation, Science and Economic Development Canada (ISED), provides an opportunity for youth to gain valuable training and work experience needed for today’s digital economy.
+
+Who We Are
+Fresh Prep is Vancouver’s homegrown meal kit delivery service. We help people throughout B.C. make world-class dinners with fresh, pre-cut and pre-portioned ingredients along with an extended menu of over 100 add-ons from local suppliers delivered weekly to your door.
+
+From sourcing quality local goods, to delivering in reusable, recyclable and compostable packaging, we believe it’s possible to make convenient eating healthy and sustainable for the community we live in.
+
+In the past few years, we have collected first place awards for The Georgia Straight’s Golden Plates (2019 and 2020) in addition to winning the 23rd and 24th Annual Best of Vancouver award for Best Meal Kit Service as voted by readers (2018 and 2019). Fresh Prep also placed on the Canadian Business and Maclean’s Magazine STARTUP LIST 2020 as a high-growth Canadian startup.
+Who You Are
+
+Phenomenal Teammate. You work well with others and enjoy contributing to a fantastic team. Do others enjoy working with you?
+Ultra Reliable. Since we work in teams, we need team members who are engaged and seeking to contribute in a positive manner. Are you willing to show up on time and work hard?
+Responsible. You have the ability to work independently as needed. Can you be trusted to act without needing strict supervision?
+Self Starter. You are comfortable owning a task from start to finish and you take initiative to make continual process improvements. You observe strict deadlines and hold yourself accountable to your deliverables.
+
+What You'll Be Doing
+
+Automate systems through design, analysis, programming, and building components to integrate with production machines
+Design, source, and implement new robotic systems (Internal and External) to improve operational efficiency
+Test programming and configurations of the new systems built
+You will assist the engineering team with setting up equipment for operational expansion and R&D purposes.
+You will be responsible for the Project Management and completion of paperwork including, projects, budget, status reports, timesheets, and required engineering documentation
+You will follow and complete equipment work instructions for various equipment while testing and ensuring a high quality of work for all documentation released
+Perform other duties as assigned.
+
+What We Are Looking For
+
+Technician diploma / Engineering degree (Mechatronics preferred)
+Basic skills with Solidworks assemblies and working with sheet metal
+Ability to wire, crimp, and solder prototype electronics in a safe and efficient manner
+Comfortable working with Excel, Solidworks, and learning new software
+Mechanical Aptitude and knowledge of manufacturing processes
+Able to work in a fast-paced environment with strict deadlines.
+Comfortable occasionally working in a temperature controlled environment. The warehouse is kept at between 0 to 10 degrees Celsius
+Familiarity with Automation controls like SCADA to do testing of mechanical systems
+Ability to push, pull, squat, bend, and reach above and below shoulders; repetitive use of hands
+
+What You Can Expect
+
+An inclusive, fun workplace filled with fantastic colleagues. We’re a certified B-Corporation and our team is passionate about making a positive difference (and also about food!)
+The ability to work from home or from our HQ located in beautiful East Vancouver
+Competitive pay and bonuses, as well as the opportunity to participate in our Employee Stock Option Plan.
+$1000.00 budget allotted to professional development training
+Comprehensive health benefits (including medical, dental, vision and life-insurance) after 90 days of successful employment.
+Free food! A Fresh Prep meal plan for 2 meals per week and sample meals from our test kitchen at our HQ!
+
+Research shows that while men apply to jobs when they meet an average of 60% of the criteria, women and other marginalized folks tend to only apply when they check every box. So if you think you have what it takes, but don’t necessarily meet every single point on the job description, please still get in touch. We’d love to have a chat and see if you could be a great fit.
+
+Fresh Prep is an Equal Opportunity Employer (EOE) and prohibit discrimination of any kind. We value diversity at our company and at all job levels our goal is to be diverse, inclusive and representative of the communities we operate in. We endeavour to recruit, develop and retain the best talent from a diverse candidate pool and truly believe that diversity, equity and inclusion among our team members is vital to our success as a company. We trust that in applying for a role with us you value this as well!",Manufactura,,2022-09-09T00:00:00,2022-10-16,FULL_TIME

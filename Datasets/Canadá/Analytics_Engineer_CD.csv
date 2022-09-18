@@ -1,0 +1,1535 @@
+Job_title,Company,State,City,Min_Salary,Max_Salary,unitText,SalaryCurrency,Job_Desc,Industry,Rating,Date_Posted,Valid_until,Job_Type
+Analytics DevOps Engineer,BOEING,British Columbia,Richmond,-1,-1,,CAD,"At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+Do you want to usher in a new digital era in the skies? Boeing is seeking a DevOps Engineer to permanently join our data science & analytics team, working out of the Richmond, BC office.
+The DevOps Engineer will primarily support flight operations solutions, building and supporting pipelines, data solutions and APIs as part of an agile aviation analytics team. Their work will empower a new generation of tools and applications for both piloted and unpiloted aircraft. The role will exercise systems and data expertise, with a particular emphasis on cloud application design, deployment and support.
+Successful candidates will have strong infrastructure, software development and leadership skills. As part of a multidisciplinary analytics team they should possess a keen interest in industry-leading data science and machine-learning solutions. If you’re a developer with a love of aerospace and aviation and an enthusiasm for complex, data-driven problem-solving, this is the opportunity for you.
+Position Responsibilities:
+Communicate effectively with other roles and skillsets, including data scientists, developers and product owners
+Lead a cloud transformation for a portfolio of high-profile applications
+Help architect, design, and ultimately build scalable, reliable, and high-performance systems and environments
+Evangelize DevOps throughout the work, organization, and interactions with others
+Effectively contribute to building the overall knowledge and expertise of the technical team
+Lead production of analytics applications prototypes
+Implement and support continuous integration and continuous delivery (CI/CD)
+Design and build monitoring solutions and services
+Develop cloud infrastructure/platform code
+Develop RESTful APIs
+Promote test-driven development
+Implement systems to monitor system health, data quality and scientific performance
+Monitor health of the application and environment, and act to return system to health when alerted
+Implement access-control and security systems
+Contribute to technical documentation
+This position allows telecommuting. The selected candidate will be required to perform some work onsite in Richmond, BC, Canada.
+Employer will not sponsor applicants for employment visa status.
+Basic Qualifications (Required Skills/Experience):
+Must be legally able to work in Canada
+Minimum 2 years Cloud deployment experience (Azure preferred)
+Minimum 5 years Software Development experience
+Minimum 2 years Linux, Network Administration experience
+Experience with continuous integration tools (Azure DevOps, GitLab CI, Artifactory, Maven)
+A technical degree/diploma in a related field of study
+Preferred Qualifications (Education/Experience):
+Eligibility for authorization under the Canadian Controlled Goods Program is an asset.
+Experience with development, deployment and version control tools (e.g., Eclipse, Git, Jira)
+Strong knowledge in back end programming languages (Java, Python, Node.js) and scripting languages (bash)
+Experience with cloud-deployed APIs and micro-services
+Experience with secure system-to-system communication in the cloud
+Knowledge of Platform-as-a-Service offerings like Cloud Foundry
+Experience with developing and supporting applications in Docker
+Experience with container orchestration using Kubernetes or similar (GKE) and additional products to manage clusters(nginx/istio/linkerd) and control deployments (helm)
+Experience with large and complex databases (preferably PostgreSQL or Azure SQL)
+Experience with data models, database design, and database administration
+Experience operating in a production environment
+Experience with monitoring and logging tools
+Experience with Clustering, Network Load Balancing, Geographic redundancy, Fail Over Solutions, Data Backups, Recovery and Replication.
+Experience participating in an Agile team
+Typical Education and Experience:
+Technical bachelor’s degree and typically 9 or more years’ related work experience or a Master’s degree with typically 7 or more years’ or a PhD degree with typically 4 or more years’ related work experience or an equivalent combination of education and experience.
+Relocation:
+Relocation assistance is not a negotiable benefit for this position. Candidates must live in the immediate area or relocate at their own expense.
+This requisition is for a locally hired position in Canada. The employer is Boeing Canada. Candidates must be legally authorized to work in Canada. Benefits and pay are determined by Canada and are not on Boeing US-based payroll. This is not an expatriate assignment.
+***To review the Canadian Controlled Goods and Public Service and Procurement Canada requirements please go to the following government pages below:
+https://www.tpsgc-pwgsc.gc.ca/pmc-cgp/enregistrement-register/lignedirectrice-rd-guideline-do-eng.html
+https://www.tpsgc-pwgsc.gc.ca/esc-src/personnel/pdcf-rsrp-eng.html
+Equal Opportunity Employer:
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",Aeroespacial y defensa,,2022-09-09T00:00:00,2022-10-16,OTHER
+"Software Engineer, Data Analytics Intern",Autodesk,Ontario,Toronto,-1,-1,,CAD,"Experience Design and Analytics Team @ Autodesk
+Our team is part of a larger Experience Design and Analytics (XA) team that provides design leadership and excellence across all product lines at Autodesk. Key disciplines include experience design, visual design, research, content strategy, and program management. Together, we support Autodesk’s growing design community, and share a common goal of being customer-centric, with connected experiences across our products.
+Position Overview
+As a global leader in 3D design, engineering, and entertainment software, Autodesk helps people imagine, design, and create a better world. Autodesk enables better design through an unparalleled depth of experience and a broad portfolio of software to give customers the power to solve their design, business, and environmental challenges. In addition to designers, architects, engineers, and media and entertainment professionals, Autodesk helps students, educators, and casual creators unlock their creative ideas through user-friendly applications.
+The XA Product Analytics Team is a centralized Analytics team working closely with product line development teams across the company to define, implement and evolve Autodesk’s Product Analytics best practices and build scalable data products. We are building a personalized interaction platform that will unlock data insights for all Autodesk products to make them intelligent with AI. We are looking for technically savvy engineers with a passion for data and who are eager to help us bring data-driven thinking in day to day product engineering practices. We are seeking individuals who are attracted by complicated problems, who can think creatively and work hard to help us solve them.
+
+Responsibilities
+Experience with translating business requirements into suitable data schemas and managing metadata for data models
+As a Summer 2022 Software Engineering intern, you will get to apply your knowledge in engineering, work with interesting data sets, and make an impact by helping our customers create a better, safer, more sustainable world
+Understanding of A/B testing concepts
+You'll be improving critical data processing & analytics pipelines and researching innovative ways to transform data into insights
+Collaborate and work with stakeholders; to address data-related problems in regard to systems integration and compatibility
+Determine best patterns to store and access data in line with the usage of the system and transactional needs
+Build data access platforms for data scientists and analysts
+Implement ETL processes through cloud-based solutions (S3, Redshift)
+Develop large-scale data structures for business intelligence analytics by using data mining tools
+Write processes to ingest, transform and distribute data into our internal applications
+Minimum Qualifications
+BS or MS in CS or similar
+Strong experience with databases and writing and debugging SQL
+Working knowledge of code and script (Java, Python, JavaScript, bash)
+Experience with cloud-based data solutions (AWS preferred)
+Preferred Qualifications
+Experience working with big data environments such as Athena, BigQuery, Snowflake, Hadoop (Hive, Spark)
+Experience with data pipeline and workflow management tools: Oozie, AWS Glue, Airflow, Azkaban, Airflow, etc.
+At Autodesk, we're building a diverse workplace and an inclusive culture to give more people the chance to imagine, design, and make a better world. Autodesk is proud to be an equal opportunity employer and considers all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender, gender identity, national origin, disability, veteran status or any other legally protected characteristic. We also consider for employment all qualified applicants regardless of criminal histories, consistent with applicable law.
+Autodesk has always valued flexibility in how we work. We continue to provide employees flexibility to support their work preferences wherever possible and nearly all roles are hybrid or remote, unless otherwise indicated.
+Are you an existing contractor or consultant with Autodesk? Please search for open jobs and apply internally (not on this external site). If you have any questions or require support, contact Autodesk Careers.",Tecnologías de la información,,2022-08-25T00:00:00,2022-10-16,FULL_TIME
+Data Engineer,Faire,Ontario,Toronto,-1,-1,,CAD,"About Faire
+
+Faire is an online wholesale marketplace built on the belief that the future is local — there are over 2 million independent retailers in North America and Europe doing more than $2 trillion in revenue. At Faire, we're using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe. Picture your favorite boutique in town — we help them discover the best products from around the world to sell in their stores. With the right tools and insights, we believe that we can level the playing field so that small businesses everywhere can compete with these big box and e-commerce giants.
+
+By supporting the growth of independent businesses, Faire is driving positive economic impact in local communities, globally. We're looking for smart, resourceful and passionate people to join us as we power the shop local movement. If you believe in community, come join ours.
+Job Description
+
+The Data Engineering team is the backbone of all data-related processes and enables the Data Science teams to develop and deploy a wide variety of algorithms and models that power the marketplace. Our infrastructure is used by the whole company for analytics, reporting, forecasting and research. We care about having a reliable & scalable infrastructure with quality data and building machine learning models that help our customers thrive.
+
+As a Data Engineer you'll be responsible for developing and automating large scale, high-performance data storage and processing systems.
+
+Our team already includes experienced Data Scientists and Engineers from Airbnb, Facebook, Quora, Square, Uber, TripAdvisor, and Overstock. Faire will soon be known as a top destination for data science and machine learning, and you will help take us there!
+
+What you will be doing:
+
+Develop our data infrastructure to help us scale for where we're going over the next several years
+orchestrating pipelines using modern Big Data tools/architectures as well as design and engineering of existing transactional processing systems
+Manage our data infrastructure and ETL platform
+
+What it takes:
+
+2+ years experience in a Data Engineering role with an emphasis on managing data warehouses
+Strong skills in Python, Git, Docker, SQL, Airflow, real time ETL pipelines
+Managing data infrastructure (AWS services, Data orchestrator) and providing framework to rationalize and simplify both real time and batch data pipelines
+Familiarity with Snowflake or BigQuery
+A passion for programming and solving problems with code
+A bachelor's degree in Computer Science/Software Engineering or equivalent industry experience
+A love for technology, and an insatiable curiosity for new tools to tackle real problems
+Faire's flexible work model aims to meet the needs of our diverse employee community by making work more flexible, connected, and inclusive. Depending on the role and needs of the team, Faire employees have the flexibility to choose how they work–whether that's mainly in the office, remotely, or a mix of both.
+
+Roles that list only a country in the location are eligible for fully remote work in that country or in- office work at a Faire office in that country, provided employees are located in the registered country/province/state. Roles with only a city location are eligible for in-office or hybrid office work in that city. Our talent team will work with candidates to determine what locations and roles are eligible for each option.
+Why you'll love working at Faire
+
+We are entrepreneurs: Faire is being built for entrepreneurs, by entrepreneurs. We believe entrepreneurship is a calling and our mission is to empower entrepreneurs to chase their dreams. Every member of our team is an owner of the business and taking part in the founding process.
+We are using technology and data to level the playing field: We are leveraging the power of product innovation and machine learning to connect brands and boutiques from all over the world, building a growing community of more than 350,000 small business owners.
+We build products our customers love: Everything we do is ultimately in the service of helping our customers grow their business because our goal is to grow the pie - not steal a piece from it. Running a small business is hard work, but using Faire makes it easy.
+We are curious and resourceful: Inquisitive by default, we explore every possibility, test every assumption, and develop creative solutions to the challenges at hand. We lead with curiosity and data in our decision making, and reason from a first principles mentality.
+
+Faire was founded in 2017 by a team of early product and engineering leads from Square. We're backed by some of the top investors in retail and tech including: Y Combinator, Lightspeed Venture Partners, Forerunner Ventures, Khosla Ventures, Sequoia Capital, Founders Fund, and DST Global. We have headquarters in San Francisco and Kitchener-Waterloo, and a global employee presence across offices in Salt Lake City, Atlanta, Toronto, London, New York, LA, and Sao Paulo. To learn more about Faire and our customers, you can read more on our blog.
+
+Faire provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity or gender expression.",Ventas al mayoreo y al menudeo,,2022-09-09T00:00:00,2022-10-16,OTHER
+Sr. Data Engineer,WestJet,,,-1,-1,,CAD,"Why WestJet:
+
+Every WestJet journey has the potential to enrich lives; a career with us is no exception.
+
+WestJet arrived on the Canadian airline scene in 1996 and changed the industry for the better. We made air travel more affordable for Canadians and now we're going global.
+
+Join us and love where you’re going.
+
+Remote Work:
+This position is eligible for remote work, within Canada, under our mobile workforce program.
+
+
+Overview of role:
+The Senior Engineer is accountable to plan, design, implement, optimize and support application, data, infrastructure, cloud, DevOps and/or service management platforms. This role will either be a part of OR collaborate closely with data analytics, DevOps, cybersecurity, architecture, infrastructure and product engineering teams.
+
+Key deliverables / responsibilities include:
+Works with broad expertise/ unique knowledge and uses skills to contribute to the development of company objectives/principles and to achieve goals in creative and effective ways
+Applies advanced in-depth and/or broad knowledge and considered a top resource across the organization
+Demonstrates expert knowledge in own field, with a strong understanding of adjacent areas for the development of pragmatic and creative solutions
+Makes decisions on highly complex issues and provides direction regarding approach and project components for team(s)
+Regularly makes decisions under minimal guidance that have a significant impact on the organization’s financial and business operations
+Advises one or more areas, programs, or functions and provides recommendations to management on matters of significance
+Works with management, consults on solution development for novel, out of policy, or strategic business and technical issues with significant impact on organization-wide costs and efficiency with far-reaching impact
+Works on unique and highly complex assignments/projects
+Work assignments involve highly complex issues where the analysis of situations or data requires an in-depth evaluation of intangibles or unprecedented situations
+Translates highly complex business and technical needs into objectives, plans, specifications, resources, and long-term goals
+Subject matter expert who possesses the advanced knowledge of the work specialty and organization
+Serves as an advisor to management and drives appropriate actions, while ensuring implementation of compliance and communication protocols
+Frequently takes full ownership of difficult assignments
+Works independently across multiple areas. Receives general business direction, as needed
+Independently determines methods and procedures on new assignments and often coordinates activities/provides technical guidance to others
+Achieves goals in creative and novel ways, operating with significant autonomy
+Guides and mentors staff and provides advice to management on highly complex/strategic issues
+Often provides input to management into performance reviews for staff
+Demonstrates initiative, creativity and advanced innovation skills
+Devises new methods and procedures using strong analytical and inductive thinking
+Introduces specialized concepts to develop innovative business solutions. Serves as an advisor, mentor, and/or helps drive new initiatives
+Often operates in ambiguous situations and provides original/innovative process/technical guidance to others
+Resolves novel problems requiring creative application of advanced skill, training, and education
+Available for Production on-call support
+
+Experience and qualifications:
+Master’s Degree in Computer Science, Engineering, Information Systems or Information Security and 8+ years of experience preferred, or an equivalent combination of training and experience
+Appropriate licenses and certifications, such as Microsoft Certified DevOps Engineer Expert and Microsoft Certified Azure Data Engineer Associate
+Good knowledge of Azure offering which include below and any new services:
+Azure Data Factory, SQL MI, DataBricks, Logic Apps, Key Vault, Storage Account, AKS, Application Service, Application Insights, DevOps Automation
+8+ years working with Agile DevOps teams
+5+ years leading technical delivery
+Requires expert problem-solving skills and advanced interpersonal and communication skills including influencing others
+Excellent knowledge of all aspects of IT, including application development, network and system administration, quality assurance, and application and data management
+Expert understanding of development architecture such as API, web services, etc.
+Expert understanding of cloud, databases / data warehouse, infrastructure, architecture, DevSecOps and application development / engineering
+In-depth knowledge of computer and telecom systems, hardware and software theory, practice, concepts and technology relevant to organizational vision
+Familiar with network protocols and networking infrastructure and good knowledge of network threat landscape and controls to address them
+Strong Understanding of:
+Middleware
+Continuous Integration and Continuous Deployment
+Testing
+Systems Mgmt.
+Enterprise Data & Access Layers
+Hands-on experience in platform configuration, policy fine-tuning, optimization and maintenance
+Proficient experience with creation of custom rules and signatures
+Familiar with security by design methodologies applied to technology and security services
+Demonstrate experience with languages such as Python, Bash, Powershell, Terraform
+Possess excellent project management and time management skills
+Nice-to-have: Experience with Spark, Scala, Kafka
+
+The benefits of being a WestJetter:
+WestJet provides all WestJetters with a competitive total rewards package. On top of that, we offer:
+A fun and friendly culture with colleagues who work together to win
+Travel privileges for you and your family, effective from your start date
+Savings and Benefit programs that are flexible to meet your specific needs
+
+Think we are a fit? Apply now!
+
+About WestJet Group of Companies
+Together with WestJet's regional airline, WestJet Encore, we offer scheduled service to more than 100 destinations in North America, Central America, the Caribbean and Europe and to more than 175 destinations in over 20 countries through our airline partnerships.
+
+Our Safety Promise
+At WestJet, the safety and security of our people and our guests is a core value and at the heart of what we do. As safety and security is a shared responsibility, it is expected that you will use safe work practices to ensure your well-being and the safety of others.
+WestJet recognizes that the use of Alcohol and Drugs can adversely impact a safe work environment and the well-being of others including guests, suppliers and the public, as well as place WestJet's operations at risk. All roles that are identified as safety sensitive are required to pass a Pre-Employment Alcohol and Drug Test as per WestJet's Alcohol and Drug Policy.
+
+Our Commitment to Diversity and Inclusion
+We embrace what makes us each unique, and what makes us uniquely WestJet. WestJet is committed to inclusiveness, equity, and accessibility and if you require accommodation during the selection process, please let our Talent Acquisition team know. We encourage all qualified candidates to apply. We thank all applicants for their interest in WestJet; however, only those candidates who are selected will be contacted.
+
+For more information about everything WestJet, please visit WestJet.com.
+#LI-Remote
+#LI-RM1",Transporte y logística,,2022-09-15T00:00:00,2022-10-16,OTHER
+ENGINEER-IN-TRAINING PROGRAM - COMPUTER,Manitoba Hydro,Manitoba,Winnipeg,-1,-1,,CAD,"ENGINEER-IN-TRAINING PROGRAM - COMPUTER
+
+Winnipeg, MB
+
+Manitoba Hydro is consistently recognized as one of Manitoba's Top Employers!
+
+Great Benefits
+Competitive salary and benefits package.Defined-benefit pension plan.Nine-day work cycle which normally results in every other Monday off, providing for a balanced approach to work, family life
+
+and community.
+Flex-time and partially remote work schedule, depending on nature of work, operational requirements and work location.
+
+Manitoba Hydro is a leader among energy companies in North America, recognized for providing highly reliable service and
+exceptional customer satisfaction. Join our team of Manitoba's best as we continue to build a company that supports innovation,
+commitment and customer service.
+
+We are seeking qualified Computer Engineering graduates for our Engineer-In-Training Program, with employment to commence in
+2023. Recent graduates or those graduating in December 2022 or April 2023 are invited to apply.
+
+Our Program offers exciting and diverse career opportunities, allowing you to join other graduates to develop the necessary skills,
+knowledge and experience to transform from an academic to a professional business environment. You will be exposed to
+challenging assignments that will provide training towards a Professional Engineer designation.
+
+This Program will consist of various rotation opportunities throughout Manitoba Hydro to provide you with exposure to various
+engineering activities over a period of approximately 24 months. While progressing through the program, you are expected to
+achieve your professional accreditation from Engineers Geoscientists Manitoba.
+
+Opportunities for exposure include:
+Software Development Lifecycle (plan, build, run, maintain)System Architecture & DesignBusiness AnalysisOperational TechnologiesData & AnalyticsTime Series DataTelecommunicationsPlanningDesignOperations & MaintenanceProject Management
+
+Qualifications:
+Bachelor's Degree in Computer Engineering from a university of recognized standingPossess a valid Class 5 Manitoba Driver's Licence
+
+Salary Range
+
+Starting salary will be commensurate with qualifications and experience. The range for the classification is $29.82-$41.95 Hourly,
+$57,132.40-$80,391.48 Annually.
+
+MANITOBA HYDRO IS COMMITTED TO DIVERSITY AND EMPLOYMENT EQUITY
+ Reference Code: CO56620461-01
+
+Apply Now!
+
+All applications must include the following information, attached to your online profile:
+Current resume and cover letterCopy of official post-secondary transcripts
+
+The email address you submit in your application profile will be used as the main form of correspondence throughout the recruitment
+process. Please monitor your email inbox on a regular basis.
+
+Visit www.hydro.mb.ca/careers to learn more about this position and to apply online. The deadline for applications is OCTOBER
+7, 2022.
+
+Manitoba Hydro is committed to increasing the representation of women in Engineering. Women are encouraged to apply.
+
+We thank you for your interest and will contact you if you are selected for an interview.
+
+This document is available in accessible formats upon request. Please let us know if you require any accommodations
+during the recruitment process.","Energía, minería e infraestructura pública",,2022-09-13T00:00:00,2022-10-16,OTHER
+Senior Analytics Engineer,Rec Room,British Columbia,Vancouver,-1,-1,,CAD,"(This role is fully remote for candidates located in British Columbia.)
+
+Rec Room is the best place to build and play games together. Chat, hang out, explore MILLIONS of rooms, or build something new to share with us all! As a Senior Analytics Engineer, you'll drive the vision for our data warehouse and analytics layer, setting us up to scale in both the number of players and internal users. You'll partner closely with teams such as Growth, Economy, User-generated Content, Social, among others, empowering them to understand player behavior deeply.
+
+WHAT YOU'LL DO:
+
+Partner with PMs, designers, engineers, and analysts/data scientists to build out the data layer to empower analysis, experimentation, and new product features.
+Architect data warehouse modeling layer and establish the patterns and processes which will serve as the foundation for scaling our data.
+Apply software engineering practices (e.g., code review, testing, version control) when creating new datasets to ensure data quality across our pipelines and BI tools
+Identify gaps in our data collection processes and collaborate with product and engineering to iterate and improve current methodologies.
+Design and implement top-level company dashboards to serve as the source of truth for company performance.
+Build out experimentation datasets and pipelines to allow for granular analysis of A/B tests.
+Partner with ML teams to build out data models to be used in model deployment
+Work with partner teams to build datasets that will impact production, such as creator and player statistics.
+Build out systems to evaluate ML model performance.
+
+WE ARE LOOKING FOR INDIVIDUALS WITH:
+
+5+ years of analytics experience, with substantial experience as an analytics engineer
+Have a high level of proficiency in SQL (aggregate functions, window functions, complex joins, CTE), including query optimization skills
+Experience coding with Python
+Substantial previous experience with pipeline orchestration. DBT and airflow preferred
+Experience with dashboarding tools
+Familiar with processes for handling event-based data
+
+COMPANY INFO TO KNOW:
+
+Rec Room offers generous medical, dental, and vision plans that cover you, your spouse/domestic partner, and children. We also support your retirement benefits with a company match. Rec Room values work-life balance by providing unlimited paid time off. Our company values are real and drive our culture. We work hard to be a safe and friendly place for people from all walks of life.
+
+Rec Room provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+CCPA disclosure notice here",Audiovisual y medios de comunicación,,2022-08-19T00:00:00,2022-10-16,OTHER
+Data Engineer,Noise,British Columbia,Vancouver,-1,-1,,CAD,"What we're looking forNoise Digital is a leader in data-driven marketing, data ecosystem development, and advanced analytics implementations.‍What you'll doIn this data engineering role you will be working on the development and implementation of advanced data ecosystems with tasks including data management, data cleaning, data automation, data exploration, etc.A wide range of data will be ingested to the ecosystems, with varied sources, formats and conditions. The successful candidate will need to be adept at managing varied ingestion processes and formats, from manual CSVs and proprietary file formats, to application APIs, ensuring ingested data is correctly transformed and stored according to the target architecture and data model.As a Google Cloud, Google Marketing Platform, and Google Analytics Partner, Noise primarily works on GCP-based ecosystems, making GCP Engineering certification a significant advantage for this role. All successful candidates will either have a current GCP certification or will acquire certification within 90 days of starting the role.As a key member of the Noise Engineering team, you will have the opportunity to work directly on industry-leading projects, directly interfacing with product experts from our team and our vendors such as Google. You will also have the opportunity to shape the direction of Noise products and services by working closely with both our internal teams and directly liaising with Noise clients.Specific Tasks: Design and implement ETL processes by building, maintaining and optimizing custom data pipelinesIngest and organize and transform data from varied sources for modelling in Data Warehouses, Data Lakes, etc.Strategize and execute a comprehensive and proactive data aggregation and ingestion plan based on available data.Work closely with clients to understand their data needs, providing proactive solutions to those requirements.Collaborate with the Noise engineering team to design and implement tools and processes that allow them to configure and deliver data products to customers easily.About YouYou have high proficiency in Python or equivalent programming language.You are a team player who loves working in a collaborative environment.You have intermediate experience with data modeling, data catalog concepts, and data formats.You have hands-on experience creating and maintaining data pipelines/ETL, ideally using Google Cloud-based tools and processesYou can break down and communicate technical information to non-technical stakeholders.You have experience with source control systems such as Git.You have great attention to detail and are innovative.You have a passion for data wrangling and enjoy enabling others to unlock insights from complex datasets.‍What you'll need to bringEducationB.S. degree in Computer Science or Statistics related technical field and/ or equivalent practical experienceGoogle Marketing and Google Cloud Platform certifications are preferredExperienceRequired:Experience with Extracting, Loading, Transforming data (ELT, ETL)Experience working with data in variety of Data formats (CSV, SQL, JSON, XML)Algorithm design and optimizationExperience with Python (2 years minimum)Highly proficient with SQL for querying and transformationsVersion control with Git or similar processesAdvanced programmatic problem-solving skillsExperience with Machine Learning processes and pipelinesSkillsMust Haves:Excellent communication skills, including the ability to distill technical details into jargon free terms for non-technical users;Advanced programmatic problem-solving skillsAnalytical mindset with an extreme attention to detailYou are a self-starter with strong organizational & project management skillsPreferred:GCP Engineering CertificationExperience with Google Tag Manager and Google AnalyticsObject Oriented coding practices, including strong design patterns knowledge, refactoring, clean codeAdvanced Excel, Power Query and/or Power BI or other visualization platform skillsExperience working with Transact SQLMicro-service design and implementation (Amazon Lambda, Google Cloud Functions)Personal CharacteristicsYou are highly organized and take pride in delivering high quality workYou are a self-starter who is able to effectively manage their schedule and tasksYou work well in a team environment, even when working remotelyYou love data!Job Type: Full-time",Audiovisual y medios de comunicación,,2022-09-10T00:00:00,2022-10-16,FULL_TIME
+Sealights Engineer,Epsilon Solutions LTD.,,,-1,-1,,CAD,"Job Position:  Sealights EngineerLocation: RemoteSeaLights is an innovative AI platform that enables software engineering teams to achieve high-quality releases at business speed, leaving software testing bottlenecks a thing of the past. If you want to know what makes it work, listen to Nadav Yeheskel. Tech Lead and Amir Schwartz, VP Engineering at Sealights.With SeaLights, Enterprise software teams can mitigate Quality Risks, focus their testing efforts where it matters, and protect the integrity of production by continuously collecting telemetry data from all stages of the delivery pipeline, analyzing it, and scoring every risk using AI algorithms.Job Description: · Reduce testing cycle time by 50%-90% using Test Impact Analysis.· Make data-driven decisions about each release.· A Quality Analytics tool provides organizations with a detailed overview of their software quality trends.· Detect Quality Risks Early in the Pipeline.: -SeaLights Quality Intelligence analyzes test execution data and correlates it with changes to the codebase and actual production usage, identifying Test Gaps—critical product functionality that is not tested or is missing specific tests (for example, unit tests or functional tests). Teams can use Test Gaps to prioritize their investment in testing and develop only the tests that are actually needed, when they are needed.Job Type: Full-timeBenefits:Extended health carePaid time offSchedule:8 hour shiftAbility to commute/relocate:Remote: reliably commute or plan to relocate before starting work (required)Education:Bachelor's Degree (preferred)",,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+R&D Engineer,Scentroid (a division of IDES CANADA INC),Ontario,Whitchurch-Stouffville,-1,-1,,CAD,"Scentroid is the world’s premier manufacturer of odour sampling and air analysis equipment for the environment industry. With decades of experience developing state-of-the-art instrumentation for environment, nuclear, and medical industries, we bring new and innovative technologies to the field of air quality monitoring. Our strong technical expertise in all aspects of instrumentation including mechanical, electrical, and software engineering provides the fuel for our obsession of research and development. For more information visit www.scentroid.comJob DescriptionThis position is to complement Scentroid’s Research and Development activities in development of new sensing instruments and analytical software. With a strong focus on research and development in the field of electronic design, microchip programming, artificial Intelligence, big-data processing, and much more. The following are some of the daily activities of a Research and Development Engineer at Scentroid.· Evaluate new sensing technologies· Design and develop new multi-layer printed circuit boards· Develop software architecture for instrument firmware· Program various microprocessors used in Scentroid products· Conceptualize sensing solutions to address particular needs for end-users· Conduct environmental and performance testing of various instruments· Develop new and advanced digital filters and data analytics including the use of AI· Evaluate existing sensing solutions to identify areas for improvement· Conduct testing to ensure optimal functionality· Debug any errors or issues that arise· Maintain thorough documentation of systems and applicationsJob Requirements· A genuine passion for efficiency, automation, and infrastructure/platform building· Bachelors (B.Sc.) or Masters (M.Sc.) or equivalent in Mechatronics, Electrical, or Electronics engineering.· Experience with microprocessor programming· Strong Knowledge of Matlab programming· Familiarity with NumPy is preferred· Familiarity with Solidworks is a plus· Highly desired if any working experience in sensing systems, IoT, and digital filters.· Clear and coherent written communication, including visual representations of dataOther· This position is full-time with 3 months probation period.Job Types: Full-time, PermanentSalary: $55,000.00 per yearBenefits:Casual dressCompany eventsDental carePaid time offSchedule:8 hour shiftDay shiftMonday to Friday",,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+Analytics Engineer,Napkyn Analytics,,,-1,-1,,CAD,"Location: Remote – USA or Canada
+Position: Full time
+
+The Company
+Napkyn Analytics is a digital analytics consultancy that works with some of the top brands on the web – to collect, integrate and analyze data to support executives making critical business decisions. We are the secret weapon that enables the data-driven executive and enterprise. The work we do for our customers translates into decisions that result in intentional business outcomes and value.
+As an 11-year-old company we have grown – three consecutive years on the Profit 500 – through retention and referrals from delivering consistently great work, and a deep strategic partnership as a global Premier Google Marketing Platform Solution Partner . Our industry reputation and visibility are much greater than you would expect from a team of 20.
+Napkyn is embarking on the next stage of growth. Combining our expertise, reputation and increasing market need for data analytics to expand the team and services we offer. To support this next stage of growth we are making an investment in our Customer & Partner Success team to facilitate that growth.
+The Role
+Napkyn Analytics is looking for an experienced developer with analytics experience to work directly with our enterprise and scale-up customers. Priority given to candidates with knowledge of the Google Marketing Platform.
+As part of the Customer & Partner Success team, you will provide guidance and support for deploying world-class implementations of web measurement tools for our customers. Additionally you will perform site-wide audits of existing analytics implementations and align with business requirements as part of a cross-functional team. You will assist in improving the usability and overall effectiveness of our clients’ web analytics tool deployments. You will be able to create test cases and QA complex work.
+
+We are looking for a strong and inquisitive developer that enjoys using their skills to deliver solutions to help our clients in their analytics journey. This role is less about hands-on development and more about supporting our clients with strong written and presentation skills, business acumen, an inherent curiosity and desire to know the truth, and strong time management skills. What makes you competitive is your ability to communicate your technical expertise, including an understanding of analytics implementation and tag management solutions like Google Tag Manager.
+The Details
+RESPONSIBILITIES
+Actively participate in an account service role
+Stay up to date with industry trends (tooling and strategic)
+Perform client-facing tasks such as presenting insights or providing training
+Work with internal and external teams to identify areas of opportunity to grow, increase profitability, and optimize program effectiveness
+Collaborate with a cross-functional team to foster data-driven strategy and execution
+Deploy web measurement tools such as Google Analytics
+Provide support on analytics and implementation for Napkyn analysts with root-cause analysis of issues and interruptions in measurement for our clients
+Provide recommendations on adoption of new tools and features as appropriate to client needs
+Serve as a resource for the latest trends and technologies within the web analytics space
+Assist in improving the usability, efficiency, and overall effectiveness of our clients’ web analytics tooling deployments
+Assist in evaluating the size and scope of customer problems as well as helping to determine a successful resolution
+Lead the team with site-wide audits of existing analytics implementations against web measurement best practices and create implementation recommendations for improvement
+Develop web measurement best practices and on-site technology requirements to generate high quality, easily-understood implementation guides for on-site deployments of Google Analytics
+Engage business and technical team stakeholders for feedback and validation
+Actively focus on the future-proofing, scalability, and ease of maintenance in all solutions
+Provide recommendations on adoption of new tools and features as appropriate to the client’s needs
+REQUIRED SKILLS AND EXPERIENCE:
+Familiarity with deploying and testing analytics tools in mobile apps for iOS and Android devices, especially using the Firebase SDK
+Experience with development environments, tools and processes for building iOS or Android apps, including Xcode and Android Studio.
+Experience with Swift, Objective-C, Kotlin or Java programming languages in the context of mobile applications
+Proficient in reading and writing JavaScript, know how to leverage that knowledge to enhance analytics deployments
+Experience with tagging technologies such as Google Tag Manager, Tealium, Ensighten
+Quality Assurance
+Ability to connect with developers in other organizations
+PREFERRED SKILLS:
+Google Analytics certification
+Server-side implementation, enhanced e-commerce implementation for Google Analytics
+Previous experience with direct site deployments of Google Analytics via gtag.js or analytics.js tracking libraries an asset
+Comfort with or interest in presenting and speaking in front of groups
+Ability to prioritize projects and handle multiple tasks efficiently
+Collaborate with internal and external technical teams
+Work independently and learn technical information quickly
+Meticulous attention to detail and accuracy
+App development experience, or analytics experience with app development
+Strong critical thinking and problem-solving skills with an attention to detail
+Team player, supportive of a collaborative team environment and culture
+
+Napkyn Analytics welcomes and encourages applications from people with disabilities. Accommodations are available upon request for applicants in all aspects of the selection process.",,,2022-08-30T00:00:00,2022-10-16,FULL_TIME
+Analytics Engineer,Tucows,Ontario,Toronto,-1,-1,,CAD,"Tucows (NASDAQ:TCX, TSX:TC) is possibly the biggest Internet company you've never heard of. We started as a simple shareware site in 1993 and have grown into a stable of businesses; mobile, internet and domains.
+
+We embrace a people-first philosophy that is rooted in respect, trust, and flexibility. We believe that whatever works for our employees is what works best for us. It's also why the majority of our roles are remote-first, meaning you can work from anywhere you can connect to the internet!
+
+Today, close to a thousand people work in over 16 countries to help us make the Internet better. If this sounds exciting to you, join the herd!
+
+This is a completely remote opportunity within Canada and USA.
+
+Tucows is looking to add an Analytics Engineer to our data engineering team which is part of the wider Analytics, Insights and Reporting (AIR) team. Together, we're responsible for all of the reporting, analytics, data flows, visualization, and related business intelligence operations within our quickly growing company. We've got a lot of data, and we're looking for someone to help us get the most out of it.
+
+You and the data analysts will work with business, product, and engineering stakeholders to understand their needs and priorities, as well as to collaborate and ensure that their reporting requirements are captured in the development process. You'll then work with data engineers to build data pipelines, acquiring data from source systems and moving it through our data hierarchy, from messy and raw to clean, aggregated and documented. You'll train analysts and business stakeholders on how to use the data sets you create.
+
+Responsibilities include but are not limited to:
+
+Use DBT to deliver and maintain clean, transformed data models ready for analytics
+Understand business needs and technical requirements to meet those needs
+Troubleshoot variances in reports, and strive to eliminate them at the source
+Document your data models and provide training as needed
+Incorporate engineering best practices on version control, testing, CI/CD
+
+Key Skills and Experience:
+
+Solid experience with DBT for data transformation, testing and maintainable lineage
+Top-notch communication (verbal and written) and interpersonal skills
+Excellent problem solving skills
+3+ years experience handling, manipulating, and documenting data
+Strong expertise in SQL, data warehouse design and data lake architectures
+Basic python programming
+Familiarity with linux commands and version control tools
+
+Nice to Have:
+
+Experience with Airflow
+Experience with Docker
+Experience with Looker
+
+Education:
+
+Post-secondary education in a technical field, or B.S./M.S.
+
+Want to know more about what we stand for? At Tucows we care about protecting the open Internet, narrowing the digital divide, and supporting fairness and equality.
+
+We also know that diversity drives innovation. We are committed to inclusion across race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status or disability status. We celebrate multiple approaches and diverse points of view.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.
+
+Learn more about Tucows, our culture and employee benefits on our site here.",Tecnologías de la información,,2022-08-28T00:00:00,2022-10-16,OTHER
+Intermediate Analytics Engineer,Orion Health,Ontario,Toronto,-1,-1,,CAD,"Innovate With Purpose
+
+Do you want to work for a company that is innovating and making a difference to the health and wellbeing of people all over the world? We’re not about selling meaningless, unnecessary products for corporate profitability. You’ll be working on technology that will revolutionize global health systems so that we can finally get the healthcare we all want - a basic human right.
+
+We like to think of ourselves as a community of start-ups where you can be your true, genuine self. Each of our product teams has the autonomy to decide how they operate and contribute towards our mission of providing each person with the right care at the right time and in the right place.
+
+Orion Health is excited to be expanding our galaxy by recruiting for a number of stellar individuals to join our team to help us deliver to our global customer base. If you want to climb aboard the rocketship and help us revolutionize global health systems, astronomical opportunities await.
+
+
+What will you be doing?
+
+Using Orion Health’s Discover product to enable analytics for a provincial health navigation service by delivering insightful dashboards and reports. The multi-channel digital front door service aims to improve access and education on health services, ultimately to improve health outcomes and to reduce avoidable hospitalizations within the province.
+
+In addition, the role will contribute to the development of the Discover product, in building out-of-the-box dashboards and reports for global customers.
+
+What you will you bring to the role
+
+Post-secondary education in Computer Science, Engineering, Mathematics, or a related technical discipline
+5+ years of experience in data analytics, or related role
+Advanced dashboard development using Tableau.
+Advanced ETL development using MSSQL stored procedures.
+Advanced SQL knowledge including performance tuning.
+Knowledge on data warehouse design and implementation.
+Attention to detail.
+Curious and analytical.
+Customer focussed.
+What’s in it for you?
+
+We recruit quality and retain talent! We offer a competitive benefits package, including:
+
+LeavePlus, the ability to top up your standard annual leave balance with LeavePlus
+TravelFlex, work for up to 30 days per year in another country through our TravelFlex initiative
+You’ll use the latest languages and platforms, you will be joining the ranks of the most talented and experienced tech workers in the industry
+You will enjoy competitive base salary and incentive packages, plus generous paid annual leave entitlement that includes 20 vacation days,
+Competitive benefits package including RRSP matching
+Flexible, social professional company culture;
+Orionites are never short of good times and we pride ourselves on our social but professional company culture
+
+ If this sounds like you, we would love to hear from you!
+
+Reasonable accommodations will be made during the interview process upon request to assist those candidates with disabilities.
+
+Background checks will be required upon an offer of employment.
+
+ORION HEALTH IS AN EQUAL OPPORTUNITY EMPLOYER
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, veteran or disability status, sexual preference or national origin.",Tecnologías de la información,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+Jr. Software Engineer - Lighthouse,KPMG,Ontario,Toronto,-1,-1,,CAD,"Overview:
+
+At KPMG, you’ll join a team of diverse and dedicated problem solvers, connected by a common cause: turning insight into opportunity for clients and communities around the world.
+The opportunity
+Transform. Innovate. Collaborate — KPMG Canada’s Center of Excellence for Data & Analytics + Intelligent Automation — applies data science to solve real-word business problems and operationalize AI. Join a diverse team which is always curious and learning, thinking independently and working collaboratively, has a passion to solve difficult problems and has fun doing it.
+KPMG Digital Toronto has an exciting opportunity for a Junior Software Engineer to join our team! This role will be a rewarding experience for you if you:
+Thrive on challenges and work best in a fast-paced environment where each day is different
+Work well in a project team environment and have strong collaboration and interpersonal skills
+Have a permanent “figure it out” mindset
+What you will do:
+Work closely with clients to understand key business issues.
+Gather and analyze requirements to develop impactful recommendations and solutions.
+Develop and design end-to-end web services and web applications with responsive UI that provide business insights
+Collaborate with Solution Specialists, Data Scientists, and Data Engineers in drafting the functional specifications required during the software development life cycle
+Provide recommendations on how software can enhance user experience
+Architect, code and debug problematic code
+Provide expertise in cloud/on-prem/hybrid hosting solutions and full stack development
+Participate in the research and evaluation of new tools and technologies that can help drive innovative solutions for our clients
+What you bring to this role:
+Bachelor’s in computer science, Software Engineering, or related disciplines.
+1+ years of professional experience in a related field.
+Demonstrated development experience in SQL, NoSQL, HTML & CSS, Python, JavaScript, Java
+Proficiency building web applications using one or more JavaScript and CSS frameworks like AngularJS, React, Vue.JS, and Bootstrap
+Experienced with at least one back-end technology such as like Python, Node.JS, and Java
+Proficient in using and designing REST APIs
+Blockchain knowledge and integration experience (preferably with the Ethereum blockchain)
+Knowledge of both digital assets and smart contracts is a decided asset
+Ability to develop a variety of user-oriented applications to deliver content in intuitive and innovative ways, through desktop, mobile apps and web interfaces
+Familiarity with programming methodologies such as version control (i.e. Git), testing, QA, Waterfall and Agile development methodologies
+Experience in at least one major cloud service: AWS, MS Azure and GCP, microservices and serverless computing
+Keys to your success:
+KPMG individuals Deliver Impact | Seek Growth | Inspire Trust and understand that a diverse workforce enables us to deepen relationships and strengthen our business.
+Providing you with the support you need to be at your best
+For more information about KPMG in Canada’s Benefits and well-being, click here.
+
+Our Values, The KPMG Way:
+
+Integrity, we do what is right | Excellence, we never stop learning and improving | Courage, we think and act boldly | Together, we respect each other and draw strength from our differences | For Better, we do what matters
+KPMG in Canada is a proud equal opportunities employer and we are committed to creating a respectful, inclusive and barrier-free workplace that allows all of our people to reach their full potential. A diverse workforce is key to our success and we believe in bringing your whole self to work. We welcome all qualified candidates to apply and hope you will choose KPMG in Canada as your employer of choice. For more information about Inclusion, Diversity & Equity in Recruitment, please click here.
+For general recruitment-related inquiries, please contact the HR Delivery Centre at cafmcdnhrsthotline@kpmg.ca.
+If you have a question about accessible employment at KPMG, or to begin a confidential conversation about your individual accessibility or accommodation needs through the recruitment process, we encourage you to contact us at cafmcdnhrsthotline@kpmg.ca or phone: 416-777-8002 or toll free 1-888-466-4778.",Administración y consultoría,,2022-08-16T00:00:00,2022-10-16,FULL_TIME
+Machine Learning Engineer (Modeling),Afterpay,Ontario,Toronto,-1,-1,,CAD,"Company Description
+It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic app, bringing a better way to send, spend, invest, borrow and save to our millions of monthly active users. With a mission to redefine the world's relationship with money by making it more relatable, available and accessible, at Cash App you'll have the opportunity to make a real-world impact with your career.
+Remote Work
+Today, Cash App has thousands of employees around the world with a culture geared toward creativity, collaboration and impact. We’ve been a distributed team since day one, and continue to value working across time zones and continents both remotely and in our Cash App offices.
+Our offices are great, but many of our roles can be done remotely from the countries where Block operates. We tailor our experience to champion our employees’ creativity and productivity wherever they are.
+Job Description
+Machine Learning is an integral part of how we design products, operate, and pursue Cash App’s mission to serve the unbanked as well as disrupt traditional financial institutions. Our massive scale and deep trove of transaction data create an endless number of opportunities to use artificial intelligence to better understand our customers and offer new products and experiences that can improve their lives. We are a highly creative group that prefers to solve problems from first principles; we move quickly, make incremental changes, and deploy to production every day.
+This role is part of our Cash App's ML team and will be deeply embedded within one of our product teams - here are the workstreams we're currently hiring for:
+Search & Discovery
+Cash App enables millions of people and businesses to pay and get paid with ease. On our team, we build delightful experiences that help our customers find and discover people and things quickly and with trust - we aim to grow and strengthen the connections between people and businesses across the globe. Through your work, you will empower Cash App to personalize customers’ search and discovery experiences using AI/ML, to better understand our customers’ payment journeys, and help identify and execute on new opportunities for product improvement. You will employ a variety of modeling techniques on our comprehensive customer data and scale your solution to production by partnering closely with design, product, analytics, and engineering teams.
+Risk
+You'll build machine learning models that detect fraudulent activity in real time and help keep our customers safe and secure. You will experiment with state-of-the-art algorithms to drive down false positives, collaborate on new product features to drive fraud losses down, use any and every dataset at your disposal (including 3rd party data) to engineer new features for risk models, verify customer documents using OCR, and use biometric and device signals to detect malicious logins and account takeovers.
+Customer Support Automation
+Working closely with our Customer Support team, you will use our vast amounts of data to make experiences seamless for our customers and help us achieve world-class service as Cash App continues its rapid growth. You will build models that anticipate customer issues and deliver proactive in-app suggestions, use NLP to contextualize inquiries and respond instantly with relevant content, develop prioritization algorithms that improve efficiency, and apply the latest research to automate conversations with customers.
+Technologies we use (and teach):
+Python (NumPy, Pandas, sklearn, xgboost, TensorFlow, keras, etc.)
+MySQL, Snowflake, GCP/AWS and Tableau
+Java
+Qualifications
+You have:
+5+ years experience with applied Machine Learning or Deep Learning
+A graduate degree in Computer Science, AI, ML, Applied Math, Stats, Physics, or a related technical field
+Worked with Product, Design, and Engineering to prioritize, scope, design, and deploy ML models
+A track record of providing mentorship and technical leadership
+An appreciation for the connection between the software you build and the experience it delivers to customers
+Additional Information
+We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
+We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our I+D page.
+Additionally, we consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis.
+
+Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Data & Analytics Engineer,Avison Young Canada,Ontario,Toronto,-1,-1,,CAD,"Our Story:
+
+About You
+You are a high achiever looking to thrive in a fast-paced environment. You take pride in your own work but are comfortable collaborating with a team of highly motivated individuals. You can communicate clearly and concisely with teammates and clients, and you enjoy strong company culture and camaraderie. You can navigate multiple corporate functions, including global lines of service and corporate centers of excellence. You possess strong interpersonal skills and are willing to take on diverse tasks to achieve the team’s common goal. You value personal and professional growth and are ready to take the next step in advancing your career.
+If this sounds like you, well, then you will love the culture at Avison Young!
+About Us:
+Avison Young is a global commercial real estate brokerage and advisory firm, offering transaction, management, financial and consulting services. We’ve designed our corporate structure to best serve our clients by enhancing collaboration across our organization.
+Real estate can have an enormous positive impact on people’s lives – and we’re in the business of making spaces and places work better for people. Our purpose is to create real economic, social and environmental value as a global real estate advisor, powered by people.
+We care about each other and we have each other’s backs. This makes Avison Young a great place to be a client, and a great place to work. We support the whole person and their complete wellness – economic, mental and physical – because what’s best for our business comes from our people bringing their whole selves to work.
+Overview:
+
+As a data & analytics engineer at Avison Young, you will take ownership of the development of our data pipelines, data infrastructure and data warehouse design and implementation.
+You will team up with technical and business stakeholders, advocate for a high-quality processes and data, and eliminate roadblocks. You'll also enhance our collaborative environment by supporting the engineers on your team through mentorship and knowledge sharing.
+In the role, you will partner cross functionally with Analytics, GIS, IT and Product teams as well as Business stakeholders.
+This role will be working on our organization’s analytical and geospatial databases as well as client facing products that allow our revenue professionals to tell the story of the market. You will be able to drive clear results that have a direct impact on our bottom line, and you will be responsible for achieving and exceeding business growth.
+Responsibilities:
+
+We are seeking data & analytics engineers with to join our global data architecture team. The main functions anticipated for this role include, but are not limited to, the following:
+Help manage our growing portfolio of geospatial and demographic datasets to drive our real estate products
+Design data models to support analytics platforms
+Connect new data sources to our Global Data Warehouse and facilitate our data science & Product teams to deliver new products.
+Monitor all areas of performance on our platforms
+Assist with Modelling, ETL/ELT and all configuration of wide range of toolsets
+Secure all confidential configuration and documentation
+Qualifications:
+3-5 years of experience as a Data Engineer
+S. or M.S. in Computer Science or equivalent experience
+Experience with containerized development specifically Docker
+Experience with a public cloud provider (AWS, Azure, GCP)
+Excellent written and oral communication skills
+Bonus: Experience with Airflow & DBT
+Bonus: Experience with Infrastructure as Code (IaC), preference on Terraform
+Our Equal Opportunity Commitment:
+
+Avison Young practices as an equal opportunity employer in all services locations around the world. We are committed to building and maintaining a workforce diverse in experience, skills and knowledge with uniformity in service excellence, commitment and integrity.
+The firm maintains a strict policy to ensure employment opportunities are equal and do not discriminate based on race, color, religion, creed, age, sex, gender, gender identity or expression, sexual orientation, national origin, citizenship, disability, marital and civil partnership/union status, protected veteran or military service status, or any other elements protected by law.
+For those requiring assistance with disabilities, information relating to the need for accommodation and accommodation measures will be addressed confidentially.
+Avison Young is committed to employing the best talent with the most fair and equitable recruitment practices. Apply with us TODAY!",Bienes raíces,,2022-08-20T00:00:00,2022-10-16,FULL_TIME
+"Data Science Co-op, NA Integrated Analytics (2023 Winter - Toronto, 4 Months)",Munich Re,Ontario,Toronto,-1,-1,,CAD,"Data Science Co-op, NA Integrated Analytics (2023 Winter - Toronto, 4 Months)
+POSITION: Data Science Co-op, NA Integrated Analytics (2023 Winter - Toronto, 4 Months)
+LOCATION: Toronto, ON
+ANTICIPATED START DATE: January 2023
+NUMBER OF POSITIONS: 1
+APPLICATION DEADLINE: September 20, 2022
+Location
+
+Toronto , Canada
+Our co-op placements provide you with an excellent opportunity to practically apply your classroom and technical training in the reinsurance industry. While with our team, you’ll be: coached by experienced industry professionals, exposed to Munich Re leadership, challenged as a valuable team member and contributor doing meaningful work, and mentored to develop a solid foundation that will help position you as a future leader in the field.
+
+To learn more about the North American Integrated Analytics team, please visit our site:
+https://www.munichre.com/us-life/en/solutions/integrated-analytics.html
+Your job
+Responsibilities may include, but will not be limited to the following:
+
+Supporting the development of statistical and machine learning techniques to assist with building models for underwriting, pricing, and claims management;
+Assist in building and implementing solutions that enable operational units to improve quality and speed of core processes in order to generate incremental revenue or reduce expense;
+Help research new ways of modeling data to unlock actionable insights or improve processes;
+Collaborate across Munich Re functions to understand how analytics can influence business decisions;
+Network with existing data science groups at Munich Re.
+
+Your profile
+We’re looking for well-rounded individuals who are technically astute, have strong communication skills, and demonstrate the ability to build positive relationships with internal clients. We’re seeking energetic and collaborative professionals who are excited to join our winning team and show promise of becoming a future leader in the data science space.
+
+Specifically, we’re looking for the following qualifications:
+
+Technical:
+
+Undergraduate or Graduate degree in Computer Science, Statistics, Data Science/Analytics, Applied Mathematics, Engineering (Physics, Bioinformatics) – or equivalent program offering coursework manipulating large datasets;
+Familiarity working with analytics through the modeling lifecycle including gathering data, design, recommendations, testing, implementation, communication, and revisions;
+Familiarity with advanced predictive analytic techniques;
+Experience working with any of the following: SQL, Python, or R (familiarity with multiple languages considered an asset).
+
+Behavioral:
+
+Solid communication skills; spoken & written, formal/informal presentation;
+Resourceful and able to learn quickly;
+Proven ability to thrive in a dynamic environment.
+
+Preferred (but not required):
+
+Familiarity with big data technologies (ex: Apache Spark, +, etc) and deep learning models (such as tensorflow);
+Previous exposure to insurance or financial services environment is preferred but not required.
+
+Note that this opportunity is open to current students who are returning to in-class studies upon the completion of the internship.
+About us
+Together, we engage with everything we have and are, to help humankind act braver and better.
+
+As the world’s leading reinsurance company with more than 40,000 employees in over 50 locations around the globe, Munich Re introduces a paradigm shift in the way you think about insurance. By turning uncertainty into manageable risk, we enable fundamental change. We recognize Diversity, Inclusion, and Belonging as a key priority with a culture that welcomes different thoughts and opinions. We dare to think big and are continuously innovating on behalf of our clients.
+
+How can ML promote longer and healthier lives? Armed with decades of risk data, novel data sources, and a team of innovative data scientists, engineers, and domain experts, Munich RE is building solutions that are transforming the life insurance industry.
+
+Develop solutions that allow easier access to insurance and healthier lifestyles
+Build highly scalable products with best security, ML, DevOps practices
+Research bias and fairness, disease models, NLP & more
+Discover diverse careers with leadership opportunities
+Flexible remote/in-person work + focus on work-life balance
+Be part of a fast-growing team that values transparency & diversity
+
+Please note that only candidates who are selected for interview will be contacted directly.
+We thank all candidates for their interest.
+
+Apply now!
+Apply for this Job!
+Munich Re Canada is committed to providing a work environment that is inclusive and free of employment barriers and discrimination. Accommodations will be made for qualified applicants with a disability throughout the recruitment process. If you receive a request for an interview and you have a disability which will require an accommodation to support your participation, please consult with Human Resources or contact AODARequestHR@munichre.ca as soon as practical so that suitable accommodations can be arranged.",Seguros,,2022-09-06T00:00:00,2022-10-16,OTHER
+devops engineer,Tiger Analytics Inc.,Ontario,Toronto,-1,-1,,CAD,"Work setting
+Consulting firm
+Tasks
+Collect and document user's requirements and develop logical and physical specifications
+Research, evaluate and synthesize technical information to design, develop and test computer-based systems
+Develop data, process and network models to optimize architecture and to evaluate the performance and reliability of designs
+Plan, design and co-ordinate the development, installation, integration and operation of computer-based systems
+Assess, troubleshoot, document, upgrade and develop maintenance procedures for operating systems, communications environments and applications software
+Lead and co-ordinate teams of information systems professionals in the development of software and integrated information systems, process control software and other embedded software control systems
+Computer and Technology Knowledge
+Business intelligence
+Cloud
+R
+SQL
+Mapping and data visualization software
+Programming languages
+Software development
+Data analysis software
+MS Office
+Angular.js
+Hadoop
+React.js
+Scala
+Python
+Data manipulation and analysis
+Area of specialization
+System integration
+Security and safety
+Criminal record check
+Transportation/travel information
+Valid driver's licence
+Work conditions and physical capabilities
+Tight deadlines
+Attention to detail
+Personal suitability
+Client focus
+Efficient interpersonal skills
+Excellent oral communication
+Excellent written communication
+Team player
+Workplace information
+Remote work available
+Health benefits
+Dental plan
+Disability benefits
+Health care plan
+Vision care benefits
+Financial benefits
+Bonus
+Long term benefits
+Group insurance benefits
+Life insurance
+Pension plan
+Registered Retirement Savings Plan (RRSP)",Administración y consultoría,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+Data Engineer,Arka Technologies,British Columbia,Vancouver,-1,-1,,CAD,"Hiring for our client
+You
+Are interested in solving business problems for clients
+Are intellectually curious. We often deal with source data systems that have no pre-existing ETL solutions.
+Enjoy solving engineering problems with code.
+Relish working autonomously and as part of a growing engineering team to develop unique solutions to provision data.
+Are excited at the prospect of setting up a “beachhead” in industries that have not traditionally realized the value of their data.
+Want to learn and grow with a new company for the long-term.
+The Role
+Working closely with:
+Clients to understand their data constraints and requirements.
+Data science and analytics colleagues to build robust, supportive infrastructure.
+Conceptualizing and coding new infrastructure that allows data to be accessed and analyzed. Some recent examples include:
+Azure Function development to connect blob storage to a Snowflake warehouse.
+Migration of an agronomy operations database from an Access / SQL data environment to cloud data warehouse.
+Reformulating existing data architectures to optimize data quality.
+Coding diagnostic and test structures to ensure that we spot small data problems before they become serious.
+Preparing raw data for manipulation by data analysts and scientists.
+Ensuring proper data quality and ongoing ETL functionality.
+Documenting all engineering work and formulating new engineering best-practices and processes.
+Remaining up to date with industry standards and technological advancements that will improve the quality of our work.
+Developing your own skills and interests, e.g., business intelligence, data and decision science.
+Skills and Qualifications
+2+ years of experience as a data engineer, data programmer or similar.
+Expert proficiency in SQL, and 1 or more of the following in a business context: Python, C#, Java. If Python isn’t your language that’s not a problem, but you should be prepared to learn it to work with our analytics team.
+Expertise working with various endpoints for data extraction (API, ODBC, etc.).
+Working knowledge of cloud computing platforms (AWS/Azure/Google Cloud).
+Familiarity with SQL Server and/or Snowflake (or suitable equivalent)
+Strong problem-solving skills.
+Scrupulous approach to data quality.
+Capacity to successfully manage a pipeline of duties with minimal supervision.
+Some experience connecting data to, and using, visualization and analytic tools like Tableau, Power BI is advantageous.
+52sXl52BhR",,,2022-09-08T00:00:00,2022-10-16,OTHER
+Python Engineer - Analytics (remote),Ample Insight Inc.,Ontario,Toronto,-1,-1,,CAD,"Company Description
+You will join a world-class team of engineers and data scientists from Facebook, Uber, Amazon and Google. We are a fast growing consulting firm based in Toronto with clients ranging from leading startups building impactful technologies to Fortune 500 companies looking to scale their engineering and data capabilities.
+
+Job Description
+We are looking for an ambitious Python Engineer/Developer. You are passionate about technology but very pragmatic in the application of it to real-world engineering problems. You are experienced in launching new products and scaling them. Critical thinking and problem-solving skills are essential for this role.
+As a Python Engineer, you will contribute in a multitude of ways, from architecting phenomenal systems, creating and encouraging good software development practices, driving strategic technical improvements, and mentoring other engineers.
+At Ample Insight, you will have a unique opportunity to work with best-in-class engineers on large engineering problems, but in an environment with small teams and abundant opportunities for personal impact and growth.
+Please note that although this role is remote, you are required to be located in Canada/US.
+
+Qualifications
+Responsibilities
+You will be part of a small but highly impactful team, with a large amount of ownership and autonomy for managing things directly
+You will architect important systems and anticipate strategic and scaling-related challenges via thoughtful long-term planning
+You will need to design, prototype, and create solutions that support highly reliable, scalable, performant AI and analytics products
+Requirements
+BS (or MS, or PhD) in Computer Science or related engineering field involving coding
+3+ years of professional software development experience
+3+ years of experience working with Python and data/ML related Python libraries such as Pandas, NumPy and scikit-learn
+Hands on experience working with data and analytics relating to user engagement, social, marketing, and/or finance data
+Extensive experience working on relational databases, designing complex data schemas, and writing SQL queries
+Deep knowledge on performance tuning of ETL jobs, SQL, and databases
+Solid CS fundamentals with thorough understanding of and demonstrated experience in Object-Oriented Design
+Strong understanding of design patterns and capable of incorporating them in software design
+Experience setting technical strategy for a large or important company initiative
+Strong knowledge of shipping impactful and complex software projects
+Experience working with Airflow is a strong plus
+Devops experience is a plus
+Additional Information
+Compensation
+We have competitive compensation
+Remote
+You can be fully remote if you'd prefer. Our employees have strong autonomy. You will need to have great work ethics and be someone that is responsible and dependable.
+We have amazing team outings that you definitely wouldn't want to miss!",,,2022-09-12T00:00:00,2022-10-16,FULL_TIME
+Senior Analytics Engineer,Cardinal Path,Ontario,Toronto,-1,-1,,CAD,"Company Description
+Merkle Cardinal Path, part of Dentsu Aegis Network, is a leading digital analytics and digital marketing firm focused on delivering insight, understanding, and outcomes that create a competitive advantage for our clients. We engage at the strategic, business, and technical levels to generate tangible and quantifiable value for our partners. Merkle Cardinal Path’s mission is: To know. To Share. To be our Partners’ competitive advantage. And our company culture reflects the importance of our people's expertise, wellness, and happiness in everything we do.
+
+Merkle Cardinal Path is rapidly expanding its Google Marketing Platform strategy with our clients, including media strategy, activation, platform management, analytics, and managed services to deliver transformational outcomes.
+
+Job Description
+""Remote Opportunity""
+We are looking for experienced and passionate data analytic engineers to help solve our client’s most complex business problems utilizing marketing data to deliver modern solutions that scale. The Analytics Engineer will build the foundational database architecture, integrations, pipelines, and datasets that will enable our team to perform analysis, create visualizations, and build models.
+We work with hundreds of brands across every vertical and look for individuals that can thrive working across multiple teams. If working on the leading edge of marketing analytics sounds interesting this is the career for you.
+An ideal candidate will have very strong technical skills and experience in the marketing domain - preferably web analytics or paid media. The tools of our trade are SQL and Python. We work across clouds and experience in Google BigQuery, Microsoft Azure SQL DB / Synapse, Snowflake is essential. Data integration experience with platforms such as Fivetran, dbt, Airflow, and Databricks is important.
+Experience in the digital data and analytic ecosystem including Google Analytics or Adobe Analytics is a major plus, as well as experience in working with data from marketing technology platforms such as Google Ads, Campaign Manager, and Facebook. Familiarity with R, and visualization environments such as Tableau, Looker, DOMO, or Power BI is beneficial.
+Responsibilities Include:
+Act as primary consultant to clients for data engineering services coordinating across other support and consultant roles
+Collect client project requirements and create solution designs to solve for clients business and technical needs
+Create datasets and views of data that will be consumed by teams of analysts and data scientists to support data mining, analytics, reporting, and dashboards
+Develop, implement, and support methodologies, standards, documentation and tools for data management, considering innovation and data security at all times
+Estimate projects involving data integration, data architecture, business analysis or application development and collaborate with sales and client success teams to grow accounts
+Participate in product roadmap discussions and identifying key areas for improvement of products and services
+Provide subject matter expertise on industry trends for database-related technologies
+Ability to build cooperative, productive relationships with clients and vendors, have excellent communication skills, and interact effectively with all levels of management
+Promote best practices and provide leadership to a team of developers and data engineers
+Be actively engaged in the pursuit of advancing the company and team, acting as a self-starter and demonstrating proactive initiative
+
+Qualifications
+
+Bachelor’s degree in a technical field of study (Information Systems, Computer Science, Engineering, Mathematics, Statistics, Business Analysis, etc) with a minimum of 3-5 years experience with database development
+Can accommodate at least a 70% overlap of working time with North American teams and clients, based on central time zone (CT)
+Advanced skills in SQL and Python
+Experience with cloud / big data technologies such as BigQuery (preferred), Azure SQL DB/Synapse, Snowflake, or Amazon Redshift
+Deep knowledge of ETL tools and how they can be applied to a big data environment
+Familiarity with analyzing digital marketing, advertising and ecommerce data
+API expertise for Google Analytics, Facebook, Twitter, etc. is a plus
+Familiarity with web analytics tools such as Adobe Marketing Cloud or Google Analytics
+Experience with building and maintaining DevOps workflows
+Experience with optimizing BI or visualization tools such as Tableau, Looker, DOMO or Power BI
+Experience with cloud platforms such as AWS, Azure, and Google Cloud
+Knowledge of technologies such as Spark, Hadoop, and Airflow
+3+ years experience in marketing technology/data/analytics roles
+Additional Information
+Cardinal Path leverages digital analytics and digital marketing to deliver insight, understanding and outcomes that create competitive advantage for our clients. We engage at the strategic, business, and technical level to generate tangible and quantifiable value for our partners.
+Our company is an equal opportunity employer; applicants are considered for all roles without regard to race, color, religious creed, sex, national origin, citizenship status, age, physical or mental disability, sexual orientation, marital, parental, veteran or military status, unfavorable military discharge, or any other status protected by applicable federal, state or local law.
+We know through experience that different ideas, perspectives and backgrounds foster a stronger and more creative work environment that delivers better business results. We strive to create workplaces that reflect the clients we serve and where everyone feels empowered to bring their full, authentic selves to work. We are committed to working with our candidates from all ability levels throughout the recruitment process to ensure that they have what they need to be at their best. If you need accommodation during the application or interview process, please contact Canada.Recruitment@dentsuaegis.com or to begin a conversation about your individual accessibility needs throughout the hiring process.
+#LI-PB1",Audiovisual y medios de comunicación,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+Test Engineer,Orion Health,Ontario,Toronto,-1,-1,,CAD,"Innovate with purpose
+
+Do you want to work for a company that is innovating and making a difference to the health and wellbeing of people all over the world? We're not about selling meaningless, unnecessary products for corporate profitability. You'll be working on technology that will revolutionize global health systems so that we can finally get the healthcare we all want - a basic human right.
+
+We like to think of ourselves as a community of start-ups where you can be your true, genuine self. Each of our product teams has the autonomy to decide how they operate and contribute towards our mission of providing each person with the right care at the right time and in the right place.
+
+Orion Health is excited to be expanding our galaxy by recruiting for a number of stellar individuals to join our team to help us deliver to our global customer base. If you want to climb aboard the rocketship and help us revolutionize global health systems, astronomical opportunities await.
+
+
+About the Role:
+
+The Test/Quality Assurance Engineer will interact with project team to ensure the solution is fully tested, meeting all customer requirements, and passing all acceptance criteria. You will be responsible for executing and maintaining automated and manual test suites. This role is essential in helping the project team meeting the customer's expectations. You will be working on fast iteration cycles and tight deadlines using an agile/scrum methodology.
+
+The Test/Quality Assurance Engineer works collaboratively with our internal teams and product owners on design, development, and delivery of our business solutions, contributing towards the execution of manual and automated tests and ensure our code is of the highest quality; this includes tackling complex infrastructure challenges with creative automation and configuration management solutions; helping improve and expand the coverage of deployment automation.
+
+
+About You:
+
+You have a good understanding of testing techniques and approaches, are comfortable with contemporary software development practices and dealing with constant change.
+You will have a minimum of 2-6 years in software testing , manual and automated, in relevant technologies, with in-depth experience with several testing and configuration management tools and techniques. Your experience includes testing web-based solutions and data integration solutions, using testing tools and issue/defect tracking tools.
+You persevere and drive for results when faced with difficulties and setbacks
+You develop logical ideas, approaches, and solutions to typical, unusual, or difficult situations or problems.
+As a strong communicator, you can get your points across clearly, concisely and quickly.
+
+
+Core Skills:
+
+Skilled in designing test plans, test scenarios and test activities.
+Experience with Amazon Web Services (AWS) and continuous integration tools.
+Preferred understanding of technical concepts including HTTP, HTML, web services, XML, javascript, messaging, Linux, Oracle DB, and SQL.
+Software development experience preferred, programming on java, javascript, cucumber, selenium.
+Exposure to big data technologies – Apache Spark, Elastic search, Cassandra strongly preferred.
+Healthcare domain expertise, working with data/analytics technologies is a bonus.
+Education: Bachelor's degree in information technology, computer science or engineering required.
+
+
+In return Orion Health offers:
+
+Competitive salary and incentive packages
+The ability to top up your standard annual leave balance with LeavePlus
+Work for up to 30 days per year in another country through our TravelFlex initiative
+20 days of paid annual vacation leave; 5 days of annual paid sick leave, with carry-over.
+Medical, Dental & Vision Insurances paid by Orion Health
+RRSP program with company match; life insurance, short-term, and long-term disability insurances
+Work with High-end hardware and systems
+Flexible, social and professional company culture.
+
+
+If this sounds like you, we would love to hear from you!
+
+
+We offer accommodation for applicants with disabilities, as required throughout the recruitment process. Accommodations are available on request for candidates taking part in all aspects of the selection process.
+
+
+Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, or disability.",Tecnologías de la información,,2022-09-12T00:00:00,2022-10-16,OTHER
+Software Engineer Full Stack Entry Level (Vancouver),Keycafe,British Columbia,Vancouver,-1,-1,,CAD,"Keycafe (http://www.keycafe.com/) is a rapidly growing software company seeking talented, self-starting software engineers who can learn quickly and build out new features of our platform.
+You will work across the stack and have the opportunity to develop new infrastructure that our customers will use to manage their operations and fleet of assets. As a vertically integrated hardware/software solution that is deployable worldwide, our product presents unique challenges including IOT, cloud, security, firmware, billing, analytics, iOS/Android apps, etc. As an early member of our engineering team, you'll have many opportunities to forge our best practices, technical decisions, and create areas of ownership for yourself.
+The ideal candidate is analytical, thorough and independent by nature. If you are motivated and results-driven, and enjoy shipping superb code, we'd like to meet you.
+What You'll Do:
+Write code. Our languages and frameworks include Groovy/Grails, Java, JS/Node.js/AngularJS, C++, Python, PostgreSQL and others.
+Architect your own features. Engineers at Keycafe are given wide latitude on how to approach problems, but be ready for technical feedback.
+Collaborate with product management and other teams to achieve customer experience objectives.
+Own the quality of the features you develop including comprehensive testing and documentation
+About You:
+Bachelor's degree in Computer Science or Sofware Engineering
+Experience with object oriented programming languages and APIs
+Ability to work within a team and accept technical feedback
+An eye for design and experience with UI languages a plus
+Resident in Canada
+Benefits We Offer:
+Competitive salary
+Benefits plan
+Generous and flexible paid time off
+Parental leave policy
+Remote-friendly work environment
+
+About Keycafe
+Keycafe (http://www.keycafe.com/) is a SaaS company based in Vancouver, BC that has developed a device and cloud based service that lets businesses manage access to their vehicle and facility keys. Businesses are able to manage tens, hundreds or thousands of keys and configure access and workflows involving their employees, guests, and customers across many locations.
+Customers from more than 40 industries use Keycafe including major vacation rental/hotels (hospitality), car rental agencies, car dealerships, real estate/property management, and just about any company that has a large vehicle fleet or property fleet. Keycafe has customers and operations across the EU, North America, Asia, and Australia.
+We pride ourselves on being a great place to work with 4.7 stars on Glassdoor (https://www.glassdoor.ca/Overview/Working-at-Keycafe-EI_IE2161579.11,18.htm) from current and former employees. We look forward to working with new hires and supporting their personal career development.",Tecnologías de la información,,2022-08-29T00:00:00,2022-10-16,FULL_TIME
+Data Engineer Intern,ALSTOM,Quebec,Saint-Bruno-de-Montarville,-1,-1,,CAD,"Req ID:338809
+Leading societies to a low carbon future, Alstom develops and markets mobility solutions that provide the sustainable foundations for the future of transportation. Our product portfolio ranges from high-speed trains, metros, monorail, and trams to integrated systems, customised services, infrastructure, signalling and digital mobility solutions. Joining us means joining a caring, responsible, and innovative company where more than 70,000 people lead the way to greener and smarter mobility, worldwide
+
+YOUR INTERNSHIP
+Based in St-Bruno Quebec, you will be responsible to support the Industrial Quality Director of Americas and the Quality Business Intelligence team on various database elements of project management and quality assurance with the express intent of helping the organization improve its data insight and analytics on current Train projects.
+As part of your job, you will be asked to:
+Participate in the digitalization strategy of the organizations business intelligence team
+Develop, automate, and support dashboards and database creation for projects and departments
+Participate in the design, code, create, tests, and integration of digital tools across the organization
+Perform analysis on databases to aid the organization in making data driven business decision
+Support Project Core team Monthly Reviews and related activities
+Support Monthly Senior Leadership Project Reviews
+Monitor key performance indicators and visualize data for the organization
+
+YOUR PROFILE
+
+As our ideal candidate, you:
+Are pursuing a bachelor’s degree in Computer Science, Engineering, Business Administration, Operations Management, or Data Science
+Have a Continuous Improvement mindset
+Are Proficient in Microsoft Office applications
+SAP, Jira, Power BI and Azure knowledge is an asset
+DAX, M language, Power Query, SQL (variants), and VBA experience is an asset
+Have strong analytical skills with an ability to learn in a fast-paced environment.
+Agile/ Scrum Framework knowledge is an asset
+Have strong communication & interpersonal skills
+Thrive in a team oriented and autonomous work environment
+Are fluent in English & French, spoken & written.
+
+If you’re looking for a company with a strong purpose and the ambition to play a role in climate change by leading the way to greener and smarter mobility, if you are ambitious and would like to embark on a challenging, global journey, and if you have a certain sense of entrepreneurship:
+Join us and help us create a better tomorrow !
+Alstom is the leading company in the mobility sector, solving the most interesting challenges for tomorrow’s mobility. That’s why we value inquisitive and innovative people who are passionate about working together to reinvent mobility, making it smarter and more sustainable. Day after day, we are building an agile, inclusive and responsible culture, where a diverse group of people are offered opportunities to learn, grow and advance in their careers, with options across functions and geographic locations. Are you ready to join a truly international community of great people on a challenging journey with a tangible impact and purpose?
+
+Equal opportunity statement:
+Alstom is an equal opportunity employer committed to creating an inclusive working environment where all our employees are encouraged to reach their full potential, and individual differences are valued and respected. All qualified applicants are considered for employment without regard to race, colour, religion, gender, sexual orientation, gender identity, age, national origin, disability status, or any other characteristic protected by local law.
+
+
+Job Segment: Database, Business Intelligence, Computer Science, Project Manager, Quality Assurance, Technology",Transporte y logística,,2022-09-07T00:00:00,2022-10-16,OTHER
+PSAS Science and Analytics - Business Intelligence Engineer,Amazon Dev Centre Canada ULC,British Columbia,Vancouver,-1,-1,,CAD,"* Bachelor's degree in Computer Information Systems, Computer Engineering, or equivalent experience.
+* 4+ years of relevant experience as data engineer, software engineer, business intelligence engineer, or equivalent.
+* Proficiency with different data modeling techniques, coding, query development and scripting language (e.g. Java, Python, R, SQL, PL/SQL) and data visualization tools (e.g. Quicksight or Tableau).
+* Advanced ability to draw insights from data and clearly communicate them (verbal/written) to the stakeholders and senior management.
+
+Customer Trust & Partner Support (CTPS) is responsible for creating a trustworthy shopping experience across Amazon stores worldwide by protecting Customers, Brands, Selling Partners and Amazon from fraud, counterfeit, and abuse as well as empowering, providing world‐class support, and building loyalty with Amazon’s millions of selling partners. We value individual expression, respect different opinions, and work together to create a culture where each of us is able to contribute fully. Our unique backgrounds and perspectives strengthen our ability to achieve Amazon's mission of being Earth's most customer-centric company.
+
+As a team within CTPS, Partner Solutions & Support (PSAS), strives to make Amazon the best way for Selling Partners to reach customers locally and globally and to operate their businesses, driven by the accurate and efficient support and solutions we provide them. PSAS focuses on both preventing Selling Partner (Seller, Vendor and Brand Registry) contacts through preventing issues based on knowledge obtained during our support interactions, and for handling those contacts with quality and efficiency. To achieve this vision, we invest in technology to eliminate the root cause defects that cause Selling Partners to seek help, build self-service tools to resolve their issues on their own without waiting for help from Amazon, and provide Associates with the tools that automate routine steps and help them deliver consistent, efficient, quality resolution, Our team includes product managers, program managers, SDEs, scientists, and a range of operational and other specialty roles, and we operate at scale with over 17K Amazonians in our team, spanning 50+ global locations, and handling over 50M contacts a year
+
+In this role you will:
+
+Responsibilities:
+
+Engage with diversified customer groups to understand the needs and recommend business intelligence solutions.Partner with Data engineering team to define the data elements and data structure that the team should leverage to enable reporting capabilities.Design, implement, and support optimal self service solutions that enable product managers to run ad-hoc analysis.Interface with internal stakeholders , gathering requirements and delivering end to end reporting solutions.Own the design, development, and maintenance of reports/ dashboards, etc. to drive key business decisions.Participate in strategic & tactical planning discussionsStandardize data and report consumption across all customer groups.Be connected and influential within the Amazon BIE community. Work with Data engineering, Software development teams to enable the appropriate capture and storage of key data points.
+
+Experience using AWS technologies such as Redshift, S3, EC2, EMR and other data warehouse or pipeline products.Master’s degree in Engineering, Computer Science and Data Science.Excellent communication (verbal and written) and interpersonal skills and an ability to effectively communicate with both business and technical teams.
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.",Tecnologías de la información,,2022-08-20T00:00:00,2022-10-16,FULL_TIME
+Analytics Engineer - Remote,KOHO,,,-1,-1,,CAD,"About KOHO
+KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+About the Role
+KOHO is looking for an Intermediate-level Analytics Engineer to work with our data analytics, engineering, data science, and machine learning teams. This role is for you if you are passionate about modeling data in a way that empowers end users to answer their own questions. Successful applicants will spend their time transforming, testing, deploying, and documenting data leveraging dbt while applying software engineering best practices across the analytics code base. This role will also include the ownership of dbt across the organization and collaboration with data leadership related to all aspects of analytics engineering for the firm.
+Please Note: This is a remote position and is available to those who are legally entitled to work in Canada.
+What You'll Be Doing
+You will use dbt to deliver and maintain clean, transformed data models ready for analytic and data science use cases
+You will understand business needs and translate requirements to meet those needs
+You will troubleshoot variances in reports, and strive to eliminate them at the source
+You will document data models and provide training as needed
+You will apply software engineer best practices to analytics code including version control, testing, and continuous integration
+Who You Are
+You have solid experience with DBT for data transformation, testing and maintainable lineage
+You have 3+ years experience handling, manipulating, and documenting data
+You have strong expertise in SQL, data warehouse design and data lake architectures
+You have intermediate expertise across python programming
+You are an excellent problem solver with strong communication skills
+Joining the (lovely!) KOHO Team
+We invest time and resources into making sure KOHO is as good as the people we hire. Here are some of the reasons we attract the best people:
+Balance Your Life - Generous PTO, generous vacation, and a lifestyle spending accountWork Anywhere - Permanently remote and $1,000 to set up your home officeLevel Up - Access to an in-house certified performance coachReach Your Goals - Salary assessments twice a year, annual training allowanceThe KOHO Culture - We have won 6 ""Great Place to Work ®"" awards since 2019
+The KOHO culture is one of collaboration, creativity, and diverse perspectives. We are committed to building and fostering an inclusive, accessible environment for everyone. If you have any questions, concerns, or requests regarding accessibility needs, please contact peopleaccessibility@koho.ca and the People and Culture team will be happy to help.
+#LI-Remote #LI-NC",Finanzas,,2022-08-18T00:00:00,2022-10-16,FULL_TIME
+Marketing Analytics Engineer - Remote - Canada,Mattermost,,,-1,-1,,CAD,"Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. Hundreds of thousands of developers around the globe trust Mattermost to increase their productivity by bringing together team communication, task and project management, and workflow orchestration into a unified platform for agile software development.
+Founded in 2016, Mattermost’s open source platform powers over 800,000 workspaces worldwide with the support of over 4,000 contributors from across the developer community. The company serves over 800 customers, including European Parliament, NASA, Nasdaq, Samsung, SAP, United States Air Force and Wealthfront, and is backed by world-class investors including Battery Ventures, Redpoint, S28 Capital, YC Continuity. To learn more, visit www.mattermost.com.
+We value high impact work, ownership, self-awareness and being focused on customer success. If these values match who you are, we hope you'll learn more about working at Mattermost and apply!
+Mattermost is seeking a passionate data enthusiast to lead our Marketing data analytics. As a data-driven organization, Mattermost relies on our data team to drive marketing insights, ensure accurate data across systems, iterate on current key business metrics, and dive into complex datasets to answer business-critical questions.
+In this role, you will work closely with the marketing, sales, product, and engineering organizations to deeply understand customer trends, analyze marketing activities, product adoption, and sales results in order to surface insights that impact the health of the overall business. If you are data-obsessed, love connecting the dots, thrive in an iterative environment, and aren’t afraid to get your hands dirty, this is the role for you.
+About Our Tools
+Tool Stack: Marketo, Salesforce, Wordpress, Google Analytics, Google Tag Manager, Google Optimize, Snowflake, dbt, Stitch, Hightouch, Looker, Google Sheets/Excel, etc.Coding Languages: SQL, Python, LookML
+Responsibilities:
+Own the entire development process for our marketing analytics reporting. This includes meeting with internal customers to understand their needs, partnering with data engineering to centralize dispersed data, understanding the core data models, writing code to enrich and manipulate data, and designing and editing reports and dashboards.
+Build and tune models that will help the Marketing team predict results and report on performance.
+Provide guidance to functional leaders on KPI's, metrics, and business decisions including accurate analysis of user and business data.
+Lead strategic cross-functional data initiatives to stitch together the Mattermost customer journey data for internal analytics consumption.
+Partner with the Data Engineering team to ensure relevant data is centralized into our data warehouse and modeled for performant analytics, while meeting our high data-quality standards.
+Required Background/Skills:
+5+ years experience in a fast-paced analytics focused role.
+Experience solving ambiguous business problems with hard data.
+A passion for systems that generate and present clear and relevant data. Strong communication skills across stakeholders with varying business goals and levels of technical knowledge - you’re as comfortable talking to our API team about how they record events as you are brainstorming a new campaign with our Marketing team.
+Firm grasp of statistics and statistical inference. Comfort juggling and prioritizing competing workstreams.
+A background working with Marketing systems, and processes.
+A firm understanding of ETL and Reverse ETL setups. Strong SQL skills; experience with dbt; experience with statistical packages.
+Mattermost is a remote-first company with staff living and working across the globe. We are currently hiring staff in these countries/regions:
+Australia - Bangladesh - Brazil - Bulgaria - Canada - Chile - Colombia - Finland - Georgia - Germany - Greece - India - Ireland - Mauritius - Mexico - Norway - Pakistan - Philippines - Poland - Portugal - Spain - South Korea - Suriname - Turkey - Uganda - Ukraine - Uruguay - United Kingdom - United States
+We are constantly working towards adding more countries/regions to this list, but first we need to make sure we are compliant with local laws and regulations, which takes time.
+Mattermost is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people from all walks of life. We don't discriminate against staff or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!",Tecnologías de la información,,2022-09-13T00:00:00,2022-10-16,FULL_TIME
+Google Analytics Engineer,Cardinal Path,British Columbia,Vancouver,-1,-1,,CAD,"Company Description
+Cardinal Path, part of Dentsu, is a leading digital analytics and digital marketing firm focused on delivering insight, understanding and outcomes that create competitive advantage for our clients. We engage at the strategic, business, and technical levels to generate tangible and quantifiable value for our partners. Our clients include brands such as Bridgestone, Johnson and Johnson, Pfizer, Asics and hundreds of others. Cardinal Path’s mission is: To know. To Share. To be our Partners’ competitive advantage. And our company culture reflects the importance of our people’s’ expertise, wellness and happiness in everything we do.
+
+Job Description
+We are looking for experienced and passionate data engineers to help solve our client’s most complex business problems utilizing marketing data to deliver modern solutions that scale. The Analytics Engineer will build the foundational database architecture, integrations, pipelines, and datasets that will enable our team to perform analysis, create visualizations, and build models.
+We work with hundreds of brands across every vertical and look for individuals that can thrive working across multiple teams. If working on the leading edge of marketing analytics sounds interesting this is the career for you.
+An ideal candidate will have very strong technical skills and experience in the marketing domain - preferably web analytics or paid media. The tools of our trade are SQL and Python. We work across clouds and experience in Google BigQuery, Microsoft Azure SQL DB / Synapse, Snowflake is essential. Data integration experience with platforms such as Fivetran, dbt, Airflow, and Databricks is important.
+Experience in the digital data and analytic ecosystem including Google Analytics or Adobe Analytics is a major plus, as well as experience in working with data from marketing technology platforms such as Google Ads, Campaign Manager, and Facebook. Familiarity with R, and visualization environments such as Tableau, Looker, DOMO, or Power BI is beneficial.
+Responsibilities Include:
+Act as primary consultant to clients for data engineering services coordinating across other support and consultant roles
+Collect client project requirements and create solution designs to solve for clients business and technical needs
+Create datasets and views of data that will be consumed by teams of analysts and data scientists to support data mining, analytics, reporting, and dashboards
+Develop, implement, and support methodologies, standards, documentation and tools for data management, considering innovation and data security at all times
+Estimate projects involving data integration, data architecture, business analysis or application development and collaborate with sales and client success teams to grow accounts
+Participate in product roadmap discussions and identifying key areas for improvement of products and services
+Provide subject matter expertise on industry trends for database-related technologies
+Ability to build cooperative, productive relationships with clients and vendors, have excellent communication skills, and interact effectively with all levels of management
+Promote best practices and provide leadership to a team of developers and data engineers
+Be actively engaged in the pursuit of advancing the company and team, acting as a self-starter and demonstrating proactive initiative
+
+Qualifications
+Bachelor’s degree in a technical field of study (Information Systems, Computer Science, Engineering, Mathematics, Statistics, Business Analysis, etc) with a minimum of 3-5 years experience with database development
+Can accommodate at least a 70% overlap of working time with North American teams and clients, based on central time zone (CT)
+Advanced skills in SQL and Python
+Experience with cloud / big data technologies such as BigQuery (preferred), Azure SQL DB/Synapse, Snowflake, or Amazon Redshift
+Deep knowledge of ETL tools and how they can be applied to a big data environment
+Familiarity with analyzing digital marketing, advertising and ecommerce data
+API expertise for Google Analytics, Facebook, Twitter, etc. is a plus
+Familiarity with web analytics tools such as Adobe Marketing Cloud or Google Analytics
+Experience with building and maintaining DevOps workflows
+Experience with optimizing BI or visualization tools such as Tableau, Looker, DOMO or Power BI
+Experience with cloud platforms such as AWS, Azure, and Google Cloud
+Knowledge of technologies such as Spark, Hadoop, and Airflow
+3+ years experience in marketing technology/data/analytics roles
+Additional Information
+Cardinal Path leverages digital analytics and digital marketing to deliver insight, understanding and outcomes that create competitive advantage for our clients. We engage at the strategic, business, and technical level to generate tangible and quantifiable value for our partners.
+Our company is an equal opportunity employer; applicants are considered for all roles without regard to race, color, religious creed, sex, national origin, citizenship status, age, physical or mental disability, sexual orientation, marital, parental, veteran or military status, unfavorable military discharge, or any other status protected by applicable federal, state or local law.
+We know through experience that different ideas, perspectives and backgrounds foster a stronger and more creative work environment that delivers better business results. We strive to create workplaces that reflect the clients we serve and where everyone feels empowered to bring their full, authentic selves to work. We are committed to working with our candidates from all ability levels throughout the recruitment process to ensure that they have what they need to be at their best. If you need accommodation during the application or interview process, please contact Canada.Recruitment@dentsuaegis.com or to begin a conversation about your individual accessibility needs throughout the hiring process.
+#LI-PB1",Audiovisual y medios de comunicación,,2022-09-06T00:00:00,2022-10-16,FULL_TIME
+Data Scientist - Data Analytics and Infrastructure (remote),Ample Insight Inc.,Ontario,Toronto,-1,-1,,CAD,"Company Description
+You will join a world-class team of engineers and data scientists from Facebook, Uber, Amazon and Google. We are a fast growing consulting firm based in Toronto with clients ranging from leading startups building impactful technologies to Fortune 500 companies looking to scale their engineering and data capabilities.
+
+Job Description
+We are looking for Data Scientists who are passionate about analytics and using data to help drive business decisions. You enjoy working with structured and/or unstructured data and are motivated to produce highly actionable results. You are experienced in architecting data ETL workflows and schemas. Critical thinking and problem-solving skills are essential for this role.
+
+Qualifications
+
+BS (or higher, e.g., MS, or PhD) in Computer Science, Engineering, Math, or Statistics
+Hands on experience working with user engagement, social, marketing, and/or finance data
+Proficient in Python (i.e. Pandas, Numpy, scikit-learn, etc), R, TensorFlow, amongst other data science related tools and libraries
+Extensive experience working on relational databases, designing complex data schemas, and writing SQL queries
+Deep knowledge on performance tuning of ETL Jobs, SQL, and databases
+Analytical mind and strong business acumen
+Working knowledge of Snowflake
+Devops experiences a plus
+Additional Information
+We have very competitive compensation.
+Work on cool projects based on your interests and skills. We believe in accountability and NOT micro-management.",,,2022-09-12T00:00:00,2022-10-16,FULL_TIME
+Analytics Engineer,Align,,,-1,-1,,CAD,"Our client is looking to hire an engineering-minded analyst to join its analytics team.
+You will help us grow our burgeoning data stack into a robust and scalable single source of truth for teams across the company. You would serve as one of the early members of the analytics team, and be involved in influencing the direction of our analytics platform. This is a key role, in which you’ll have a direct impact on our performance marketing, game monetization and live-ops, with the clear focus of empowering both our marketing and game teams to make data-driven decisions and ensure their long-term success.
+Yyou’ll have the opportunity to work within a fun and flexible environment and contribute code and ideas to a diverse set of highly rated games downloaded by millions of players.
+About the Job
+Our client is a fast-growing and remote-first (since 2012) company, so you'll get experience on many different projects to support our stakeholders. Here are some areas where our team would look for your guidance:
+Lead data quality by identifying potentially problematic data, and designing data tests to guarantee the quality of data model results.
+Create and maintain dbt models to support reporting and diverse data operations.
+Drive proactive and actionable analyses into high-potential insights across game design, monetization, live-ops and marketing strategies.
+Design, develop and maintain high value dashboards and analytic tools that ensure all teams have insight to data and can answer their own first-order questions.
+Tools you’ll use include AWS Redshift, SQL, Amplitude, dbt, Redash, Superset, and Python or R. We strive to build our data stack based on leading-edge open-source tools and pipelines.
+About You
+You are a skilled communicator. We are a 100% remote team and writing is our primary means of communication. You can explain your findings clearly and in an approachable way to a non-technical audience.
+You have hands-on experience, preferably in the game or ad tech industry, surfacing valuable insights from large datasets based on loosely defined problems.
+You are a team player but also self-driven. You’re excited by helping the team develop self-serve tools. We believe in empowering our stakeholders to explore data, with the analytics team guidance.
+You’re technically proficient with relevant analytics tools, including python or R, SQL. Experience with dbt is a strong plus.
+You have deep expertise in designing quantitative analyses and presenting the results visually.
+You have a strong bias towards quickly delivering and iterating instead of waiting for perfection",ONG y Organizaciones sin fines de lucro,,2022-09-13T00:00:00,2022-10-16,FULL_TIME
+Data Engineer (remote),Ample Insight Inc.,Ontario,Toronto,-1,-1,,CAD,"Company Description
+You will join a world-class team of engineers and data scientists from Facebook, Uber, Amazon and Google. We are a fast growing consulting firm based in Toronto with clients ranging from leading startups building impactful technologies to Fortune 500 companies looking to scale their engineering and data capabilities.
+
+Job Description
+We are looking for a data engineer who is passionate about analytics and helping companies build and scale data. You enjoy working with data and are motivated to produce high quality data tools and pipelines that help empower other data scientists. You are experienced in architecting data ETL workflows and schemas. Critical thinking and problem-solving skills are essential for this role.
+
+Qualifications
+
+BS (or higher, e.g., MS, or PhD) in Computer Science, Engineering, Math, or Statistics
+Hands on experience working with user engagement, social, marketing, and/or finance data
+Proficient in Python (i.e. Pandas, Numpy, scikit-learn, etc), R, TensorFlow, amongst other data science related tools and libraries
+Extensive experience working on relational databases, designing complex data schemas, and writing SQL queries
+Deep knowledge on performance tuning of ETL Jobs, SQL, and databases
+Working knowledge of Snowflake
+Experience working with Airflow is a strong plus
+Devops experiences is a plus
+Additional Information
+We have very competitive compensation.
+Work on cool projects based on your interests and skills. We believe in accountability and NOT micro-management.",,,2022-09-12T00:00:00,2022-10-16,FULL_TIME
+"Insights & Analytics Engineer, AWS Kumo Analytics","Amazon Web Services Canada, In",British Columbia,Vancouver,-1,-1,,CAD,"Basic Qualifications:
+
+Bachelor’s Degree or equivalent
+5 + years of hands-on experience in insights / analytics or related areas (e.g. SQL, Python, Tableau, etc.)
+3+ years of experience with data mining, analytics, and advanced modeling techniques
+Excellent verbal and written communication skills to articulate complex analytical requirements and findings to a broader audience
+
+Job summary
+We are powering an automation and self service driven customer journey for AWS customers leveraging a range of Analytics tools to generate business shaping insights.
+
+About AWS: For more than 11 years, Amazon Web Services (“AWS”) has been the world’s most comprehensive and broadly adopted cloud platform. AWS offers over 100 fully featured services to millions of active customers around the world - including the fastest-growing startups, largest enterprises, and leading government agencies - to power their infrastructure.
+
+About the Analytics Team: The Analytics team is a small, central group in the AWS Support organization. The team comprises members from a range of skill-sets such as strategy & planning, Machine Learning / predictive analytics and Business Intelligence. The Analytics team is responsible for pushing our Product, Process and Customer understanding and insight beyond the here and now to create value for the long-term. The team is responsible for coming up with hypotheses, uncovering key insights and developing a point of view on actions across the portfolio of our products and services.
+
+About the Role: If you love driving critical thinking and insight into challenging, unstructured problems and working with leaders in the organization to bring those insights into action, this role is for you. This is a hands-on role, however, being a part of a small team gives opportunity to take ownership of the customer / business problem across the spectrum from ideation to setting it up for implementation in partnership with stakeholder teams.
+
+Analytics topics include, but not limited to:
+1. Product / Value Proposition design
+2. Customer / Go-to-market
+3. Customer Experience
+4. Business Planning & Forecasting
+
+Inclusive Team Culture
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences.
+
+Work/Life Balance
+Our team puts a high value on work-life balance. It isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings energy to both parts of your life. We believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. We offer flexibility in working hours and encourage you to find your own balance between your work and personal lives.
+
+Mentorship & Career Growth
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future.
+
+Preferred Qualifications:
+
+Master’s degree in a quantitative field (engineering, economics, math, or statistics), business, etc or equivalent experience
+Hands-on experience in Machine Learning / Predictive Analytics
+Must be a self-starter, able to manage multiple tasks and projects simultaneously
+Experience owning problem-solving end to end
+Work well under pressure to meet ongoing and overlapping deadlines within short time constraints
+
+Must be flexible, detail-oriented, and comfortable in a fast paced environment
+
+At Amazon, we pioneer. And here, it’s always Day 1.
+
+We work hard. Have fun. Make history.
+
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.",Tecnologías de la información,,2022-09-11T00:00:00,2022-10-16,FULL_TIME
+Data & Analytics - Senior Data Platform Engineer,Aritzia,British Columbia,Vancouver,-1,-1,,CAD,"THE TEAM
+The mission of the Data & Analytics Department is to maximize the value of data by providing actionable insights that drive our business.
+THE OPPORTUNITY
+As a member of the Data & Analytics Department supporting Data Platform Engineering, you will be part of the team responsible for building and operating an innovative, scalable platform for reporting, analytics, and data science. As the Senior Data Platform Engineer you will leverage modern software development and operational practices while following an “automation first” approach to support the acquisition, ingestion, transformation, and management of our data. And, with the skills you gain in this role, the opportunities are endless – from a rewarding career in Data & Analytics, to continued growth and development with Aritzia.
+THE ROLE
+As the Sr. Data Platform Engineer, you will:
+Leverage cloud resources to support the acquisition and ingestion of event-driven/streaming data sources
+Maximize the availability, recoverability, and operational efficiency of data pipelines and supporting systems
+Build up and improve the observability of the platform as well as provide visibility into system health
+Leverage modern software development processes and tooling (e.g., CI/CD, everything as code, feature flags) to ensure a reliable and scalable data platform
+THE QUALIFICATIONS
+The Sr. Data Platform Engineer has:
+A commitment to learn and apply Aritzia's Business and People Leadership principles
+An enthusiastic approach to taking on new opportunities and challenges
+A commitment to navigating our internal operations to achieve the best team and business results
+The ability to collaborate fluently with cross-functional partners
+The skills to set clear objectives with an emphasis on accountability while striving to reach your highest potential
+Proven skills, education, and/or applicable certifications in:
+Excellent Python development skills. Strong knowledge of SQL.
+Strong experience designing and implementing Cloud solutions; including building modern applications using containerized microservices (e.g., Cloud Run, Kubernetes) and serverless approaches
+Strong experience with Infrastructure-as-Code and observability tooling (e.g., Terraform, OpenTelemetry)
+Experience with site reliability engineering (SRE) practices, like service level objectives (SLOs), error budgets, blameless postmortems, toil reduction
+Experience with a cloud-based data warehouse (e.g., BigQuery, Snowflake) and asynchronous messaging system (e.g., Pub/Sub, Kafka)
+A commitment to quality and investing in results that add value to the business
+A sense of urgency and ability to prioritize important work
+An understanding and a passion for the industry in which we operate
+THE PERKS
+Some of the industry-leading benefits you will receive working at Aritzia:
+A-OK Commissary & Café - Our in-office, world-class bistro and café
+The SET - Our in-house gym, with state-of-the art equipment and custom classes
+Dog Friendly Office - Bring your best friend to work
+Amenities - Facilities include private parent's room, bike storage rooms, and shower facilities with complimentary conveniences
+Product Discount - Our famous product discount, online and in store
+Extras - A multitude of other perks like dry-cleaning, hotel and restaurant discounts, self-care promos, on-site medical care and more.
+Health & Safety - Industry-leading health and safety precautions, including on-site screenings, mask and distancing protocols, and cleaning supplies
+ARITZIA
+Aritzia is an Equal Employment Opportunity employer. Our goal is to be inclusive, diverse, and representative of the communities where we work while creating an environment where every person can enjoy a successful career. This commitment applies to all candidates and employees regardless of race, ethnicity, citizenship, creed, place of origin, religion, sex, gender identity, gender expression, sexual orientation, family status, marital status, disability, age, and any other protected characteristic.
+Requests for accommodation due to a disability or any other protected characteristic can be made at any stage of the recruitment process and during employment by contacting our People & Culture Team.",Ventas al mayoreo y al menudeo,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+"Data Engineer, NA Integrated Analytics (2023 New Grad - Toronto)",Munich Re,Ontario,Toronto,-1,-1,,CAD,"Data Engineer, NA Integrated Analytics (2023 New Grad - Toronto)
+POSITION: Data Engineer, NA Integrated Analytics (2023 New Grad - Toronto)
+LOCATION: Toronto, ON
+ANTICIPATED START DATE: 2023 (upon graduation)
+Location
+
+Toronto , Canada
+Our Integrated Analytics (IA) team is recruiting for its 2023 class of permanent entry-level Data Engineers. We’re looking for new/recent graduates who have a passion for data, technical aptitude, and an eagerness to work alongside our experienced professionals in this dynamic field.
+
+To learn more about the North American Integrated Analytics team, please visit our site:
+https://www.munichre.com/us-life/en/solutions/integrated-analytics.html
+Your job
+Responsibilities may include, but will not be limited to the following:
+
+Contribute to various on-the-go projects, related to the following areas of concentration (as needed and as fits with your focus):
+SOFTWARE ENGINEERING:
+Create, test and support the development of Python based applications and predictive models deployed as RESTful microservices APIs
+Participate in all stages of the software development lifecycle including QA and testing
+DATA ENGINEERING:
+Build and expand our ETL batch and streaming pipelining practices
+Manage and secure relational databases for complex data relations
+DEVOPS:
+Containerize and deploy production applications on our Kubernetes cluster
+Define, create, and build our CI/CD pipeline practices
+Provision and manage enterprise cloud infrastructure via Infrastructure as Code
+Manage and improve our observability stack
+SECURITY:
+Integrate security into all stages of the engineering pipeline and employ a “security first” attitude
+Understand and simplify our complex networking stance
+Build data products with heavy reliance on cloud infrastructure
+Incorporate Git, testing, CI/CD workflows and PRs into any coding project
+Participate in various research projects in the field of machine learning and deep learning – collaborating with our greater team of scientists and engineers.
+
+Your profile
+Specifically, we’re looking for the following qualifications:
+
+Technical:
+
+Undergraduate or Graduate degree in Computer Science, Engineering, Physics, Bioinformatics – or equivalent program;
+Familiarity with Python / other object-oriented language and software testing libraries (unittest / mock);
+Familiarity with web app development using Flask, SQL and FastAPI;
+Knowledge of relational database systems (RDMS) and data management;
+Working knowledge of linux commands;
+Ability to perform version control using Git and submit well-structured Pull Requests (PR);
+Experience in creatively and rapidly debugging for on-the-job issues.
+
+Behavioral:
+
+Solid communication skills; spoken & written, formal/informal presentation;
+Able to learn quickly and independently and motivated to help others;
+Proven ability to thrive in a dynamic environment;
+Ability to independently research new tools and technologies.
+
+Preferred (but not required):
+
+Familiarity with Azure or other cloud platforms and its related offerings;
+Exposure to authentication & authorization / networking / SQL ORM / PySpark }
+/ containerization / Kubernetes / Ansible / Terraform / Airflow / Databricks;
+Previous exposure to insurance or financial services environment.
+Note that this opportunity is open to both graduating students, as well as recent graduates who have obtained their degree within the past year.
+About us
+Together, we engage with everything we have and are, to help humankind act braver and better.
+
+As the world’s leading reinsurance company with more than 40,000 employees in over 50 locations around the globe, Munich Re introduces a paradigm shift in the way you think about insurance. By turning uncertainty into manageable risk, we enable fundamental change. We recognize Diversity, Inclusion, and Belonging as a key priority with a culture that welcomes different thoughts and opinions. We dare to think big and are continuously innovating on behalf of our clients.
+
+How can ML promote longer and healthier lives? Armed with decades of risk data, novel data sources, and a team of innovative data scientists, engineers, and domain experts, Munich RE is building solutions that are transforming the life insurance industry.
+
+Develop solutions that allow easier access to insurance and healthier lifestyles
+Build highly scalable products with best security, ML, DevOps practices
+Research bias and fairness, disease models, NLP & more
+Discover diverse careers with leadership opportunities
+Flexible remote/in-person work + focus on work-life balance
+Be part of a fast-growing team that values transparency & diversity
+
+Please note that only candidates who are selected for interview will be contacted directly.
+We thank all candidates for their interest.
+
+Apply now!
+Apply for this Job!
+Munich Re Canada is committed to providing a work environment that is inclusive and free of employment barriers and discrimination. Accommodations will be made for qualified applicants with a disability throughout the recruitment process. If you receive a request for an interview and you have a disability which will require an accommodation to support your participation, please consult with Human Resources or contact AODARequestHR@munichre.ca as soon as practical so that suitable accommodations can be arranged.",Seguros,,2022-09-07T00:00:00,2022-10-16,OTHER
+Machine Learning Engineer,Jumio,Quebec,Montreal,-1,-1,,CAD,"Description:
+
+We are looking for a machine learning engineer. In this role, you will get to work alongside various experts in product and engineering. You will analyze datasets to discover patterns, build and test models and implement them to improve our transactional monitoring system.
+
+Responsibilities:
+
+Mine and analyze data from databases to create features, generate insights, drive optimization and improvement of product development.
+Develop data models and algorithms to improve the current AML rule based system.
+Develop processes and tools to monitor and analyze model performance and data accuracy in production.
+Implement end-to-end machine learning solutions in a production environment
+Keep pace with the state-of-the-art technologies in machine learning
+
+Experience and Qualifications:
+
+Bachelor's degree in Mathematics, Statistics, Computer Science, Engineering
+3+ years of industrial experience solving analytical problems using relevant quantitative and qualitative research and analytics experience, in related business areas; or equivalent 2+years of industry experience with Master's degree
+Relevant experience in fraud detection, risk calculation and entity graph.
+Experience with programming languages (e.g., SQL, NoSQL, Python etc.)
+Hands-on experience with machine learning frameworks such as Scikit-learn, Tensorflow and Pytorch
+Strong knowledge of classical machine learning techniques (clustering, decision trees, artificial neural networks)
+Basic knowledge of other machine learning areas, such as deep learning (computer vision, NLP), or reinforcement learning or graph based learning.
+A strong passion for empirical research and for answering hard questions with data is required.
+
+Great to have Experience and Qualifications:
+
+Graduate degree in statistics, computer science, machine learning or related quantitate field.
+Familiarity with SaaS development in cloud ecosystems like AWS (e.g., Sagemaker)
+
+Key Characteristics and Attitudes:
+In a recent global survey these attributes were valued by Jumios in all locations and functions - we firmly believe in hiring for attitude as well as skill.
+
+Friendly and supportive
+Adaptable and flexible
+Articulate and persuasive
+High IQ and EQ
+Curious and coachable
+Commercially Aware
+Resilient and tenacious
+Big picture and the detail
+
+Jumio Values:
+
+IDEAL: Integrity, Diversity, Empowerment, Accountability, Leading Innovation
+
+Jumio Values:
+
+IDEAL: Integrity, Diversity, Empowerment, Accountable, Leading Innovation
+Equal Opportunities:
+Jumio is a collaboration of people with different ideas, strengths, interests and cultures. We welcome applications and colleagues from all backgrounds and of all statuses.
+
+About Jumio:
+
+Jumio is a B2B technology company dedicated to eradicating online identity fraud, money laundering and other financial crimes to help make the internet safer. We leverage AI, biometrics, machine learning, liveness detection and automation to create solutions that are trusted by leading brands worldwide and respected by industry thought leaders.
+
+Jumio is the leading provider of online identity verification, eKYC and AML solutions. With a global footprint, we're expanding the team to meet strong client demand across a range of industries including Financial Services, Travel, Sharing Economy, Fintech, Gaming, and others.
+
+Applicant Data Privacy
+We will only use your personal information in connection with Jumio's application, recruitment, and hiring processes, as described in Jumio's Applicant Privacy Notice. If you have any questions or comments, please send an email to privacy@jumio.com.",Tecnologías de la información,,2022-09-07T00:00:00,2022-10-16,OTHER
+Associate Data Scientist (Entry Level): Toronto/Calgary,IBM,Ontario,Toronto,-1,-1,,CAD,"Introduction
+As a Data Scientist at IBM, you will help transform our clients’ data into tangible business value by analyzing information, communicating outcomes and collaborating on product development. Work with Best in Class open source and visual tools, along with the most flexible and scalable deployment options. Whether it’s investigating patient trends or weather patterns, you will work to solve real world problems for the industries transforming how we live.
+
+Your Role and Responsibilities
+ASSOCIATES PROGRAM
+
+We’re looking for passionate, original thinkers who want to drive progress, grow their network, and further their careers. If you see yourself as someone who never stops learning, who believes no problem is too big to solve, and who wants to unleash their potential, the entry level Associates Program is for you.
+
+To learn more about the Associates Program, check out our Applicant Info Package.
+
+You:
+Graduated (or will be graduating) between 2021 and September 2023
+Have an Associate’s Degree, College Diploma, Bachelor’s Degree, or Master’s Degree (Exception: The Associates Program does not accept MBA or PhD candidates/graduates)
+Have maximum 2 years of full-time, professional work experience
+Are within commuting distance of Toronto/Calgary, with flexibility to travel 80-100% of the time
+Are eligible to work in Canada without current or future need for visa sponsorship
+
+APPLICATION INSTRUCTIONS
+
+At the very top of your resume, indicate which of the following cities you are willing to remain in and/or relocate to. Kindly note that our incoming Associates are responsible for all costs associated with relocation.
+Toronto
+Calgary
+
+Application Deadline: September 19, 2022 @ 11:59 PM ET
+
+ASSOCIATE DATA SCIENTIST
+
+As an Associate Data Scientist, you’ll use tools to analyze data and predict trends to make meaningful recommendations to clients. Armed with data, modeling expertise, and analytic results, you’ll formulate conclusions and recommendations to client stakeholders, leveraging strong consulting, communication, visualization, and storytelling skills.
+
+Individuals with an interest in specializing in machine learning operations are also highly encouraged to apply.
+
+Communicate with technical and non-technical stakeholders to understand and define business needs and translate them to a data science context
+Work in a collaborative environment, partnering with other scientists, engineers, consultants, and database administrators to integrate the latest predictive analytics with enterprise-level application development
+Write programs to cleanse and integrate data sources in an efficient and reusable manner, resulting in high-quality, clean datasets
+Incorporate a variety of statistical and machine learning techniques on big data, using leading edge tools such as Python (scikit-learn, tensorflow, matplotlib, pandas), R, and combined with AI application suites. Exposure to big data tools such as include pyspark or sparkR.
+Implement and validate predictive models with the end user, comfortable with iterative solution development to arrive at the most usable models for the specific use case
+Deploy and maintain machine learning models using established best practices, allowing the client to consistently gain high value from advanced analytics projects.
+Understanding of model monitoring and tools such as Prometheus, Grafana, Azure Monitor etc.
+
+REQUIRED PROFESSIONAL AND TECHNICAL EXPERTISE
+Strong fundamentals in applied Mathematics and Computer Science algorithms
+Proficiency in least one or more statistical programming languages (e.g. R, Python, SQL, Scala, SAS, SPSS, MATLAB)
+Basic understanding of or experience with predictive/prescriptive modeling
+Ability to translate business requirements into technical solutions
+Ability to thrive in an ever-changing, technology-based consulting environment, using agile development techniques
+
+Required Technical and Professional Expertise
+Please see Job Description
+
+Preferred Technical and Professional Expertise
+Exposure to Cloud (e.g. AWS, Azure, Google Cloud, IBM Cloud) is an asset
+Knowledge of end-to-end ML application development in hybrid cloud environments (Azure/AWS/GCP/IBM Cloud)
+Familiarity with clusters and containers, writing docker files, defining architectures for distributed computing (Kubernetes/ docker).
+Exposure to MLOps pipelines and script development for pipeline automation. (e.g. Jenkins, ArgoCD)
+About Business Unit
+IBM Consulting is IBM’s consulting and global professional services business, with market leading capabilities in business and technology transformation. With deep expertise in many industries, we offer strategy, experience, technology, and operations services to many of the most innovative and valuable companies in the world. Our people are focused on accelerating our clients’ businesses through the power of collaboration. We believe in the power of technology responsibly used to help people, partners and the planet.
+
+Your Life @ IBM
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+Must have the ability to work in Canada without sponsorship.
+
+This role will involve working with technology that is covered by Export Regulations sanctions. If you are a Foreign National from any of the following US sanctioned countries (Cuba, Iran, North Korea, Syria, and the Crimea, Luhansk and Donetsk regions of Ukraine) on a work permit, you are not eligible for employment in this position.
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.",Tecnologías de la información,,2022-08-31T00:00:00,2022-10-16,FULL_TIME
+CIVIL ASSETS RELIABILITY ANALYTICS ENGINEER,Manitoba Hydro,Manitoba,Winnipeg,-1,-1,,CAD,"CIVIL ASSETS RELIABILITY ANALYTICS ENGINEER
+
+Winnipeg, MB
+
+Manitoba Hydro is consistently recognized as one of Manitoba's Top Employers!
+
+Great Benefits
+Competitive salary and benefits package.Defined-benefit pension plan.Nine-day work cycle which normally results in every other Monday off, providing for a balanced approach to work, family life
+
+and community.
+Flex-time and partially remote work schedule, depending on nature of work, operational requirements and work location.
+
+Manitoba Hydro is a leader among energy companies in North America, recognized for providing highly reliable service and
+exceptional customer satisfaction. Join our team of Manitoba's best as we continue to build a company that supports innovation,
+commitment and customer service.
+
+We are seeking a Civil Assets Reliability Analytics Engineer to join our Asset Lifecycle Management Department. You will
+be responsible for evidence-based reliability analysis of lifecycle processes for corporate civil and linear assets, and to ensure these
+assets lifecycle policies are developed with optimal lifecycle management principles, ensuring cost/performance/risk profiles are
+optimized across the asset(s) lifecycle(s).
+
+Responsibilities:
+Responsible for evidence-based analysis, to develop the long-term plan for assessment and management of the reliability of
+civil and linear assets. Develop and maintain a long-term plan, based on key stakeholder input, which details the ultimate
+requirements for the Corporation's civil and linear assets assessment and lifecycle management, the current gaps and action
+plans to address the gaps.
+Ensure Asset Management asset decisions are quantitative, and evidence based by creating and maintaining processes and
+systems for asset centric data collection and reliability analysis of cost performance and risk.
+Develop reports for evaluating the repair, refurbish, replace decisions.Documenting, prioritizing, planning, delivering and evaluating civil plant operations, and minimize the risk and impact of failure
+
+in civil assets and processes.
+Identify and report on potential failures within a process or system or civil assets. Seek, recommend and develop innovative
+
+concepts applicable to the civil and linear assets to optimize lifecycle decision making.
+
+Lead development and documentation of processes involved and perform detailed reliability analysis of the corporation's civil
+
+and linear assets to develop optimal asset strategies, balancing cost performance and risk.
+Perform Failure mode and effects analysis (FMEA), Reliability hazard analysis, and root cause analysis on civil and linear
+
+assets.
+Assess the risks of failure of all civil and linear assets considering asset condition assessments, indexing, supporting
+
+development and maintenance degradation and probability of failure curves; working closely with Asset Information & Risk
+Management Department Risk assessment methodology for civil and linear assets.
+Make recommendations based on analysis and civil engineering knowledge for Preventative and Planned Maintenance
+Optimization.
+Provide analysis and assist to make recommendations with regards to Lifecycle Value optimization of civil assets, input into
+development of business processes and tools and to whole lifecycle cost models of civil and linear assets.
+Determine maintenance or capital investment based on functional analysis of civil assets, by using lifecycle value
+identification.
+Act as an SME to develop capital project alternatives for civil assets within the Corporate Value Framework, working with the
+Civil Asset Advisor.
+Build and maintain relations with design, operations, maintenance, project management, resource planning, plant, finance,
+property, and other groups within and outside of the division for the purposes of information sharing and team alignment.
+Collaborate with other utilities and external organizations to establish reliability benchmarks for civil and linear assets to
+
+MANITOBA HYDRO IS COMMITTED TO DIVERSITY AND EMPLOYMENT EQUITY
+ Reference Code: CO56601739-01
+
+optimize lifecycle delivery.
+Provide civil engineering expertise and reliability engineering services to other parts of Manitoba Hydro related to civil and
+
+linear assets, emerging trends and technologies, and the application of reliability analysis, including directing or conducting
+meetings, seminars or presentation and training.
+
+Qualifications:
+Graduate in a related Engineering discipline from a university of recognized standing with a minimum of seven years of related
+experience having obtained three years of this experience in design, construction, maintenance or project management of civil
+assets.
+Professional member in good standing with Engineers Geoscientists Manitoba.
+Advanced knowledge of Civil & Linear type assets including the design, operation, reliability, compliance requirements,
+maintenance practices, and modes of failure.
+Basic knowledge of other asset types including but not limited to Mechanical, Electrical, Gas type assets.Knowledge of RCM theory, root cause analysis work management cycleKnowledge of Asset Management best practices.Advanced knowledge in maintenance applications and condition assessment processes related to asset management.Must have a good working knowledge of Safety and Environmental Regulations.Must have proven ability to co-ordinate the activities of others providing engineering services as required. Must be able to
+
+work effectively with various levels in the organization and externally including consultants, contractors and suppliers.
+Must have good inter-disciplinary organizational skills, ability to train others, make presentations and delegate authority.Must have a demonstrated ability to analyze and prepare engineering reports and standards, and to develop processes.Possess practical experience and working knowledge of CMMS, SAP, GIS applications, and Microsoft Office.May be required to visit various stations across the province.Required to travel by all modes of transportation i.e. air, land and water.
+Possess and maintain a valid Province of Manitoba driver's licence.
+
+NOTE: May be required to work at other locations within the province, and where transportation between these sites may
+be by small aircraft.
+
+Salary Range
+
+Starting salary will be commensurate with qualifications and experience. The range for the classification is $47.09 -$64.51 Hourly,
+$90,229.10-$123,616.48 Annually.
+
+Apply Now!
+
+Visit www.hydro.mb.ca/careers to learn more about this position and to apply online. The deadline for applications is SEPTEMBER
+20, 2022.
+
+We thank you for your interest and will contact you if you are selected for an interview.
+
+This document is available in accessible formats upon request. Please let us know if you require any accommodations
+during the recruitment process.","Energía, minería e infraestructura pública",,2022-09-07T00:00:00,2022-10-16,OTHER
+DevOps Engineer,AOT Technologies,British Columbia,Victoria,-1,-1,,CAD,"The role: Develop and maintain automation processes for build, deployment and release pipelinesManage Jenkins, and Ansible Tower and Azure Devops infrastructureAdminister source control management systemsManage and maintain various DevOps applications and toolsMonitor Linux, Windows, Network and Storage Area Network infrastructureWhat you have: University degree in computer science or related discipline or equivalent experienceAt Least a year of experience with CI/CD pipeline implementationMinimum of 3 years of experience with Release Management and Release DeploymentHigh degree of interpersonal and communication skillsSelf motivated and able to work in a dynamic environmentDesired skills: Openshift and Docker experienceAWS, Azure or RedHat certificationsPython and Shell Scripting experienceMinimum of 4 years of industry experienceDemonstrated experience with REST and SOAP Services , APIs Integration and Web technologiesSome of our perks: A culture of innovation, diversity, and inclusivity!16 days of paid time off to start and increasing as time goes on!5 paid sick days - take care of yourself or your familyCompetitive health benefits right from the start.Flexible work schedule - work when you can.Remote work/ Travel & workBrand new laptops and other equipment that allows you to work from home comfortably!A professional development budget with many opportunities for training & career growth.Fun Company Events!Celebrations - Lunch is on us for your Birthday & Work Anniversary!RRSP Matching - we want to help you plan for the future!About AOT Technologies: We are proud of our inclusive workplace, coaching culture, and the expertise we provide. AOT Technologies is Great Place to Work Certified™, awarded as one of the Best Workplaces™ in British Columbia, and the recipient of the Maclean’s Growth 500 award.AOT Technologies is an award-winning, Victoria based IT Consulting company that specializes in application integration and analytics. We work with various government entities, large enterprises, and start-ups to build world class software. Our flagship product is formsflow.ai which is a free and open-source software that empowers our clients to serve people better.We thank you for your interest in joining AOT Technologies! While we welcome all applicants, only those who are selected for an interview will be contacted.*We're an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.*Job Type: Full-time",Tecnologías de la información,,2022-09-15T00:00:00,2022-10-16,FULL_TIME
+"Analytics Engineer, Data Science",Cardinal Path,Ontario,Toronto,-1,-1,,CAD,"Company Description
+Merkle Cardinal Path, part of Dentsu Aegis Network, is a leading digital analytics and digital marketing firm focused on delivering insight, understanding, and outcomes that create a competitive advantage for our clients. We engage at the strategic, business, and technical levels to generate tangible and quantifiable value for our partners. Merkle Cardinal Path’s mission is: To know. To Share. To be our Partners’ competitive advantage. And our company culture reflects the importance of our people's expertise, wellness, and happiness in everything we do.
+Merkle Cardinal Path is rapidly expanding its Google Marketing Platform strategy with our clients, including media strategy, activation, platform management, analytics, and managed services to deliver transformational outcomes.
+
+Job Description
+""Remote Opportunity""
+We are looking for Analytics Engineer to join our team who will be responsible for providing clients with guidance on marketing analytics use cases and delivery of technical solutions built primarily on BigQuery and Google Cloud Platform. Ideal candidates will have experience in data preparation, analysis, and data modelling. This experience should include work analyzing and managing data within cloud hosted analytics environments.
+The candidate will work directly with various internal stake-holders to deliver ad-hoc analysis of raw data, statistical model development, research into emerging analytics trends, presentation development, as well as technology research. The position will help to expand our clients’ web analytics and digital marketing programs. Opportunities will include application of analytics skills within a robust cloud environment, as well as supporting modelling work relating to the analysis.
+The ideal candidate will have previous experience in the realm of data science, which includes data preparation, data analysis, statistical programming skills, and data visualization. For this job level, previous experience delivering data solutions for analytics is required. The ability to communicate to help gather requirements, coordinate with internal resources, and deliver clear value to clients is key. The consultant will have the ability to develop their data science skills and experience in working with Google Cloud Platform, with opportunities to learn a variety of related platforms (such as Looker, Tableau, Azure, and more).
+This position primarily supports the analysis of web analytics, mobile analytics, and marketing platform data. Experience with any of these tools is beneficial: Google Analytics, Adobe Analytics, Adobe Audience Manager, Google Campaign Manager, Google Display & Video 360, Salesforce Sales Cloud, Salesforce Marketing Cloud.
+Synthesize business needs and create business/functional design documents which can be used to build analysis and data models
+Client-facing skills which will include providing quantitative analyses, recommendations and presentations to clients
+Assess data for validity and work on required data preparation with attention to detail and alignment to business requirements
+Translate data into analytical outputs that enables our clients to answer fundamental questions that are central to their business success.
+Develops, implements, and supports methodologies, standards, and tools for analysis and data science work.
+Partners with insights and analysis team leads from the Digital Intelligence team as well as Digital Marketing team within Cardinal Path to help deliver quality insights as required
+Build cooperative, productive relationships with clients and vendors by utilizing excellent communication skills, while also interacting effectively internally and externally.
+Participation and development of data science and analytic products while identifying key areas for improvement of products and services.
+Research, prototype, and explore future, non-standard analytics approaches that push the limits of current analysis output.
+
+Qualifications
+Minimum Qualifications:
+Bachelor’s degree in a technical field of study (Applied Statistics, Business Analytics, Operations Research, Computer Science, or relevant quantitative field) with a minimum of 3 years’ experience as an Analyst / Data Scientist or a Master’s degree with a minimum of 2 years’ experience as an Analyst / Data Scientist
+Proficiency with classical statistical modelling methods and machine learning techniques to solve complex business problems
+Strong Python skills for model design and development
+Proficiency with SQL and an experience working with cloud environments
+Experience visualizing and presenting data and analytics findings
+Self-motivation, creativity and ability to work independently in meeting deadlines
+Exceptional written and verbal communication skills and is comfortable working with remote teams
+What will make you stand out:
+Understanding of performance marketing metrics and channels
+Previous experience with web analytics tools such as Adobe Marketing Cloud, Google Analytics, etc.
+Previous experience with marketing and media analytics including database marketing techniques, digital attribution and media mix modelling
+Familiarity with analyzing data for digital marketing and ecommerce, as well as all other non-digital aspects of a business
+Additional Information
+We know through experience that different ideas, perspectives and backgrounds foster a stronger and more creative work environment that delivers better business results. We strive to create workplaces that reflect the clients we serve and where everyone feels empowered to bring their full, authentic selves to work. We are committed to working with our candidates from all ability levels throughout the recruitment process to ensure that they have what they need to be at their best. If you need accommodation during the application or interview process, please contact Canada.Recruitment@dentsuaegis.com or to begin a conversation about your individual accessibility needs throughout the hiring process.
+#LI-PB1",Audiovisual y medios de comunicación,,2022-09-14T00:00:00,2022-10-16,FULL_TIME
+Junior Software Engineer (Developer),Wingmate Inc.,Ontario,Toronto,-1,-1,,CAD,"Wingmate develops technologies that help businesses grow and maintain sales, organize service and simplify operations. With our award-winning applications, Wingmate supports thousands of businesses across the world to help them grow.Our software handles information at a large scale across a wide array of industries. At Wingmate, we’re looking for engineers to bring new ideas to our product from all areas including information retrieval, networking and data storage, artificial intelligence, security, UI design and mobile.As a software engineer, you will work in an AGILE environment to complete projects that match our clients needs with our business objectives. Your work will extend across the full stack, from UI to infrastructure. You will have the opportunity to choose the projects you can work on as well as design your own projects to build.Our engineers need to be resourceful and display leadership qualities. With your expertise, you will manage project priorities and deliverables. You will design, develop, test, deploy and upgrade software solutions. Experience true entrepreneurship with this opportunity by watching your ideas evolve from paper to product!Job RequirementsBachelor’s Degree in Computer Science, Software Engineering or related disciplineGreat communication, teamwork and interpersonal skillsPassionate about business developmentKnowledge of PostgreSQL and database designNice to HavesExperience with ReactJSExperience with Kubernetes and DockerExperience with NodeJSFull stack web and mobile development experienceUnit, integration and E2E testing experienceKnowledge of UX design principlesExperience with business analytics and related softwaresExperience with non-relational databasesJob Types: Full-time, PermanentSalary: $55,000.00-$70,000.00 per yearBenefits:Casual dressCompany eventsExtended health careLife insuranceWork from homeSchedule:Monday to FridaySupplemental pay types:Bonus payEducation:Bachelor's Degree (required)",,,2022-09-07T00:00:00,2022-10-16,FULL_TIME
+Senior Google Analytics Engineer (Contract),Bounteous,,,-1,-1,,CAD,"The team is looking for a Senior Google Analytics Engineer who understands the digital analytics space and has the ability to build and customize analytics and tag manager implementations. The ideal candidate can successfully deploy and maintain data collection across many different types of sites and mobile apps for our clients, and be one of our analytics implementation experts.
+Role and Responsibilities
+Develop domain expertise in client’s business space to drive results
+Demonstrate a grasp of the fundamental importance of clean data to empower successful digital marketing initiatives, in support of larger business objectives
+Implement Google Analytics through Google Tag Manager, configuring and customizing the tools appropriately
+Identify gaps in existing implementations and recommend solutions to enhance data collection, promote scalability, and drive best practices
+Seek opportunities to clarify what solution is needed (not just what was requested), and develop and propose alternative technical approaches where appropriate
+Articulate complex ideas in a clear and concise manner, both in speech and writing; understand the audience and tailor messages accordingly
+Exemplify good technical skills, stay up-to-date with industry changes, and share expertise freely; mentor junior team members
+Adapt to a fast-paced work environment and have the ability to overcome technical and business challenges
+Demonstrate high intellectual bandwidth, as well an ability to prioritize and work on the right things at the right time
+Volunteer suggestions for team improvement with regard to developing technical expertise, and help drive these efforts
+Actively contribute to the greater community by participating in meet-ups, conferences, blogs, open forums, or open source initiatives
+Preferred Qualifications
+College degree (required) plus at least 4 years of relevant work experience in marketing, consulting, and/or media
+Experienced with Google Analytics and has implemented, configured, and customized the tool
+Has deployed Google Analytics through Google Tag Manager
+Has focused in one or more of the following areas: digital analytics, optimization, statistical modeling, consumer insights, and/or marketing analytics
+Experience integrating Google Analytics with other Google products (such as BigQuery, DV360, or Google Optimize) and 3rd party tools (such as Salesforce, Eloqua, Optimizely, etc.)
+Understand how to read and interpret reports
+Experience writing JavaScript
+Experience using browser developer tools and extensions for debugging and validating analytics tracking
+Experience with mobile app tracking, experience with Firebase is a plus
+#LI-Remote
+We invite you to subscribe to our monthly and quarterly newsletters to stay up to date with the latest job openings as well as resources and tips for job seekers here.
+Research shows that women and other underrepresented groups apply only if they meet 100% of the criteria of a job posting. If you have passion and intelligence, and possess a technical knack (even if you’re missing some of the above), we encourage you to apply.
+Bounteous is focused on promoting an inclusive environment and is proud to be an equal opportunity employer. We celebrate the different viewpoints and experiences our diverse group of team members bring to Bounteous. Bounteous does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, national origin, veteran status, or any other status protected under federal, state, or local law.
+
+Bounteous is willing to sponsor eligible candidates for employment visas.
+For employment opportunities based in Canada:
+Bounteous is an equal opportunity employer. We embrace diversity and are committed to creating an inclusive workplace. In accordance with the Ontario Human Rights Code and Accessibility for Ontarians with Disabilities Act, 2005, accommodation will be provided at any point throughout the hiring process, provided the candidate makes their accommodation needs known to Bounteous. We welcome applications from all qualified candidates.
+**Must be legally eligible to work in Canada.",Tecnologías de la información,,2022-09-12T00:00:00,2022-10-16,OTHER
+Term Analytics Engineer,Birchcliff Energy Ltd.,Alberta,Calgary,-1,-1,,CAD,"About us: Birchcliff Energy Ltd. was founded in 2004 and is a Calgary, Alberta-based intermediate oil and natural gas company that explores for, develops and produces natural gas, light oil and natural gas liquids. We are a pure-play Montney producer and our operations are focused in the Peace River Arch area of Alberta. We believe our people are our most valuable asset and have an open and transparent communication policy between our staff, managers and executive team.Birchcliff strives to be a leader in analytics. We have an extensive and growing digital infrastructure including data pipelines, data resources, dashboards, analytics apps, and data science/machine learning processes. We heavily use Spotfire, Virtualization and R-Script to create fit-for-purpose tools that make our people more efficient and better decision makers.Birchcliff is seeking a savvy and enthusiastic Analytics Engineer to join the Strategic Planning & Business Intelligence team. The group is a centralized team that supports corporate data management, analytics, data science and reporting across a variety of disciplines (geoscience, operations, production, development, reservoir, strategic planning, etc.). We are responsible for building and managing the technical data and analytical tools our asset teams leverage for analytics. The ideal candidate will come with a rich industry background and a passion for analytics, technology, software and developing novel solutions for challenging problems. They are creative, innovative and thrive in creating best-in-class solutions.The term of the position is for 16 months, with an anticipated start date of November 1, 2022. This position has the potential to turn into a full-time term position. We thank all applicants, however, only those meeting the minimum academic and experience requirements will be considered for the position.Key Responsibilities: Design, develop, and maintain scaled, automated, user-friendly systems, reports, dashboards, etc. that will support business needsAct as key owner of internal machine learning workflows and processesChampion the use of Spotfire and scripting languages and provide peer training and supportBe an adaptive problem solver who can provide insights into a variety of energy-focused disciplines and technical situations by working closely with subject matter expertsAssist in maintaining high data quality and completeness for our technical data setsAct as a resource for technical team members when it comes to data availability, Spotfire support, analytic requests, workflow development, etc.Perform detailed data/product QC before delivering high-quality solutionsSupport our Spotfire environment by creating, modifying, and troubleshooting views in our virtualization software (Tibco Data Virtualization)Develop clear, concise documentation and presentations when appropriateTechnical Requirements: Expert in visualization/BI tools such as Spotfire, Microsoft PowerBI, TableauProficient in using R scripting language with a proven track record in using code to solve industry problems (packages including: data.table, caret, DBI, sf, ggplot and more)Proficient with SQL, ETL, and databases in a business environment with large-scale, complex datasetsExperience with APIs is considered to be an asseEducation, Skills and Abilities: Bachelor’s degree in Engineering, Geology, or equivalent required5-10 years of energy industry experience in a technical role where you leveraged analytics and data science to provide insights into oil & gas challengesExperience and comfort navigating Oil and Gas unconventional data sets and familiarity with key concepts and fundamentals like drilling & completions design, production forecasting, economic evaluation and development optimizationA genuine passion and curiosity in all-things analyticsAbility, willingness, and desire to learn new analytical skills to fit a dynamic environmentAbility to thrive within multi-disciplinary teamsClear communication skills and willingness to ask questions to fully understand stakeholder requestsAbility to oversee project execution from stakeholder engagement right through to fully realized solutionAttention to detail when delivering data and insightsA keen eye for clear, concise, and insightful visuals/dashboards/interfacesJob Type: Fixed term contractContract length: 16 monthsSchedule:8 hour shiftMonday to FridayAbility to commute/relocate:Calgary, AB: reliably commute or plan to relocate before starting work (required)Application deadline: 2022-09-30Expected start date: 2022-11-01",,,2022-09-06T00:00:00,2022-10-16,FULL_TIME
